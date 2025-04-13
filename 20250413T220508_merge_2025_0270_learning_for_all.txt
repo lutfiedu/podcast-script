@@ -1,0 +1,1358 @@
+Graham, L., Berman, J., & Bellert, A. (2015). Sustainable Learning.
+Melbourne, Vic: Cambridge University Press.
+
+Chapter 6
+
+Intended learning outcomes
+Engagement with the text in this chapter will' enable
+readers to do tbe following:
+• utilise the ATRiUM capabilities to focus on the
+strengths and needs of individual students when
+planning and implementing responsive teaching for
+effective learning
+• explain the limitations of using labels to categorise
+the learning needs of students with disabilities or
+learning difficulties and understand that responsive
+teachers focus on learning, not labels, in order to best
+provide learning for all
+• describe key aspects of some major disability catego·
+ries and identify capabilities on which to focus when
+planning learning support for students with disabilities or learning difficulties
+• reflect on how collaboration with families and
+systematic frameworks for intervention inform and
+support responsive teaching
+• distinguish how key strategies and instructional
+approaches support teaching for learning for all
+
+I
+
+I
+
+:--·-·--------------------------- __j
+
+Sustainable Learning
+
+Big ideas
+• In learning for all, responsive teachers strive to provide teaching and learning that
+meet the needs of all learners. This requires insight into the needs of all students
+in the class and knowledge about evidence-based strategies and approaches to
+teaching.
+• All learners have similar fundamental learning needs, yet every learner is different.
+These differences matter, especially in terms of planned, responsive teaching and
+effective learning.
+• By viewing students with disabilities or learning difficulties through the
+lens of ATRiUM capabilities, teachers can gain valuable insights that proATRiUM Active
+learning; Thinking;
+vide important information for teaching and learning.
+Relating to others;
+• Although knowing about disability categories may provide teachers with
+Using language,
+useful information about student learning, an overt focus on disabilities
+symbols and ICT; and
+or learning difficulties can lead teachers to view students in terms of what
+Managing self.
+they can't do rather than what they can do.
+• Collaboration with the families of students with disabilities or learning difficulties
+facilitates information-sharing that is beneficial to all.
+• Early intervention is predicated upon the assumption that providing timely, appropriate support for learning can reduce the impact of disability, with long-term
+benefits for individuals, their families and their communities.
+• Research has validated some key instructional approaches that lead to improved
+learning outcomes for students with disabilities or learning difficulties. Combining
+direct instruction and strategy instruction is a fundamentally effective approach for
+supporting learning for all.
+
+Introduction
+When the wide range of developmental domains are considered - such as language,
+visual processing, sensory integration, physical growth, coordination, memory, selfregulation of emotion and attention, motivation and social skills - then every individual has a unique profile of capabilities and differences, mediated by factors such as
+personality and experience. This diversity is based on differences, and in the context
+ofresponsive teaching and effective student learning, students' differences matter.
+Sustainable learning focuses on the capabilities and learning needs of all students
+and the professional capabilities and professional learning needs of all teachers. In
+order to sustain learning, both teachers and students need to develop knowledge,
+skills, strategies and attitudes that will equip them to negotiate the contemporary
+world's increasingly complex and uncertain circumstances. Inclusive practices lie at
+the heart of learning for all; therefore, the knowledge and practices most relevant
+to inclusion are the focus of this chapter. Teaching for sustainable learning requires
+teachers to make instructional plans and decisions based on the needs of the learners
+about what to teach and how to teach it effectively. Specifically, this chapter relates to
+
+~:
+
+Seeks to further a cause beyond the self
+
+Figure 6.1: Maslow's expanded hierarchy of needs
+Source: Adapted from Maslow 1954, 1987. Printed and electronically reproduced by permission of
+Pearson Education, Inc.
+
+the identification of students' learning needs and consequent intentional planning by
+the teacher to provide learning opportunities for all.
+
+What do all students need?
+
+Il
+i
+
+What do all students need in order to learn? Although teachers must identify the particular learning needs of individual students, it is useful to reflect that in many ways
+all students have similar needs, both in general and in regard to learning.
+A well-known framework for considering human needs in general is Maslow's
+(1954, 1987) hierarchy of needs, which examines human behaviour from a holistic
+perspective. It proposes that people's behaviour and motivation can be understood as
+the processes of striving to meet universal human needs. Accordingly, human needs
+are arranged in a hierarchy of physical, emotional, social and intellectual needs.
+Maslow's theory includes the premise, disputed by some, that survival needs must
+be satisfied before it is possible to progress to higher-level, or growth, needs. An
+extended hierarchy is represented in figure 6.1 (Koltko-Rivera 2006).
+
+Think and do 6 .1 : Hierarchy of needs
+Using the stages of need depicted in figure 6.1, describe Maslow's (1954, 1987)
+hierarchy of needs in the context of student learning in contemporary classrooms.
+Make sure you think inclusively; for example, consider multicultural perspectives
+and disability perspectives.
+
+1
+
+What are the basic student needs to which teachers can contribute?
+
+2
+
+How earl teac11ers ensure their stl1dents 1 psychological and cognitive needs are
+met in the classroom?
+
+3
+
+What does self-fulfilment mean in an everyday classroom setting?
+
+Sustainable Learning
+Maslow's hierarchy theory has obvious applications in classroom teachers' work.
+Students who are hungry or frightened, for example, need to have their physiological
+needs met in order to fully participate in classroom activities and learning. Similarly,
+students need to feel comfortable within the classroom and know that their contributions and efforts are valued if they are to progress academically to the best of their
+potential.
+Once certain environmental and affective conditions within the classroom and
+school environment are in place, what do all students need in order to learn? An
+obvious response is 'Good teaching!' Hattie's (2003, 2009) work provides key information about 'good' teaching by identifying influences most likely to have a positive impact on the nature and quality of effective student learning. In reporting over
+800 meta-analyses relating to student achievement, Hattie (2003, 2) differentiated
+the major sources of variance in student performance and discovered that teachermediated factors account for about 30 per cent of these, noting that 'it is what teachers know, do, and care about which is very powerful in this learning equation'.
+According to Hattie's analysis, the areas under teachers' control that are most likely
+to influence students' achievement include feedback and remediation with feedback,
+instruction and direct instruction, class environment, the challenge of goals, peer
+tutoring and mastery learning. (The question of what constitutes 'good' teaching is
+also discussed in chapters 3 and 7.)
+
+Think and do 6. 2: Teaching influences
+All students need 'good' teaching in order to learn to the best of their potential.
+Research the teacher-mediated influences that Hattie (2003) identified as most
+beneficial for improving student-learning outcomes.
+2
+
+Think about teaching ancl learning experiences that 'worked' for you at
+school or university or ir1 other learr1ing environmer1ts. Putting aside the
+personality of the teacher, identify the Leaching approaches and strategies
+that were most helpflll to you as a learner. Can you relate tl1ese strategies
+and approaches to the teacher-mediated influences shown to have a large
+impact?
+
+Teachers can derive a lot of useful information about their students - what they
+need to learn and how best to teach it - by first gathering information about their
+capabilities and learning needs. Using information-gathering and evaluation of student needs based on the ATRiUM capabilities can provide a lens through which to
+look for deeper understandings about the capabilities and learning needs of all students, as well as for identifying areas for pedagogical and instructional supports that
+individual students may require. Figure 6.2 shows some key areas to consider when
+identifying students' capabilities and learning needs.
+
+... ' . '~-~
+
+Access
+Participation
+Engagement
+Communication
+
+• physical access and mobility
+• access to curriculum and assessment
+• adjustments required to enable all students to take part and make
+contributions on an equal basis
+• a relevant, respectful curriculum for all students
+• abillty in speaking, listening, literacy, numeracy, ICT
+
+Knowledge and
+understanding
+Memory
+processes
+Applying
+knowledge
+
+• background knowledge and understand of self and society
+• cognitive development
+• retention, recall and application of knowledge previously encountered
+• efficiency of working-memory processes
+• problem-solving
+• creativity and ability to transfer knowledge
+
+Social skills
+Communication
+
+• peer group 'norms'
+• verbal and non-verbal communication
+• cooperation and collaboration
+• respect for others
+• empathy and emotional insight
+
+Academic skills
+tCT proficiency
+Communication
+
+Self-regulation
+Attention
+Motivation
+Behaviour
+
+• reading, writing, speaking, listening, viewing, representing
+• mathematics, including number and algebra
+• organising and expressing ideas and responses
+• attitude to using ICT
+• opportunity to use ICT
+• evaluation and filtering of information from e-sources
+
+• focusing appropriately and ignoring distractions
+• perseverance and persistence
+• managing impulses
+• intrinsic motivation and motivation to please others
+• self-efficacy
+• self-regulation
+
+Figure 6.2: Using ATRiUM to identify students' capabilities and learning needs
+
+Sustainable Learning
+
+Supporting learning for all
+There is much that a classroom teacher can do to support learning for all, but in the
+context of sustainable learning, such support is maximised when it takes place within
+a broader framework that effectively draws upon family, community and systemic
+structures.
+
+Home-school partnerships
+Students do not leave their home and community when they come to school but begin
+to belong to another community and face the challenge of reconciling similarities and
+differences between these communities. Teachers can expand and enrich students'
+day-to-day interactions by fostering family-school partnering practices that empower
+families to support students at home and in school (Lines, Miller and Arthur-Stanley
+2011). Nurturing respectful relationships with families and developing a genuine
+sense of shared responsibility are seen as fundamental to providing better learning
+outcomes for all students.
+Schools can provide details about available community services and facilities
+and information that have the potential to help families with issues they face in relation to parenting, understanding child and adolescent development and supporting
+learning in the home. Parents or carers are the 'experts' on their children and can
+provide invaluable information for teachers about their children, their history and
+their personal characteristics, all of which help teachers better understand the children as learners. Families can also help teachers to understand children's family
+backgrounds, cultures and goals.
+Schools and teachers need to communicate with families about a wide range
+of matters, but especially about school programs and student progress. In order
+for communication to remain open, it is important that parents and carers are
+informed about a student's successes as well as their challenges and that teachers
+and school leaders are available and approachable so parents and carers can initiate
+communication.
+
+Learning does not stop with the last lesson of the school day, and many parents
+and carers are keen to support their children by discussing, practising and applying their academic skills at home. Parents and carers can be encouraged to support
+their children in applying 'school learning' in reading, writing or mathematics to
+everyday literacy and numeracy tasks, such as writing a shopping list and calculating costs. It is also important for parents and carers to continue to value informal
+learning that occurs through play, social events, household tasks and other aspects
+of daily life.
+Both school and home can benefit when schools provide opportunities for family
+and community members to volunteer. This enables members of the broader school
+community to make a contribution at a level they are comfortable with and gives the
+school access to resources that would otherwise not be available.
+
+142
+
+Intervention planning
+
+I
+
+Many, but not all, students with disabilities or learning difficulties display learning
+patterns that are different or delayed when compared to those of their peers. A common response is to provide some kind of intervention to support students' learning
+of the desired knowledge or skills. Early intervention - that is, intervention offered
+when the learning delays first become apparent - is thought to be the most effective
+approach, because it can prevent more long-term and serious impacts of disability
+or learning difficulty, potentially improving learning outcomes and reducing the need
+for costly ongoing support. For example, when formative assessment early in the
+school year indicates that a student is experiencing difficulty in writing sentences, a
+brief and well-targeted intervention program implemented at the time has greater
+potential to help the student 'catch up' with their peers than waiting until the delay
+is 'proven' by formal testing or end-of-year reporting (the wait-to-fail approach). The
+long-term benefits of such interventions are obvious: the costs of timely short-term
+intervention are far outweighed by the costs of not intervening and waiting until the
+student has 'failed'. Early identification of delays in learning followed by focused
+short-term or long-term instructional interventions can significantly decrease the
+impact of learning problems during school and for the whole of an individual's life.
+The duration and frequency of early intervention are variable, depending on the
+level of need and the complexity of the condition. Importantly, in order to maximise
+the effective use of available resources to achieve educational outcomes, it is essential
+that intervention approaches are based on evidence of best practice rather than on a
+whim of what might work. Such an approach is also relevant to systemic considerations - that is, school and system planning - about how to provide timely, effective
+and efficient academic, social or behavioural support to students.
+An influential model that can be used to guide such intervention planning and
+resource allocation considerations is response to intervention (often abbreviated
+to Rt! and also referred to as responsiveness to intervention and response to
+instruction). Response to intervention is an approach that advocates systematic attention to both early identification of emerging learning delays
+Response to
+intervention is a
+through screening and classroom assessment, and early intervention
+multi-level approach
+using planned and evidence-based approaches (Gersten et al. 2009). It
+for aiding students
+combines screening and high-quality instruction for every student with
+that is adjusted c1nd
+regular monitoring and assessment to identify learning difficulties as soon
+modified as needed.
+as they emerge and timely, effective intervention to prevent students from
+falling behind (see Fuchs and Fuchs 2006).
+Consistent with the least intensive to most intensive design of the multi-tiered
+response to intervention model. at tier 1 students are provided with effective,
+evidence-based instruction in their classroom with information from universal,
+curriculum-based assessment and monitoring used to inform instructional decisionmaking. Students who do not demonstrate anticipated progress in response to this
+
+Figure 6.3: The three tiers of response to intervention
+Source: Adapted from Vaughn 2003. Reproduced with permission of the RTI Center.
+
+core, universal instruction are identified through assessment and monitoring. They
+then participate in small-group supplementary tier 2 interventions and, when necessary, more intensive tier 3 interventions (Vaughn 2003; see figure 6.3).
+Research on multi-tier implementations in the United States has indicated evidence of growth in student performance, increased task completion and reduction in
+special educational referrals (Glover and Di Perna 2007). Response to intervention
+has been influential in the United States in recent decades, particularly as it applies
+to identifying low-achieving students soon after learning delays or problems emerge
+and providing them with timely, appropriate intervention (Fuchs and Fuchs 2006).
+In Australia, where formal diagnosis of students experiencing learning difficulties is
+not routinely required to access school learning support services, the construct of
+response to intervention is more relevant as a framework for systematic planning for
+curriculum-based assessment and monitoring and appropriate intervention (Graham
+and Bailey 2007). Although response to intervention is yet to be widely implemented
+in Australia, it is relevant to this discussion of intervention because of its emphasis
+on quality-first teaching, and due to its potential to inform a responsive, systematic,
+data-driven approach to the planning and provision of appropriate support for those
+students experiencing persistent learning difficulties.
+
+Disabilities and learning difficulties
+So far in this text, we have not explicitly described categories of disabilities or learning difficulties, as we wanted to delay this discussion until it could be framed within
+broader considerations about sustainable learning and responsive teaching. Using
+disability or learning difficulty labels to describe and understand students and their
+
+.o
+
+earning needs is of limited value for teachers working towards providing learning
+for all. The notion of sustainable learning implies a commitment to perceiving each
+·student as an individual who is developing - seeing students holistically, as learners with unique characteristics, rather than recognising them according to labels
+or categories of limitation. In this way, the learners themselves - their capabilities,
+talents, experiences, background knowledge and motivations - are acknowledged
+;and respected. Knowing about students' interests, motivations, ability to use and
+'.understand language and levels of proficiency in academic and social skills provides
+·teachers with far more information to work with in developing responsive teaching than knowledge about the causes and characteristics of a particular disability
+•. or learning difficulty - although this information does have relevance, as discussed
+:below.
+
+. Think and do 6.3: Capabilities and differences
+. Think about a person you know whose development and/or learning was delayed
+. or notably different in .some way compared to that of their peers. You may have
+encountered the persor1 during your schooling, in the community, i11 your family or
+
+while teru:,hing. Without using any disability or learning difficulty labels or referring
+to what the person 'couldn)t do') briefly describe tl1e perso11, their capabilities and
+
+differences and what their strengths and needs as a learner might be. Repeat this
+three-step process to describe yourself.
+Students' capabilities and differences and the distinctions between difference
+and disability or learning difficulty are complex matters. They are also very relevant
+matters for teachers to consider and frequently reconsider, because students with disabilities, learning difficulties or other additional learning needs, all of whom require
+adjustments, differentiation or a different approach to enable learning, are present
+in almost all classrooms. In many ways, as we have seen, these students have the
+same fundamental learning needs as their peers, but in some unique ways their
+needs are different from those of their peers. Many students, with disabilities or
+without, will require additional assistance and support for learning from their teachers during their school lives. The responsibility to provide learning for all means
+that teachers acknowledge differences in their students' capabilities and plan for,
+resource and deliver learning experiences that intentionally and respectfully develop
+the capabilities of the learners.
+In particular contexts, including the educational planning necessary for learning for all, differences do have to be acknowledged, and student needs in academic,
+social and lifelong learning skills, when divergent from those of their peers, need to
+be identified.
+In preparing to teach students with disabilities or learning difficulties, teachers
+need to make sure they don't rely on formulaic responses - for example, that students
+
+I .. - .
+I
+
+Sustainable Learning
+who have spina bifida require a certain set of supports and teaching, while learners
+who have ASD require a different set. This is true only to a certain extent and can
+be quite misleading. It also suggests that the process of understanding what each
+student brings to their learning is simple, when in fact it is very complex. Responsive
+teachers question assumptions around a label and find out what it means for this
+learner, in this school context, at this time.
+
+Online research
+There is an overwhelming body of accessible knowledge about disabilities and learning
+difficulties - too much to know and too much to cover in detail in this book. Instead, a useful
+approach is to access and filter the information available online. For example, the NSW Department of Education and Communities' online resource Physical as Anything is an informative
+and reliable starting point for research. It contains information about a wide range of medical,
+developmental and psychological conditions, with pages on specific conditions and related
+information under the tabs 'Schools and teachers', 'Implications for schools' and 'Classroom
+support' (Department of Education and Communities, n.d.). Similarly, New Zealand's Ministry
+of Health 12014) website contains information about some common disabilities and learning
+difficulties.
+
+However, when researching online, significant caution is needed, as there are many websites
+promoting commercial programs and educational approaches promulgated for specific disabilities and learning difficulties that do not have a sound evidence base. Bourke and Loveridge
+(2013) suggest useful criteria for evidence-based research and stipulate finding a balanced
+view by looking at research, practice and personal perspectives on the topic. The following
+access tips and filtering parameters are also helpful.
+
+Access tips
+•
+
+Define your search by identifying keywords, for example, 'students' 'spina bifida' and
+'learning' (and, perhaps, 11.ustralia' or 'New Zealand').
+
+•
+
+Use double quotation marks to search for an exact phrase.
+
+• The Boolean search terms 11.ND', 'OR' and 'NOT' help refine a search.
+
+Filtering parameters
+Authority: Who is the author? Do you know the author? Does the page express fact or
+
+opinion? Are other viewpoints acknowledged?
+Objectivity: Does the information seem to be biased? Are all perspectives represented in
+
+a balanced way? Is the information actually intended to be humorous or a parody instead
+of serious?
+Timeliness: How current and timely is the information? Does the page provide specific
+dates? Does it matter how current the information is for this topic?
+
+Efficiency: Is the information worth the effort necessary to access it? Is it well organisedfor example, is there a table of contents, menu, index and other navigational tools? Is the
+information presented in simple and effective way?
+Authenticity: Is the information authentic? Is it from a credible organisation? Has its accu-
+
+racy been confirmed by others? Does it come from a primary or secondary source? Are
+original sources provided and are they clearly documented? Is there a bibliography?
+Relevance: How helpful is the information? Is it written in a useable form, and is it suf-
+
+ficiently detailed?
+Oneness: Does the source 'fit' with the other information gathered, enabling alignment
+and summarising of facts?
+Accuracy: Is this information accurate? Is it possible to know?
+
+Disability categories
+Disability categories are broad and include quite heterogeneous populations. For
+example, the ASD diagnosis includes highly intelligent and competent people and
+people who experience profound impairment. The adage used by ASD educators
+'if you know one person with autism, you know one person with autism' certainly
+applies to other conditions as well, because many disability categories encompass
+significant variability in their impact on individuals. Inconsistency in language concerning both disability and the impact of disability supports the argument that disability labels or categories yield little information for teachers about individuals, how
+they learn and how to effectively teach them. Hence, in the context of sustainable
+learning we suggest that teachers focus on their students' learning, not labels.
+Teachers need to be aware that the term 'disability' means different things in
+different contexts, so the labels and categories used to identify students with disabilities are quite variable. Similarly, while some syndromes identified in medicine
+or psychology necessarily imply a disability, many do not. The profusion of terms
+such as 'disability', 'delay', 'disorder' and 'syndrome' makes defining disability in
+a school context a challenging endeavour. For example, in Australia, the Disability Discrimination Act 1992 defines disability quite broadly, but in some Australian
+states a student can have a disability according to the Disability Discrimination Act
+yet not meet criteria that would enable their local school to access extra funding for
+them. Further, understandings of disabilities and their classifications change over
+time, and disability categories overlap, as evidenced by complex disabilities or dual
+diagnoses.
+Many of the labels for disabilities that teachers encounter are those defined in
+the DSM-5 (APA 2013a) and the World Health Organization's (2010) International
+statistical classification of diseases. The diagnostic labels listed in these works
+are constructed in response to recognised behaviour patterns and physiological
+
+~=·-_____
+
+S_u_s-ta-in_a_b_le_L_e_a_r_n-in-g---~-----~------~---~
+symptoms and are written for the purpose of guiding diagnosis by medical practitioners. The descriptions and labels alter over time, as different patterns and
+hypotheses are developed and framed by new knowledge or ways of seeing differences in human functioning. There is an assumption that there is an underlying
+physiological basis for recognised behaviour patterns; however, this has not been
+established in many cases. The list below describes the evolution of the DSM criteria in relation to ASD from 1952 to 2013 and shows how this diagnostic label
+has changed over time.
+DSM-I (1952): Children who exhibited autistic-like symptoms were diagnosed under
+
+the label 'schizophrenic reaction, childhood type'.
+DSM-II (1968): Children who exhibited autistic-like symptoms were diagnosed
+
+under the label 'schizophrenic, childhood type'.
+DSM-Ill (1980): Young children who exhibited autistic-like symptoms were diag-
+
+nosed under the label 'infantile autism'.
+DSM-Ill-R (1987): Children who exhibited autistic-like symptoms were diagnosed
+
+under the labels 'autistic disorder' or 'pervasive developmental disorder not otherwise specified (PDD-NOS)'.
+DSM-IV (1994): Children who exhibited autistic-like symptoms were diagnosed
+
+under the label 'Pervasive developmental disorder', which had several subtypes:
+autistic disorder, Asperger's disorder, Rett's disorder, childhood disintegrative disorder and pervasive developmental disorder not otherwise specified (PDD-NOS).
+DSM-5 (2013): Children who exhibit autistic-like symptoms are diagnosed with the
+
+umbrella diagnosis of 'autism spectrum disorder' (APA 2013b, 1).
+Despite the limitations of diagnostic criteria, it is important to acknowledge that some
+specific information about disabilities is informative for teachers, because they can
+benefit from knowing about general behaviour or development patterns associated
+with the conditions. In turn, this information may help teachers identify evidencebased strategies and approaches suitable for their students. Accordingly, summary
+information is given below about selected disabilities, described in generic categories
+commonly recognised in educational settings. Importantly, this information is linked
+to suggested areas of consideration for instructional support. The descriptions here
+are brief, because information about disabilities (and learning difficulties) is readily
+available elsewhere - for example, in developmental psychology texts, special educational books and online. Each description is followed by lists of key ATRiUM capabilities, differentiation approaches and on-the-spot adjustments on which focus should
+initially be placed when planning and delivering responsive teaching.
+
+Autism spectrum disorder
+ASD is a lifelong neurodevelopmental disorder that manifests with varying degrees
+of severity. It can influence how a person processes information, communicates and
+
+j
+I
+
+I
+i
+
+_ relates to other people, thereby impacting on their understanding of the social world
+and what is happening around them. It is more prevalent in males than in females
+but occurs with equal frequency within all ethnic and socioeconomic groups.
+People living with ASD commonly have impairments in three development areas:
+social communication, social interaction, and imagination and thought (Wing and
+Gould 1979). Some people experience substantial difficulties in all areas, while for
+others the impact may be subtle and more evident in some development areas than
+in others. Related factors include sensory sensitivity, restricted and repetitive interests, anxiety, executive functioning constraints and learning difficulties. Many people
+with ASD have intellectual capacities in the average range (some with particular
+strengths or specific weaknesses in cognitive domains), some have advanced intellectual capacities, and some have profound intellectual disability.
+In the school setting, students experiencing ASD often benefit from structured
+classroom routines, with advanced warning of impending changes and a wellorganised learning environment, including clearly articulated, regularly referred to
+and consistently enforced rewards and rules. The use of social stories, social scripts
+and visual representation, such as comic-style drawings, is an often-cited strategy for
+supporting understanding about social skills, desirable and undesirable behaviours
+and developing insights into others' emotions.
+
+ATRiUM capabilities
+• active learning (curriculum access)
+• relationships (empathy, emotional insight)
+• managing self (self-regulation)
+
+Differentiation approaches
+• varying the participation mode - for example, using an JCT application rather than
+a written task to show understanding
+• planning further to support students in group work contexts - for example, giving
+students specific roles within a group
+• providing scaffolds for tasks - for example, breaking down tasks into step-by-step
+components
+• using visual schedules and reminders to support learning, organisation and behaviour
+• adjusting the level of task difficulty to suit students' academic and social capabilities
+
+On-the-spot adjustments
+• using preferential seating or a seating plan for the whole class
+• giving opportunities for lesson breaks
+• using 'fiddle toys' or other small items to help regulate sensory issues or anxiety
+• allowing students the option to move away from or otherwise manage a potential
+source of anxiety or sensory overload - for example, wearing headphones to block
+out noise
+
+!,~'. .-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __
+···ii
+Sustainable Learning
+~·!.
+
+Intellectual disability
+People with an intellectual disability experience limitations in some aspects of
+daily functioning and in their ability to learn and use new information. Terms
+commonly used synonymously for intellectual disability include 'cognitive disabi].
+ity', 'developmental delay' and 'learning disability' (Hinckson and Curtis 2013).
+The terminology is ambiguous and caution is required, as not all students who
+are described as having a developmental delay or a learning disability actually
+have an intellectual disability. It can be a stand-alone condition, a symptom of
+a syndrome (for example, Down syndrome) or the impact of a condition such as
+cerebral palsy (although not all people with cerebral palsy have an intellectual
+disability).
+Jutellectual disability results from a wide range of possible impairments or
+conditious, and its impact varies with individuals and their context. Some people
+with mild intellectual disability are able to complete regular educational courses,
+including senior school courses, when supported by appropriate differentiation and
+adjustments. Although a person with intellectual disability may become competent
+in academic skills such as reading, writing and arithmetic, they are likely to experience difficulty with learning new information, especially higher-order concepts or
+complex ideas, and with generalising information between contexts to solve novel
+problems. Others, especially those with a moderate or severe intellectual disability,
+require a pattern of study quite different from the regular curriculum, with a greater
+focus on functional skills.
+In the school setting, students with an intellectual disability often benefit from
+some extra small-group or individual instruction to develop academic skills, either
+in the classroom or in a withdrawal setting. Additional support in developing ageappropriate social skills and in learning about child protection and anti-bullying
+strategies can be beneficial.
+
+ATRiUM capabilities
+• active learning (curriculum access, communication)
+
+• thinking (knowledge and understanding, memory)
+• using language, symbols and JCT (academic skills)
+
+Differentiation approaches
+• modifying the task difficulty level
+• providing scaffolds or proformas for tasks
+• pre-teaching and reteaching
+• allowing for additional practice
+• breaking down tasks into achievable steps
+• facilitating alternative response formats - for example, a poster presentation rather
+than an essay
+
+On-the-spot adjustments
+• reducing the quantity of work
+• providing additional simplified demonstrations or explanations
+• using visual representations for ideas and routines
+
+Language disorders
+Students experiencing difficulties with understanding language and formulating and
+expressing ideas may be assessed by a speech therapist as having a language disorder
+in expressive or receptive language, or both. An expressive language disorder means
+that the person has difficulty formulating and sequencing ideas, while a receptive
+language disorder indicates difficulty processing and understanding others' language. Difficulties with articulation may also present as part of a language disorder,
+although many people with expressive or receptive language difficulties speak with
+no apparent impediment in their speech, and, conversely, many people who experience articulation difficulties do not have a receptive or expressive language disorder.
+Pragmatic language - the use of language in social communication - may also be
+impaired in some individuals and is commonly found in those with ASD. Many people with an intellectual disability can also be considered to have a language disorder because of the difficulties they experience in understanding communication and
+expressing their ideas.
+In the school setting, the presence of a language disorder impacts on individuals' abilities to access and participate in classroom learning and social interactions,
+as well as on aspects of daily living. Students with a language disorder often experience a barrier to learning with high levels of verbal interactions in a classroom,
+because they cannot adequately process or respond to ideas being discussed. Many
+also experience difficulty comprehending texts and following instructions. Students
+with a language disorder may have the intellectual capacity to access and participate
+in the curriculum but experience learning difficulties because of the impact of their
+condition. Students with a language disorder often benefit from extra instruction and
+practice opportunities to develop literacy and numeracy skills and concepts, as well
+as from some support for appropriate social interactions with peers.
+
+ATRiUM capabilities
+• active learning (curriculum access, communication)
+• thinking (memory, problem-solving)
+• using language, symbols and !CT (academic skills, communication)
+
+Differentiation approaches
+• modifying the task difficulty level
+• adjusting the way information is presented - for example, by providing alternative
+texts with simplified language
+• providing step-by-step instructions for tasks
+151
+'
+
+Sustainable Learning
+On-the-spot adjustments
+• rephrasing explanations and instructions in simpler language
+• limiting the amount of teacher talk when presenting new information
+• providing a glossary of key terms
+• allowing more time to process information and complete tasks
+
+Vision loss and hearing loss
+
+I,
+1.
+
+Significant restrictions in the ability to hear or see can be due to a wide range of factors, including congenital or developmental conditions, health conditions or accident
+or trauma. Such restrictions can have a major impact on how students learn and
+participate at school.
+In the school setting, teachers of students with vision loss or hearing loss need to
+engage in significant collaboration with specialists, family members and the students
+themselves in order to understand and provide for the students' learning needs. The
+input of specialist teachers is often required to help students access curricula and
+class teachers and school communities provide appropriate adjustments and modifications. Such requirements may mean that the curriculum needs to be presented
+in alternative formats or with significant modification of materials and activities.
+Technology can play a significant role in enabling learning and participation, and
+options for use of adaptive, assistive and specialised technology applications should
+be fully explored. The learning needs of students with vision loss or hearing loss are
+unique to the individual and the context, so no specific suggestions for differentiation
+or adjustments are given below.
+
+ATRIUM capabilities
+• active learning (curriculum access, participation)
+• using language, symbols and JCT (!CT proficiency)
+
+Physical disability
+Physical disability has many different causes and manifestations and impacts on
+each individual quite differently, even with people affected by the same condition.
+It can affect a person's gross and fine motor movements, coordination and stamina.
+People with a physical disability most often do not also have an intellectual disability, vision loss or hearing loss, and teachers need to ensure they do not make such
+assumptions by, for example, talking loudly and slowly to a person in a motorised
+scooter.
+
+In the school setting, the effects of physical disability can impact across the
+curriculum and in many other school contexts. Students can experience difficulty
+with physical access to the school and classrooms, participation in sport and physical education and reaching or carrying equipment. More subtle impacts can be
+
+found in everyday school activities, such as handwriting, tying shoelaces, changing
+· clothes, using the toilet, unpacking lunch, judging personal space in lines, closing
+zippers in bags, sitting on chairs or on the floor, folding notes to take home and
+putting books back on shelves. Some students with a physical disability require
+assistance with eating, drinking or personal care. Often, there are implications for
+socialisation as well.
+Students with a physical disability may require the support of additional personnel, such as a teacher assistant, and additional planning and modifications to
+allow access for mobility devices. Whole-school planning may also be required for
+the location of classrooms a student with physical disability needs to access, as
+well as for the time and distance required to transition between locations in the
+school. Planning for excursions requires particular consideration, as students with
+a physical disability need to be able to access excursions on the same basis as other
+students. Consequently, if a planned excursion involves sites or activities not accessible to students with a physical disability when adequate supports are provided,
+alternative options for the excursion for the whole cohort of students should be
+considered.
+
+ATRiUM capabilities
+The main capability for the teacher's focus is active learning, particularly with
+regard to access to and participation in learning, which need broader consideration than physical access and must allow students to fully participate in learning
+activities and demonstrate knowledge and skills in assessment tasks. Equitable access
+and participation can be enhanced, at least in part, by appropriate use of assistive
+technologies.
+
+Differentiation approaches
+• presenting information in a form that is accessible to students
+• planning learning activities and assessment in which students can fully participate,
+which may include effective use of additional personnel
+• additional planning to ensure that learning activities in sport, physical education
+and hands-on technology subjects provide opportunity for students with physical
+disabilities to practise the same skills as their peers, at a level appropriate to the
+students' ages and capacities to perform the skills
+
+On-the-spot adjustments
+• facilitating the use of a reader or writer
+• reducing the quantity of work required
+• providing additional time to complete tasks
+• accepting different formats for responses
+
+Sustainable Learning
+
+Mental health disorders
+
+'
+
+I!
+
+Mental health disorders encompass a wide range of conditions that can have significant impacts on the learning, participation and wellbeing of students. Such conditions include anxiety, behavioural, mood and psychotic disorders. The most common
+mental health disorders are anxiety and depressive illnesses, which hinder active
+learning through passive or active non-participation and at their extreme result in
+non-attendance and eventually school refusal. Mental health disorders interfere with
+thinking skills; they have been described as like 'white noise' in between the learner
+and everything that is going on in the classroom. They can affect perception, attention, planning and processing, as well as demonstration of thinking and learning.
+Quite often, the experience of living with a mental health disorder impacts on socialisation and self-confidence.
+In the school setting, students experiencing a mental health disorder often benefit from access to school psychologists who can work with them, their teachers, their
+family members and other mental health professionals to ensure that they feel safe
+and ready to learn at school. School personnel such as trusted teachers, teacher aides
+or peer mentors can provide additional everyday support for students when needed.
+Students experiencing mental health disorders may be particularly vulnerable to
+bullying, and this requires close monitoring by staff and supportive peers.
+
+ATRiUM capabilities
+• active learning (curriculum participation)
+• managing self (self-regulation, motivation)
+
+Differentiation approaches
+• varying the task demands and participation expectations to suit students' current
+capacity
+• avoiding or modifying at times written tasks, performance tasks and activities that
+require sustained attention or extensive planning
+
+On-the-spot adjustments
+• varying the timetable
+• planning preferential seating
+• allowing for frequent lesson breaks
+• reducing the amount of content in learning and assessment tasks
+
+Attention deficit hyperactivity disorder (ADHD)
+ADHD can significantly impact a student's learning and participation. As mentioned
+in an earlier chapter, contrary to the implication of the disorder's name, students
+experiencing ADHD often appear to have too much attention - they can pay attention to everything and consequently have difficulty filtering out irrelevant stimuli and
+
+\
+l
+
+I
+
+'
+
+constraining impulses. The disorder commonly affects organisational and planning
+skills, such that students with the condition frequently struggle with organising themselves, their possessions and their thinking, which can lead to difficulties in learning
+and socialisation.
+In the school setting, students with ADHD benefit from teachers having knowledge about the condition and proactively responding to their learning needs - this can
+sometimes be a challenge, as students with ADHD can be more impulsive, disruptive
+or disengaged than other students. Additionally, some children who have diagnoses
+of ADHD are in receipt of medical intervention. Schools may have to play a role in the
+management of this intervention and, through communication with parents or carers
+and health professionals, to contribute to informed decision-making around the use
+and evaluation of the effectiveness of medication.
+
+ATRIUM capabilities
+• active learning (curriculum access)
+• thinking (memory)
+• managing self (self-regulation, attention, behaviour)
+
+Differentiation approaches
+• limiting the duration of learning tasks and activities
+• reducing expectations of the quantity of work to be completed
+• providing a variety of tasks using different modes of responding
+• incorporating students' strengths or interests in learning activities
+
+On-the-spot adjustments
+• breaking down tasks into achievable steps
+• supplying an external representation of time passing - for example, an eggtimer or
+digital timer with a visual representation, not just a clock
+• providing organisational supports
+• demonstrating planning strategies and scaffolds and encouraging students to use
+them
+• setting appropriate work targets or goals
+• implementing an individual reinforcement or reward schedule
+This brief review of disabilities and learning difficulties presents different conditions
+as discrete entities when in fact students may experience coexisting disabilities and
+learning difficulties or complex conditions that present new and unique challenges
+for teachers.
+
+Sustainable Learning
+
+Complex learning difficulties
+and disabilities
+Students may experience coexisting disabilities, learning difficulties or complex conditions"!
+that present teachers with novel and unique challenges. In recent research, Carpenter and hi,/{,
+colleagues identified 'complex learning difficulties and disabilities' as a 'new frontier' in edu•i:'
+cation (see Carpenter et al. 2014; Blackburn, Carpenter and Egerton 2012; Carpenter 2010). ";:
+Students who can be described as having complex learning difficulties and disabilities
+
+•t
+
+include those with coexisting conditions such as ADHD, complex medical disorders or profound and multiple disabilities as well as those with disability caused by parental substance
+abuse (for example, foetal alcohol spectrum disorder), those with difficulties arising from
+premature birth and those who, due to advanced medical interventions, have survived illness and trauma. Increasing numbers of children and young people are affected by such
+
+conditions.
+Complex learning difficulties and disabilities can result in students displaying complex learning
+patterns, very challenging behaviour and extensive learning and social needs that are unfa-
+
+miliar to many educators and at times not easily accommodated in mainstream educational
+settings. In fact, Carpenter (2010) posits that educators are currently 'pedagogically bereft'
+and that affected students are educationally vulnerable because of the novel, unfamiliar and
+unique challenges they present.
+There is a need for new, dynamic, personalised approaches to learning for children who have
+complex disabilities and learning difficulties. In the United Kingdom, the Complex Learning
+Difficulties and Disabilities Research Project has developed resources to support teachers in
+developing learning experiences that reflect the strengths and interests of affected students
+(see SSAT, n.d.).
+
+Learning difficulties in basic academic skills
+Experiencing delays or difficulty in learning basic academic skills is perhaps one of
+the most common impacts, or side effects, of having a disability or learning difficulty.
+There are also students who do not have a diagnosis but similarly experience difficulties or delays in learning and applying basic academic skills. In fact, students who
+do not have a disability or other condition and yet experience difficulties in learning
+basic academic skills comprise the largest group of students with special needs, and
+the size of this group continues to grow (Ka vale and Forness 2000; Westwood 2003).
+In Australia, at least 20 per cent of all school students are considered to have problems in academic areas, most commonly in reading (Westwood and Graham 2000).
+This difficulty in learning and applying basic academic skills is referred to generically
+in education and psychology literature as 'learning disability' or, more commonly in
+Australia and New Zealand, 'learning difficulty'. For the purposes of the discussion to
+
+rr
+i
+
+fo]low in this section of the text, to be consistent with the literature the term 'learning
+difficulties' is used to refer to students with or without a disability or learning difficulty who experience difficulties or delays in learning and applying basic academic
+skills (Westwood and Graham 2000).
+Effective recall and application of basic academic skills are key prerequisites for
+school learning across the curriculum in primary and secondary schools. Students
+who have problems with the basics of literacy and numeracy face myriad difficulties
+in accessing the curriculum, especially after the first few years of school, when the
+educational focus shifts from learning basic academic skills to using them as tools for
+further inquiry and learning. Limitations in basic skills impede progress and development in many aspects oflearning. They can also have devastating effects on students'
+self-efficacy and consequent motivation and application; to experience failure or to
+underachieve in almost every lesson, every day, due to poor literacy and numeracy
+skills is a daunting prospect indeed.
+Students experiencing learning difficulties are part of almost every school community, and understanding of their needs and constraints and knowledge of supportive strategies are highly relevant for all classroom teachers. If certain students cannot
+read, write or calculate well - that is, they have difficulties in basic academic skills this does not necessarily mean it is not possible for them to learn new concepts or
+participate in higher-order learning. Rather, the teachers of such students need to see
+learning difficulties as a barrier that for many students can be overcome or worked
+around so that they can access the curriculum.
+There are some common learner characteristics and barriers to learning
+exhibited by many students experiencing learning difficulties. Generally, students
+with learning difficulties are inefficient in the ways they go about the
+Learner
+process of learning (Westwood 1993). demonstrating cognitive behavcharacteristics
+are
+iours such as using inappropriate or inefficient strategies that produce
+the traits possessed
+higb error rates (Bellert 2008) and undermine confidence; having diffiby learners !hat could
+culty with storing, accessing and coordinating knowledge encountered
+affect their ability
+previously and with the flexible use of that knowledge; and displayto learn, such as an
+ability to stay on task
+ing behaviour and thinking patterns detrimental to learning, including
+or apply appropriate
+effective and well-practised avoidance strategies (Chan and Dally 2001;
+strategies.
+Westwood 1993). Constraints in working-memory function form a key
+underlying characteristic of many students experiencing learning difficulties (Swanson and Sachse-Lee 2001; Swanson and Siegel 2001), and this has
+far-reaching implications, making the processes of learning, retaining and using
+new information difficult.
+While factors within learners and learners' environments can feasibly be
+attributed as causes of learning difficulties, it is important for teachers to acknowledge that inefficient or insufficient teaching, poor curricula and poor teacherstudent relationships also contribute to and exacerbate such difficulties (Westwood
+2004).
+
+Learning difficulties and component skills;,,
+Students experiencing learning difficulties can have problerns with sorne or all of th<)
+cornponent skills of reading, writing and rnathernatics, including those listed below.
+
+·
+
+Reading
+• phonological awareness (knowledge of sounds in words)
+•
+
+phonics (knowledge of letter sounds and blends)
+
+• recognition of previously encountered words
+•
+
+decoding of unfarniliar words
+
+•
+
+reading fluency
+
+•
+
+vocabulary knowledge
+
+• comprehension
+• application of effective strategies
+
+Writing
+•
+
+physical forrnation of letters and legible writing achieved with appropriate speed
+
+• organisation and sequencing of ideas
+•
+
+expression of ideas in conventional forrnats (sentences, paragraphs, extended responses)
+
+• vocabulary knowledge
+•
+
+spelling
+
+• stamina and persistence with writing
+• application of effective strategies
+
+Mathematics
+•
+
+nurnber sense (understanding nurnbers and how they are affected by rnathernatical
+operations)
+
+• counting sequences and numerical identification
+•
+
+language and literacy skills
+
+•
+
+use of nurnber knowledge to solve problerns
+
+• application of effective strategies
+
+Teaching for learning for all
+As we have seen, teacher proficiency and other teacher-controlled factors can and
+do have influence on students' attainment levels at school and beyond; educational
+effectiveness for all students is crucially dependent on the provision of quality teaching by competent teachers (Hattie 2003, 2005; Hill and Crevola 2003). Accordingly,
+
+regardless of student and environmental factors, classroom instructional processes
+form a major variable influencing student achievement (Hattie 2005; Mastropieri and
+Scruggs 2002; Sanders and Rivers 1996; Schacter and Thum 2004). This is particularly the case for students with disabilities or learning difficulties. Therefore, teachers
+must have knowledge and understanding about effective, evidence-based instructional practices if they are to meet their professional obligations to provide learning for all. This section presents information about broad strategies and approaches
+shown by research and evaluation to be effective in improving learning outcomes for
+all students (Vaughn, Gersten and Chard 2000).
+
+Direct instruction and strategy instruction
+One key approach, direct instruction, involves explicit, systematic, step-by-step
+instruction led by teachers (see chapter 3). It has a focus on content and requires
+explaining and demonstrating with examples, teacher-directed discourse, discussion
+and learning from texts and media. Direct instruction is especially applicable when
+teaching new or difficult information and when content is critical to subsequent
+learning (Mercer, Jordan and Miller 1996). Another important approach, strategy
+instruction, involves providing students with information about ways to learn,
+procedures for approaching learning, self-regulation and 'doing' learning tasks
+(see chapter 7). In a series of influential meta-analyses, Swanson and colleagues
+established that direct instruction and strategy instruction have the greatest potential
+to improve learning outcomes for students with 'learning disabilities' (interpreted
+here to apply to students experiencing learning difficulties) and that when combined
+these approaches are particularly powerful and effective (for example, see Swanson
+1999; Swanson, Carson and Sachs-Lee 1996; Swanson and Hoskyn 1998). Direct
+instruction and strategy instruction are generally effective for students with disabilities
+or learning difficulties, regardless of the content area (Swanson 1999).
+
+Task difficulty, grouping and questioning
+In further analysis, Swanson and colleagues discerned three instructional components
+common across various instructional models and content areas as the most effective
+approaches for improving students' academic skills, problem-solving, behaviour and
+social skills (Swanson 1999; Swanson, Hoskyn and Lee 1999). The first of these is
+control of task difficulty by scaffolding learning - for example, using activities with
+the level of difficulty adjusted (easier, harder or more specific to the needs of the
+learner), the teacher providing extra assistance or simplifying demonstrations, and
+sequencing the procedure in steps from easy to difficult tasks. The second is teaching
+students in small interactive groups of five or less, and the third is directed response
+questioning - using interactive questions and answers as well as teaching students to
+generate questions as they work. The latter is also related to 'think aloud' procedures
+(Vaughn, Gersten and Chard 2000), during which teachers or peers verbalise
+questioning, thinking and problem-solving as they read or problem solve.
+159
+I
+
+I '•------------::------------ ------------._!
+
+Sustainable Learning
+
+~--------~
+
+---=----~---~------~-
+
+Deliberate practice
+Deliberate practice, another strategy for improving student achievement, uses wellstructured activities that allow for repeated experiences of critical aspects of a task
+(Ericsson 1990; Pegg 2013). Deliberate practice is different from rote content repetition.
+Rote repetition simply requires repeating a task, and while it may resuit in the ability to
+perform the task in the short term and within the same context, it is different from and
+less effective than deliberate practice, which supports students to develop automaticity and to transfer knowledge across settings. Within deliberate practice, specific activities focus on identified errors or weaknesses, and its implementation involves attention,
+rehearsal, repetition and feedback, resuiting in new knowledge or skills that can later be
+further developed (Brabeck and Jeffrey 2010). Access to adequate practice opportunities
+is particuiarly important for some students with disabilities or learning difficuities, as
+they may need to rehearse strategies and information more frequently than other learners. Importantly, deliberate practice can improve student motivation to learn information
+and procedures, because the focused practice improves performance (Pegg 2013).
+
+Feedback
+The benefits of deliberate practice are enhanced when students are provided with
+timely and descriptive feedback. Feedback can be summative - for example, a percentage rank or grade on a test - or formative, when it is ongoing and communicated
+to the learner in order to improve learning (Shute 2009). Educators have understood
+the potential for feedback to positively influence performance for some time (for
+example, Fuchs and Fuchs 1986; Lysakowski and Walberg 1982). and its importance as a key instructional strategy has gained prominence since the publication of
+Hattie's work supporting the idea that it is the most powerful influence in enhancing
+student achievement (for example, Hattie 2003, 2005, 2009).
+Feedback is considered in detail in chapter 5, but in summary, teachers improve
+student outcomes by initiating effective feedback practices that provide information about how and why students understand or misunderstand a specific task or
+content area and what steps they must take to improve (Hattie 2003). Feedback is
+most effective when it directly relates to the task and provides students with different, additional or enhanced information. It is also powerful when it relates to selfregulation and task completion. Least effective feedback is that which is about the self
+and is unrelated to performance of a task (Hattie and Timperley 2007).
+
+Reciprocal teaching
+Reciprocal teaching is an instructional approach that features a dialogue, most commonly in the form of questions and answers, between the teacher and a small group
+of students (Palincsar and Brown 1984). However, in this approach it is not necessarily the teacher who asks the questions; rather, students are scaffolded to ask and
+answer questions of each other. It is a well-known instructional routine that has
+been shown, through research, to improve text comprehension (see Rosenshine and
+
+Meister 1994). Although reciprocal teaching was designed as a reading strategy, it is
+included in this section describing generic strategies because it has broad application to learning, not only in reading but in other content areas. such as social studies
+and mathematics problem-solving, and is applicable to students with different ability
+levels across all grades (Lederer 2000; van Garderen 2004).
+In reciprocal teaching, the adult and students take turns assuming the role of
+'teacher' (Palincsar 1986). They interact by predicting. questioning, summarising
+and clarifying information from a text.
+When students engage in predicting what will happen or what information the
+author wants them to understand from what they are about to read, they are activating their background knowledge. They also learn to use the text's structure to help
+them make defensible predictions. The questioning part of the strategy provides students with opportunities to identify the kind of information that forms the basis of a
+good question. to frame their own questions and then to engage in asking themselves
+and their peers what their answers might be. Summarising is often a challenging task
+for students with disabilities or learning difficulties. Many find it hard to condense
+information and to determine which parts of a text are important and which can be
+omitted without losing key concepts. Teaching summarising requires modelling and
+practice before students experience independent success. Clarifying, the final aspect
+of the reciprocal teaching strategy. encourages students to identify difficult vocabulary and parts of the text where the meaning is unclear and gives them practice at
+implementing 'fix up' strategies to address comprehension breakdowns. Once students are taught in a structured and direct way to clarify their understanding of text
+through re-reading, reading ahead, using pictures or structural clues and asking for
+help, the conditions are set for them to read meaningfully and to engage thoughtfully
+with both narrative and factual texts (Graham and Beller\ 2004, 2007).
+
+Classroom management
+While the idea that providing students with relevant, respectful curricula and educational tasks that will enable them to succeed reduces the need for conversations
+about classroom management certainly has merit, the reality of complex contemporary
+classrooms requires teachers to also develop, implement and refine a set of skills and
+approaches for managing classroom interactions and organisation. The aim of implementing such skills is to reduce the likelihood of disruptive behaviour occurring or
+reoccurring. In order to establish and maintain a positive learning environment,
+teachers need to prevent and minimise the impact of disruptive student behaviour.
+Richmond (2007) has developed a set of generic classroom management skills relevant
+to a wide range of approaches that can support teachers in promoting a classroom environment that facilitates learning. The key premises of the approach are that teacher
+language in the classroom should be predominately about learning, not management,
+and that teachers can practise a range of skills that minimise teacher management talk.
+Richmond's 'essential skills for classroom management' are given below and are listed
+
+Sustainable Learning
+from least intrusive to most intrusive, carrying the implication that teachers should
+predominately rely on least intrusive skills and implement the more intrusive skills
+only when earlier approaches have not been effective in changing student behaviour.
+
+I'
+
+Establishing expectations: Clearly articulate rules for prosocial behaviour and check
+student understanding of these rules in the current context.
+Giving instructions: Concisely and effectively describe or show what students are
+expected to do.
+Waiting and scanning: After giving instructions, stand still, stop talking and start
+looking! Allow students time to process the information and scan the group for indications of non-understanding or reluctance.
+
+I
+
+'.,
+
+Cueing with parallel acknowledgment: Acknowledge the on-task behaviour of a student or group with the intention of prompting others to behave in the same manner.
+Encouraging with body language: Use the power of body language to encourage students to stay on task or get on task by making eye contact, touching student work,
+walking near students or making discreet nodding movements or finger signals.
+Encouraging with description: Describe a desired learning behaviour seen or heard,
+either to an individual or the whole group. In the absence of desired learning behaviours, describe them anyway (rather than describing undesirable behaviours).
+Attending selectively and ignoring tactically: To avoid unintentionally reinforcing
+off-task behaviour that is not seriously disturbing others, keep visually scanning to
+monitor the student who is of concern. (Do not ignore very inappropriate behaviour.)
+Giving a choice: Respectfully challenge the student's persistent off-task behaviour by
+describing available choices and their logical consequences.
+Following through: Firmly deliver a pre-planned action-that is, do what was planned
+and explained when the student was given a choice. Act calmly and with confidence.
+Debriefing: After a behavioural incident, provide an opportunity for those involved
+and witnesses to say what happened. Avoid dramatising or sanitising the event;
+rather, simply talk it through and reflect upon what happened. (Richmond 2007)
+
+Think and do 6 .4: Classroom management
+MicroskiUs are
+discrete capabilities
+
+Research further Richmond's (2007) 'essential skills for classroom
+management' (sometimes referred to as microskills). For each skill, do
+the following:
+
+that teachers earl use
+
+Consider why it is useful in promoting a learning-focused classroom
+environment.
+
+to promote student
+behaviours that
+support learning.
+
+2
+
+Give an example of what a teacl1er would say or do when
+implementing the skill.
+
+3 Think of an example of when you have used the skill or when you
+have observed another teacher using the skill.
+
+Learning for all focuses on student capabilities rather than on disability or learning difficulty labels. This strengths-based perspective acknowledges differences in
+student capabilities and proposes that such differences provide vital information for
+teachers as they plan and implement responsive teaching for effective learning. Purposeful, open communication and information-sharing with students and their family
+members support a holistic approach to understanding the learning needs of students. Educational research over the past half-century has identified evidence-based
+strategies and approaches that responsive teachers can utilise in their endeavours to
+authentically provide learning for all.
+
+Further reading
+Attwood, T. 2008. The complete guide to Asperger's syndrome. London and Philadelphia, PA:
+Jessica Kingsley Publishers.
+Australian Institute of Health and Welfare. 2008. 'Disability in Australia: intellectual disability.'
+Bulletin no. 67. Australian Government. November. www.aihw.gov.au/WorkArea/Download
+Asset.aspx?id=6442452891.
+
+Autism New Zealand Inc. website: www.autismnz.org.nz/.
+Education Queensland. n.d. 'Better behaviour better learning: essential skills for classroom
+management; core learning component.' Queensland Government. http://edgd801.csc4
+learning.com/801 images/corelearningessentialskil\s.pdf.
+
+!.
+
+Frith, U. 1991. Autism and Asperger syndrome. Cambridge: Cambridge University Press.
+New Zealand Education. 2014. 'Supporting children with Autism Spectrum Disorder (ASD).'
+New Zealand Education. 26 June. www.minedu.govt.nz/NZEducation/EducationPolicies/
+SpecialEducation/OurWorkPrograrnme/SupportingChildrenWithASD.aspx.
+Physical as Anything.com website: www.physicalasanything.com.au/.
+SSAT. n.d. 'Complex learning difficulties and disabilities research project.' SSAT. http://complex
+ld.ssa trust. org. Uk/project-resources. html.
+Sue Larkey -Australia website: www.suelarkey.com.au/.
+Sue Larkey's New Zealand website: www.suelarkey.co.nz/.
+
+References
+APA (American Psychiatric Association). 2013a. Diagnostic statistical manual of mental disorders. 5th edn. Arlington, VA: APA.
+- - . 2013b. 11-ustism spectrum disorder.' Fact sheet. APA. www.dsm5.org/Documents/
+Autism% 20Spectru m % 20Disorder% 20Fact% 20Sheet. pdf.
+
+Sustainable Learning
+Beller!, A. 2008. 'Narrowing the gap: a report on the OuickSmart mathematics intervention.'
+Australian Journal of Learning Difficulties 14 (2): 171-83.
+Blackbum, C., B. Carpenter and J. Egerton. 2012. Educating children and young people with
+fetal alcohol spectrum disorder. Oxford: Routledge.
+
+I
+
+Bourke, R. and J. Loveridge. 2013. 'The role of systematic reviews in exploring possibilities for
+evidence-based practice.' New Zealand Journal of Teachers' Work 10 (1 ): 1-3.
+I
+
+.
+I .
+. I
+
+I.
+
+I
+
+Brabeck, M. and J. Jeffrey. 2010. 'Practice for knowledge acquisition (not drill and kill).' American
+Psychological Association. www.apa.org/education/k12/practice-acquisition.aspx#.
+
+;
+
+·1
+
+Carpenter, B. 2010. 'Disadvantaged, deprived and disabled.' Special Children, no. 193: 42-5.
+Carpenter, B., J. Egerton, T. Brooks, B. Cockbill, J. Fotheringham and H. Rawson. 2014. Children
+and young people with complex learning difficulties and disabilities: a resource book for
+teachers and teaching assistants. Oxford: Taylor & Francis.
+Chan, L. and K. Dally. 2001. 'Learning disabilities and literacy and numeracy development.'
+Australian Journal of Learning Disabilities 6 (1 ): 12-19.
+Department of Education and Communities. n.d. Physical as Anything.com. Website. NSW
+Government. www.physicalasanything.com.au/.
+Ericsson, K. A. 1990. 'The scientific study of expert levels of performance: general implications
+tor optimal learning and creativity: High Ability Studies 9 (1 ): 75-100.
+Fuchs, D. and L. Fuchs. 2006. 'Introduction to response to intervention: what, why, and how
+valid is it?' Reading Research Quarterly41 (1): 93-9.
+Fuchs, L. S. and D. Fuchs. 1986. 'Effects of systematic formative evaluation on student
+ach·,evement: a meta-analysis: Exceptional Children 53 (3): 199-208.
+Gersten, R., D. Compton, C. M. Connor, J. Dimino, L. Santoro, S. Linan-Thompson and
+W D. Tilly. 2009. Assisting students struggling with reading: response to intervention and
+multi-tier intervention for reading in the primary grades; a practice guide.' National Center
+tor Education Evaluation and Regional Assistance, Institute of Education Sciences and
+US Department of Education. http://ies.ed.gov/ncee/wwc/pdl/practice_guides/rti_reading_
+pg_021809.pdl.
+Glover, T. A. and J.C. Di Perna. 2007. 'Service delivery for response to intervention: core components and directions for future research.' School Psychology Review 36 (4): 526-640.
+Graham, L. and J. Bailey. 2007. 'Learning disabilities and dilliculties: an Australian conspectus:
+introduction to the special issue.' Journal of Learning Difficulties 40 (5): 386-91.
+Graham, L. and A. Bellert, 2004. 'Reading comprehension for students with learning disabilities.'
+In B. Y. L. Wong, ed., Learning about learning disabilities, 251-79. San Diego, CA: Academic
+Press.
+
+- - . 2007. 'Effective reading comprehension instruction for students with learning disabilities.'
+Australian Journal of Dyslexia and Specific Learning Disabilities 2 (spring-summer 20072008): 7-15.
+
+-----·----·
+
+--·---
+
+Hattie, J. A. 2003. 'Teachers make a difference: what is the research evidence?' Paper presented
+at the ACER Research Conference. Melbourne. 19-21 October. Text available at SA
+Department for Education and Child Development. www.decd.sa.gov.au/limestonecoast/
+files/pages/new%20page/plc/teachers_make_a_difference.pdf.
+- - . 2005. 'What is the nature of evidence that makes a difference to learning?' Australian
+Council for Educational Research. http://research.acer.edu.au/cgi/viewcontent.cgi?article=
+1008&context~research_conference_2005.
+- - . 2009. Visible learning: A synthesis of over 800 meta-analyses relating to achievement.
+Oxford: Routledge.
+Hattie, J. and H. Timperley. 2007 'The power of feedback'. Review of Educational Research 77
+(1): 81-112.
+Hill, P. W. and C. A. M. Crevola. 2003. 'The literacy challenge in Australian primary schools.'
+In V. Zbar and T. Mackay, eds. Leading the education debate. Melbourne: Incorporated
+Association of Registered Teachers of Victoria.
+Hinckson, E. A. and A. Curtis. 2013. 'Measuring physical activity in children and youth living
+with intellectual disabilities: a systematic review.' Research in Developmental Disabilities
+34 11 ): 72-86.
+Kavale, K. and S. Forness. 2000. 'What definitions of learning disabilities say and don't say: a
+critical analysis.' Journal of Learning Disabilities 33 (3): 239-56.
+Koltko-Rivera, M. E. 2006. 'Rediscovering the later version of Maslow's hierarchy of needs:
+self-transcendence and opportunities for theory, research, and unification.' Review of
+General Psychology 10 141: 302- n
+Lederer, J.M. 2000. 'Reciprocal teaching of social studies in inclusive elementary classrooms.'
+Journal of Learning Disabilities 33 (1 ): 91-106.
+Lines, C., G. Miller and A. Arthur-Stanley. 2011. The power of family-school partnering (FSP): a
+practical guide for school mental health professionals and educators. New York: Routledge.
+Lysakowski, R. S. and H. J. Walberg. 1982. 'Instructional effects of cues, participation, and
+corrective feedback: a quantitative synthesis.' Educational Research Journal 19 (4): 559-78.
+Maslow, A. 1954. Motivation and personality. New York: Harper and Row.
+- - . 1987. Motivation and personality, 3rd edn. New York: Harper and Row.
+Mastropieri, M.A. andT. E. Scruggs. 2002. Effective instruction for special education. Austin,
+TX: Pro-Ed.
+Mercer, C. D., L.A. Jordan and S. P. Miller. 1996. 'Constructivistic math instruction for diverse
+learners.' Learning Disabilities Research & Practice 11 (3): 290-306.
+Ministry of Health. 2014. Website. New Zealand Government. 9 July. www.health.govt.nz/.
+Palincsar, A. S. 1986. 'Metacognitive strategy instruction.' Exceptional Children 5312): 118-24.
+Palincsar, A. S. and A. L. Brown. 1984. 'Reciprocal teaching of comprehension-fostering and
+comprehension-monitoring activities.' Cognition & Instruction 1 {2): 117.
+
+i:
+
+.,1
+
+l
+
+I
+
+Sustainable Learning
+Pegg, J. 2013. 'Building the realities of working memory and neural functioning into planning\
+instruction and teaching: Australian Council for Educational Research. http://research.acer :
+edu .au/cgi/viewcontent .cgi? article~ 1179&context~research_conference.
+·
+:, i
+I
+
+i
+
+Richmond, C. 2007 Teach more, manage less: a minimalist approach to behaviour
+management. Sydney: Scholastic Australia Pty Limited.
+Rosenshine, B. and C. Meister. 1994. 'Reciprocal teaching: a review of the research.' Review
+of Educational Research 64 (4): 479-530.
+Sanders, W. L. and J. C. Rivers 1996. Cumulative and residual effects of teachers on future
+students' academic achievement. Knoxville, TN: University of Tennessee Value-Added
+Research and Assessment Center.
+
+,.
+1,
+
+Schacter, J. and Y. M. Thum. 2004. 'Paying for high- and low-quality teaching.' Economics of
+Education Review 23 (4): 411-30.
+
+1
+
+Shute, V. J. 2009. 'Simply assessment.' lnternationa/JournalofLearningandMedia 1 (2): 1-11.
+
+1
+1
+
+SSAT n.d. 'Complex learning difficulties and disabilities research project.' SSAT http://
+complexld. ssatrust. org .uk.
+Swanson, H. L. 1999. 'Reading research for students with LO: a meta-analysis of intervention
+outcomes.' Journal of Learning Disabilities 32 (6): 503-34.
+Swanson, H. L. and C. Sachse-Lee. 2001. 'A subgroup analysis of working memory in children
+with reading disabilities: domain-general or domain-specific deficiency?' Journal of Learning
+Disabilities 34 (3): 249-63.
+Swanson, H. L. and L. Siegel. 2001. 'Learning disabilities as a working rnemory deficit.' issues
+in Education 7 (1): 1-48.
+Swanson, H. L. and M. Hoskyn. 1998. 'Experimental intervention research on students with
+learning disabilities: a meta-analysis of treatment outcomes.' Review of Educational
+Research 68 (3): 277-321.
+Swanson, H. L., C. Carson and C. Sachs-Lee. 1996. 'A selective synthesis of intervention
+research for students with learning disabilities: School Psychology Review 25 (3): 370-91.
+Swanson, H. L., M. Hoskyn and C. Lee. 1999. Interventions for students with learning
+disabilities: a meta-analysis of treatment outcomes. New York: Guilford Press.
+van Garderen, D. 2004. 'Reciprocal teaching as a comprehension strategy for understanding
+mathematical word problems.' Reading & Writing Quarterly 20 (2): 225-9.
+Vaughn, S. 2003. '3-tier reading model: reducing reading difficulties for kindergarten through
+third grade students.' Paper presented at the Celebrating Inclusive Catholic Schools
+Conference. Broadbeach. July.
+Vaughn, S., R. Gersten and D. J. Chard. 2000. 'The underlying message in LD intervention
+research: findings from research syntheses.' Exceptional Children 67 (1): 99-114.
+Westwood, P. 1993. 'Striving for positive outcomes for students with learning difficulties.'
+Special Education Perspectives 2 (21: 87-94.
+
+1
+
+· - · 2003. Commonsense methods for children with special educational needs. London:
+Routledge Falmer.
+- · 2004. Learning and learning difficulties: a handbook for teachers. Melbourne: Australian
+Council for Educational Research.
+Westwood, P. and L. Graham. 2000. 'How many children with special needs in regular classes:
+official predictions vs teachers' perceptions in South Australia and New South Wales.'
+Australian Journal of Learning Disabilities 5 (3): 24-35.
+Wing, L. and J. Gould. 1979. 'Severe impairments of social interaction and associated
+abnormalities in children: epidemiology and classification.' Journal of Autism and
+Developmental Disorders 9 (11: 11-29.
+World Health Organization. 2010. International statistical classification of diseases and
+related health problems, 10th revision. World Health Organization. http://apps.who.int/
+classifications/icd 10/browse/2010/en.
+
+167
+I
+
+
