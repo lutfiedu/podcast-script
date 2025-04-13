@@ -1,0 +1,1262 @@
+Contemporary Educational Psychology 61 (2020) 101860
+
+Contents lists available at ScienceDirect
+
+Contemporary Educational Psychology
+journal homepage: www.elsevier.com/locate/cedpsych
+
+Intrinsic and extrinsic motivation from a self-determination theory
+perspective: Definitions, theory, practices, and future directions
+
+T
+
+Richard M. Ryana,⁎, Edward L. Decib
+a
+b
+
+Institute for Positive Psychology and Education, Australian Catholic University, Australia
+University of Rochester, United States
+
+ABSTRACT
+
+Self-determination theory (SDT) is a broad framework for understanding factors that facilitate or undermine intrinsic motivation, autonomous extrinsic motivation,
+and psychological wellness, all issues of direct relevance to educational settings. We review research from SDT showing that both intrinsic motivation and wellinternalized (and thus autonomous) forms of extrinsic motivation predict an array of positive outcomes across varied educational levels and cultural contexts and are
+enhanced by supports for students’ basic psychological needs for autonomy, competence, and relatedness. Findings also show a dynamic link between teacher and
+student motivation, as teachers are themselves impacted and constrained by controlling mandates, institutional pressures, and leadership styles. Ironically, despite
+substantial evidence for the importance of psychological need satisfactions in learning contexts, many current educational policies and practices around the globe
+remain anchored in traditional motivational models that fail to support students’ and teachers’ needs, a knowledge versus policy gap we should aspire to close.
+
+1. Introduction
+Twenty years ago, in a special issue of Contemporary Educational
+Psychology, we reviewed definitions and research on intrinsic and extrinsic motivation (Ryan & Deci, 2000), which at that time was still an
+emerging field of study. In the two decades since, the field has rapidly
+matured and much has been learned about these two major types of
+motivation, especially within the framework of self-determination theory
+(SDT; Ryan & Deci, 2017), a broad theory of human development and
+wellness, with strong implications for education. SDT has been part of a
+“Copernican turn” in the field, as unlike behavioristic approaches,
+which attempt to shape and control motivation from the outside, SDT
+places its emphasis on people’s inherent motivational propensities for
+learning and growing, and how they can be supported. In this brief
+review of SDT, we discuss the current status of the theory, its methods,
+its practical utility, and its future directions both as a framework for
+basic sciences in motivation, and as an evidence base for 21st century
+educational policies and practice.
+As an organismic theory, SDT assumes people are inherently prone
+toward psychological growth and integration, and thus toward
+learning, mastery and connection with others. However, these proactive
+human tendencies are not seen as automatic—they require supportive
+conditions to be robust. SDT specifically argues that for healthy development to unfold individuals require supports for basic psychological
+needs (Ryan, Ryan, Di Domenico, & Deci, 2019). Three needs are seen
+as particularly fundamental, namely those for autonomy, competence
+
+⁎
+
+Corresponding author.
+E-mail address: Richard.Ryan@acu.edu.au (R.M. Ryan).
+
+https://doi.org/10.1016/j.cedpsych.2020.101860
+
+Available online 08 April 2020
+0361-476X/ © 2020 Elsevier Inc. All rights reserved.
+
+and relatedness.
+Autonomy concerns a sense of initiative and ownership in one’s actions. It is supported by experiences of interest and value and undermined by experiences of being externally controlled, whether by rewards or punishments. Competence concerns the feeling of mastery, a
+sense that one can succeed and grow. The need for competence is best
+satisfied within well-structured environments that afford optimal
+challenges, positive feedback, and opportunities for growth. Finally,
+relatedness concerns a sense of belonging and connection. It is facilitated
+by conveyance of respect and caring. Thwarting of any of these three
+basic needs is seen as damaging to motivation and wellness.
+Accordingly, SDT’s analysis of educational settings is primarily focused
+on the extent to which they meet or frustrate these basic needs.
+1.1. Overview
+Of interest in this review are the effects of SDT’s basic psychological
+need satisfactions and supports in the classroom on both intrinsic and
+extrinsic motivational processes, and students’ well-being and academic
+performance. First, we revisit classic definitions of intrinsic and extrinsic motivation, before reviewing contemporary research on how
+these motivations are affected by classroom practices, especially teachers’ support of learners’ basic psychological needs. SDT argues that
+need supports enhance intrinsic motivation and internalization, resulting in higher achievement, whereas, paradoxically, attempting to
+control achievement outcomes directly through extrinsic rewards,
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+Fig. 1. Self-Determination Theory’s Taxonomy of Motivation.
+
+sanctions, and evaluations generally backfires, leading to lower-quality
+motivation and performance.
+Yet more important than achievement outcomes, in our view, is
+students’ psychological growth and wellness. Although not all students
+can or will excel at the cognitive agendas that are the central focus in
+many schools, schools should nonetheless be supportive contexts for
+development, provide conditions that enhance students’ adaptive capacities and mental health, and, importantly, do no harm. SDT research
+shows that support for basic psychological needs fosters students’
+wellness, a pattern evident across age, ethnicity, and culture, and that
+need thwarting causes harms. Basic need support is especially important given the diversity of learners, and we discuss the particularly
+central role of autonomy support in fostering inclusive environments.
+We also consider how an atmosphere conducive to thriving students
+requires thriving teachers, and thus the importance of supporting teachers’ basic psychological needs. Finally, we discuss the gap between
+many educational policies and practices around the globe and the
+empirically identified needs of students and teachers. We conclude with
+considering the future directions SDT research, interventions, and
+theorizing may take.
+
+The benefits of intrinsic motivation are also obvious within formal
+education. For example, a meta-analysis by Taylor et al. (2014) pointed
+to a significant role of intrinsic motivation in school achievement.
+Taylor et al. followed this meta-analysis with additional studies of high
+school and college students in Canada and Sweden, showing that intrinsic motivation was consistently associated with higher performance,
+controlling for baseline achievement. Froiland and Worrell (2016)
+convergently showed that intrinsic motivation predicted student engagement, which, in turn, predicted higher achievement (GPA), results
+that remained consistent when limiting analyses to African American
+and Latino students.
+Despite such findings attesting to the importance of intrinsic motivation, research from multiple countries suggests that it tends to decline
+over the school years—at least for school-related activities (e.g., Lepper,
+Corpus, & Iyengar, 2005; Gillet, Vallerand, & Lafreniere, 2012;
+Gottfried, Marcoulides, Gottfried, Oliver, & Guerin, 2007; Scherrer &
+Preckel, 2019). This suggests to us that schools are not creating the
+need-supportive contexts that foster this inner resource, an interpretation supported by Gnambs & Hanfstingl, 2016 analysis showing that
+declines in intrinsic motivation are associated with decreasing psychological need satisfaction.
+
+2. Intrinsic and extrinsic motivation within SDT
+
+2.2. Extrinsic motivation
+
+2.1. Intrinsic motivation
+
+Often contrasted with intrinsic motivation is the heterogeneous
+category of extrinsic motivation, which concerns behaviors done for
+reasons other than their inherent satisfactions. From an SDT view the
+contrast is not a simple one, because instrumental motivations can vary
+widely in content and character. Accordingly, SDT has long specified
+four major subtypes of extrinsic motivation, illustrated in Fig. 1. External regulation concerns behaviors driven by externally imposed rewards and punishments and is a form of motivation typically experienced as controlled and non-autonomous. Introjected regulation concerns
+extrinsic motivation that has been partially internalized; behavior is
+regulated by the internal rewards of self-esteem for success and by
+avoidance of anxiety, shame, or guilt for failure. In academic activities
+introjected regulation often takes the form of ego-involvement (Ryan,
+
+SDT research began with a focus on intrinsic motivation, which is a
+prototypical expression of the active integrative tendencies in human
+nature assumed by SDT. Technically intrinsic motivation pertains to activities done “for their own sake,” or for their inherent interest and
+enjoyment (Deci & Ryan, 2000). Play, exploration and curiosityspawned activities exemplify intrinsically motivated behaviors, as they
+are not dependent on external incentives or pressure, but rather provide
+their own satisfactions and joys. Although “fun,” such inherent propensities toward interested engagement and mastery are also serious
+organismic business; intrinsic motivation is likely responsible for the
+preponderance of human learning across the life span, as opposed to
+externally mandated learning and instruction (Ryan & Deci, 2017).
+2
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+1982) in which self-esteem is contingent on outcomes, resulting in
+“internally controlled” regulation.
+Whereas both external regulation and introjection represent controlled forms of motivation, extrinsic motivation can also be autonomously enacted. In identified regulation, the person consciously identifies
+with, or personally endorses, the value of an activity, and thus experiences a relatively high degree of volition or willingness to act. Yet
+the most autonomous form of extrinsic motivation is integrated regulation in which the person not only recognizes and identifies with the
+value of the activity, but also finds it to be congruent with other core
+interests and values. Autonomous extrinsic motivations share with intrinsic motivation the quality of being highly volitional, but differ primarily in that intrinsic motivation is based in interest and enjoyment—people do these behaviors because they find them engaging or
+even fun, whereas identified and integrated motivations are based on a
+sense of value—people view the activities as worthwhile, even if not
+enjoyable. Fig. 1 also depicts a sixth category of amotivation, which
+refers to lacking intentionality. Amotivation, all too common in classroom settings, can result from either lack of felt competence to perform,
+or lack of value or interest. Amotivation has been a strong negative
+predictor of engagement, learning, and wellness.
+
+perceived competence, and self-esteem (e.g., Deci, Schwartz, Sheinman,
+& Ryan, 1981; Ryan & Grolnick, 1986), better grades (Guay &
+Vallerand, 1997) greater internalization for learning activities, and
+lower dropout (e.g., Hardré & Reeve, 2003; Vallerand, Fortier, & Guay,
+1997). In college, Black and Deci (2000) showed that STEM students
+rating lab instructors as more autonomy supportive showed increases in
+autonomous motivation and perceived competence, and received
+higher grades, controlling for prior GPA and SAT scores. Manganelli
+et al. (2019) found that college students’ autonomous motivation predicted both higher academic performance beyond the effects of prior
+achievement. Núñez and León (2019) in a prospective study of Spanish
+collegians, showed that perceived autonomy support led to greater
+engagement, mediated by autonomous motivation.
+SDT applies as well within advanced educational contexts. For example, Williams, Saizow, Ross, and Deci (1997) found that mentors’
+autonomy support for medical-students predicted the areas the students
+selected for their residencies. Sheldon and Krieger (2007) investigated
+law students over their three years of study. Overall, law students reported a decline in basic psychological need satisfaction and well-being
+during this time. Yet, if they had more autonomy-supportive instructors
+they showed less decline in need satisfaction and well-being. Moreover,
+those who experienced more autonomy support in law school received
+higher grades, performed better on the bar exam, and reported higher
+autonomy in post-graduation employment.
+Reeve and Tseng (2011) looked into the potential biological mediators at work in these effects of autonomy-supportive versus controlling teaching. They exposed students to one of three conditions in
+which teachers were autonomy-supportive, neutral, or controlling.
+They then assessed salivary cortisol, which is indicative of stress. Students exposed to a controlling teacher had higher cortisol than those in
+the neutral condition, whereas those exposed to autonomy-supportive
+teaching had lower cortisol than those in the neutral condition. Streb
+et al. (2015) found, oppositely, that when children were in learning
+environments that emphasized social relatedness and autonomy support (e.g., kindergarten vs. schools; voluntary workshops vs. regular
+lessons) they showed higher heart rates and emotional arousal indictive
+of greater engagement and energy mobilization. Such results how a
+need-supportive context can incite the more vital engagement associated with autonomous motivation.
+
+2.2.1. Multiple motives and relative autonomy
+Although differing in character and content, these varied forms of
+motivation or regulatory styles are arranged in Fig. 1 along a continuum
+reflecting their relative autonomy. Much research has verified the
+“ordered” relations among categories consistent with the SDT relative
+autonomy model (e.g., Chatzisarantis, Hagger, Biddle, Smith, & Wang,
+2003; Howard, Gagné, & Bureau, 2017). Yet SDT also recognizes that
+most intentional behaviors are multiply motivated (e.g., see Litalien
+et al., 2017). People can, for example, be simultaneously intrinsically
+motivated and identified for some actions, or both externally regulated
+and introjected, etc. Thus, in addition to looking at the unique properties of each motive type, scores reflecting either overall relative autonomy or summary scores for autonomous and controlled motives are
+often applied (see Ryan & Deci, 2017). There is also a growing interest
+in person-centered analyses in which profiles of motivation are generated (e.g., Wang et al., 2017). However assessed, data show that greater
+relative autonomy for learning (or teaching) predicts a variety of key
+educational outcomes, as we shall further review.
+
+3.1. Need-supportive teaching behaviors
+
+3. SDT research on intrinsic and extrinsic motivations in
+classrooms
+
+Numerous studies across multiple settings show advantages of needsupportive classroom climates in catalyzing more autonomous student
+motivation. But what does such need support look like? Within SDT
+there has been much interest in the specific ingredients of facilitating
+environments, many of which were initially identified through experimental studies (see Ryan & Deci, 2017). These ingredients primarily
+concern the teacher’s provision of autonomy support and structure. Autonomy support is seen as promoting both autonomy and relatedness
+satisfactions, and when it occurs along with structure, competence as
+well.
+
+Among the core hypotheses of SDT in education are that: (a) more
+autonomous forms of motivation will lead to an enhancement of students’ engagement, learning, and wellness; and (b) that basic psychological need support from both teachers and parents facilitates such
+motivation, whereas need thwarting undermines it. These hypotheses
+have been well supported across hundreds of studies, at every level of
+development, and across varied learning contents and cultural contexts.
+First, a large empirically-based literature has demonstrated the
+positive relations of more autonomous forms of classroom motivation
+with academic outcomes (Howard et al., 2017; Grolnick, Ryan, & Deci,
+1991; Guay, Ratelle, Roy, & Litalien, 2010; Katz, Eilot, & Nevo, 2014;
+Grolnick & Ryan, 1989; and others). This is likely due in part to the
+greater effort students put forth when autonomously motivated (León,
+Núñez, & Liew, 2015). In addition, the more internalized the motivation, the more it becomes part of a learner’s identity. For example,
+Skinner, Saxton, Currie, and Shusterman (2017) showed that basic need
+satisfaction was associated not only with higher engagement and performance in STEM courses, but also greater identification of oneself as a
+scientist.
+Second, basic psychological need supports have shown robust positive effects on school outcomes. Studies show that students of more
+autonomy-supportive teachers have more intrinsic motivation,
+
+3.2. Autonomy support
+Teachers who support students’ autonomy begin by attempting to
+understand, acknowledge, and where possible, be responsive to students’ perspectives. They also try to provide opportunities for students
+to take ownership and initiative of their schoolwork, providing them
+with meaningful choices and tasks that can engage their interests. When
+they require something to be done, they provide a meaningful rationale.
+In contrast, controlling teachers are more oriented to pressure students
+to think, feel, or behave in particular ways without responsiveness to
+student perspectives.
+Another factor that can support autonomy is the provision of choice.
+SDT suggests that when students experience a sense of choice they feel
+3
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+more ownership of activities and greater autonomy, resulting in an
+enhanced intrinsic motivation (e.g., Bao & Lam, 2008; Reeve, Nix, &
+Hamm, 2003). Moreover, choice can facilitate performance (e.g.,
+Murayama et al., 2015), and curiosity, especially for those initially low
+in autonomy (Schutte & Malouff, 2019). Yet not all types of choice are
+associated with the experience of autonomy. There can be meaningless
+choices such as choices between options a person doesn’t want, or
+choices with subtle pressures implicit in them (e.g., Assor, Kaplan, &
+Roth, 2002; Moller, Deci, & Ryan, 2006). Conversely, one can have no
+options and still feel autonomy, if one willingly accepts the value of, or
+has interest in, pursuing the available behavior. Nonetheless, metaanalytic findings by Patall, Cooper, and Robinson (2008) support the
+general SDT hypothesis of a positive effect of choice on intrinsic motivation. Patall, Dent, Oyer, and Wynn (2013) showed further that,
+along with choice, teachers can support autonomy by taking students’
+interests into account. When they do so, students are also likely to judge
+them as more competent (Jang, Reeve, & Halusic, 2016).
+More recently, using a diary method with students in science
+courses, Patall et al. (2019) found that in lessons wherein teachers
+engaged in autonomy-supportive behaviors such as offering choice,
+providing rationales, focusing on students interests or questions, and
+other specific autonomy-supportive behaviors, students reported
+greater interest in the material. Tsai, Kunter, Lüdtke, Trautwein, and
+Ryan (2008) similarly showed that lesson-to-lesson variations in student interest and motivation fluctuated with daily variations in teacher
+support for autonomy. Multi-level modeling in three subject areas revealed that on days when the teacher was more autonomy supportive
+than usual, students were more interested than usual in that subject
+area.
+Reeve and colleagues have used various empirical approaches to
+identify aspects of what autonomy-supportive teachers do. Reeve, Bolt,
+and Cai (1999) began this work by assessing teachers’ self-reports of
+autonomy support versus control. The teachers were then videotaped
+while teaching, and their lessons rated. Teachers whose self-reports
+classified them as more autonomy supportive were found to listen
+more, be more responsive to student questions, bring more attention to
+student interests, resist giving answers, voice fewer directives, show
+more support for student initiatives, and convey more understanding of
+students’ perspectives. Subsequently, Reeve and Jang (2006) pre-identified specific teacher behaviors that were autonomy supportive or
+controlling and related these observed behaviors to the motivation reported by students. Results indicated that eight teacher behaviors that
+had been categorized as autonomy supportive (listening to students,
+making time for independent work, giving students opportunities to
+speak, acknowledging improvement and mastery, encouraging effort,
+offering progress-enabling hints when students seem stuck, being responsive to comments and questions, and acknowledging students’
+perspectives) were positively associated with students’ autonomous
+motivation. In contrast, teacher behaviors categorized as controlling
+(e.g., monopolizing learning materials, telling students answers, issuing
+directives, using controlling words such as “should” and “have to”)
+were negatively related with students’ autonomous motivation.
+Also focusing on this the “dark side” of the motivation puzzle, Assor,
+Kaplan, Kanat-Maymon, and Roth (2005) showed that controlling behaviors by Israeli teachers predicted lower student autonomy. In related
+work, Liu, Bartholomew, and Chung (2017) used multilevel growth
+modeling to show that increases in perceptions of controlling teaching
+were related to increases in need frustration across the school year
+which, in turn, were related to lower autonomous motivation and
+greater fear of failure, contingent self-worth, and avoidance of challenges. Indirect effects supported the mediating role of need frustration
+in these relations.
+
+as being high in both autonomy support and structure (e.g., Grolnick
+et al., 2014; Grolnick & Ryan, 1989; Jang, Reeve, & Deci, 2010).
+Whereas controlling behaviors pressure students to behave or achieve,
+structure entails setting clear expectations and goals, having consistency
+in rules and guidelines, and providing informational supports for engagement and rich efficacy feedback. Good structure “scaffolds”
+learning so that students rarely face non-optimal challenges, and
+feedback is thus largely positive and efficacy supportive. The combination of high teacher autonomy support and structure has been empirically associated with higher autonomous motivation (both intrinsic
+and identified), greater use of self-regulated learning strategies, and
+lower anxiety (e.g., Hardré & Reeve, 2003; Vansteenkiste et al., 2012).
+Although structure can especially enhance competence satisfaction,
+its effects are influenced by how it is delivered (Soenens &
+Vansteenkiste, 2010). Structure can be provided in either controlling or
+autonomy-supportive ways. Indeed, SDT predicts that, both in school
+and at home, greater internalization and competence are facilitated by
+high levels of both autonomy-support and provision of structure. Jang
+et al. (2010), for example, studied teacher autonomy support and
+structure in U.S. high schools, finding that teachers’ autonomy support
+and structure, as rated by observers, predicted students’ engagement, as
+did students’ perceptions of autonomy support. Farkas and Grolnick
+(2010) showed that parental structure and autonomy support predicted
+both felt competence and autonomy in 7th and 8th-grade children.
+Various configurations of autonomy-support and structure (and
+their opposites of control and chaos) can be reliably assessed and used
+to predict classroom outcomes. For example, Aelterman et al. (2019)
+collected self-reports from over 1000 Belgian secondary school teachers
+and students using the vignette-based Situations-in-School Questionnaire,
+to which they applied multidimensional scaling analyses. Results suggested that teaching styles could be represented by a two-dimensional
+configuration forming a circumplex with eight subareas, namely: participative and attuning, guiding and clarifying, demanding and domineering, and abandoning and awaiting. Correlations between these
+subareas and various outcome variables followed the expected sinusoid
+pattern. Such findings underscore that supporting autonomy is not
+about permissiveness, but rather helping to catalyze students’ willingness to engage in learning through well-organized learning environments and activities.
+Work on detailing the specific behaviors that support autonomy,
+competence and relatedness in classrooms continues in earnest within
+SDT, including many studies based on direct classroom observations
+(e.g., Haerens et al., 2013; Rogat, Witham, & Chinn, 2014; Wallace,
+Sung, & Williams, 2014). It is noteworthy that when teachers are autonomy supportive, they are typically also supportive of students’ other
+basic psychological needs (competence and relatedness) as well. This of
+course makes sense insofar as, when teachers are autonomy supportive,
+they are more attuned to students’ perspectives, allowing more responsiveness to relational and competence concerns.
+4. Student wellness and basic need supports
+We have argued that although schools are often narrowly focused
+on achievement, they are more importantly contexts for child, adolescent, and young adult development (Ryan & Deci, 2017). In schools,
+students acquire not only knowledge, but also a sense of industry and a
+set of identities (positive or negative). Confidence, self-esteem, and
+mental health are all deeply affected by whether what happens in
+school supports or thwarts basic psychological needs.
+Tian, Chen, and Huebner (2014), for example, assessed Chinese
+adolescent students’ basic psychological needs and their school-related
+well-being at two time points, approximately six weeks apart. Analyses
+revealed relationships between autonomy, relatedness, and competence
+satisfactions and overall satisfaction with school and higher subjective
+well-being. Longitudinal research has also shown that as students experience more need satisfaction in class they become more engaged,
+
+3.2.1. Autonomy support and structure
+SDT strongly distinguishes between the idea of control and the idea
+of structure, and views the most positive teaching and parenting styles
+4
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+and in becoming more engaged, they also experience greater need satisfaction (Reeve & Lee, 2014). In another longitudinal study of Chinese
+students, Yu, Li, Wang, and Zhang (2016) found that teacher autonomy
+support predicted engagement which was associated with lower
+symptoms of anxiety and depression. More recently, Duineveld, Parker,
+Ryan, Ciarrochi, and Salmela-Aro (2017) showed in Finnish samples
+that parent autonomy support facilitated students’ well-being across
+educational transitions. These are just samplings from a growing body
+of research, in settings ranging from elementary schools to post-graduate education, indicating that when teachers and parents provide autonomy support students exhibit greater engagement, performance, and
+higher well-being.
+
+4.2. Autonomy support and diversity
+One of the ironies of objections to SDT’s etic claims concerning
+autonomy as a universal need is that, in respecting autonomy and advocating for its support, SDT is acknowledging the importance of differences between people. Autonomy support has as its central feature
+attempting to appreciate and respect the internal frame of reference of
+the learner. Autonomy support is thus a central element in cultural
+competency—that is, in being able to effectively work with people from
+diverse backgrounds and value systems, whose frames of reference influence their motivations and valuations.
+This importance of autonomy support goes beyond cultural and
+ethnic differences to all the diversities that describe learners. Students
+come to our schools from different socioeconomic backgrounds, with
+different temperaments, interests, religious values, sexual identities,
+and even different neurological processing styles. Autonomy support
+entails, by definition, respecting and attempting to appreciate the
+perspective of, and unique challenges faced by, each learner Autonomy
+support is an essential part of the arts of teaching and mentoring, as
+autonomy support entails an interest in the learner’s needs, barriers,
+and resources, whether they be cognitive, emotional or cultural. When
+experiencing such support, people who might otherwise feel alienated
+can feel safer. Exemplifying this, Legate, Ryan, and Weinstein (2012)
+showed that to the extent lesbian, gay and bisexual students saw school
+or other social contexts as autonomy supportive, the more likely they
+were to be “out” in those contexts and to show fewer depressive
+symptoms, less anger, and higher self-esteem.
+Indeed, when teachers become more autonomy supportive of their
+students the culture of a school can change to become more accepting
+and tolerant. In three Israeli elementary schools, Assor, Kaplan,
+Feinberg, and Tal (2009) launched a program to enhance autonomy
+support. After introducing the basic principles of SDT, each school was
+encouraged to develop its own unique change plan through discussions
+that included teachers, administrators, and the research team conducted. Evaluations over a three-year period showed that interventiongroup teachers reported more empathic attitudes toward students’
+needs and felt better about themselves as teachers. Further, there was
+reduced violence among students, and increased student perceptions of
+caring within their classrooms (see Assor, Feinberg, Kanat-Maymon, &
+Kaplan, 2018). Such findings suggest that by focusing on need satisfaction of teachers and students, schools can improve the relations
+among all members of a school community.
+
+4.1. Autonomy effects across cultures
+One controversial aspect of SDT concerns the proposal that the satisfaction of basic psychological needs is important in all cultures, a
+proposal that has been particularly controversial with respect to autonomy and autonomy support. For example, Markus, Kitayama, and
+Heiman (1996) argued that autonomy is not important in traditionalist
+or collectivist cultures. Although we agree with them that cultures vary
+in their values and practices, including their valuing of autonomy, we
+argue that nonetheless, the functional import of autonomy is universal.
+This focus on basic or universal needs is not simply about parsimony,
+but rather about identifying the most important drivers of human motivation, engagement and learning.
+At this point, strong empirical evidence supports the SDT position,
+which we illustrate with just a few examples. Chirkov and Ryan (2001)
+showed that autonomy support from both teachers and parents was
+associated with more autonomous school motivation and higher wellbeing of adolescents in both the U.S. and Russia. Sheldon, Abad, and
+Omile (2009) studied adolescents in Nigeria and India, finding in both
+of these collectivist cultures that teacher autonomy support enhanced
+coursework experiences and well-being. Research by Hayamizu (1997)
+and Yamauchi and Tanaka (1998) showed the predictive value of SDT’s
+internalization continuum for Japanese elementary school students.
+More autonomously motivated Japanese students showed more interest, deeper learning strategies, and more positive school attitudes
+than those with lower autonomy. More recently, Oga-Baldwin, Nakata,
+Parker, and Ryan (2017) showed how engagement in learning English
+by Japanese elementary students is enhanced by promoting autonomy
+and intrinsic motivation. Jang, Reeve, Ryan, and Kim (2009) showed
+that autonomy was predictive of South Korean high school students’
+satisfying learning experiences. Vansteenkiste, Zhou, Lens, and Soenens
+(2005) found that young adults in China who had greater autonomous
+motivation for studying had greater academic success, and higher wellbeing. Jang et al. (2009) reported similar results in Korean high school
+students. Indeed, a recent meta-analysis by Yu, Levesque-Bristol, and
+Maeda (2018) showed no differences between East Asian and North
+American samples in the importance of autonomy to well-being.
+Although the generalizability of SDT’s basic need assumptions is
+well supported by these and dozens more studies, it is nonetheless
+important to appreciate cultural differences in both how people perceive contexts and in how basic needs are fulfilled, as Nolen in this issue
+also highlights (Nolen, 2020). Specifically, SDT makes etic claims concerning the universal importance of its basic psychological needs for
+autonomy, competence, and relatedness, yet it also recognizes emic
+variations in the salience, meaning and dynamics of needs between
+cultures (Craven et al., 2016; Reeve, Ryan, & Deci, 2018). For example,
+in some cultures behaviors that might be functionally significant as
+controlling to American students may be perceived less negatively (e.g.,
+Cheng, Shu, Zhou, & Lam, 2016). Nonetheless, even considering such
+nuances, research confirms the general main effects across cultures and
+contexts of need satisfaction versus frustration, even for the controversial issue of autonomy.
+
+5. Needs-based critiques of grading, performance goals, and highstakes testing
+We have stressed the important role of teacher styles in shaping
+student motivation. Yet structural factors in classrooms and educational
+policies, from class size to mandated curricula, also affect both teachers’
+and learners’ motivation and performance, sometimes in unintended
+ways. Among factors negatively affecting teachers and students are
+excessive emphasis on grades, performance goals, and pressures from
+high-stakes tests.
+5.1. Grading
+Among the most common features of classrooms across the globe is
+the practice of grading. Just as ubiquitous are the social comparisons,
+ego-involvement, and for some the humiliations, inevitably associated
+with grading. Unlike most learning in life, in which experiments, failures, and risks are part of the learning process, in schools there is too
+often a different emphasis: namely, evaluating most everything a student does using grades as feedback. The priority placed on grades, both
+by teachers and parents, often catalyzes performance goals, or desire to
+outperform others, since grades are typically comparative rather than
+criterion based (e.g., Pulfrey, Buchs, & Butera, 2011). Grading schemes
+5
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+are so characteristic of schools around the world that it is hard for some
+to even imagine a school without grading. Yet despite their pervasive
+use, there is remarkably little evidence that grading strategies enhance
+motivation or learning, whereas there is evidence of negative effects.
+SDT has a clear perspective on grading. The theory argues that
+feedback about performance can have varied functional significance, or
+meaning, to the recipient. Feedback can have informational significance
+if it is efficacy relevant (i.e., provides inputs that help the person improve or highlight areas of competence). Informational inputs tend to
+enhance intrinsic motivation and internalization. In contrast, feedback
+can have a controlling significance when experienced as pressure toward
+specific behaviors or outcomes (Deci & Ryan, 1985).
+As Nolen (2020) also points out, the meaning or functional significance of grades to students will vary, especially being influenced by
+how they are applied and reacted to by teachers, parents and institutional climates. Yet grades, at least as commonly used, are far too often
+experienced as controlling. For example, Grolnick and Ryan (1987)
+experimentally investigated the effects grading on motivation for an
+ecologically valid school task and found that grading was associated
+with decreased intrinsic motivation and lower conceptual learning (see
+also Benware & Deci, 1984). Klapp (2015) reported a natural experiment of over eight thousand Swedish students, who attended primary
+schools in which performance was either graded or not. Klapp focused
+on how primary school grading affected performance in 7th, 8th and
+9th grades, as well as outcomes at grade 12. Results pointed to a negative association of primary school grading on achievement in grades
+7–9, and lower odds of finishing secondary education, effects especially
+evident for lower ability students.
+Given that grades as typically applied have the potential to negatively affect students’ motivation and learning, especially for those who
+are at-risk, we might ask why are they so pervasive? We fear that in part
+it is because some educators and policymakers mistakenly assume that
+grades are an effective motivational strategy. They believe that by
+grading students they are “incentivizing” effort as well as providing
+“feedback”. Yet as research by Butler (1987) and our own work has
+shown, grades by themselves typically provide little competence relevant feedback; they merely let students know where they stand relative to others, a focus that can undermine autonomous motivation,
+especially for the “non-winners.”
+SDT suggests that grades used as “motivators” will typically be experienced as controlling and diminish autonomous motives to learn. For
+example, Krijgsman et al. (2017) showed that following lessons involving performance grading, physical education students reported less
+intrinsic motivation and identified regulation, and more external regulation, amotivation, and fear. Basic psychological need satisfaction
+and frustration mediated these relations between grading and motivational outcomes. Thus, although grading may sometimes be needed for
+“gatekeeping” (i.e., screening poor performers from advancing), it
+should not be considered an effective motivational strategy for fostering
+learning. In contrast, efficacy related information, and authentic feedback concerning mastery do enhance motivation, indicating that they
+tend to be intrinsic rather than extrinsic incentives.
+
+significance. Performance goals, even when approach-oriented, are
+commonly experienced as controlling pressures, whereas mastery goals
+tend to be both implemented and experienced as informational. Thus
+Pulfrey et al. (2011) found, as expected in SDT, that expectations of
+being graded led students to be less autonomously motivated and more
+likely to adopt performance-avoidance goals. Vansteenkiste et al.
+(2010) assessed performance-approach goals and the autonomous and
+controlled motives students had for pursuing them. When autonomous
+and controlled motives were entered into the analyses, these SDT motive types accounted for the preponderance of variance explained by
+goals in outcomes such as self-regulated learning, achievement, and
+cheating. Gillet, Lafrenière, Huyghebaert, and Fouquereau (2015)
+measured six types of achievement goals in two educational settings, as
+well as autonomous and controlled motives for pursuing these goals.
+These included approach and avoidance forms of task, self, and otherfocused learning goals. Results indicated that the motives underlying
+the goals were stronger predictors of well-being than the goals themselves (see also Vansteenkiste, Lens, Elliot, Soenens, & Mouratidis,
+2014). In short, performance goals are often experienced as pressure
+toward outcomes and conduce to controlled motivations, which can
+account for their negative effects. But what about the conditions under
+which such goals become so predominant?
+5.3. High-stakes tests
+In recent years, there has been growing international competition to
+increase educational outcomes, which has led policymakers to demand
+greater accountability from teachers and students, and to pressure both
+to show enhanced test score outcomes. In the U.S.A. and some other
+nations, legislation has applied incentives and sanctions to scores on
+standardized tests, making them into “high-stakes tests” (HST). This
+approach is based on the view that incentivizing teachers and administrators based on test score outcomes will “motivate” them to provide
+better education for students. In other words, they assume poor performance is due to poor teacher motivation, and that contingent rewards and sanctions will remedy this.
+This high-stakes reform approach, as long predicted by SDT (e.g.,
+Ryan & La Guardia, 1999) has been remarkably ineffective. For example, Hout and Elliott (2011) concluded that HST encourages teachers
+to focus narrowly on the material expected to appear on the tests. Focusing on scores, educators have engaged in practices such as not allowing poor-performing students to take the tests, or reporting false
+information on outcomes. Given such dynamics, it should come as little
+surprise that improved HST scores do not typically generalize to other,
+more valid, standardized tests (Nichols & Berliner, 2007). Further, because test scores in specific domains are the focus of sanctions and
+rewards, a widespread practice is to curtail or neglect activities and
+topics that are interesting and engaging, and that enrich development
+(e.g., hands-on projects, music, arts, civics, physical education), but will
+not be subject to HST. By fostering an accountability approach based on
+test outcomes, rather than supporting school reforms that are attentive
+to the psychological needs of teachers and students (e.g., Early et al.,
+2016), education policies are compromising the quality of learning and
+instruction teachers can provide, especially for disadvantaged and ESL
+students (Korentz, 2017).
+Based on SDT principles, we have long opposed high-stakes testing
+approaches, and provided specific motivational accounts of why such
+programs have pervasively failed (see Patall & Zambrano, 2019; Ryan &
+Brown, 2005). SDT argues that outcome-focused rewards and sanctions
+reinforce any route to the goal, even if it represents bad practice. In
+contrast, our criteria for judging policies and practices focuses on the
+extent to which they support autonomous motivation and basic psychological needs in teachers and students. That is, we favor policies that
+focus on supporting the best processes within classrooms, rather than
+trying to reward and punish educators and learners for outcomes. HST
+exemplify the problems with outcome-focused pressures as they tend to
+
+5.2. Performance goals
+Comparative strategies of evaluating and grading students are
+deeply related to the large literature concerning mastery versus performance goals (Urdan & Kaplan, 2020). In mastery goals, the aim is enhancing the learner’s existing competence or knowledge, whereas in
+performance goals the focus is on the student outperforming others.
+Both mastery and performance goals can be further differentiated into
+approach and avoidance types, with substantial evidence suggesting
+that performance-avoidance goals are the most detrimental in educational settings for both performance and well-being (Elliot, 2005).
+In our view, the effects stemming from mastery and performance
+goals can be largely understood in terms of SDT’s concept of functional
+6
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+undermine best practices, and paradoxically are less effective at
+achieving the desired outcomes.
+HST has been an issue not just in the USA, but around the globe.
+Chinese education is, for example, dominated by gaokao, or the National
+Higher Education Entrance Examination, which is a form of HST focused
+primarily on the student rather than teacher or school. The strong
+emphasis on this single exam leads, as we have suggested with other
+HST policies, to teaching to the test, to excessive stress, and to the
+crowding out of intrinsic motivation and autonomy within school
+learning (Sun, Dunne, Hou, & Xu, 2013; Yu, Chen, Levesque-Bristol, &
+Vansteenkiste, 2018). Although HST’s take different forms in different
+nations, to the extent that they are formulated so as to externally
+pressure teachers and students toward a narrow set of performances,
+they interfere with more holistic and need-supportive approaches that
+more fully enhance students’ development, interests, capabilities, and
+wellness.
+
+supportive. Clearly, then, the ways in which teachers and administrators are supported and motivated “from above” affects their capacities to support and optimally motivate the students and teachers
+“below” them. This also makes clear that effective reform in schools is
+not just about changing teachers’ behaviors, but about supporting the
+basic psychological needs of teachers and principals as well.
+6.1. SDT-based interventions
+A number of SDT-based interventions have targeted teachers as the
+most proximal influences on students’ engagement and learning.
+Studies have especially examined whether training teachers to be more
+autonomy supportive can be effective in changing classroom practices
+and improving teacher experiences. For example, Reeve, Jang, Carrell,
+Jeon, and Barch (2004) trained teachers to incorporate autonomy
+support into their teaching styles. Subsequently, they observed both
+trained and control-group teachers in their classrooms on three occasions. Findings showed that trained teachers were significantly more
+autonomy-supportive than the control-group teachers, and, importantly, that the students in the classrooms of the trained teachers
+were more engaged in learning. Su and Reeve (2011) identified nineteen studies in which educators received training in autonomy-supportive methods. A meta-analysis showed that across these studies there
+was a large (0.63) effect size toward improvement for intervention
+groups. Cheon, Reeve, Lee, and Lee (2018) recently reported another
+intervention focused on increasing teacher autonomy support. Results
+showed that the expected increases in teacher autonomy support were
+associated with both increased feelings of efficacy and the adoption of
+more intrinsic goals. In fact, interventions based on SDT have been
+strongly empirically supported relative to other theoretical perspectives
+(see Lazowski & Hulleman, 2016). Such intervention studies are important in demonstrating the causal role of teacher need supports in
+enhancing educational outcomes, and in showing the practical value of
+motivation research.
+
+6. Supporting teachers to support students’ needs
+Clearly there is considerable evidence that basic need-supportive
+classroom strategies promote autonomous motivation, initiative, engagement, and adjustment. Yet autonomy-supportive teaching is not
+always easy, especially given constraints in time, resources, and curricula. Moreover, teachers, like their students, have basic psychological
+needs for autonomy, competence, and relatedness. SDT specifically
+maintains that for teachers to actively support students’ needs, they
+themselves must experience need supports. For example, Roth, Assor,
+Kanat-Maymon, and Kaplan (2007) found that teachers who were more
+autonomously motivated to teach were experienced by students as more
+autonomy supportive and the students were, in turn, more autonomously motivated to learn. Klassen, Perry, and Frenzel (2012) reported
+three studies showing that when teachers experienced more satisfaction
+of the need for relatedness, especially vis-s-vis students, they were more
+engaged and reported less emotional exhaustion.
+Yet school policies and leadership styles can interfere with teachers’
+need satisfaction and lead toward more controlling, and less relationally satisfying, classroom methods. Pelletier, Séguin-Lévesque,
+and Legault (2002) suggested that teachers have to deal with both
+pressures from above (e.g., from accountability policies or controlling
+administrators) and below (e.g., from disengaged students, difficult
+parents). Their research indicated not only that pressures from above
+and below were both negatively associated with teachers’ autonomous
+motivation for teaching, but also with their autonomy support of students. Fernet, Guay, Senécal, and Austin (2012) found that when teachers experienced work overload or disruptive students, the teacher’s
+autonomous motivation for teaching was lower, as was their perceived
+competence, leading in turn to more emotional exhaustion and less
+sense of accomplishment. Bartholomew, Ntoumanis, Cuevas, and
+Lonsdale (2014) showed that job pressures on teachers were associated
+with burnout, a relation mediated by frustration of their basic psychological needs. More recently, Cuevas, Ntoumanis, Fernandez-Bustos,
+and Bartholomew (2018) demonstrated how pressure on teachers to
+boost student performance predicted lower autonomous motivation for
+teaching, lower teacher vitality, and more exhaustion. In Chinese
+schools, Nie, Chua, Yeung, Ryan, and Chan (2015) found that perceived
+supervisor autonomy support was associated with teachers’ reporting
+more intrinsic motivation to teach and higher psychological wellness.
+Clearly, when teachers’ autonomy is frustrated by environmental
+pressures, whether from “above” or “below,” they tend to be more
+controlling with students, and less positively engaged.
+This dynamic does not stop with teachers. Principals too function
+better when they receive autonomy support from their superintendents,
+and less pressure from above and below (Maxwell & Riley, 2017). For
+example, Chang, Leach, and Anderman (2015) reported that principals
+were higher in affective commitment to their schools and job satisfaction when they perceived their superintendents to be more autonomy
+
+7. Future directions for SDT research and practice
+SDT research and its applications have increased tremendously in
+the two decades since our previous CEP special issue article (Ryan &
+Deci, 2000) as a result of the efforts of hundreds of scholars from dozens
+of nations, with varied interests in how the theory relates to educational
+processes and outcomes. In this brief review we could discuss only a
+fraction of these efforts, which are more fully presented in Ryan and
+Deci (2017). SDT is at this point formally made up of six mini-theories
+covering not only the topics of intrinsic motivation, internalization and
+basic needs, on which we focused in this review, but also those of life
+goals and aspirations, individual differences in motivation, and motivation in personal relationships (see Ryan et al., 2019). Moreover, SDT
+has a rich body of work connecting topics such as mindfulness, vitality,
+identity formation, and eudaimonia to motivation and needs, all of
+which apply to educational processes.
+Commentators in this special issue have raised the important
+question of whether we need multiple perspectives on motivation or
+have bemoaned the proliferation of terms and jargon across theories
+that can be confusing to practitioners. In this regard, SDT represents
+both an expansive and expandable framework that provides a unified
+perspective on diverse phenomena that cut across many theories such
+as expectancies, rewards, efficacy, evaluations and feedback, praise,
+values, approach and avoidance motives, achievement goals, ego- and
+task-involvement, contingencies of self-esteem, life aspirations, selfconcepts, epistemic emotions, identity, culture, and many other constructs of interest to educators. SDT’s predictions and findings often
+(though do not always) converge with those of alternative models, even
+though SDT’s formulations have been derived from a “brick by brick”
+approach to theory construction, strategically relying on incremental
+theory expansions, each based in convergent empirical evidence, to
+7
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+avoid errors of commission (Ryan & Deci, 2019). We have also, where
+contradictions emerge, invited “paradigm clashes” to test competing
+hypotheses, including with behaviourist, cultural relativist, social cognitive, objectivist, and other distinct models, ever sharpening SDT’s
+formulations. The resulting clarity, reliability and coherence of SDT
+suggests it can continue to contribute to the coordination and synthesis
+of diverse constructs and findings.
+Notably, a recent special issue of the Journal of Personality (see
+Sheldon & Prentice, 2019) focused on SDT’s adequacy as a meta-framework or foundation for studies in social/personality psychology. In
+commenting on this issue, Ryan, Vansteenkiste, and Soenens (2019)
+argued that, whether or not one accepts SDT an encompassing approach
+to personality studies, it is clearly broadly relevant to the major questions raised across contemporary perspectives. We see a similar potential for SDT in education, as it supplies a systematic, practical, critical, and open framework for studying and promoting what really
+matters to students, teachers and administrators, an issue of central
+concern to Anderman (2020). It has predictive and practical value not
+only in enhancing motivation and performance, but also in fostering
+wellness and thriving. Its strength lies in its being an empirically based
+approach that also relates directly to the phenomenology of learners
+and teachers, thereby attempting to meld rigor with relevance into a
+theoretically unified set of principles and prescriptions.
+Given the breadth of the framework, and the diverse community of
+scholars now driving it forward, the future directions of SDT research
+and practice are hard to anticipate, but we highlight a few areas that we
+suspect will be increasingly active.
+
+measure experience well, validating measures within a network of observational, biological, behavioral, and performance indicators, always
+relating them to the varied conditions faced by learners.
+7.1.1. Learning and technology
+One current direction of SDT research concerns the promise and
+problems associated with new technologies for education. One of the
+great challenges of modern education is that of capturing the attention
+of students and creating engagement for learning tasks. In response,
+educators are turning to the attention-grabbing power of games for
+teaching purposes, using “gamification” strategies to enhance motivation (e.g., McKernan et al., 2015; Rigby, 2014). Relevant to this trend is
+a substantial body of SDT research demonstrating how features of
+games that satisfy autonomy, competence, and relatedness needs account for the motivational draw of successful video games (Rigby &
+Ryan, 2011). Future SDT research will no doubt be looking more closely
+at how educational media, e-learning, remote classrooms, and other
+opportunities afforded by technology can be successfully created to
+motivate engagement and learning (Ryan & Rigby, 2019). Also, students’ and teachers’ motivation to use technology as a tool for learning
+will become an even more active area of research (Peters, Calvo, &
+Ryan, 2018; Sørebø, Halvari, Gulli, & Kristiansen, 2009).
+7.1.2. Improving ‘learning theories’
+The concept of learning theory was central in behavioristic psychologies of the past and helped identify specific reinforcement procedures associated with effort and performance. Today we know that
+psychological variables such as interest and value play a significant role
+in engagement and learning (Froiland & Worrell, 2016), and the need
+supportive conditions that facilitate and undermine them are increasingly understood. We also know that need-supportive conditions foster
+other inner resources for learning including greater executive functioning (e.g., Bindman, Pomerantz, & Roisman, 2015) critical thinking
+(Manganelli et al., 2019) and integrative decision-making (Di
+Domenico, Fournier, Ayaz, & Ruocco, 2013).
+Ahead in SDT is, we think, a deeper-learning theory based on an
+active organismic framework in which a potentially motivated student
+meets with either supportive or thwarting elements in learning contexts
+and contents. Toward that end SDT has a rich set of tools based on its
+theory of functional significance (Deci & Ryan, 2000) for understanding
+when and why factors such as rewards, feedback, evaluations, recognition, competition, and social comparison support or undermine
+learners’ basic need satisfactions. Yet these dynamics will need to be
+more deeply connected with their mechanistic underpinnings and in a
+more detailed way with different categories and types of cognitive
+performance. Motivational processes can also be more directly linked
+with specific teaching practices and curricula that elicit and scaffold
+learning in different subject areas (e.g., Kadir, Yeung, Ryan, Forbes, &
+Diallo, 2018; Rogat et al., 2014). Such an organismic learning theory
+would be concerned not just with how to shape and control learning
+from the outside, but also how to understand and support the inherent
+propensities to learn assumed within SDT in diverse contexts, and the
+rich educational outcomes they can yield.
+
+7.1. Continuing methodological developments at varied levels of analyses
+Among the notable characteristics of SDT’s current body of research
+are the divergent methods being applied to test convergent hypotheses,
+which include both traditional quantitative as well as qualitative
+methods. In fact, from its beginnings SDT has benefited by iteration
+between experimental studies and field research, as well as from
+knowledge derived by interventions and consultations in school settings. Like Nolen (2020) we see these multiple methods and sources of
+information as necessary to capture the complexities of learning environments across the globe. SDT is also concerned with situating
+proximal (e.g., familial, school) influences within pervasive (e.g., cultural, economic) environments, and thus draws upon wider levels of
+analysis (see Ryan & Deci, 2017, 2018). As an organismic theory SDT is
+explicitly committed to consilience and seeks to coordinate its theory
+and findings across evolutionary, neurological, psychological, economic
+and sociological levels of analysis.
+In light of the substantial evidence that more autonomous motivation enhances learning outcomes, research on the neuropsychology of
+autonomy will become increasingly important in crafting the scaffolding and delivery of learning activities (Di Domenico & Ryan, 2017).
+Neuroscience research on intrinsic motivation has, for example, already
+suggested mechanisms through which need supportive conditions such
+as choice and optimal challenge can activate striatal areas associated
+with enjoyment and prefrontal cortical processes critical to engaged
+learning (see Reeve & Lee, 2018).
+Future SDT research will also see even more nuanced methods for
+assessing motivations and perceived need supports. For instance, recently researchers have applied new psychometric approaches to SDT’s
+basic constructs, including techniques such as bi-factor analysis, multidimensional scaling, network analyses, genetic algorithms, latent
+profiling, and other approaches that each shed some unique light on the
+phenomena measured. Unlike psychologists who repudiate self-report
+instruments, SDT sees them as important tools for assessing the functional significance and meaning of events, and as having a critical role
+within motivation sciences alongside other methods. In education, experience matters–it predicts the critical outcomes, and it is something
+we can, through classroom practices, directly influence. We should thus
+
+7.1.3. Teacher and leadership motivation
+SDT research has shown important linkages between teachers’ motivation and wellness and their capacity to be need supportive with their students. Influences on teachers from both above (administrators, policies) and
+below (students, parents) are being actively researched, as we reviewed, but
+more study of the motivations for teaching and for continuing training (e.g.,
+Gorozidis & Papaioannou, 2014; Guay, Valois, Falardeau, & Lessard, 2016;
+Jansen in de Wal, den Brok, Hooijer, Martens, and van den Beemt (2014)) is
+critical, as are studies of teachers instructional and career goals (e.g., Jang,
+2019). In addition, studies of the influence of leadership should continue, as
+leadership styles significantly affect teacher effectiveness and retention (e.g.,
+Nie et al., 2015).
+8
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+7.1.4. More qualitative studies
+As SDT has advanced, quantitative studies have identified general
+principles that are both reliable and predictive. Yet more qualitative
+work is needed throughout SDT to fill in a more detailed picture of
+experiences, practices, and motives involved in need supportive
+schools, and to facilitate translational research for everyday use.
+Qualitative studies also are needed to detail educational innovations
+providing need-supportive environments, to serve as models for change
+(e.g., see Barrable & Arvanitis, 2019). They also advance the cause of
+situating any application SDT’s framework within the varied forces
+operating on teachers and students both within and beyond the classroom setting.
+
+reveal about best practice. If we are to provide our students with the
+skills, habits, interests, and capabilities they will need to meet the
+challenges of the 21st century, these are gaps that we should aspire to
+close.
+References
+Aelterman, N., Vansteenkiste, M., Haerens, L., Soenens, B., Fontaine, J. R. J., & Reeve, J.
+(2019). Toward an integrative and fine-grained insight in motivating and demotivating teaching styles: The merits of a circumplex approach. Educational Psychology,
+111(3), 497–521.
+Anderman, E. (2020). Achievement motivation theory: Balancing precision and utility.
+Contemporary Educational Psychology, 61, 101864. https://doi.org/10.1016/j.
+cedpsych.2020.101864.
+Assor, A., Feinberg, O., Kanat-Maymon, Y., & Kaplan, H. (2018). Reducing violence in
+non-controlling ways: A change program based on self-determination theory. The
+Journal of Experimental Education, 86(2), 195–213.
+Assor, A., Kaplan, H., Feinberg, O., & Tal, K. (2009). Combining vision with voice: A
+learning and implementation structure promoting teachers’ internalization of practices based on self-determination theory. Theory and Research in Education, 7(2),
+234–243.
+Assor, A., Kaplan, H., Kanat-Maymon, Y., & Roth, G. (2005). Directly controlling teachers'
+behaviors as predictors of poor motivation and engagement in girls and boys: The
+role of anger and anxiety. Learning and Instruction, 15, 397–413.
+Assor, A., Kaplan, H., & Roth, G. (2002). Choice is good, but relevance is excellent:
+Autonomy-enhancing and suppressing teacher behaviors in predicting student's engagement in school work. British Journal of Educational Psychology, 72, 261–278.
+Bao, X.-H., & Lam, S.-F. (2008). Who makes the choice?: Rethinking the role of autonomy
+and relatedness in Chinese children’s motivation. Child Development, 79(2), 269–283.
+Barrable, A., & Arvanitis, A. (2019). Flourishing in the forest: Looking at Forest School
+through a self-determination theory lens. Journal of Outdoor and Environmental
+Education, 22, 39.
+Bartholomew, K. J., Ntoumanis, N., Cuevas, R., & Lonsdale, C. (2014). Job pressure and
+ill-health in physical education teachers: The mediating role of psychological need
+thwarting. Teaching and Teacher Education, 37, 101–107.
+Benware, C. A., & Deci, E. L. (1984). Quality of learning with an active versus passive
+motivational set. American Educational Research Journal, 21(4), 755–765.
+Bindman, S. W., Pomerantz, E. M., & Roisman, G. I. (2015). Do children’s executive
+functions account for associations between early autonomy- supportive parenting and
+achievement through high school? Journal of Educational Psychology, 107(3),
+756–770.
+Black, A. E., & Deci, E. L. (2000). The effects of student self-regulation and instructor
+autonomy support on learning in a college-level natural science course: A self-determination theory perspective. Science Education, 84(6), 740–756.
+Butler, R. (1987). Task-involving and ego-involving properties of evaluation: Effects of
+different feedback conditions on motivational perceptions, interest, and performance.
+Journal of Educational Psychology, 79(4), 474–482.
+Chang, Y., Leach, N., & Anderman, E. M. (2015). The role of perceived autonomy support
+in principals’ affective organizational commitment and job satisfaction. Social
+Psychology of Education, 18, 315–336.
+Chatzisarantis, N. L. D., Hagger, M. S., Biddle, S. J. H., Smith, B., & Wang, C. K. J. (2003).
+A meta-analysis of perceived locus of causality in exercise, sport, and physical education contexts. Journal of Sport and Exercise Psychology, 25, 284–306.
+Cheng, R. W. Y., Shu, T. M., Zhou, N., & Lam, S. F. (2016). Motivation of Chinese learners:
+An integration of etic and emic approaches. In R. B. King, & A. B. I. Bernardo (Eds.).
+The psychology of Asian learners (pp. 355–368). Singapore: Springer.
+Cheon, S. H., Reeve, J., Lee, Y., & Lee, J. (2018). Why autonomy-supportive interventions
+work: Explaining the professional development of teachers’ motivating style. Teaching
+and Teacher Education, 69, 43–51.
+Chirkov, V. I., & Ryan, R. M. (2001). Parent and teacher autonomy-support in Russian and
+U.S. adolescents: Common effects on well-being and academic motivation. Journal of
+Cross-Cultural Psychology, 32(5), 618–635.
+Craven, R. G., Ryan, R. M., Mooney, J., Vallerand, R. J., Dillon, A., Blacklock, F., &
+Magson, N. (2016). Toward a positive psychology of indigenous thriving and reciprocal research partnership model. Contemporary Educational Psychology, 47, 32–43.
+Cuevas, R., Ntoumanis, N., Fernandez-Bustos, J. G., & Bartholomew, K. J. (2018). Does
+teacher evaluation based on student performance predict motivation, well-being, and
+ill-being? Journal of School Psychology, 68, 154–162.
+Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. New York, NY: Plenum Publishing Co.
+Deci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits: Human needs
+and the self-determination of behavior. Psychological Inquiry, 11(4), 227–268.
+Deci, E. L., Schwartz, A. J., Sheinman, L., & Ryan, R. M. (1981). An instrument to assess
+adults’ orientations toward control versus autonomy with children: Reflections on
+intrinsic motivation and perceived competence. Journal of Educational Psychology,
+73(5), 642–650.
+Di Domenico, S. I., Fournier, M. A., Ayaz, H., & Ruocco, A. C. (2013). In search of integrative processes: Basic psychological need satisfaction predicts medial prefrontal
+activation during decisional conflict. Journal of Experimental Psychology: General,
+142(3), 967.
+Di Domenico, S. I., & Ryan, R. M. (2017). The emerging neuroscience of intrinsic motivation: A new frontier in self-determination research. Frontiers in Human Neuroscience,
+11, 145.
+Duineveld, J. J., Parker, P., Ryan, R. M., Ciarrochi, J., & Salmela-Aro, K. (2017). The link
+
+7.1.5. Globalization, diversity, and promoting wellness
+We discussed the important role of autonomy support in fostering
+inclusive environments and supporting the diversity of learners. Recent
+research in SDT has been characterized by “universalism without uniformity” approach (Soenens, Vansteenkiste, & Van Petegem, 2015) in
+which personal, situational, or cultural variables may moderate perceptions of, and responses to, need-relevant events, but within clear
+limits. Nuances in how psychological needs are differentially satisfied
+may be particularly advanced by studies using person-centered analyses, as well as qualitative methods.
+7.1.6. SDT as a critical and comparative psychology
+A distinguishing feature of SDT is its specification of basic need
+supports as essential for healthy educational environments. Unlike relativistic perspectives, SDT evaluates curricula, teaching strategies,
+educational leadership styles, and policies based on the extent to which
+they support or thwart learners’ and teachers’ basic psychological
+needs. Given these basic and measurable criteria, SDT thus also provides a basis for critical comparisons between teaching styles, school
+organizations, and even national policies. On this basis Ryan and
+Niemiec (2009) argued that despite its epistemic reliance on empirical
+methods, SDT shares with many constructivist and post-modern approaches to education a concern with cultural internalizations and
+impositions, and a recognition of layered forms of hegemony. It stands
+as an example of theory that can be both empirically grounded and
+critical, and thus merits consideration alongside other critical educational theories. Basic psychological needs are important criteria not just
+because they are drivers of performance outcomes, but because educational environments that support their satisfaction enhance students’
+flourishing across an array of cognitive, personal, and social indicators.
+8. Conclusions
+SDT’s applications in education focus on facilitating the satisfaction
+of the basic psychological needs of both students and teachers. An enormous amount of research in school settings ranging from elementary
+levels to advanced degrees and across diverse cultural contexts has
+confirmed SDT’s position that supports for basic psychological needs
+facilitate students’ intrinsic motivation and well-internalized motivation and enhance their well-being. Research has also increasingly delineated the core elements of need supportive teaching styles.
+Given the importance of basic psychological need supports, understanding and fostering the conditions under which teachers can be need
+supportive is an important practical concern. Yet despite how much we
+know about conditions that promote engagement, motivation and authentic learning, policies that specifically aim to enhance the satisfaction of the basic psychological needs of teachers and students have not
+yet been widely adopted (Patall & Zambrano, 2019). Many teachers are
+forced to find ways to support learners’ psychological needs despite
+institutional obstacles such as mandated curricula, controlling performance pressures, grading requirements, and high-stakes tests. In short,
+there remain important gaps between dominant policies and practices
+in our educational institutions and what SDT research and observations
+9
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+between perceived maternal and paternal autonomy support and adolescent wellbeing across three major educational transitions. Developmental Psychology, 53,
+1978–1994.
+Early, D. M., Berg, J. K., Alicea, S., Si, Y., Aber, J. L., Ryan, R. M., & Deci, E. L. (2016). The
+impact of every classroom, every day on high school student achievement: Results
+from a school-randomized trial. Journal of Research on Educational Effectiveness, 9(1),
+3–29.
+Elliot, A. J. (2005). A conceptual history of the achievement goal construct. In A. Elliot, &
+C. Dweck (Eds.). Handbook of competence and motivation (pp. 52–72). New York:
+Guilford Press.
+Farkas, M. S., & Grolnick, W. S. (2010). Examining the components and concomitants of
+parental structure in the academic domain. Motivation and Emotion, 34(3), 266–279.
+Fernet, C., Guay, F., Senécal, C., & Austin, S. (2012). Predicting intraindividual changes in
+teacher burnout: The role of perceived school environment and motivational factors.
+Teaching and Teacher Education, 28(4), 514–525.
+Froiland, J. M., & Worrell, F. C. (2016). Intrinsic motivation, learning goals, engagement,
+and achievement in a diverse high school. Psychology in the Schools, 53(3), 321–336.
+Gillet, N., Lafrenière, M.-A., Huyghebaert, T., & Fouquereau, E. (2015). Autonomous and
+con- trolled reasons underlying achievement goals: Implications for the 3 × 2
+achievement goal model in educational and work settings. Motivation and Emotion,
+39(6), 858–875.
+Gillet, N., Vallerand, R. J., & Lafreniere, M. K. (2012). Intrinsic and extrinsic school
+motivation as a function of age: The mediating role of autonomy support. Social
+Psychology of Education, 15, 77–95.
+Gnambs, T., & Hanfstingl, B. (2016). The decline of academic motivation during adolescence: An accelerated longitudinal cohort analysis on the effect of psychological
+need satisfaction. Educational Psychology, 36(9), 1691–1705.
+Gorozidis, G., & Papaioannou, A. G. (2014). Teachers' motivation to participate in
+training and to implement innovations. Teaching and Teacher Education, 39, 1–11.
+Gottfried, A. E., Marcoulides, G. A., Gottfried, A. W., Oliver, P. H., & Guerin, D. W. (2007).
+Multivariate latent change modeling of developmental decline in academic intrinsic
+math motivation and achievement: Childhood through adolescence. International
+Journal of Behavioral Development, 31(4), 317–327.
+Grolnick, W. S., Raftery-Helmer, J. N., Marbell, K. N., Flamm, E. S., Cardemil, E. V., &
+Sanchez, M. (2014). Parental provision of structure: Implementation and correlates in
+three domains. Merrill-Palmer Quarterly, 60(3), 355–384.
+Grolnick, W. S., & Ryan, R. M. (1987). Autonomy in children’s learning: An experimental
+and individual difference investigation. Journal of Personality and Social Psychology,
+52(5), 890–898.
+Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. Journal of Educational Psychology, 81, 143–154.
+Grolnick, W. S., Ryan, R. M., & Deci, E. L. (1991). Inner resources for school achievement:
+Motivational mediators of children's perceptions of their parents. Journal of
+Educational Psychology, 83(4), 508–517.
+Guay, F., Ratelle, C. F., Roy, A., & Litalien, D. (2010). Academic self-concept, autonomous
+academic motivation, and academic achievement: Mediating and additive effects.
+Learning and Individual Differences, 20(6), 644–653.
+Guay, F., & Vallerand, R. J. (1997). Social context, student’s motivation, and academic
+achievement: Toward a process model. Social Psychology of Education, 1(3), 211–233.
+Guay, F., Valois, P., Falardeau, É., & Lessard, V. (2016). Examining the effects of a professional development program on teachers' pedagogical practices and students'
+motivational resources and achievement in written French. Learning and Individual
+Differences, 45, 291–298.
+Haerens, L., Aelterman, N., Van den Berghe, L., De Meyer, J., Soenens, B., &
+Vansteenkiste, M. (2013). Observing physical education teachers’ need-supportive
+interactions in classroom settings. Journal of Sport and Exercise Psychology, 35(1),
+3–17.
+Hardré, P. L., & Reeve, J. (2003). A motivational model of rural students’ intentions to
+persist in, versus drop out of high school. Journal of Educational Psychology, 95(2),
+347–356.
+Hayamizu, T. (1997). Between intrinsic and extrinsic motivation: Examination of reasons
+for academic study based on the theory of internalization. Japanese Psychological
+Research, 39(2), 98–108.
+Hout, M., & Elliott, S. W. (2011). Incentives and test-based accountability in education.
+Washington, DC: National Academy Press.
+Howard, J. L., Gagné, M., & Bureau, J. S. (2017). Testing a continuum structure of selfdetermined motivation: A meta-analysis. Psychological Bulletin, 143(12), 1346–1377.
+Jang, H. R. (2019). Teachers' intrinsic vs. extrinsic instructional goals predict their
+classroom motivating styles. Learning and Instruction, 60(1), 286–300.
+Jang, H., Reeve, J., & Deci, E. L. (2010). Engaging students in learning activities: It is not
+autonomy support or structure, but autonomy support and structure. Journal of
+Educational Psychology, 102(3), 588–600.
+Jang, H., Reeve, J., & Halusic, M. (2016). A new autonomy-supportive way of teaching
+that increases conceptual learning: Teaching in students' preferred ways. The Journal
+of Experimental Education, 84(4), 686–701.
+Jang, H., Reeve, J., Ryan, R. M., & Kim, A. (2009). Can self-determination theory explain
+what underlies the productive, satisfying learning experiences of collectivisticallyoriented Korean students? Journal of Educational Psychology, 101(3), 644–661.
+Jansen in de Wal, J., den Brok, P. J., Hooijer, J. G., Martens, R. L., & van den Beemt, A.
+(2014). Teachers' engagement in professional learning: Exploring motivational profiles. Learning and Individual Differences, 36, 27–36.
+Kadir, M. S., Yeung, A. S., Ryan, R. M., Forbes, A., & Diallo, T. M. O. (2018). Effects of a
+dual-approach instruction on students’ science achievement and motivation.
+Educational Psychology Review. https://doi.org/10.1007/s10648-018-9449-3.
+Katz, I., Eilot, K., & Nevo, N. (2014). “I’ll do it later”: Type of motivation, self-efficacy and
+homework procrastination. Motivation and Emotion, 38(1), 111–119.
+
+Klapp, A. (2015). Does grading affect educational attainment?: A longitudinal study.
+Assessment in Education: Principles, Policy and Practice, 22(3), 302–323.
+Klassen, R. M., Perry, N. E., & Frenzel, A. C. (2012). Teachers’ relatedness with students:
+An underemphasized component of teachers’ basic psychological needs. Journal of
+Educational Psychology, 104, 150–165.
+Korentz, D. (2017). The testing charade: Pretending to make schools better. Chicago, IL:
+University of Chicago Press.
+Krijgsman, J., Vansteenkiste, M., Tartwijk, Van, Maes, J., Borghouts, L., Cardon, G., ...
+Haerens, L. (2017). Performance grading and motivational functioning in physical
+education: A self-determination theory perspective. Learning and Individual
+Differences, 55, 210–211.
+Lazowski, R. A., & Hulleman, C. S. (2016). Motivation interventions in education: A metaanalytic review. Review of Educational Research, 86(2), 602–640.
+Legate, N., Ryan, R. M., & Weinstein, N. (2012). Is coming out always a “good thing”?
+Exploring the relations of autonomy support, outness and wellness for lesbian, gay
+and bisexual individuals. Social Psychological and Personality Science, 3(2), 145–152.
+León, J., Núñez, J. L., & Liew, J. (2015). Self-determination and STEM education: Effects
+of autonomy, motivation, and self-regulated learning on high school math achievement. Learning and Individual Differences, 43, 156–163.
+Lepper, M. R., Corpus, J. H., & Iyengar, S. S. (2005). Intrinsic and extrinsic motivational
+orientations in the classroom: Age differences and academic correlates. Journal of
+Educational Psychology, 97(2), 184–196.
+Litalien, D., Morin, A. J. S., Gagné, M., Vallerand, R. J., Losier, G. F., & Ryan, R. M.
+(2017). Evidence of a continuum structure of academic self-determination: A twostudy test using a bifactor-ESEM representation of academic motivation.
+Contemporary Educational Psychology, 51, 67–82.
+Liu, J., Bartholomew, K., & Chung, P. K. (2017). Perceptions of teachers’ interpersonal
+styles and well-being and ill-being in secondary school physical education students:
+The role of need satisfaction and need frustration. School Mental Health, 9(4),
+360–371.
+Manganelli, S., Cavicchiolo, E., Mallia, L., Biasi, V., Lucidi, F., & Alivernini, F. (2019). The
+interplay between self-determined motivation, self-regulated cognitive strategies, and
+prior achievement in academic performance. Educational Psychology, 39, 470–488.
+Markus, H. R., Kitayama, S., & Heiman, R. J. (1996). Culture and basic psychological
+principles. In E. T. Higgins, & A. W. Kruglanski (Eds.). Social psychology: Handbook of
+basic principles (pp. 857–913). New York: Guilford Press.
+Maxwell, A., & Riley, P. (2017). Emotional demands, emotional labour and occupational
+outcomes in school principals: Modelling the relationships. Educational Management
+Administration and Leadership, 45(3), 484–502.
+McKernan, B., Martey, R. M., Stromer-Galley, J., Kenski, K., Clegg, B. A., Folkestad, J. E.,
+... Strzalkowski, T. (2015). We don’t need no stinkin’ badges: The impact of reward
+features and feeling rewarded in educational games. Computers in Human Behavior,
+45, 299–306.
+Moller, A. C., Deci, E. L., & Ryan, R. M. (2006). Choice and ego-depletion: The moderating
+role of autonomy. Personality and Social Psychology Bulletin, 32(8), 1024–1036.
+Murayama, K., Matusumoto, M., Izuma, K., Sugiura, A., Ryan, R. M., Deci, E. L., &
+Matsumoto, K. (2015). How self-determined choice facilitates performance: A key
+role of the metromedial prefrontal cortex. Cerberal Cortex, 25(5), 1241–1251.
+Nichols, S. L., & Berliner, D. C. (2007). Collateral damage: How high-stakes testing corrupts
+America’s schools. Cambridge, MA: Harvard Education Press.
+Nie, Y., Chua, B. L., Yeung, A. S., Ryan, R. M., & Chan, W. Y. (2015). The importance of
+autonomy support and the mediating role of work motivation for well-being: Selfdetermination theory in a Chinese work organization. International Journal of
+Psychology, 50(4), 245–255.
+Nolen, S. (2020). A situative turn in the conversation on motivation theories.
+Contemporary Educational Psychology, 61, 101866. https://doi.org/10.1016/j.
+cedpsych.2020.101866.
+Núñez, J. L., & León, J. (2019). Determinants of classroom engagement: A prospective test
+based on self-determination theory. Teachers and Teaching, 25(2), 147–159.
+Oga-Baldwin, W. L. Q., Nakata, Y., Parker, P. D., & Ryan, R. M. (2017). Motivating young
+language learners: A longitudinal model of self-determined motivation in elementary
+school foreign language classes. Contemporary Educational Psychology, 49, 140–150.
+Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic
+motivation and related outcomes: A meta-analysis of research findings. Psychological
+Bulletin, 134, 270–300.
+Patall, E. A., Dent, A. L., Oyer, M., & Wynn, S. R. (2013). Student autonomy and course
+value: The unique and cumulative roles of various teacher practices. Motivation and
+Emotion, 37, 14–32.
+Patall, E. A., Pituch, K. A., Steingut, R. R., Vasquez, A. C., Yates, N., & Kennedy, A. A.
+(2019). Agency and high school science students’ motivation, engagement, and
+classroom support experiences. Journal of Applied Developmental Psychology, 62,
+77–92.
+Patall, E. A., & Zambrano, J. (2019). Facilitating student outcomes by supporting autonomy: Implications for practice and policy. Policy Insights from the Behavioral and
+Brain Sciences, 6(2), 115–122.
+Pelletier, L. G., Séguin-Lévesque, C., & Legault, L. (2002). Pressure from above and
+pressure from below as determinants of teachers’ motivation and teaching behaviors.
+Journal of Educational Psychology, 94(1), 186–196.
+Peters, D., Calvo, R. A., & Ryan, R. M. (2018). Designing for motivation, engagement and
+wellbeing in digital experience. Frontiers in Psychology, 9, 797.
+Pulfrey, C., Buchs, C., & Butera, F. (2011). Why grades engender performance-avoidance
+goals: The mediating role of autonomous motivation. Journal of Educational
+Psychology, 103(3), 683–700.
+Reeve, J., Bolt, E., & Cai, Y. (1999). Autonomy-supportive teachers: How they teach and
+motivate students. Journal of Educational Psychology, 91, 537–548.
+Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy
+
+10
+
+Contemporary Educational Psychology 61 (2020) 101860
+
+R.M. Ryan and E.L. Deci
+
+Skinner, E., Saxton, E., Currie, C., & Shusterman, G. (2017). A motivational account of the
+undergraduate experience in science: Brief measures of students’ self-system appraisals, engagement in coursework, and identity as a scientist. International Journal
+of Science Education, 39(17), 2433–2459.
+Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental
+psychological control: Proposing new insights on the basis of self-determination
+theory. Developmental Review, 30(1), 74–99.
+Soenens, B., Vansteenkiste, M., & Van Petegem, S. (2015). Let us not throw out the baby
+with the bathwater: Applying the principle of universalism without uniformity to
+autonomy-supportive and controlling parenting. Child Development Perspectives, 9(1),
+44–49.
+Sørebø, Ø., Halvari, H., Gulli, V. F., & Kristiansen, R. (2009). The role of self-determination theory in explaining teachers’ motivation to continue to use e-learning technology. Computers & Education, 53, 1177–1187.
+Streb, J., Keis, O., Lau, K., Hille, L., Spitzer, M., & Sosic-Vasic, Z. (2015). Emotional engagement in kindergarten and school children: A self- determination theory perspective. Trends in Neuroscience and Education, 4(4), 102–107.
+Su, Y.-L., & Reeve, J. (2011). A meta-analysis of the effectiveness of intervention programs designed to support autonomy. Educational Psychology Review, 23(1), 159–188.
+Sun, J., Dunne, M. P., Hou, X.-Y., & Xu, A.-Q. (2013). Educational stress among Chinese
+adolescents: Individual, family, school and peer influences. Educational Review, 65(3),
+284–302.
+Taylor, G., Jungert, T., Mageau, G. A., Schattke, K., Dedic, H., Rosenfield, S., & Koestner,
+R. (2014). A self-determination theory approach to predicting school achievement
+over time: The unique role of intrinsic motivation. Contemporary Educational
+Psychology, 39, 342–358.
+Tian, L., Chen, H., & Huebner, E. S. (2014). The longitudinal relationships between basic
+psychological needs satisfaction at school and school-related subjective well-being in
+adolescents. Social Indicators Research, 119(1), 353–372.
+Tsai, Y.-M., Kunter, M., Lüdtke, O., Trautwein, U., & Ryan, R. M. (2008). What makes
+lessons interesting?: The role of situational and individual factors in three school
+subjects. Journal of Educational Psychology, 100(2), 460–472.
+Urdan, T., & Kaplan, A. (2020). The origins, evolution and future directions of achievement goal theory. Contemporary Educational Psychology, 61, 101862. https://doi.org/
+10.1016/j.cedpsych.2020.101862.
+Vallerand, R. J., Fortier, M. S., & Guay, F. (1997). Self-determination and persistence in a
+real-life setting: Toward a motivational model of high school dropout. Journal of
+Personality and Social Psychology, 72(5), 1161–1176.
+Vansteenkiste, M., Lens, W., Elliot, A. J., Soenens, B., & Mouratidis, A. (2014). Moving the
+achievement goal approach one step forward: Toward a systematic examination of
+the autonomous and controlled reasons underlying achievement goals. Educational
+Psychologist, 49(3), 153–174.
+Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ...
+Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support
+and structure: Associations with self-regulated learning, motivation and problem
+behavior. Learning and Instruction, 22(6), 431–439.
+Vansteenkiste, M., Smeets, S., Soenens, B., Lens, W., Matos, L., & Deci, E. L. (2010).
+Autonomous and controlled regulation of performance-approach goals: Their relations to perfectionism and educational outcomes. Motivation and Emotion, 34(4),
+333–353.
+Vansteenkiste, M., Zhou, M., Lens, W., & Soenens, B. (2005). Experiences of autonomy
+and control among Chinese learners: Vitalizing or immobilizing? Journal of
+Educational Psychology, 97, 468–483.
+Wallace, T. L. B., Sung, H. C., & Williams, J. D. (2014). The defining features of teacher
+talk within autonomy-supportive classroom management. Teaching and Teacher
+Education, 42, 34–46.
+Wang, C. K. J., Liu, W. C., Nie, Y., Chye, Y. L. S., Lim, B. S. C., Liem, G. A., ... Chiu, C. Y.
+(2017). Latent profile analysis of students’ motivation and outcomes in mathematics:
+An organismic integration theory perspective. Heliyon, 3(5), e00308.
+Williams, G. C., Saizow, R., Ross, L., & Deci, E. L. (1997). Motivation underlying career
+choice for internal medicine and surgery. Social Science and Medicine, 45(11),
+1705–1713.
+Yamauchi, H., & Tanaka, K. (1998). Relations of autonomy, self-referenced beliefs, and
+self- regulated learning among Japanese children. Psychological Reports, 82(3),
+803–816.
+Yu, S., Chen, B., Levesque-Bristol, C., & Vansteenkiste, M. (2018). Chinese education
+examined via the lens of self-determination. Educational Psychology Review, 30,
+177–214.
+Yu, S., Levesque-Bristol, C., & Maeda, Y. (2018). General need for autonomy and subjective well-being: A meta-analysis of studies in the US and East Asia. Journal of
+Happiness Studies, 19(6), 1863–1882.
+Yu, C., Li, X., Wang, S., & Zhang, W. (2016). Teacher autonomy support reduces adolescent anxiety and depression: An 18-month longitudinal study. Journal of
+Adolescence, 49, 115–123.
+
+during a learning activity. Journal of Educational Psychology, 98, 209–218.
+Reeve, J., Jang, H., Carrell, D., Jeon, S., & Barch, J. (2004). Enhancing high school students’ engagement by increasing their teachers’ autonomy support. Motivation and
+Emotion, 28(2), 147–169.
+Reeve, J., & Lee, W. (2014). Students’ classroom engagement produces longitudinal
+changes in classroom motivation. Journal of Educational Psychology, 106(2), 527–540.
+Reeve, J., & Lee, W. (2018). Motivational neuroscience. In R. M. Ryan (Ed.). The Oxford
+handbook of motivation(2nd ed.). New York: Oxford University Press.
+Reeve, J., Nix, G., & Hamm, D. (2003). Testing models of the experience of self-determination in intrinsic motivation and the conundrum of choice. Journal of
+Educational Psychology, 95, 375–392.
+Reeve, J., Ryan, R. M., & Deci, E. L. (2018). Sociocultural influences on student motivation as viewed through the lens of self-determination theory. In G. A. D. Liem, & D.
+M. McInerney (Eds.). Big theories revisited 2 (pp. 31–60). Charlotte, NC: IAP.
+Reeve, J., & Tseng, C.-M. (2011). Cortisol reactivity to a teacher’s motivating style: The
+biology of being controlled versus supporting autonomy. Motivation and Emotion,
+35(1), 63–74.
+Rigby, C. S. (2014). Gamification and motivation. In S. P. Walz, & S. Deterding (Eds.). The
+gameful world: Approaches, issues, applications (pp. 113–138). Cambridge, MA: MIT
+Press.
+Rigby, C. S., & Ryan, R. M. (2011). Glued to Games: The attractions, promise and perils of
+video games and virtual worlds. New York, NY: Praeger.
+Rogat, T. K., Witham, S. A., & Chinn, C. A. (2014). Teachers’ autonomy relevant practices
+within an inquiry-based science curricular context: Extending the range of academically significant autonomy supportive practices. Teachers College Record, 116(7),
+1–46.
+Roth, G., Assor, A., Kanat-Maymon, Y., & Kaplan, H. (2007). Autonomous motivation for
+teaching: How self-determined teaching may lead to self-determined learning.
+Journal of Educational Psychology, 99, 761–774.
+Ryan, R. M. (1982). Control and information in the intrapersonal sphere: An extension of
+cognitive evaluation theory. Journal of Personality and Social Psychology, 43, 450–461.
+Ryan, R. M., & Brown, K. W. (2005). Legislating competence: The motivational impact of
+high stakes testing as an educational reform. In A. J. Elliot, & C. S. Dweck (Eds.).
+Handbook of competence (pp. 354–374). New York: Guilford Press.
+Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: Classic definitions
+and new directions. Contemporary Educational Psychology, 25, 54–67.
+Ryan, R. M., & Deci, E. L. (2017). Self-determination theory: Basic psychological needs in
+motivation, development, and wellness. New York, NY: Guilford Publishing.
+Ryan, R. M., & Deci, E. L. (2019). Brick by brick: The origins, development, and future of
+self- determination theory. In A. J. Elliot (Vol. Ed.), Advances in motivation science. 6.
+Advances in motivation science (pp. 111–156). Cambridge, MA: Elsevier Inc. https://
+doi.org/10.1016/bs.adms.2019.01.001.
+Ryan, R. M., & Grolnick, W. S. (1986). Origins and pawns in the classroom: Self-report
+and projective assessments of children's perceptions. Journal of Personality and Social
+Psychology, 50(3), 550–558.
+Ryan, R. M., & La Guardia, J. G. (1999). Achievement motivation within a pressured
+society: Intrinsic and extrinsic motivations to learn and the politics of school reform.
+In T. Urdan (Vol. Ed.), Advances in motivation and achievement: Vol. 11, (pp. 45–85).
+Greenwich, CT: JAI.
+Ryan, R. M., & Niemiec, C. P. (2009). Self-determination theory in schools of education:
+Can an empirically supported framework also be critical and liberating? Theory and
+Research in Education, 7(2), 263–272.
+Ryan, R. M., & Rigby, C. S. (2019). Motivational foundations of game-based learning. In J.
+L. Plass, R. E. Mayer, & B. D. Homer (Eds.). Handbook of game-based learning (pp. 153–
+176). Cambridge, MA: The MIT Press.
+Ryan, R. M., Ryan, W. S., Di Domenico, S. I., & Deci, E. L. (2019). The nature and the
+conditions of human autonomy and flourishing: Self-determination theory and basic
+psychological needs. In R. M. Ryan (Ed.). The Oxford handbook of human motivation
+(pp. 89–110). (2nd ed.). New York, NY: Oxford University Press.
+Ryan, R. M., Vansteenkiste, M., & Soenens, B. (2019). Reflections on self-determination
+theory as an organizing framework for personality psychology: Interfaces, integrations, issues, and unfinished business. Journal of Personality, 87(1), 115–145.
+Scherrer, V., & Preckel, F. (2019). Development of motivational variables and self-esteem
+during the school career: A meta-analysis of longitudinal studies. Review of
+Educational Research, 89(2), 211–258.
+Schutte, N. S., & Malouff, J. M. (2019). Increasing curiosity through autonomy of choice.
+Motivation and Emotion, 43(3), 563–570.
+Sheldon, K. M., Abad, N., & Omile, J. (2009). Testing self-determination theory via
+Nigerian and Indian adolescents. International Journal of Behavioral Development, 33,
+451–459.
+Sheldon, K. M., & Krieger, L. S. (2007). Understanding the negative effects of legal
+education on law students: A longitudinal test of self-determination theory.
+Personality and Social Psychology Bulletin, 33(6), 883–897.
+Sheldon, K. M., & Prentice, M. (2019). Self-determination theory as a foundation for
+personality researchers. Journal of Personality, 87(1), 5–14.
+
+11
+
+

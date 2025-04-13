@@ -1,0 +1,1471 @@
+Education and Information Technologies (2025) 30:4185–4216
+https://doi.org/10.1007/s10639-024-12981-9
+
+The impact of students’ use of ChatGPT on their research
+skills: The mediating effects of autonomous motivation,
+engagement, and self-directed learning
+Yi Li1,2 · Ghulfam Sadiq1 · Ghulam Qambar3 · Pengyu Zheng1
+Received: 17 April 2024 / Accepted: 8 August 2024 / Published online: 27 August 2024
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature
+2024
+
+Abstract
+Integrating ChatGPT into educational contexts has become prevalent due to its potential to revolutionize teaching, learning, and research. However, to ensure positive use, it is necessary to design learning environments that effectively incorporate
+this technology. This study employed self-determination theory as an undergirding framework to understand the impact of ChatGPT-integrated instruction on undergraduate students’ research skills. Moreover, the study explored the impact of
+ChatGPT-integrated instruction on students’ autonomous motivation, engagement,
+and self-directed learning, as well as the mediating role of these variables in the
+relationship between ChatGPT usage and research skills. In this quasi-experimental
+study, 366 undergraduate students majoring in education were divided into control
+and experimental groups. The control group received instruction without ChatGPT,
+while the experimental group received ChatGPT-integrated instruction and was allowed to use ChatGPT for research-related activities. The results revealed that the
+experimental group had significantly higher levels of research skills, motivation,
+engagement, and self-directed learning behavior. Moreover, the use of ChatGPT
+has a significant indirect impact on students’ research skills through the mediating
+variables. This suggests that high autonomous motivation and self-directed learning
+are crucial for students to fully benefit from ChatGPT in developing research skills.
+The findings offer valuable insights for educators to design AI-enhanced learning
+environments to enhance students’ research skills and learning outcomes.
+Keywords ChatGPT-integrated instruction · Self-determination theory ·
+Autonomous motivation · Engagement · Self-directed learning · Research skills
+
+Extended author information available on the last page of the article
+
+13
+
+4186
+
+Education and Information Technologies (2025) 30:4185–4216
+
+1 Introduction
+The landscape of education is undergoing a revolutionary transformation driven by
+the relentless progress of technology, especially Artificial Intelligence (AI) (BaidooAnu & Ansah, 2023). Artificial intelligence has found its way into the heart of education, reshaping teaching methodologies (Karsenti, 2019; Rudolph et al., 2023) and
+learning environments (Karsenti, 2019) and improving learning outcomes (Khan et
+al., 2021; Kim, 2021). At the forefront of this revolution are the chatbots, sophisticated AI-driven tools designed to assist and engage learners by providing personalized learning experiences, immediate feedback, and innovative and interactive
+instructional designs (Adıgüzel et al., 2023; Assor et al., 2009; Atlas, 2023; Kasneci et al., 2023; Xiao & Zhi, 2023). One such remarkable AI chatbot is ChatGPT
+(released on November 30, 2022), a large language generation model that has not
+only revolutionized the world of natural language processing but also has emerged as
+a potential game-changer in education (Chukwuere, 2023; Zhai, 2023).
+ChatGPT has seamlessly integrated into various facets of education with its ability
+to generate coherent and contextually relevant responses. It has also opened new avenues for AI-enhanced teaching, learning, assessment, and evaluation (Baidoo-Anu
+& Ansah, 2023; Deng & Lin, 2022; Rudolph et al., 2023). As we delve into the role
+of ChatGPT, we find a tool that extends beyond conventional boundaries, providing
+students with more than just information; it fosters a dynamic, interactive, motivating, and individualized learning environment (Adıgüzel et al., 2023; Atlas, 2023;
+Kasneci et al., 2023; Muñoz et al., 2023; Su & Yang, 2023). ChatGPT is a versatile
+platform and has diverse applications in education and research, i.e., language learning (Kasneci et al., 2023; Yang et al., 2022), personalized learning (Adıgüzel et al.,
+2023), group and remote learning, facilitation for disabled learners (Kasneci et al.,
+2023), immediate feedback (Halaweh, 2023; Kasneci et al., 2023), review and evaluation of written content, essay and research writing, and idea generation for essay
+and research (Atlas, 2023; Rahman & Watanobe, 2023). Moreover, its applications
+in writing, translation, paraphrasing, grammar improvement, and idea generation
+(Atlas, 2023; Kasneci et al., 2023; Xiao & Zhi, 2023) make it an effective tool for
+developing students’ skills in academic writing (Dowling & Lucey, 2023).
+ChatGPT has transformative potential in the field of research and academic inquiry
+(Atlas, 2023). The emergence of ChatGPT has redefined how students engage with
+their research process. ChatGPT can play the role of research assistant (Dowling &
+Lucey, 2023), as it can be used at all stages of the research process, such as developing research ideas and maturing the research problem, literature review, selecting
+suitable methodology, data analysis, discussion, and creating the outline and writing
+the final draft of the research paper (Atlas, 2023; Fiialka et al., 2023; Halaweh, 2023;
+Karakose et al., 2023; Kasneci et al., 2023; Rahman & Watanobe, 2023). However,
+despite its promising potential to assist in research, its efficacy depends on how students interact with it because it is a tool that, when used optimally, can empower
+learners (Yang et al., 2022), but if misused, may lead to dependency and hinder the
+development of essential skills (Kasneci et al., 2023).
+Kasneci et al. (2023) stated that learners may heavily rely on ChatGPT because
+it generates information quickly without much effort. Consequently, students may
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4187
+
+over-rely on ChatGPT, causing an impediment in their creativity, critical thinking,
+and problem-solving skills (Mhlanga, 2023; Shiri, 2023). Moreover, students may
+use ChatGPT to cheat, complete assignments, and write research papers without testifying to the information generated by ChatGPT (Zhai, 2022); thus, it would limit
+their competence in research activities. Dai et al. (2023) suggested that students
+should have a set of competencies to get quality responses from ChatGPT, so teachers
+must provide guidance and training to students for effective use of ChatGPT. Moreover, some students may still misuse ChatGPT even under the instructor’s guidance
+(Yu, 2023); therefore, teachers must create an engaging and motivating environment
+where students can control their learning process, improving their competency and
+learning outcomes (Zhou & Li, 2023).
+The body of research on the use of ChatGPT is growing. Still, little empirical
+evidence has been provided to prove that integrating ChatGPT into research teaching would improve students’ research skills. Moreover, little literature is available to
+understand the phenomenon behind research skills development by utilizing ChatGPT as a supportive tool. The present quasi-experimental study employed self-determination theory (SDT) as the theoretical framework to reveal the effects of ChatGPT
+usage in creating an autonomous learning environment, thereby affecting engagement and self-directed learning behavior during research methodology class and how
+ChatGPT influences students’ research skills through these variables.
+
+2 Literature review
+2.1 Previous chatbots applications in education
+Over the last few years, artificial intelligence in education has seen rapid growth
+(Roos, 2018). One of the prominent applications being used is chatbot systems
+(Okonkwo & Ade-Ibijola, 2020). Chatbots are conversational agents that provide
+instant responses to users and have been recognized for their potential to enhance
+teaching and learning (Clarizia et al., 2018; Smutny & Schreiberova, 2020). Chatbots
+enhance and promote an engaging and personalized learning environment (Cunningham-Nelson et al., 2019). They deliver students with standardized information such
+as course details (Cunningham-Nelson et al., 2019), learning materials, assessment
+criteria (Benotti et al., 2017), question-answer exercises (Ranoliya et al., 2017; Sinha
+et al., 2020), assignment due dates and timelines for assignment completion, and
+guidance (Ismail & Ade-Ibijola, 2019). They not only promote student engagement
+but also reduce the academic and administrative burden on lecturers; thus, lecturers can focus more on curriculum design and research (Cunningham-Nelson et al.,
+2019). Further applications of chatbot systems in education have been illustrated in
+several studies. For example, chatbots have been used to answer students’ queries
+(Clarizia et al., 2018; Sinha et al., 2020), aid in understanding and learning computer programming (Okonkwo & Ade-Ibijola, 2020; Zhao et al., 2020), assessment
+of student performance (Durall & Kapros, 2020), task completion and engagement
+(Benotti et al., 2017), and administrative services (Hien et al., 2018).
+
+13
+
+4188
+
+Education and Information Technologies (2025) 30:4185–4216
+
+ChatGPT is a new form of chatbot that can generate and maintain a human-like
+conversational style. It has been trained on terabytes of data using natural language
+processing algorithms so that it can generate relevant content upon the user’s request
+(Open AI). Unlike other chatbots, ChatGPT can sustain a coherent and engaging dialogue style, offering contextually appropriate responses to each question. ChatGPT
+has shown great performance in many application domains, such as content and essay
+generation, language translation, question answering, programming and coding, and
+writing improvement (Kasneci et al., 2023). In the context of education, it provides
+many benefits to educators, such as lesson and course planning, designing specific
+topic-related lectures and problem sets, etc. ChatGPT can assist students in language
+learning, problem-solving, task completion, writing essays, and explaining topics to
+enhance learning (Deng & Lin, 2022). ChatGPT’s applications in different domains
+have made it imperative for researchers to study its role in advancing teaching, learning, and research. Hence, this study explores the students’ use of ChatGPT and its
+effect on their research skills.
+2.2 Theoretical framework: Self-determination theory (SDT)
+Self-determination theory, a widely recognized psychological theory developed by
+(Deci & Ryan, 1985; Ryan & Deci, 2000), explores the motivation behind human
+behavior and posits that individuals have innate psychological needs that drive them
+to be self-determined in their actions. These needs are autonomy (the need for individuals to feel control over their actions and choices), competency (the desire for
+individuals to feel effectiveness and mastery in their endeavors), and relatedness (the
+need to feel connected to others and develop meaningful relations within the context
+of one’s pursuits) (Ryan & Deci, 2000). According to Deci and Ryan (1985), when
+these psychological needs of individuals are satisfied, they appear to be intrinsically
+motivated, self-determined, autonomous, and self-directed in their actions. In the context of education, STD assumes that when students’ psychological needs are satisfied,
+they are more motivated and engaged in their learning process (Assor et al., 2009;
+Ryan & Deci, 2000). Within the context of this framework, the study turns its focus
+to autonomy, a central component of STD. It explores how autonomy, when fostered
+through ChatGPT usage under instructor guidance, influences students’ autonomous
+motivation, engagement, and self-directed learning and impacts students’ research
+competence in the realm of higher education.
+Autonomy, in the context of education, pertains to the students’ inherent need for
+control, choice, and volition in their actions and decision-making in their learning
+process (Ryan & Deci, 2020). Integrating Artificial Intelligence (AI) chatbots and
+ChatGPT into education is intrinsically tied to the principle of autonomy. As AIdriven tools, chatbots allow students to engage with them and make choices and decisions, taking control of their learning experiences and promoting learners’ autonomy
+(Chen et al., 2022; Guo et al., 2022). ChatGPT is a recent AI-driven chatbot that has
+revolutionized the teaching-learning process as it has numerous applications such as
+the provision of immediate feedback, personalized learning experiences, language
+learning, structural and content suggestions for essays (Xiao & Zhi, 2023), and uses
+in academic and research writing (Fiialka et al., 2023).
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4189
+
+ChatGPT promotes an autonomous study environment by allowing students to
+develop their learning objectives, goals, and content under the supervision of teachers (Adıgüzel et al., 2023; Muñoz et al., 2023). ChatGPT can analyze students’ performance and suggest learning pathways and content-specific learning resources
+(Kasneci et al., 2023; Wang & Chen, 2023). As in the traditional mode of learning,
+students do not need to ask their teachers about small details every time they face
+a particular problem in their academic journey because ChatGPT provides instant
+suggestions (Wang & Chen, 2023). Thus, when teachers integrate ChatGPT into the
+instructional process, it promotes autonomous, independent, and self-directed learning among students (Dai et al., 2023; Fiialka et al., 2023; Xiao & Zhi, 2023) because,
+in technology-driven instructional design, students actively engage in the learning
+process through interaction, experimentation, and experience (Sutton & Allen, 2019).
+Moreover, the findings from the study of Muñoz et al. (2023) suggest that integrating ChatGPT into the teaching process increases student motivation to learn autonomously. Hence, it can be concluded that ChatGPT integration in teaching fosters
+autonomy among students, resulting in active engagement and autonomous motivation and promoting self-directed learning (Assor et al., 2009; Ryan & Deci, 2000).
+Based on the above discussion, the research model is grounded in self-determination theory (SDT). It suggests that the use of ChatGPT under the instructor’s guidance fosters an autonomous learning environment. The use of ChatGPT promotes
+active engagement and autonomous motivation; as a result, students develop the necessary skills to conduct research independently. By focusing on autonomous motivation, this framework offers a lens to explore the motivational processes in educational
+contexts and their role in developing research skills among undergraduate students.
+2.3 Hypothesis development
+Motivation and engagement are crucial factors influencing student achievement and
+learning outcomes (Deci et al., 1991; Rafiola et al., 2020). As defined by Deci and
+Ryan (1985), motivation encompasses internal and external factors that drive students to pursue specific learning goals. In contrast, engagement refers to the emotional, cognitive, and behavioral depth of students’ involvement in learning activities
+(Fredricks et al., 2004). More narrowly, engagement can be defined as ‘time and
+effort’ spent performing educational activities (Radloff & Coates, 2010). Higher levels of student motivation and engagement are integral to fostering an environment
+where students actively participate and invest in their learning (Lo et al., 2022). Consequently, contemporary literature strongly emphasizes various factors to enhance
+motivation and engagement, particularly emphasizing instruction design. Literature
+suggests that instructional design that prioritizes personalized learning experiences,
+immediate feedback, and autonomous and active learning environments positively
+impacts students’ motivation and engagement in learning (Adıgüzel et al., 2023;
+Cunningham-Nelson et al., 2019).
+The advent of technology has shaped the landscape of teaching-learning methods;
+thus, technology-enhanced and especially AI-driven instructional designs emerge as
+key contributors to building motivational and engaging learning environments (Gikas
+& Grant, 2013; Hirankerd & Kittisunthonphisarn, 2020; Xiao & Zhi, 2023). The use
+
+13
+
+4190
+
+Education and Information Technologies (2025) 30:4185–4216
+
+of AI-driven tools, including chatbots such as ChatGPT, in teaching and learning has
+gained attention for their potential to transform instructional approaches. Chatbots
+and large language models, particularly ChatGPT have vast applications in education such as the provision of instant feedback, autonomy-based learning (Yang et
+al., 2022), personalized learning recommendations (Chen et al., 2022), assistance in
+academic and research writing (Kasneci et al., 2023), language learning (Xiao & Zhi,
+2023), and critical and deep-thinking cultivation (Wang & Chen, 2023). Integrating
+these chatbots in teaching fosters interactive learning experiences, thus improving
+students’ motivation and engagement (Adıgüzel et al., 2023).
+Muñoz et al. (2023) found that using ChatGPT during English language learning
+significantly affected students’ intrinsic motivation and engagement and developed a
+sense of independence and empowerment. Integrating ChatGPT into instruction and
+allowing students to use this tool positively facilitates autonomous learning abilities, flexible interaction, student communication, and student learning outcomes and,
+consequently, improves students’ motivation and engagement (Adıgüzel et al., 2023;
+Muñoz et al., 2023; Wang & Chen, 2023). In addition, findings suggest that ChatGPT enhances student motivation and active engagement as it assists in developing personalized learning goals (Atlas, 2023; Su & Yang, 2023), allows intelligent
+dialogue (Zhou & Li, 2023), increases interest, and deep thinking, and knowledge
+absorption (Wang & Chen, 2023), and promotes collaborative learning (Kasneci et
+al., 2023). ChatGPT considers the students’ individuality and cultivates an autonomy-based learning atmosphere where students actively engage in their learning
+activities (Wang & Chen, 2023; Xiao & Zhi, 2023). Furthermore, past research posits
+that ChatGPT usage increases students’ motivation and engagement with research
+because it gives instant feedback, reviews and evaluates written content, improves
+grammar, and helps in idea generation, locating the resources of information, and
+data analysis (Atlas, 2023; Dowling & Lucey, 2023; Halaweh, 2023; Muñoz et al.,
+2023). Therefore, it can be proposed that.
+H1a ChatGPT usage positively affects students’ motivation.
+H1b ChatGPT usage positively affects student engagement.
+Self-directed learning (SDL) is “a process in which individuals take the initiative,
+with or without the help of others, in diagnosing their learning needs; formulating
+learning goals; identifying material and human resources for learning; choosing and
+implementing appropriate learning strategies; and evaluating learning outcomes”
+(Knowles, 1975). Self-directed learners engage in challenging tasks and develop personal knowledge and abilities to solve these tasks efficiently (Gibbons, 2002). Selfdirected learning (SDL) is synonymously used with autonomous learning in which
+students have the locus of control and responsibility for their learning activities without people’s assistance, such as teachers, parents, peers, etc. (Oddi, 1987; Pierson,
+1996; Svedberg, 2010) hence SDL directly aligns with the autonomy principle of
+self-determination theory (SDT). According to SDT, when the autonomy needs of
+students are satisfied, they become intrinsically motivated and engaged to take charge
+of what, when, and how to learn (Chan, 2001; Ryan & Deci, 2020). SDL has been
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4191
+
+found to enhance academic achievement (Cazan & Schiopca, 2014) and students’
+learning outcomes (Zhoc et al., 2018); thus, researchers focus on factors such as
+motivation, engagement, and technology to foster SDL behavior among students.
+Research has shown that enhanced student engagement and motivation catalyze
+students toward self-directed learning (Altinpulluk et al., 2023; Rashid & Asghar,
+2016). The level of motivation and engagement in digital learning environments predict what, when, and how learners learn (Barak et al., 2016; Deimann & Bastiaens,
+2010). Altinpulluk et al. (2023) found a moderate positive correlation between intrinsic motivation and self-directed learning among students in Massive Open Online
+Courses (MOOCs). Similarly, (Rashid & Asghar, 2016) conducted a study to find the
+interrelations between technology use, student engagement, self-directed learning,
+and academic performance. They found that technology use has a positive impact on
+student engagement, which in turn improved students’ self-directed learning.
+Technology and AI-based learning environments also play a crucial role in fostering self-directed learning by developing motivation and engagement (Baidoo-Anu &
+Ansah, 2023; Firat, 2023; Rashid & Asghar, 2016; Sumuer, 2018). Technology-based
+learning environments increase student autonomy and allow students to take control
+of their learning (Chiu et al., 2023b; Gikas & Grant, 2013), promoting self-directed
+learning. With the advent of AI in education, researchers have shifted their focus to
+AI chatbots and how these enhance student motivation, engagement, self-directed
+learning, and learning outcomes. AI chatbots provide individualized guidance and
+learning paths, instant feedback, and enable students to recognize, learn from, and
+improve their mistakes, thus prompting self-reflection and self-directed learning
+(Chiu et al., 2023b; Xia et al., 2022). ChatGPT, one of the recent AI chatbots, can
+encourage self-directed learning by providing asynchronous and autodidact learning
+opportunities, increased involvement and communication, and individualized education (Adıgüzel et al., 2023; Firat, 2023). Thus, students using AI chatbots responsibly are more motivated and engaged in learning activities. Firat (2023) suggested
+five ways ChatGPT can promote self-directed learning among students: personalized support, real-time feedback and guidance, increased accessibility, convenient
+and flexible learning, and enhancing the use of open educational resources. Incorporating ChatGPT into educational programs heightens students’ motivation to study
+independently (Muñoz et al., 2023) and develops a greater sense of volition in their
+learning process (Dai et al., 2023; Fiialka et al., 2023; Zhou & Li, 2023). However,
+not all students can utilize ChatGPT to its maximum potential because the responses
+of ChatGPT mainly depend on how effectively a person can prompt it to get the
+desired response; thus, teachers should train students to write effective prompts (Dai
+et al., 2023). Xiao and Zhi (2023) recommended that teachers guide students using
+ChatGPT to take charge of their learning and become autonomous and self-directed
+learners. Hence, ChatGPT usage under instructor guidance would increase students’
+motivation and engagement in the learning process, resulting in more self-directed
+learning behavior. Therefore, it can be deduced that:
+H2a Students’ motivation positively influences self-directed learning.
+H2b Student engagement positively influences self-directed learning.
+
+13
+
+4192
+
+Education and Information Technologies (2025) 30:4185–4216
+
+Research is an inquiry-based process that includes research design, methodology,
+data collection and analysis, and communicating the findings through report writing (Kothari, 2004). Students’ ability to plan and conduct research is influenced by
+a blend of motivational, gnoseological, operational, and personal factors (Prosekov
+et al., 2020), and central to these is self-directed learning. Prosekov et al. (2020)
+reported that students with a strong intrinsic motivation for educational activities,
+characterized by self-directed learning and self-affirmation, are more adept at developing their knowledge and research skills (Prosekov et al., 2020). Self-directed learning, in particular, has been linked to positive academic outcomes (Zhoc et al., 2018),
+such as higher GPAs and successful college entrance examinations, as evidenced in
+the Hong Kong context (Zhoc & Chen, 2016). Moreover, self-directed learning activities promote students’ confidence, cognitive abilities, intrinsic motivation to acquire
+new knowledge, high understanding of information, critical thinking, and reasoning
+abilities (Jennings, 2007; Lounsbury et al., 2009; Lunyk-Child et al., 2001; Smedley,
+2007). Self-directed learning has also been found to affect students’ research competencies as when students can independently choose the resources of knowledge,
+formulate research problems and hypotheses, analyze data, and draw conclusions,
+they possess high research skills (Prosekov et al., 2020). Therefore, the study proposes that,
+H3 Students’ self-directed learning is positively related to research skills.
+Research skills depend not merely on motivational factors but also on gnoseological and operational factors, i.e., the ability to initiate a research problem, plan and
+organize research, knowledge of research apparatus, and report the findings to others
+(Prosekov et al., 2020). Creswell (2015) provided six steps for conducting research:
+identifying the research problem, reviewing the literature, specifying the research
+purpose, collecting the data, analyzing and interpreting data, and reporting and evaluating the research. The emergence of artificial intelligence and ChatGPT has facilitated students’ proficient mastery of these steps, and a reasonable amount of research
+has been conducted on the uses of AI and ChatGPT in scientific research (Dowling
+& Lucey, 2023; Gao et al., 2022; Grimaldi & Ehrler, 2023; Hutson, 2022; Alshater,
+2022; Zhai, 2022). ChatGPT has been found to affect the performance of students
+and researchers at all stages of research, i.e., idea generation (Atlas, 2023; Dowling
+& Lucey, 2023; Halaweh, 2023; Kasneci et al., 2023), literature reviews (Dowling
+& Lucey, 2023; Halaweh, 2023), data collection (Fiialka et al., 2023), data analysis
+(Atlas, 2023; Halaweh, 2023; Karakose et al., 2023; Kasneci et al., 2023; Van Dis
+et al., 2023), and writing summary reports (Mhlanga, 2023; Rahman & Watanobe,
+2023). ChatGPT can assist students in locating the sources of information, summarization of research articles, hypothesis development, writing outlines for articles
+and theses, writing initial drafts, providing feedback, and evaluating written content
+(Atlas, 2023; Halaweh, 2023; Karakose et al., 2023; Kasneci et al., 2023; Rahman
+& Watanobe, 2023). Critical evaluation and data feedback given by ChatGPT on
+written content can help improve vocabulary, grammar, and sentence structure, thus
+improving students’ writing capabilities (Rahman & Watanobe, 2023). Moreover, its
+uses for translation, paraphrasing, summarization, and qualitative and quantitative
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4193
+
+data analysis are also commendable (Fiialka et al., 2023; Mhlanga, 2023; Xiao &
+Zhi, 2023). However, ChatGPT’s benefits during the research process rely mainly on
+the individuals using it because the quality of ChatGPT’s responses depends on the
+quality of the prompts; thus, instructors should guide students to give better prompts
+to ChatGPT (Dai et al., 2023). Therefore, it can be concluded that ChatGPT, if used
+effectively, will enhance students’ research potential by assisting at every stage of the
+research process (Dowling & Lucey, 2023). Therefore,
+H4 ChatGPT usage positively affects students’ research skills.
+Based on the above-given literature, the current study proposes a mediation model, as
+shown in Fig. 1, where ChatGPT usage indirectly influences students’ research skills
+by increasing their autonomous motivation, engagement, and self-directed learning
+behavior.
+Allowing students to use ChatGPT under the instructor’s guidance enhances
+their intrinsic motivation through personalized learning experiences and autonomysupported learning environments (Adıgüzel et al., 2023; Muñoz et al., 2023). Students receive instant feedback, recommendations, and learning paths tailored to their
+needs, capabilities, and interests, fostering a sense of ownership and control over
+their learning activities. This is related to the autonomy principle of self-determination theory (STD) and explains the role of ChatGPT in satisfying students’ autonomy
+needs and boosting their intrinsic motivation (Deci & Ryan, 1985; Ryan & Deci,
+2000). Moreover, ChatGPT provides interactive learning dialogues (Zhou & Li,
+2023) and enhances student communication (Kasneci et al., 2023), increasing student engagement (Adıgüzel et al., 2023). This interactive learning environment keeps
+students actively involved in the learning process, fostering greater understanding
+
+Fig. 1 Conceptual framework
+
+13
+
+4194
+
+Education and Information Technologies (2025) 30:4185–4216
+
+and critical thinking (Wang & Chen, 2023), ultimately leading to greater motivation
+and engagement. Enhanced motivation and engagement directly contribute to the
+development of self-directed learning (SDL). When students feel they have control
+over their learning, they are more likely to take initiative, set goals, and manage
+their learning independently (Ryan & Deci, 2020). Furthermore, higher engagement
+in learning activities increases active participation and exploration, promoting selfdirected learning behaviors like research problem-solving and discovery learning
+(Altinpulluk et al., 2023; Rashid & Asghar, 2016). ChatGPT makes complex tasks
+look easy, and as students experience success and progress in their learning, they
+become more confident in their abilities to take challenging tasks and complete them
+independently, which is essential for becoming self-directed learners.
+SDL has a direct relationship with improved research competency and skills.
+Students who engage in self-directed learning activities develop crucial research
+skills like problem identification, hypothesis generation, data collection, analysis,
+and drawing conclusions (Prosekov et al., 2020). These skills are the cornerstone
+of research competency and enable students to conduct independent research projects effectively. Furthermore, SDL promotes critical thinking and reasoning abilities
+(Jennings, 2007; Smedley, 2007), enhancing students’ capacity to analyze information, interpret findings, and draw sound conclusions – invaluable skills for conducting quality research. Additionally, the confidence and initiative gained through SDL
+empower students to take ownership of their research projects, leading to enhanced
+research skills (Prosekov et al., 2020). Thus, it can be concluded that ChatGPT usage
+under the instructor’s guidance can indirectly but significantly improve students’
+research skills through its influence on motivation, engagement, and self-directed
+learning. Therefore:
+H5 Autonomous motivation, engagement, and self-directed learning mediate the
+relationship between ChatGPT usage and research skills.
+
+3 Methods
+3.1 Research design
+The study employed a quasi-experimental design with two distinct groups, i.e., the
+experimental group (with intervention) and the control group (without intervention).
+This aligns with the suggestion (Anderson-Cook, 2005) that a quasi-experimental
+design is appropriate when the random assignment of groups is impractical. This
+study was conducted in a large public sector university in Pakistan. It focused on
+final-year undergraduate students in the Department of Education who were enrolled
+in the ‘Research Methodologies’ course and were working on their final-year project
+or thesis. Since the target population’s characteristics were unique, final-year students enrolled in a research methodology course, working on the final thesis; thus,
+employing a true experimental design posed challenges. Considering the scarcity
+of resources, random assignment of participants to groups was impractical. The
+researcher accessed all the classes formed by the university’s Department of Edu-
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4195
+
+cation. After seeking permission from the head of the department, the researcher
+randomly assigned three classes to each of the experimental and control groups to
+enhance the experiment’s internal validity.
+3.2 Participants and procedure
+The study included 366 undergraduate students in their final year enrolled in the
+Bachelor of Arts in Education majors at a large public sector university in Pakistan.
+The experimental and control groups comprised 206 and 160 students, respectively.
+There were six classes, and three classes for each group were selected randomly. The
+course content for both groups comprised six steps of conducting research: Identifying the research problem, reviewing the literature, specifying the research purpose,
+collecting the data, analyzing and interpreting data, and reporting and evaluating the
+research (Creswell, 2015). The course duration for six classes was ten weeks, with
+three lectures per week, each one hour long. Students were required to pass a written exam and write a research proposal at the end of the semester to evaluate their
+research skills. Students who participated in the current study had similar educational
+backgrounds. Moreover, instructors in both were middle-aged males with comparable years of work experience. It should also be noted that instructors in control and
+experiment groups taught the students in the same way, except for the difference in
+ChatGPT usage.
+3.3 Instructional design
+3.3.1 Control group
+The control group received traditional teaching to cover the course contents. Conventional teaching methods were used, such as lectures, discussions, assigned books, and
+article readings. Teachers used PowerPoint presentations to explain the basic concepts about each step of conducting research and assigned different classroom activities and homework assignments for practice. To enhance the experiment’s validity,
+teachers in control groups prohibited students from using ChatGPT and informed
+them about AI writing detection tools to check their written content. This strategy
+ensured that students in this group would not use ChatGPT to complete the given
+assignments.
+3.3.2 Experimental group
+In the experimental group, the course content was augmented through the integration of ChatGPT during teaching. The version of the ChatGPT that instructors and
+students used was 3.5. The instructors demonstrated the features of ChatGPT and
+its uses for performing different tasks, such as writing, feedback, and locating the
+sources of information. The instructor taught the research steps and the uses of ChatGPT at each step. The rationale behind the instructor’s guidance on ChatGPT usage
+was to develop digital competencies among students in using AI-driven tools.
+
+13
+
+4196
+
+Education and Information Technologies (2025) 30:4185–4216
+
+3.3.2.1 Students’ training on the use of ChatGPT The training involved guiding students on how to use and interact with ChatGPT to facilitate learning tasks. Instructors
+covered four main aspects of training: (1) features of ChatGPT, (2) uses of ChatGPT
+in research, (3) constructing effective prompts, and (4) applications of ChatGPT for
+research-related activities. The training sessions were integrated into the regular lectures. At the end of every lecture, teachers demonstrated the uses of ChatGPT to
+master the taught content, and students applied ChatGPT to various learning and
+research activities.
+Before the practical training, instructors discussed the ethical issues and potential drawbacks of using ChatGPT. Ethical principles were integrated throughout the
+whole course, emphasizing the responsible use of ChatGPT, avoiding plagiarism,
+and verifying the information provided by ChatGPT. Students were informed about
+false citations, references, and information provided by ChatGPT and were instructed
+to verify these from Google Scholar or other databases. An important part of the
+training involved constructing effective prompts. The training sessions were interactive and hands-on. Initially, instructors explained the key components of an effective
+prompt: task, context, and exemplar. Students practiced these components through
+practical exercises. Subsequent training involved using ChatGPT in actual research
+tasks. Table 1 describes students’ training on ChatGPT usage at each research step
+and some sample prompts that they used during the practice.
+Several mechanisms were adopted to ensure students used ChatGPT ethically and
+effectively. First, teachers observed students during the practice sessions and also
+provided individual guidance on writing prompts. It also helped the instructors evaluate the students for proficiency in ChatGPT usage. Second, instructors verified the
+accuracy of the information and citations given in students’ reports, and the presence of false citations indicated that students did not verify them during the research.
+Third, AI detection tools were used to detect if students had copy-pasted the contents from ChatGPT. Moreover, the attainment of expected training outcomes was
+evaluated through classroom observations and demonstrations. Students were asked
+to present their prompts in front of the class, expressing their understanding of the
+applications of ChatGPT in research tasks.
+3.3.2.2 Students’ interaction with ChatGPT Screenshots of students’ logs were taken
+to demonstrate how they interacted with ChatGPT. These logs provide insights into
+the quality of prompts and responses given by ChatGPT to facilitate students’ research
+activities. Examples of a few prompts and ChatGPT’s responses are provided below.
+The quality of ChatGPT’s response depends on the quality of the prompts it is
+given. Figure 2 is an example of a student discussing research ideas with ChatGPT.
+From the first part of the picture, it is evident that the question was not clear; hence,
+ChatGPT did not provide a specific response. The 2nd part shows the student’s clarification of the question and the ChatGPT’s improved and specific response. It can
+also be used to generate outlines for literature reviews (Fig. 2) and discuss suitable
+research methodologies for any research topic (Fig. 3). Similarly, it can also be used
+to search data collection instruments (Fig. 4).
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4197
+
+Table 1 Description of students’ training on the use of ChatGPT
+Research step
+Description of training
+Sample prompts
+Initial training
+Students were introduced to
+I am a 22-year-old undergraduate student. I want to
+the important components of
+learn research (context). Provide me a weekly plan
+a prompt, i.e., task, context,
+to learn research methods (task) based on the book
+exemplar, etc. The aim of this “Research Design: Qualitative, quantitative, and
+was to improve their ability to mixed methods approach” (exemplar).
+create effective prompts.
+Problem
+Students discussed their
+I am an undergraduate student. My major is educaidentification
+research ideas with ChatGPT
+tion. I want to research the role of AI in improving
+and used it to find research
+teaching and learning. Suggest some emerging
+gaps and formulate research
+research topics in this field of study.
+questions related to the chosen
+topic.
+Literature
+Students used ChatGPT to
+My research topic is “….”. Can you generate an
+review
+create outlines for the literature outline to write the literature review section of my
+review and gather data related paper?
+to the topic.
+Define the key terms in my topic and provide references for each definition.
+Research
+Students used ChatGPT
+I am doing research on the following topic: “…”.
+Methodology
+to learn different research
+Which type of research methodology can I use for
+methodologies and which
+this?
+methodologies were suitable
+Why only this type of methodology? What are the
+for their topic.
+drawbacks of using other methodologies and this is
+better in which aspects from others?
+Data analysis
+Students used ChatGPT to un- Based on these research questions, which type of
+derstand data analysis methods tests should I run to find the answers and which
+and which tests they should run software should I use?
+to analyze the data.
+Provide me with the steps to find the mean score of
+research variables in SPSS.
+Report writing
+Students received assistance
+Provide me an outline of a scholarly research paper.
+from ChatGPT to draw the
+I have written this introductory paragraph of the
+structure and outline of reintroduction of the research paper. Can you find
+search papers and improve the the grammatical errors in it and evaluate it? Also,
+grammar and language of the
+provide suggestions for further improvements.
+written content.
+And how can I effectively transition to the next
+paragraph?
+
+ChatGPT also offers assistance in understanding data analysis techniques based
+on the research questions. Figure 5 illustrates a student’s query to identify an appropriate test for their research question. As shown in the figure, ChatGPT provides a
+comprehensive response to guide students. By asking follow-up questions, students
+can refine their inquiries specific to their research interests. For instance, the student
+in Fig. 5 could ask, “How do we conduct regression analysis in SPSS, and how do
+we interpret results?” and ChatGPT would generate step-by-step instructions for carrying out the analysis as well as interpretations of the obtained results. Therefore,
+using clear and specific prompts with ChatGPT leads to more precise and helpful
+responses.
+
+13
+
+4198
+
+Education and Information Technologies (2025) 30:4185–4216
+
+Fig. 2 A student asking about ideas on a specific topic
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4199
+
+Fig. 3 Generating literature review outline with ChatGPT
+
+3.4 Instruments and data collection
+Items to measure the constructs in the current study were taken from published
+sources. Four items from the use behavior construct of the UTAUT model (Venkatesh
+et al., 2003) were used to measure students’ use of ChatGPT. The items were modified in the context of ChatGPT usage. The following are samples of the items used
+to measure ChatGPT usage in the study: “I communicate with ChatGPT when I face
+problems during research-related tasks” and “I use ChatGPT to discuss my research
+ideas and problem identification”. To assess the students’ autonomous motivations to
+learn and conduct research, the intrinsic motivation scale from the Academic Motivation Scale (Venkatesh et al., 2003) was employed, and items were modified in
+the context of this study. The scale consisted of five items that explored students’
+autonomous motivations to learn and conduct research. Some of the items of the
+autonomous motivation scale are as follows: “I experience pleasure and satisfaction
+while doing research”, “For the pleasure I experience when I discover new things
+
+13
+
+4200
+
+Education and Information Technologies (2025) 30:4185–4216
+
+Fig. 4 Finding scales to measure different constructs
+
+in research that I have never learned before”, and “Because research allows me to
+continue to explore many ideas that interest me”.
+The Utrecht Work Engagement Scale for Students, validated by Carmona-Halty et
+al. (2019), was utilized to measure students’ engagement. The scale originally measured workers’ engagement with work, but four items taken from this were modified in the context of the study to capture students’ engagement with research. Some
+of the items on the engagement scale are “I feel energetic and capable when I’m
+learning research” and “I am enthusiastic about my research”. To measure students’ self-directed learning, Lounsbury et al. (2009)’s self-directed learning scale
+was employed and administered to measure students’ perceptions of self-directed
+behavior in doing research. A few items of the SDL scale were “I am very good at
+finding out answers on my own for research-related tasks” and “I am good at finding
+the right resources to help me do well in research”. Lastly, to examine the level of
+research skills of students, Alfakih (2017)’s scale was employed to measure students’
+skills in developing research proposals. This scale comprised six items that measured
+students’ perceptions of research skills. The modified six items measured students’
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4201
+
+Fig. 5 Using ChatGPT for assistance in data analysis
+
+skills in problem identification, writing literature reviews and research methodology,
+identifying data analysis techniques, and report writing. Some of the items were “I
+am able to identify a general research area of interest and select a research topic”,
+“I can locate different information sources to find literature that is associated with
+the general research area”, and “I can explain data analysis approaches necessary
+for my research topic”.
+All items in the questionnaire survey were measured on a five-point Likert scale
+ranging from “strongly disagree (1)” to “strongly agree (5)”. A confirmatory factor
+analysis was conducted to ensure the reliability and validity of the research instruments. Each scale’s composite reliability (CR) and average variance extracted (AVE)
+were calculated to ensure validity and convergent validity. Furthermore, discriminant
+validity analysis was also conducted to ensure the validity of the modified instru-
+
+13
+
+4202
+
+Education and Information Technologies (2025) 30:4185–4216
+
+ments. The details of the validity and reliability analysis are provided in the results
+section.
+The survey form was administered to both groups before the first lecture of the
+course to collect pre-test data. The survey form for the pre-test did not include the
+ChatGPT usage and student engagement scale. The pre-test data was collected to
+ensure that the control and experimental groups did not differ significantly in terms
+of autonomous motivation, self-directed learning, and research skills. The survey
+form was again introduced at the end of the semester to collect post-test data from
+the control group. However, since the experimental group was using ChatGPT, the
+ChatGPT usage scale was added to the post-test data collection. Moreover, students’
+engagement with the course and research-related activities was also measured for
+both groups in the post-test.
+3.5 Sample size for SEM
+The sample size in this study was 366, of which 160 students were in the control
+group, and 206 students were in the experiment group. The post-test collected from
+the experimental group was used in SEM analysis. The sample size for SEM is
+adequate based on the following thresholds. Kline (2023) argues that SEM models
+require a minimum sample size of 200. Hair et al. (2010) suggested that the sample
+size for SEM could be 200, and an acceptable sample size for SEM could be 100
+(Bagozzi, 2010).
+3.6 Data analysis
+Data analysis was conducted in two stages. In the first stage, SPSS version 26 was
+employed for descriptive statistics to determine the levels and differences in the study
+variables between pre and post-test and control and experimental groups. Skewness
+and kurtosis were used to test the univariate normality of data, and the values indicated that the data were normally distributed. Means and standard deviations were
+calculated to find the level of autonomous motivation, self-directed learning, and
+research skills of students before the start of the experiment. An Independent sample
+t-test was used to confirm that the control and experimental groups did not differ
+significantly in terms of different variables. After post-test data collection, an Independent sample t-test was used to locate the difference in the study variables and
+understand the effects of the experiment. After it was confirmed that the control and
+experimental groups differed significantly in terms of study variables at the end of
+the course, the researcher moved to 2nd stage of data analysis. In the second step,
+the post-test data from the experimental group was used to examine the structural
+relationships between the study variables and explore the phenomenon behind the
+increased autonomous motivation, engagement, and research competency due to
+ChatGPT integration in instructional design.
+Two-step structural equation modeling (SEM) (Anderson & Gerbing, 1988) using
+Mplus 8.3 as analysis software was applied in this stage to evaluate SEM assumptions, the proposed model fit, validity, and reliability. The two-step SEM includes
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4203
+
+testing the measurement model (CFA) followed by testing the hypothesized relationships between latent variables.
+
+4 Results
+4.1 Stage 1: Descriptive statistics
+The skewness and kurtosis values were checked for all variables in the questionnaires in pre-test and post-test data to ensure the normality of data and the values
+were found to be in the normal range of ǀ3ǀ and ǀ8ǀ, respectively (Kline, 2023). In the
+pre-test, t-test statistics did not reveal any significant differences in the mean scores
+of autonomous motivation, self-directed learning, and research skills. However, posttest data showed significant differences in the mean scores of all variables. The t-test
+results of the post-test are given in Table (2).
+4.2 Stage 2: Structural equation modeling
+4.2.1 Checking SEM assumptions
+Before assessing the measurement model, the data was examined for SEM assumptions, including missing values, outliers, linearity, multicollinearity, and multivariate normality. The data contained no missing values. Outliers were identified using
+Cook’s distance, with cases having values over 1 considered potential outliers (Weisberg & Cook, 1982). In the current dataset, no cases exceeded a value of 0.5, indicating the absence of significant multivariate outliers. A curve estimation procedure
+was employed to test the linearity assumption. The results showed that the highest
+F values were obtained for linear relationships, thereby confirming the linearity in
+relationships. Multicollinearity was assessed using variance inflation factors (VIF),
+tolerance impact values, and a multivariate correlation matrix. According to Hair et
+al. (2010), VIF values less than 3 and tolerance values greater than 0.1 indicate that
+multicollinearity is not present. The regression collinearity diagnostics revealed that
+VIF values for all independent variables were less than 2 with tolerance exceeding
+0.1. Similarly, Hair et al. (2010) remarked that multicollinearity exists if the correlaTable 2 Comparison of means scores of different variables among control and experimental groups
+(post-test)
+Variables
+Group
+M
+SD
+t value
+p-value
+Autonomous motivation
+C
+3.055
+0.775
+6.372
+0.000
+E
+3.550
+0.695
+Student engagement
+C
+3.006
+0.994
+4.890
+0.000
+E
+3.458
+0.634
+Self-directed learning
+C
+2.945
+1.02
+7.452
+0.000
+E
+3.623
+0.612
+Research skills
+C
+2.885
+0.790
+8.791
+0.000
+E
+3.561
+0.642
+C = control group. E = experimental group. M = means. SD = standard deviation
+
+13
+
+4204
+
+Education and Information Technologies (2025) 30:4185–4216
+
+tion between independent variables is 0.9 or greater. As shown in Table 3, correlations between all independent variables were below 0.9, which further confirms the
+absence of multicollinearity. To assume multivariate normality, kurtosis, and its critical ratio were evaluated using Mardia’s normalized estimate of multivariate kurtosis.
+The results showed a critical ratio value of 3.482, which is below the threshold of 5
+(Bentler & Wu, 2005), indicating that multivariate normality can be assumed. Following the SEM assumptions, data was used for further SEM analysis.
+4.2.2 Measurement model
+In the assessment of the measurement model, the fit between observed and latent
+variables and sample data was analyzed. The measurement model was tested using
+confirmatory factor analysis (CFA) to check the validity and reliability of the items
+explaining the endogenous variables. The goodness of fit of the model was evaluated
+against several criteria like X2/df, CFI, TLI, RMSEA, and SRMR. A measurement
+model is considered to have an acceptable fit if X2/df < 3, CFI > 0.90, TLI > 0.90,
+RMSEA < 0.08, and SRMR < 0.08 (Hair et al., 2010; Kline, 2023). Based on these
+criteria, the measurement model of the present study received an acceptable fit
+(X2 = 426.305, df = 242, X2/df = 1.762, CFI = 0.916, TLI = 0.904, RMSEA = 0.061,
+SRMR = 0.059). Moreover, the study also calculated average variance extracted
+(AVE) and composite reliability (CR) for convergent validity and reliability of all
+constructs. The recommended limits for AVE and CR are 0.5 (Fornell & Larcker,
+Table 3 Results for the measurement model
+Constructs
+Item
+SE
+t-value
+CR
+ChatGPT usage (CGPTU)
+C1
+0.737
+----0.839
+C2
+0.728
+9.661
+C3
+0.702
+9.379
+C4
+0.832
+10.776
+Autonomous Motivation (AMT)
+M1
+0.779
+-----0.852
+M2
+0.673
+9.492
+M3
+0.764
+10.891
+M4
+0.737
+10.480
+M5
+0.702
+9.943
+Student Engagement (ENG)
+En1
+0.664
+-----0.810
+En2
+0.699
+8.338
+En3
+0.658
+7.944
+En4
+0.843
+9.280
+Self-directed learning (SDL)
+S1
+0.757
+-----0.850
+S2
+0.659
+9.086
+S3
+0.699
+9.666
+S4
+0.727
+10.079
+S5
+0.801
+11.108
+Research Skills (RS)
+R1
+0.694
+-----0.860
+R2
+0.705
+8.987
+R3
+0.741
+9.386
+R4
+0.679
+8.684
+R5
+0.701
+8.945
+R6
+0.745
+9.443
+SE = Standardized Estimates. CR = Composite Reliability. AVE = Average Variance explained
+
+13
+
+AVE
+0.566
+
+0.536
+
+0.519
+
+0.533
+
+0.506
+
+Education and Information Technologies (2025) 30:4185–4216
+Table 4 Discriminant validity analysis
+CGPTU
+AMT
+CGPTU
+0.752
+AMT
+0.527
+0.732
+ENG
+0.486
+0.483
+SDL
+0.327
+0.544
+RS
+0.215
+0.315
+Note The square roots of AVE are bold in diagonal
+
+4205
+
+ENG
+
+SDL
+
+RS
+
+0.720
+0.365
+0.212
+
+0.730
+0.569
+
+0.711
+
+Fig. 6 Structural model
+
+1981) and 0.7 (Nunnally & Bernstein, 1994). respectively. Furthermore, the items
+with weak factor loadings were deleted to improve the AVE and overall fit of the
+model. A discriminant validity analysis was also conducted, and all values suggested
+acceptable discriminant validity. The AVE and CR values are provided in Table (3),
+and values obtained as a result of discriminant validity analysis are provided in Table
+(4).
+4.2.3 Structural model
+Following the measurement model, the structural model was used to test the hypothesized relationships between latent variables. The structural model, as shown in
+Fig. 6, in the study received an acceptable fit (X2 = 439.691, df = 246, X2/df = 1.787,
+CFI = 0.912, TLI = 0.902, RMSEA = 0.062, SRMR = 0.064).
+
+13
+
+4206
+
+Education and Information Technologies (2025) 30:4185–4216
+
+Table 5 Results of direct paths in the structural model
+Hypotheses
+Relationships
+Path coefficients (β)
+H1a
+CGPTU → AMT
+0.551**
+H1b
+CGPTU → ENG
+0.506**
+H2a
+AMT → SDL
+0.481**
+H2b
+ENG → SDL
+0.155
+H3
+SDL → RS
+0.553**
+H4
+CGPTU → RS
+0.033
+p < .05 = *, p < .01 = **
+
+t-value
+8.868
+7.585
+6.537
+1.882
+8.285
+0.421
+
+Results
+Supported
+Supported
+Supported
+Not Supported
+Supported
+Not Supported
+
+Table 6 Results of indirect paths in the structural model
+Relationships
+Path coefficients (β)
+H5: Total Indirect Effect
+0.190**
+Total Effect
+0.223**
+p < .05 = *,p < .01 = **
+
+t-value
+5.029
+2.989
+
+Results
+Supported
+
+4.2.4 Hypothesis testing
+Among the six proposed direct relationships, four were supported (Table 5). ChatGPT usage had a significant positive effect on students’ autonomous motivation
+(β = 0.551, p < .01) to attend the research methodologies class and participate in
+assigned research-related activities. Similarly, it also had a significant positive effect
+on student engagement (β = 0.506, p < .01) with the class and research activities.
+Autonomous motivation had a significant positive effect (β = 0.481, p < .01) on selfdirected learning; however, student engagement did not have a significant effect on it.
+Similarly, self-directed learning had a significant positive effect on the research skills
+of students (β = 0.553, p < .01); however, the direct effect of ChatGPT use on research
+skills was nonsignificant.
+In indirect pathways, the proposed hypotheses were supported by the results
+(Table 6). The influence of ChatGPT through all mediators, i.e., autonomous motivation, engagement, and SDL, is significant (β = 0.190, p < .01), thus supporting the 5th
+hypothesis. Overall, the conceptual model significantly explains the indirect effect
+of ChatGPT usage under instructor guidance on students’ research skills (β = 0.223,
+p < .01).
+
+5 Discussion
+The advent of ChatGPT has raised some concerns among educators and university
+teachers. A key question instructors face is whether to allow students to use ChatGPT
+for coursework. While concerns exist regarding academic integrity, ChatGPT also
+holds the potential to enhance teaching and learning (Kohnke et al., 2023; Sullivan
+et al., 2023). This study aimed to address these concerns by providing a framework
+for effective ChatGPT integration in instruction and encouraging responsible student
+use. Drawing upon the self-determination theory, the study developed a conceptual
+model to investigate how ChatGPT usage enhances research skills through the medi-
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4207
+
+ating role of autonomous motivation, student engagement, and self-directed learning.
+The study’s results supported the model, emphasizing the pivotal role of autonomous
+motivation, student engagement, and self-directed learning between AI-enhanced
+learning environments and students’ research skills development. These findings contribute significantly to the current understanding of the intricate phenomenon behind
+improved learning outcomes in technology-enhanced classrooms and the positive
+adoption of AI tools in teaching and research.
+5.1 Impact of ChatGPT on autonomous motivation and student engagement
+The study confirms the positive and significant impact of ChatGPT on students’
+autonomous motivation and engagement in the classroom. This finding is affirmed
+by the post-experiment results, where students in the ChatGPT augmented group
+exhibited greater motivation and engagement than those taught traditionally. This
+finding aligns with several recent studies (Adıgüzel et al., 2023; Atlas, 2023; Chiu et
+al., 2023a; Muñoz et al., 2023; Wang & Chen, 2023). One potential explanation for
+this is ChatGPT’s ability to expedite learning by providing swift solutions to challenging tasks, also highlighted by Crawford et al. (2023). Unlike traditional methods
+that involve searching various platforms, i.e., Google, Bing, etc. ChatGPT can generate copious topic-specific data efficiently. This efficiency of ChatGPT keeps students
+engaged and motivated in independent research. Secondly, ChatGPT fulfills students’
+performance expectancy needs (Strzelecki, 2023). It stimulates them to capitalize
+on the time for handling significant academic challenges, ultimately enhancing their
+motivation and research productivity. As highlighted by Gamage et al. (2023), students view ChatGPT as a supportive academic tool, particularly when confronted
+with demanding coursework and assignments. ChatGPT usage fuels students’ motivation and keeps them engaged in research by acting as a supportive tool to tackle
+challenging tasks.
+Finally, ChatGPT facilitates enhanced motivation and engagement by addressing
+students’ autonomous needs. It fosters student autonomy by facilitating personalized learning paths, self-directed learning objectives, and problem-solving through
+interaction and communication (Adıgüzel et al., 2023; Kasneci et al., 2023). Moreover, Chiu et al. (2023a) posit that students experience a greater sense of connection,
+freedom, and choice when learning with chatbots. It fulfills their autonomy need,
+which is essential in promoting autonomous motivation and engagement (Ryan &
+Deci, 2000). Muñoz et al. (2023) further accentuate the role of ChatGPT in developing motivation and engagement by establishing an autonomous learning environment with flexible interaction. Its ability to provide feedback and suggestions on
+student-created research models retains students’ motivation to further engage in the
+research activities. Students perceived ChatGPT as a technology-enhanced tool and
+were actively involved with it to explore its capabilities and techniques to help them
+write an effective research proposal.
+In conclusion, the findings of the study support that the effective use of ChatGPT
+can demonstrably enhance student engagement with learning content, fostering a sustained motivation to learn. Furthermore, the findings suggest that autonomy-oriented
+learning environments are more interactive, and ChatGPT is a helpful tool to satisfy
+
+13
+
+4208
+
+Education and Information Technologies (2025) 30:4185–4216
+
+autonomy needs. Instructors should allow students to play with ChatGPT and provide
+proper guidance on its uses to direct students toward autonomous learning.
+5.2 Role of self-directed learning (SDL)
+The present study indicated that students in the experimental group reported higher
+self-directed learning levels (SDL). Moreover, SEM analysis revealed that autonomous motivation has a direct, positive, and significant relationship with SDL. As for
+the effect of engagement on SDL, the study found a nonsignificant effect of engagement on SDL, contrasting with previous studies (Altinpulluk et al., 2023; Rashid &
+Asghar, 2016) that reported a significant relationship between student engagement
+and SDL. The possible explanation could be that students can be engaged in both technology-enhanced and non-technology-enhanced classrooms with minimal emphasis
+on SDL because SDL is the students’ volition over their learning (what, when, and
+how to learn); thus, higher engagement with learning may not necessarily indicate
+higher SDL. The study’s findings affirm that engagement is not a significant predictor
+of SDL among students; rather, students must have strong autonomous motivation for
+independent learning. The primacy of autonomous motivation in ChatGPT-integrated
+and technology-enhanced learning environments is also highlighted by Chiu et al.,
+2023a); Xia et al. (2022). Autonomically motivated students have a more substantial
+need for autonomy, independence, and control of learning, leading to self-directed
+learning behaviors. Thus, autonomous motivation is central in encouraging students
+to adopt self-learning as they engage in learning activities. Moreover, the study also
+suggests that while student engagement does not significantly contribute to SDL, it
+might work in conjunction with autonomous motivation to strengthen the relationship between ChatGPT usage and SDL.
+The enhanced SDL behavior in the experimental group is important to discuss.
+It can be attributed to several aspects of ChatGPT’s functionality and how students
+engage with it. First, the instructional design allowed students to take ownership of
+their learning while exploring the tool’s features. ChatGPT can promote SDL by
+empowering students to determine what, when, and how they learn. Secondly, ChatGPT can cater to individual learning orientations and preferences, cultivating independent learning by suggesting relevant learning resources (Adıgüzel et al., 2023;
+Firat, 2023). In the instructional design of this research, students used ChatGPT to
+generate ideas, search for content on research topics, solicit feedback on their ideas,
+and revise their writing for grammatical structure and coherence. Using ChatGPT
+for evaluation and feedback induces self-correction and self-reflection, ultimately
+fostering self-directed learning. Thirdly, ChatGPT bridges the gap in classrooms
+where individualized guidance on research topics is not possible. In a typical research
+methodology class, teachers introduce the foundations of the research methods, but
+students are left to apply them independently. ChatGPT integration into the course
+filled this gap for the students. As students interacted with ChatGPT individually,
+it provided insights into writing styles, research methodologies, data collection
+approaches, and data analysis techniques specific to each student’s research topic.
+These autonomous learning activities encourage independent work and SDL, with
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4209
+
+ChatGPT acting as an “AI proxy teacher” (Chiu et al., 2023a) and enhancing students’ research potential.
+The results supported 3rd hypothesis that SDL has a significant positive relationship with students’ research skills. Self-directed learners are more adept at developing
+their knowledge and research skills (Prosekov et al., 2020). They have high confidence, critical thinking, understanding of the information, and reasoning abilities
+(Jennings, 2007; Lounsbury et al., 2009; Lunyk-Child et al., 2001; Smedley, 2007).
+The participants in the current study, with the help of ChatGPT, were able to independently choose research topics, select resources of information, formulate research
+questions and hypotheses, select research methodologies, and write different sections
+of the research proposal; hence, SDL with ChatGPT assisted students in improving their research skills. The study further solidifies that learning environments that
+promote SDL behavior among students provide improved learning outcomes. Hence,
+it is suggested that teachers utilize ChatGPT, show its features to students, and
+show how it can be used throughout the research process to solve hurdles independently. This independence in solving complex tasks significantly improves students’
+research competency, and the findings of this study have confirmed this. However, it
+is important to reiterate that ChatGPT is a learning intermediary, not a replacement
+for teachers (Chiu et al., 2023b; Kohnke et al., 2023; Xiao & Zhi, 2023). Teachers’
+role is essential in providing the basic foundations of research methods. Although
+ChatGPT offers valuable support during research, it also provides inaccurate and
+logically incoherent responses. A student with prior research knowledge may benefit
+more by critically engaging with it. If students detect some wrong information provided by ChatGPT, they can ask the teacher who can correct it for them. The presence of a teacher during the independent learning process by ChatGPT offers a more
+in-depth understanding of the content. Hence, the study also highlights the role of a
+human teacher during self-directed learning with ChatGPT.
+5.3 Impact of ChatGPT on Research skills
+The study’s post-experiment results revealed a significant difference in the students’
+research skills in the control and experiment groups. Notably, SEM results indicated
+that the direct effect of ChatGPT usage on students’ research skills is nonsignificant;
+however, the indirect effect mediated by autonomous motivation, student engagement, and self-directed learning was statistically significant. These results provide
+insights into the intermediatory role of student motivation, engagement, and selfdirected learning in the relationship between the use of ChatGPT and research skills.
+The study findings show that the direct impact of ChatGPT usage on students’
+research skills is not significant. A few arguments from existing literature can provide
+elaboration on this phenomenon. Previous studies indicate that relying on ChatGPT
+can impede students’ development of essential skills like critical thinking (Kasneci
+et al., 2023; Mhlanga, 2023; Michel-Villarreal et al., 2023), brainstorming, problem-solving (Kasneci et al., 2023), and research abilities (Shiri, 2023). Students may
+become passive recipients of information rather than active participants in the learning process (Michel-Villarreal et al., 2023). Hence, the effectiveness of ChatGPT
+depends on how it is integrated into the learning process. Without proper guidance,
+
+13
+
+4210
+
+Education and Information Technologies (2025) 30:4185–4216
+
+students may not fully utilize the potential of ChatGPT. Therefore, in this study, students were trained to provide effective prompts to ChatGPT and validate the credibility of its responses. This guided instruction stimulated active engagement among
+the students when learning with ChatGPT. The findings of the study prove this argument and indicate that allowing students to use ChatGPT enhances their engagement, which is a crucial factor in improving their overall research skills. The current
+study also shows that ChatGPT usage enhances students’ autonomous motivation.
+Autonomous motivation is an important predictor of students’ self-directed learning
+behavior, as evident from the results. A self-directed learner can independently select
+reliable resources for learning and critically evaluate the learning contents, hence
+possessing greater research skills (Prosekov et al., 2020). Therefore, ChatGPT’s role
+is not limited to direct improvements in research skills; rather, it significantly impacts
+other key intermediary factors, and through those factors, it affects research skills.
+The importance of mediating factors becomes apparent when considering the specific challenges students face in the research process. Rastri et al. (2023) highlight
+the challenges undergraduate students face while writing a research proposal, e.g.,
+knowledge of the English language, topic selection, critical evaluation of research
+articles, literature review, and methodological/data analysis decisions. Although
+teachers guide about each problem in the classroom, they cannot provide personalized guidance to every student in topic selection, writing literature, selecting research
+methodology, and other important areas of the research process. The study showed
+that integrating ChatGPT in instruction allows the students to communicate these
+problems with ChatGPT. It provides prompt and relevant information tailored to their
+specific interests, mitigating frustration and increasing their engagement and motivation for research. Students interact with ChatGPT to discuss their initial ideas on
+a chosen topic and refine them to a well-defined research question. Additionally, it
+provides current literature, suitable research methods, and appropriate data analysis
+techniques for the particular research topic of interest (Atlas, 2023; Fiialka et al.,
+2023; Rahman & Watanobe, 2023). The results of the current study indicate that
+ChatGPT cultivates a sense of accomplishment and progress in students by alleviating students from these complex tasks and promoting motivation for independent
+research. Thus, ChatGPT assists in advancing students’ research skills by increasing
+their engagement with research activities and motivation to learn independently.
+Lastly, as discussed in the role of SDL, ChatGPT promotes SDL by allowing students to take control of their learning. The integration of ChatGPT in instruction
+reduces helplessness among students (Wu et al., 2024), and they always have an
+extra “More Knowledgeable Other” (Stojanov, 2023) to guide their research process.
+This study’s findings showed that this is crucial for self-directed learning, where
+students utilize the functionalities of ChatGPT to draft learning paths tailored to
+their needs and make independent progress in the course and the proposal writing
+process. ChatGPT, acting as MKO (Stojanov, 2023) or “AI proxy teacher” (Chiu et
+al., 2023b), provides individualized support, real-time feedback, and guidance on
+research-related issues, free and uninterrupted accessibility, and convenient and flexible learning, thereby promoting SDL behavior among students. The findings explain
+how ChatGPT can assist students in learning autonomously and independently and
+promote self-directed learning and learning outcomes (Dai et al., 2023; Fiialka et
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4211
+
+al., 2023; Firat, 2023; Zhou & Li, 2023). Moreover, students, guided by instructors,
+develop the necessary competencies to use ChatGPT for research-oriented activities. Integrating ChatGPT into the instructional process makes learning environments
+more interactive and engaging and promotes intrinsic motivation and SDL behaviors among students, thus increasing the students’ research skills. The findings of
+this study can provide insights into instructional designs with ChatGPT and other AI
+technologies.
+
+6 Conclusion
+The emergence of ChatGPT and other Large Language Models (LLMs) has opened
+new avenues for AI-enhanced teaching and learning by offering vast applications in
+education. Educators are keen on effectively integrating these tools in instructional
+designs to enhance students’ learning outcomes. This study, grounded in self-determination theory, investigated the impact of ChatGPT-integrated instruction on autonomous motivation, engagement, self-directed learning, and research skills among
+undergraduate students in a “Research Methodology” course. Furthermore, it also
+explored the complex role of autonomous motivation, engagement, and self-directed
+learning in mediating the relationship between ChatGPT usage and research skills.
+The results indicate that integrating ChatGPT into instructional design significantly
+improves students’ autonomous motivation, engagement, self-directed learning, and
+research skills. The mediating role of autonomous motivation, engagement, and selfdirected learning suggests that learning should be more interactive and motivating,
+and students must be empowered to take volition in their learning actions. It will
+allow students to leverage ChatGPT effectively and use it to enhance their research
+skills. Moreover, the study stresses the need for human tutors to guide the learning
+process and develop digital competencies among students who use ChatGPT. The
+research provides insights into instructional designs with ChatGPT and other AI technologies and gives valuable information on utilizing the full potential of ChatGPT for
+teaching and learning research.
+
+7 Limitations and future research directions
+This study has several limitations. Firstly, the participants of the study were from a
+single university in Pakistan. Therefore, the generalizability of the results may be
+limited. Future studies with larger and more diverse samples are recommended to
+validate the results. Secondly, the study relies on questionnaire surveys as a quantitative approach. Future studies should take a more qualitative approach to gain a deeper
+understanding of the conceptualized model. Thirdly, the study focused on autonomous motivation and student engagement. However, motivation encompasses various other aspects like extrinsic motivation and amotivation. Including these diverse
+motivation factors alongside different engagement dimensions (behavioral, cognitive, emotional, and social) in further studies can provide a more nuanced explanation
+of how ChatGPT influences student learning.
+
+13
+
+4212
+
+Education and Information Technologies (2025) 30:4185–4216
+
+Funding This article is the research result of the National Education Sciences Planning projects “Research
+on the Construction and Application of the Reading Literacy Development Index for Junior High School
+Students in the New Era” (Project No. BHA210150).
+Data availability The datasets generated by the survey research during and/or analysed during the current
+study are available at, DOI:https://doi.org/10.17632/t3cymhc926.1.
+
+Declarations
+Conflict of interest No potential conflict of interest was reported by the author(s).
+
+References
+Adıgüzel, T., Kaya, M. H., & Cansu, F. K. (2023). Revolutionizing education with AI: Exploring the transformative potential of ChatGPT. Contemporary Educational Technology, 15(3).
+Alfakih, A. H. (2017). A training program to Enhance Postgraduate Students’ Research skills in preparing
+a research proposal in the field of curriculum and instruction methods of Arabic Language. Online
+Submission, 7(3), 1–6.
+Alshater, M. (2022). M. Exploring the role of artificial intelligence in enhancing academic performance: A
+case study of ChatGPT. Available at SSRN 4312358.
+Altinpulluk, H., Kilinc, H., Alptekin, G., Yildirim, Y., & Yumurtaci, O. (2023). Self-directed learning and
+intrinsic motivation levels in MOOCs. Open Praxis, 15(2), 149–161.
+Anderson, J. C., & Gerbing, D. W. (1988). Structural equation modeling in practice: A review and recommended two-step approach. Psychological Bulletin, 103(3), 411.
+Anderson-Cook, C. M. (2005). Experimental and quasi-experimental designs for generalized causal inference. Taylor & Francis.
+Assor, A., Vansteenkiste, M., & Kaplan, A. (2009). Identified versus introjected approach and introjected
+avoidance motivations in school and in sports: The limited benefits of self-worth strivings. Journal
+of Educational Psychology, 101(2), 482.
+Atlas, S. (2023). ChatGPT for higher education and professional development: A guide to conversational
+AI. https:​​​//digitalcommo​ns.​uri​.ed​u/cba_f​​acpubs/548
+Bagozzi, R. P. (2010). Structural equation models are modelling tools with many ambiguities: Comments
+acknowledging the need for caution and humility in their use. Journal of Consumer Psychology,
+20(2), 208–214.
+Baidoo-Anu, D., & Ansah, L. O. (2023). Education in the era of generative artificial intelligence (AI):
+Understanding the potential benefits of ChatGPT in promoting teaching and learning. Journal of AI,
+7(1), 52–62.
+Barak, M., Watted, A., & Haick, H. (2016). Motivation to learn in massive open online courses: Examining
+aspects of language and social engagement. Computers & Education, 94, 49–60.
+Benotti, L., Martnez, M. C., & Schapachnik, F. (2017). A tool for introducing computer science with automatic formative assessment. IEEE Transactions on Learning Technologies, 11(2), 179–192.
+Bentler, P. M., & Wu, E. (2005). Equation 6.1 for Windows. Structural equations program manual. Multivariate Software.
+Carmona-Halty, M. A., Schaufeli, W. B., & Salanova, M. (2019). The Utrecht Work Engagement Scale for
+students (UWES–9S): Factorial validity, reliability, and measurement invariance in a Chilean sample
+of undergraduate university students. Frontiers in Psychology, 10, 437007.
+Cazan, A. M., & Schiopca, B. A. (2014). Self-directed learning, personality traits and academic achievement. Procedia-Social and Behavioral Sciences, 127, 640–644.
+Chan, V. (2001). Learning autonomously: The learners’ perspectives. Journal of Further and Higher Education, 25(3), 285–300.
+Chen, Z., Chen, W., Jia, J., & Le, H. (2022). Exploring AWE-supported writing process: An activity theory
+perspective. Language Learning & Technology, 26(2), 129–148.
+Chiu, T. K., Moorhouse, B. L., Chai, C. S., & Ismailov, M. (2023a). Teacher support and student motivation to learn with Artificial Intelligence (AI) based chatbot. Interactive Learning Environments, 1–17.
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4213
+
+Chiu, T. K., Xia, Q., Zhou, X., Chai, C. S., & Cheng, M. (2023b). Systematic literature review on opportunities, challenges, and future research recommendations of artificial intelligence in education. Computers and Education: Artificial Intelligence, 4, 100118.
+Chukwuere, J. E. (2023). ChatGPT: The game changer for higher education institutions. Jozac Academic
+Voice, 3(1), 22–27.
+Clarizia, F., Colace, F., Lombardi, M., Pascale, F., & Santaniello, D. (2018). Chatbot: An education support
+system for student. (Ed.),^(Eds.). Cyberspace Safety and Security: 10th International Symposium,
+CSS 2018, Amalfi, Italy, October 29–31, 2018, Proceedings 10.
+Crawford, J., Cowling, M., & Allen, K. A. (2023). Leadership is needed for ethical ChatGPT: Character,
+assessment, and learning using artificial intelligence (AI). Journal of University Teaching & Learning Practice, 20(3), 02.
+Creswell, J. W. (2015). Educational research: Planning, conducting, and evaluating quantitative and
+qualitative research. pearson.
+Cunningham-Nelson, S., Boles, W., Trouton, L., & Margerison, E. (2019). A review of chatbots in education: practical steps forward. (Ed.),^(Eds.). 30th annual conference for the australasian association
+for engineering education (AAEE 2019): educators becoming agents of change: innovate, integrate,
+motivate.
+Dai, Y., Liu, A., & Lim, C. P. (2023). Reconceptualizing ChatGPT and generative AI as a student-driven
+innovation in higher education. Procedia CIRP, 119, 84–90.
+Deci, E. L., & Ryan, R. M. (1985). The general causality orientations scale: Self-determination in personality. Journal of Research in Personality, 19(2), 109–134.
+Deci, E. L., Vallerand, R. J., Pelletier, L. G., & Ryan, R. M. (1991). Motivation and education: The selfdetermination perspective. Educational Psychologist, 26(3–4), 325–346.
+Deimann, M., & Bastiaens, T. (2010). The role of volition in distance education: An exploration of its
+capacities. International Review of Research in Open and Distributed Learning, 11(1), 1–16.
+Deng, J., & Lin, Y. (2022). The benefits and challenges of ChatGPT: An overview. Frontiers in Computing
+and Intelligent Systems, 2(2), 81–83.
+Dowling, M., & Lucey, B. (2023). ChatGPT for (finance) research: The Bananarama conjecture. Finance
+Research Letters, 53, 103662.
+Durall, E., & Kapros, E. (2020). Co-design for a competency self-assessment chatbot and survey in science education. (Ed.),^(Eds.). Learning and Collaboration Technologies. Human and Technology
+Ecosystems: 7th International Conference, LCT 2020, Held as Part of the 22nd HCI International
+Conference, HCII 2020, Copenhagen, Denmark, July 19–24, 2020, Proceedings, Part II 22.
+Fiialka, S., Kornieva, Z., & Honchar, T. (2023). ChatGPT in Ukrainian Education: Problems and Prospects. International Journal of Emerging Technologies in Learning, 18(17).
+Firat, M. (2023). How chat GPT can transform autodidactic experiences and open education? ​h​t​t​p​s​:​/​/​d​o​i​.​
+o​r​g​/​1​0​.​3​1​2​1​9​/​o​s​f​.​i​o​/​9​g​e​8​m​​​​​​​
+Fornell, C., & Larcker, D. F. (1981). Structural equation models with unobservable variables and measurement error: Algebra and statistics. Sage publications Sage CA: Los Angeles, CA.
+Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of the concept,
+state of the evidence. Review of Educational Research, 74(1), 59–109.
+Gamage, K. A., Dehideniya, S. C., Xu, Z., & Tang, X. (2023). ChatGPT and higher education assessments:
+More opportunities than concerns? Journal of Applied Learning and Teaching, 6(2).
+Gao, C. A., Howard, F. M., Markov, N. S., Dyer, E. C., Ramesh, S., Luo, Y., & Pearson, A. T. (2022).
+Comparing scientific abstracts generated by ChatGPT to original abstracts using an artificial intelligence output detector, plagiarism detector, and blinded human reviewers. BioRxiv, 2022.2012.
+2023.521610.
+Gibbons, M. (2002). The self-directed learning handbook: Challenging adolescent students to excel.
+Wiley.
+Gikas, J., & Grant, M. M. (2013). Mobile computing devices in higher education: Student perspectives
+on learning with cellphones, smartphones & social media. The Internet and Higher Education, 19,
+18–26.
+Grimaldi, G., & Ehrler, B. (2023). Machines are about to change scientific publishing forever. ACS Energy
+Letters, 8(1), 878–880.
+Guo, K., Wang, J., & Chu, S. K. W. (2022). Using chatbots to scaffold EFL students’ argumentative writing. Assessing Writing, 54, 100666.
+Hair, J. F., & WC, B., BJ, B.,RE, A (2010). Multivariate Data Analysis. Pearson Prentice Hall.
+
+13
+
+4214
+
+Education and Information Technologies (2025) 30:4185–4216
+
+Halaweh, M. (2023). ChatGPT in education: Strategies for responsible implementation. Contemporary
+Educational Technology, 15(2).
+Hien, H. T., Cuong, P. N., Nam, L. N. H., Nhung, H. L. T. K., & Thang, L. D. (2018). Intelligent assistants
+in higher-education environments: the FIT-EBot, a chatbot for administrative and learning support.
+(Ed.),^(Eds.). Proceedings of the 9th International Symposium on Information and Communication
+Technology.
+Hirankerd, K., & Kittisunthonphisarn, N. (2020). E-learning management system based on reality technology with AI. International Journal of Information and Education Technology, 10(4), 259–264.
+Hutson, M. (2022). Could AI help you to write your next paper? Nature, 611(7934), 192–193.
+Ismail, M., & Ade-Ibijola, A. (2019). Lecturer’s apprentice: A chatbot for assisting novice programmers.
+(Ed.),^(Eds.). 2019 international multidisciplinary information technology and engineering conference (IMITEC).
+Jennings, S. F. (2007). Personal development plans and self-directed learning for healthcare professionals:
+Are they evidence based? Postgraduate Medical Journal, 83(982), 518–524.
+Karakose, T., Demirkol, M., Yirci, R., Polat, H., Ozdemir, T. Y., & Tülübaş, T. (2023). A conversation
+with ChatGPT about digital leadership and technology integration: Comparative analysis based on
+human–AI collaboration. Administrative Sciences, 13(7), 157.
+Karsenti, T. (2019). Artificial intelligence in education: The urgent need to prepare teachers for tomorrow’s
+schools (. Artificial Intelligence in Education: The Urgent need to prepare teachers for tomorrow’s
+schools: Karsenti, Thierry. SSRN.
+Kasneci, E., Seßler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., Gasser, U., Groh, G.,
+Günnemann, S., & Hüllermeier, E. (2023). ChatGPT for good? On opportunities and challenges of
+large language models for education. Learning and Individual Differences, 103, 102274.
+Khan, I., Ahmad, A. R., Jabeur, N., & Mahdi, M. N. (2021). An artificial intelligence approach to monitor
+student performance and devise preventive measures. Smart Learning Environments, 8, 1–18.
+Kim, H. S. (2021). Is it beneficial to use AI chatbots to improve learners’ speaking performance? Journal
+of Asia TEFL, 18(1), 161–178.
+Kline, R. B. (2023). Principles and practice of structural equation modeling. Guilford.
+Knowles, M. S. (1975). Self-directed learning: A guide for learners and teachers. New York: Association
+Press, 1975.
+Kohnke, L., Moorhouse, B. L., & Zou, D. (2023). ChatGPT for language teaching and learning. Relc
+Journal, 54(2), 537–550.
+Kothari, C. R. (2004). Research methodology: Methods and techniques. New Age International.
+Lo, K. W., Ngai, G., Chan, S. C., & Kwan, K. (2022). How students’ motivation and learning experience
+affect their service-learning outcomes: A structural equation modeling analysis. Frontiers in Psychology, 13, 825902.
+Lounsbury, J. W., Levy, J. J., Park, S. H., Gibson, L. W., & Smith, R. (2009). An investigation of the construct validity of the personality trait of self-directed learning. Learning and Individual Differences,
+19(4), 411–418.
+Lunyk-Child, O. I., Crooks, D., Ellis, P. J., Ofosu, C., O’Mara, L., & Rideout, E. (2001). Self-directed
+learning: Faculty and student perceptions (Vol. 40, pp. 116–123). SLACK Incorporated Thorofare,
+NJ.
+Mhlanga, D. (2023). Open AI in education, the responsible and ethical use of ChatGPT towards lifelong
+learning (. FinTech and Artificial Intelligence for Sustainable Development: The role of Smart technologies in Achieving Development Goals (pp. 387–409). Springer.
+Michel-Villarreal, R., Vilalta-Perdomo, E., Salinas-Navarro, D. E., Thierry-Aguilera, R., & Gerardou, F. S.
+(2023). Challenges and opportunities of generative AI for higher education as explained by ChatGPT.
+Education Sciences, 13(9), 856.
+Muñoz, S. A. S., Gayoso, G. G., Huambo, A. C., Tapia, R. D. C., Incaluque, J. L., Aguila, O. E. P., Cajamarca, J. C. R., Acevedo, J. E. R., Rivera, H. V. H., & Arias-Gonzáles, J. L. (2023). Examining the
+impacts of ChatGPT on student motivation and engagement. Social Space, 23(1), 1–27.
+Nunnally, J., & Bernstein, I. (1994). Psychometric theory McGraw-hill series. Psychology, 3.
+Oddi, L. F. (1987). Perspectives on self-directed learning. Adult Education Quarterly, 38(1), 21–31.
+Okonkwo, C. W., & Ade-Ibijola, A. (2020). Python-bot: A chatbot for teaching python programming.
+Engineering Letters, 29(1).
+Pierson, H. D. (1996). Learner culture and learner autonomy in the Hong Kong Chinese context. Taking
+control: Autonomy in language learning, 49–58.
+
+13
+
+Education and Information Technologies (2025) 30:4185–4216
+
+4215
+
+Prosekov, A. Y., Morozova, I. S., & Filatova, E. V. (2020). A case study of developing Research Competency in University students. European Journal of Contemporary Education, 9(3), 592–602.
+Radloff, A., & Coates, H. (2010). Doing more for learning: Enhancing Engagement and outcomes: Australasian Survey of Student Engagement: Australasian Student Engagement Report. C. Australian
+Council for Educational Research (ACER).
+Rafiola, R., Setyosari, P., Radjah, C., & Ramli, M. (2020). The effect of learning motivation, self-efficacy,
+and blended learning on students’ achievement in the industrial revolution 4.0. International Journal
+of Emerging Technologies in Learning (iJET), 15(8), 71–82.
+Rahman, M. M., & Watanobe, Y. (2023). ChatGPT for education and research: Opportunities, threats, and
+strategies. Applied Sciences, 13(9), 5783.
+Ranoliya, B. R., Raghuwanshi, N., & Singh, S. (2017). Chatbot for university related FAQs. (Ed.),^(Eds.).
+2017 International Conference on Advances in Computing, Communications and Informatics
+(ICACCI).
+Rashid, T., & Asghar, H. M. (2016). Technology use, self-directed learning, student engagement and academic performance: Examining the interrelations. Computers in Human Behavior, 63, 604–612.
+Rastri, A., Rezeki, Y. S., Salam, U., Riyanti, D., & Surmiyati, S. (2023). An analysis of students’ problems
+in writing a research proposal. Acitya: Journal of Teaching and Education, 5(1), 57–71.
+Roos, S. (2018). Chatbots in education: A passing trend or a valuable pedagogical tool?.
+Rudolph, J., Tan, S., & Tan, S. (2023). ChatGPT: Bullshit spewer or the end of traditional assessments in
+higher education? Journal of Applied Learning and Teaching, 6(1), 342–363.
+Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: Classic definitions and new directions. Contemporary Educational Psychology, 25(1), 54–67.
+Ryan, R. M., & Deci, E. L. (2020). Intrinsic and extrinsic motivation from a self-determination theory
+perspective: Definitions, theory, practices, and future directions. Contemporary Educational Psychology, 61, 101860.
+Shiri, A. (2023). ChatGPT and academic integrity. Information Matters, 3(2).
+Sinha, S., Basak, S., Dey, Y., & Mondal, A. (2020). An educational chatbot for answering queries.
+(Ed.),^(Eds.). Emerging Technology in Modelling and Graphics: Proceedings of IEM Graph 2018.
+Smedley, A. (2007). The self-directed learning readiness of first year bachelor of nursing students. Journal
+of Research in Nursing, 12(4), 373–385.
+Smutny, P., & Schreiberova, P. (2020). Chatbots for learning: A review of educational chatbots for the
+Facebook Messenger. Computers & Education, 151, 103862.
+Stojanov, A. (2023). Learning with ChatGPT 3.5 as a more knowledgeable other: An autoethnographic
+study. International Journal of Educational Technology in Higher Education, 20(1), 35.
+Strzelecki, A. (2023). To use or not to use ChatGPT in higher education? A study of students’ acceptance
+and use of technology. Interactive Learning Environments, 1–14.
+Su, J., & Yang, W. (2023). Unlocking the power of ChatGPT: A framework for applying generative AI in
+education. ECNU Review of Education, 6(3), 355–366.
+Sullivan, M., Kelly, A., & McLaughlan, P. (2023). ChatGPT in higher education: Considerations for academic integrity and student learning. Journal of Applied Learning & Teaching, 16(1).
+Sumuer, E. (2018). Factors related to college students’ self-directed learning with technology. Australasian
+Journal of Educational Technology, 34(4).
+Sutton, M. J., & Allen, K. (2019). Emotify! The power of the human element in game-based learning, serious games, and experiential education. EI Games LLC.
+Svedberg, M. K. (2010). Self-directed learning and persistence in online asynchronous undergraduate
+programs.
+Van Dis, E. A., Bollen, J., Zuidema, W., Van Rooij, R., & Bockting, C. L. (2023). ChatGPT: Five priorities
+for research. Nature, 614(7947), 224–226.
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. MIS Quarterly, 425–478.
+Wang, M., & Chen, Y. (2023). Research on the future vision of the Intelligent Integration of ChatGPT and
+Online Education. Advances in Educational Technology and Psychology, 7(2), 128–134.
+Weisberg, S., & Cook, R. D. (1982). Residuals and influence in regression.
+Wu, T. T., Lee, H. Y., Li, P. H., Huang, C. N., & Huang, Y. M. (2024). Promoting self-regulation progress
+and knowledge construction in blended learning via ChatGPT-based learning aid. Journal of Educational Computing Research, 61(8), 3–31.
+
+13
+
+4216
+
+Education and Information Technologies (2025) 30:4185–4216
+
+Xia, Q., Chiu, T. K., Lee, M., Sanusi, I. T., Dai, Y., & Chai, C. S. (2022). A self-determination theory
+(SDT) design approach for inclusive and diverse artificial intelligence (AI) education. Computers &
+Education, 189, 104582.
+Xiao, Y., & Zhi, Y. (2023). An exploratory study of EFL learners’ use of ChatGPT for language learning
+tasks: Experience and perceptions. Languages, 8(3), 212.
+Yang, H., Kim, H., Lee, J. H., & Shin, D. (2022). Implementation of an AI chatbot as an English conversation partner in EFL speaking classes. ReCALL, 34(3), 327–343.
+Yu, H. (2023). Reflection on whether Chat GPT should be banned by academia from the perspective of
+education and teaching. Frontiers in Psychology, 14, 1181712.
+Zhai, X. (2022). ChatGPT user experience: Implications for education. Available at SSRN 4312418.
+Zhai, X. (2023). Chatgpt and Ai: The game changer for education. Available at SSRN.
+Zhao, J., Song, T., & Sun, Y. (2020). Apihelper: Helping junior android programmers learn api usage.
+IAENG International Journal of Computer Science, 47(1), 92–97.
+Zhoc, K. C., & Chen, G. (2016). Reliability and validity evidence for the Self-Directed Learning Scale
+(SDLS). Learning and Individual Differences, 49, 245–250.
+Zhoc, K. C., Chung, T. S., & King, R. B. (2018). Emotional intelligence (EI) and self-directed learning:
+Examining their relation and contribution to better student learning outcomes in higher education.
+British Educational Research Journal, 44(6), 982–1004.
+Zhou, L., & Li, J. (2023). The impact of ChatGPT on learning motivation: A study based on self-determination theory. Education Science and Management, 1(1), 19–29.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under
+a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+Authors and Affiliations
+Yi Li1,2 · Ghulfam Sadiq1 · Ghulam Qambar3 · Pengyu Zheng1
+Ghulfam Sadiq
+ghulfamsadiq1@gmail.com
+1
+
+Faculty of Education, Southwest University, Chongqing 4007715, China
+
+2
+
+Basic Education Research Center of Southwest University, Chongqing 400715, China
+
+3
+
+Department of Educational Research and Assessment, University of Okara, Okara, Pakistan
+
+13
+
+

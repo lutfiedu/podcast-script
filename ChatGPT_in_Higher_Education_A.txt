@@ -1,0 +1,370 @@
+ChatGPT in Higher Education: A Comprehensive Study of the
+Literature. Friend or Foe?
+Henriette van Rensburg and Natasha Reedy
+
+University of Southern Queensland, Toowoomba, Australia
+Henriette.vanRensburg@usq.edu.au
+Natasha.Reedy@usq.edu.au
+Abstract: This paper presents a qualitative, high-quality State-of-the-Art (SotA) extended literature review on integrating
+ChatGPT, an advanced and contemporary natural language processing model, a sophisticated AI-powered chatbot that
+OpenAI developed in higher education. Snyder (2019, p.1) emphasised that "a literature review as a research method is more
+relevant than ever”. According to Barry et al (2022, p. 663), "the fundamental purpose of SotA literature review is to create
+a 3-part argument about the state of knowledge for a specific phenomenon: This is where we are now. This is how we got
+here. This is where we could go next”. This 3-part argument will underpin this study. With the rapid advancement of artificial
+intelligence (AI) and its potential to transform various sectors, including education, integrating AI-powered tools like ChatGPT
+to enhance teaching and learning has become a topic of significant interest. This study explores the diverse applications of
+ChatGPT in higher education, including pedagogical practices, student engagement, intelligent tutoring systems,
+personalised learning, language learning support, academic research, feedback, grading, and administrative support.
+Additionally, it identifies the challenges and ethical concerns this technology poses, focusing on bias, privacy, data security,
+reliability, accountability, accuracy and the balance between human interaction and artificial intelligence. Analysing the
+literature on ChatGPT’s role in higher education presents future directions for implementing it in higher education settings,
+ushering in an era of exciting possibilities. The research concludes that higher education institutions should provide clear and
+transparent guidelines for their staff and students on using ChatGPT responsibly for academic purposes to mitigate any
+ethical concerns.
+Keywords: ChatGPT, Higher education, Artificial intelligence, Teaching and learning, Integrating, SotA literature review
+
+1.
+
+This is Where we are now
+
+The University of Southern Queensland (UniSQ) (2024a, para. 1) defined Artificial Intelligence (or AI) as "the
+science and engineering of making intelligent machines. It recognised that machines can learn techniques and
+processes to solve problems and perform tasks that we associate with human minds and intelligence”. Artificial
+intelligence (AI) has recently substantially transformed various industries, including healthcare, finance, and
+education. AI has immense potential to transform teaching and learning processes, making education more
+personalised, adaptive, and accessible. One of the leading AI models in natural language processing (NLP) is
+ChatGPT. ChatGPT is an AI chatbot developed by OpenAI and launched on November 30, 2022. It has
+accumulated over a million users in several days (Ropek 2022). ChatGPT is a state-of-the-art language model
+capable of generating human-like text based on its input (Alawida et al, 2023). Its versatility and ability to
+understand and respond to natural language have ignited interest in its application across different domains,
+including the higher education sector. According to Alawida et al (2023, p. 1), “it is based on the GPT (Generative
+Pre-Trained Transformer) language model technology, and it is capable of understanding and interpreting user
+requests and generating appropriate responses in natural language, allowing it to complete a wide range of textbased tasks such as answering questions and generating responses”. Sundar and Mok (2023) argued that
+“Chatbots like ChatGPT are powered by large amounts of data and computing techniques to make predictions
+to string words together in a meaningful way. They tap into a vast amount of vocabulary and information and
+understand words in context. This helps them mimic speech patterns while dispatching an encyclopedic
+knowledge” (para. 8). Ropek (2022) wrote the following regarding ChatGPT: “…trained by powerful machine
+learning, the program promises to disrupt entire industries and change the way people interact with machines
+permanently” (para. 2). Different versions are available, namely GPT 3.5 (free and paid) and GPT 4 (paid only).
+ChatGPT-4o was launched on March 14, 2023. It is OpenAI's newest flagship model and is more robust and faster
+than ChatGPT-4 in quantitative questions (math and physics) and creative writing. This model can generate
+content or understand commands in voice, text, or images.
+The use of ChatGPT also caused debate and disagreement, provoking intense debates about the technology’s
+benefits and potential dangers (Ropek 2022). Its adaptability and capability to understand and respond to
+natural language have triggered interest in its application in higher education. On the contrary, it also presents
+challenges and concerns related to bias, privacy, and dependence on technology. This paper thoroughly
+investigates the applications of ChatGPT in higher education, discusses the associated challenges, limitations,
+and ethical considerations, and proposes future directions for implementing ChatGPT in higher education
+
+Henriette van Rensburg and Natasha Reedy
+settings. It also synthesises a broad range of literature to offer a new perspective on using ChatGPT in Higher
+Education.
+
+2.
+
+This is how we got Here
+
+ChatGPT can be applied and integrated into various academic and non-academic activities, such as teaching,
+research, tutoring, personalised learning, language learning support, assessment, and administration (Rahman
+et al, 2023; UniSQ 2024a). Lazarides (2024 p.1) advised that educators should use it in their teaching to teach
+learners the “skills they need to work with them in a smart way”.
+2.1 Pedagogical Practices and Student Engagement
+Piaget’s learning theory highlights the importance of active engagement and knowledge construction by learners
+(Leva 2014). Hasanein (2023, p. 2601) echoed that “according to the constructivist perspective, education is an
+active process involving the construction of knowledge influenced by factors such as students’ needs, the
+learning materials at their disposal, the tools they use, and the overall learning environment”. In Basilio’s (2023,
+p. 2) opinion, “…ChatGPT can provide opportunities for students to engage in authentic and interactive learning
+experiences, promoting active learning and knowledge co-construction”. In the older and traditional teaching
+methods, the students were passive learners, while the constructivist learning theory underpins the importance
+of autonomous and active learning (Hasanein 2023). The Technological Pedagogical Content Knowledge (TPACK)
+framework by Mishra and Koehler (2006) illustrates how teachers can effectively integrate technology into their
+pedagogical practices by integrating ChatGPT (Basilio 2023). Deci and Ryan's (2012) Self-Determination Theory
+“focuses on intrinsic motivation and the satisfaction of basic psychological needs, namely autonomy,
+competence, and relatedness” (Basilio 2023, p. 2). When integrating ChatGPT in teaching, educators “…need to
+consider how the technology can support students' sense of autonomy and competence and foster meaningful
+interactions and relationships with peers and teachers” (Basilio 2023, p. 2; Lazarides, 2024. Researchers
+mentioned that ChatGPT has the capability to “foster creativity, critical thinking, and problem-solving skills
+among students” (Huang & Li, cited in Basilio 2021, p. 4; Parker & Chao 2007). The University of Southern
+Queensland (2024b; 2024c) encourages staff and students to integrate AI tools in learning and teaching and
+advocates integrating these tools into current assessment practice to enhance efficiency and insights into
+student learning; and modify any learning outcomes that can be easily achieved by AI. They further promoted
+reimagining assessment design, leveraging these tools’ capabilities to create more engaging and effective
+assessments. The University of Southern Queensland (2024b) provided clear and transparent guidelines for their
+staff and students on how to be responsible and ethical when using these tools in teaching and
+research. ChatGPT should be utilised in activities encouraging students to analyse, evaluate, and synthesise
+information (Parker & Chao 2007).
+2.2 Intelligent Tutoring Systems
+Vujinović et al (2024 p. 3) defined intelligent tutoring systems (ITS) as “computer-based instructional systems
+that mimic human tutors and provide personalized instruction at scale. ITSs rely on artificial intelligence to
+personalize and automate teaching”. ITS provides adaptive and interactive support to diverse groups of students
+and promotes learners' motivation and emotional development (Lazarides 2024). It offers real-time assistance,
+answers questions, provides explanations, conducts formative assessments, and offers immediate feedback on
+assignments and assessments by simulating human tutoring interactions (Kohnke et al, 2023). Intelligent
+tutoring systems powered by ChatGPT adapt to students' progress, identify areas of difficulty, and scaffold
+learning experiences to support mastery learning. Vujinović et al (2024 p. 1) indicated that using ChatGPT “as an
+annotator is an effective alternative to human experts”, and it is cost- and time-efficient when developing a large
+dataset of suitable pedagogical actions.
+2.3 Personalised Learning
+One of the primary benefits of integrating ChatGPT in higher education is its potential to support and facilitate
+personalised learning experiences for students (Basilio 2023). The United Nations Educational, Scientific and
+Cultural Organization (UNESCO) acknowledged the role of ChatGPT in “promoting equitable access to quality
+education, fostering personalized learning, and supporting lifelong learning opportunities” (Elfert 2019, p. 537).
+ChatGPT analyses students' responses, learning preferences, and performance data to generate customised
+learning materials, exercises, and explanations tailored to individual needs. This personalised approach helps
+address students' diverse learning styles and pace, ultimately improving their engagement and academic
+outcomes.
+
+Henriette van Rensburg and Natasha Reedy
+2.4 Language Learning Support
+ChatGPT supports language learning and communication skills development for students studying a second
+language. Kohnke et al (2023, p.1) summarised its capabilities to “communicate with users intelligently,
+continuously learn from prior interactions, improve over time, and act as tireless language-learning assistants”.
+It engages students in conversational practice and language proofreading, corrects grammatical errors, provides
+real-time vocabulary explanations, and facilitates an authentic, interactive language-learning environment
+(Kohnke et al, 2023; Hasanein 2023). Additionally, ChatGPT generates language exercises, language translation,
+dialogue generation, text completion, text summaries, prompts, and simulations to facilitate language
+acquisition and fluency, enhance structural support, reduce anxiety, increase student engagement and access
+to large knowledgebases (Alawida et al, 2023; Basilio 2023; Hasanein 2023). It lessens shyness among learners
+and “reduce the perceived transactional distance between learners and teachers” (Kohnke et al, 2023, p. 2).
+Integrating ChatGPT into language learning platforms provides students with immersive and interactive
+language learning experiences.
+2.5 Academic Research
+ChatGPT is a versatile tool that can significantly enhance various stages of the research process. It helps
+educators and students generate and construct initial ideas, refine research questions, and explore potential
+topics (Rahman et al, 2023). It supports drafting, editing, and improving academic papers' clarity, coherence,
+and style during the writing phase. ChatGPT is suitable for collecting information employing historical or nonhistorical documents (Rahman et al, 2023). Its adaptability and broad range of capabilities make it an invaluable
+resource throughout the research journey, from initial conceptualisation to final publication.
+2.6 Grading and Feedback
+Educators often spend significant time grading assignments, providing feedback, and assessing student work.
+Automated grading and feedback systems powered by ChatGPT save instructors time, standardise assessment
+practices, and provide timely and immediate feedback to students (Kohnke et al, 2023). Pinto et al (2023) applied
+ChatGPT to grade and correct open-ended questions. They found it could identify “semantic details in responses
+that other metrics could not observe…and that subject matter experts tended to agree with the corrections and
+feedback given (Pinto et al, 2023, p. 293). ChatGPT automates the grading process by analysing student
+submissions, identifying key concepts, and evaluating the quality of responses based on predefined criteria.
+ChatGPT generates personalised feedback for students, highlighting strengths and areas for improvement.
+2.7 Administrative Tasks
+Beyond teaching and learning, ChatGPT has enormous potential to “support the work of academics and higher
+education professionals. But many are still unsure how to put this into practice” (Dianati & Laudari 2023, para.
+1). They listed 25 administrative duties, such as student email correspondence, creating reading lists, send
+reminders and notifications and write a letter of recommendation. ChatGPT-powered chatbots handle inquiries
+from students, faculty, and staff for tasks and inquiries that are unrelated to their academic coursework or
+learning objectives: admissions, enrolment, course registration, scheduling, campus resources, financial aid, and
+other administrative processes (Hasanein 2023). These chatbots provide information, answer frequently asked
+questions, and assist users in navigating complex systems. ChatGPT assists students in advising and guiding
+course selection, degree requirements, career pathways, student services, and academic support services. It can
+also answer questions about academic policies, deadlines, and student resources (Dianati & Laudari 2023). By
+automating routine administrative tasks, ChatGPT offers prompt and helpful responses to such administrative
+inquiries, simplifying students’ access to information and resources outside the realm of academia, streamlining
+operations, save time, reducing workload, and improving user experience (Hasanein 2023).
+
+3.
+
+This is Where we Could go Next
+
+Using and implementing ChatGPT responsibly in higher education involves several challenges and ethical
+considerations. Currently, plagiarism detection programs do not easily identify the use of ChatGPT in preparing
+assignments or writing academic articles, which may raise ethical concerns. Copyright and intellectual property
+rights still apply to ChatGPT-generated content, and insufficient referencing may result in copyright violations
+(Hasanein 2023). Educational institutions and educators should establish ethical guidelines to ensure the
+responsible use of ChatGPT in higher education. Eacersall (2024) stated that the use of Gen AI may breach
+academic and research integrity requirements and outlined the principles of E.T.H.I.C.A.L AI use with the
+following acronym:
+
+Henriette van Rensburg and Natasha Reedy
+•
+•
+•
+•
+•
+•
+•
+
+E - Examine existing policy/guidelines (international/national/local)
+T - Think about the social impacts (bias, paywall, wellbeing, jobs)
+H - Have knowledge of the technology (quality, bias, copyright)
+I - Indicate use (transparency, authorship, copyright)
+C - Check and revise outputs (quality, authorship, copyright)
+A - Access secure and protected versions (copyright, IP, privacy)
+L - Look at user agreements (authorship, copyright, IP, privacy) (Eacersall 2024, p. 3).
+
+3.1 Bias and Fairness
+ChatGPT presents biased language-generated data related to gender, race, ethnicity, and socio-economic status,
+leading to unfair or discriminatory outcomes (Huang et al, 2021). Language models collect data from various
+sources, including the Internet, that can create and generate incorrect, cruel, and biased answers (Kaushik et al,
+2024). Alawida et al (2023, p. 15) emphasised “that text generated with ChatGPT is based on patterns and stored
+data, thus may struggle to account for and understand cultural and societal contexts”.
+3.2 Privacy and Data Security
+Integrating ChatGPT in educational settings raises concerns about privacy and data security (Basilio 2023; Mishra
+& Koehler 2006). A primary concern is the potential to generate sensitive or personal information without the
+individual’s consent, such as medical records, financial information, or personal details (Alawida et al, 2023).
+Ethical considerations regarding data privacy, bias, and algorithmic transparency exist. The less transparent the
+programs’ algorithmic are, the less responsible they are (Kaushik et al, 2024). Kaushik et al (2024, p. 437)
+signalled that although “AI plays an increasingly vital role in identifying, preventing, and mitigating cyber risks …
+privacy-related ethical issues become more important”. Hackers may use ChatGPT content to create custommade and personalised junk messages, phishing, scams, malicious activities, and images that hide dodgy code
+(Kaushik et al, 2024; Alawida et al, 2023). Privacy infringements may occur with comprehensive data collection
+and surveillance powers built into security systems (Kaushik et al, 2024). They further mention the global
+concern that AI systems in one country have impacted systems in other countries and can be detected as security
+bridges.
+3.3 Educator Versus ChatGPT
+Lazarides (2024, p. 1) advocated that technology and the use of ChatGPT in education “is not a cure-all and will
+not reinvent teaching”. Overreliance on ChatGPT often leads to dependence on technology, influences students’
+ability to think critically and solve problems in a negative way (Hasanein 2023); and causes the potential loss of
+the social and emotional aspects of learning when the human involvement in teaching declines (Freina & Ott
+2015). While it provides valuable support and assistance when generating human-like text, ChatGPT cannot
+replace human interactions and personalised teacher-student relationships (Alawida et al, 2023; Basilio, 2023).
+Balancing technology for efficiency and meaningful human interaction in education is essential. Educators
+should use ChatGPT to complement and advance their teaching practices rather than replace human interaction
+(Kaushik et al, 2024; Martin & Thompson, 2022). Vujinović et al (2024, p. 3) stated that this automated “approach
+involves making decisions using a predefined set of rules manually defined by experts”. ChatGPT development
+is time-consuming and expensive, and it has several noteworthy weaknesses. They further replied that “it relies
+on a specific set of attribute values (triggers), limiting its ability to generalize. These systems cannot
+automatically adapt through interactions with individual students, thus making them a poor methodological
+choice when the end goal is to provide a genuinely personalized student experience (Vujinović et al, 2024, p. 3).
+ChatGPT needs to progress to create a whole scientific article similar to a good and experienced researcher
+(Rahman et al, 2023).
+3.4 Reliability, Accountability, and Accuracy
+The unclear and indefinite nature of ChatGPT often poses challenges regarding accountability. It is essential to
+increase transparency in these systems by explaining model behaviour, disclosing limitations and uncertainties,
+and enabling users to verify ChatGPT-generated outputs. Ropek (2022) found in his review of the chatbot for
+Gizmodo that it makes mistakes, covers its gaps in knowledge by making things up, and has a human-like capacity
+for making its way around gaps in its database. Kohnke et al (2023, p.1) echoed that “they are not so “intelligent”
+and cannot answer questions that they were not programmed to answer”. Various concerns are related to the
+quality and accuracy of responses generated by ChatGPT (Basilio 2023; Deng & Smith 2020). Singh (2023)
+suggested that “students need to be taught how to engage with them rather than vilifying them” (p. 203).
+
+Henriette van Rensburg and Natasha Reedy
+Educators ought to create teaching and learning environments that allow these technologies to be used
+responsibly, especially in how we assess (Singh 2023). Green (2022) feared it might undermine what universities
+do and called it “apocalyptic," meaning the world's destruction. When ChatGPT delivers false or misleading
+information, Lacy (2024, para. 8) wrote that they “hallucinate, and that “chatbots hallucinate anywhere from
+3% to 7% of the time”. These challenging characteristics of ChatGPT impacted the academy's integrity, and the
+advancements in ChatGPT have re-ignited discussions about the value of Higher Education and its role in
+delivering and facilitating knowledge (Singh 2023). Rahman et al (2023) noted that researchers might experience
+challenges regarding literature synthesis, citations, problem statements, and data analysis; ChatGPT provides
+hypothetical problem statements and research gaps, generates made-up citations and fake references, and does
+not have the capacity to conduct statistical analysis. Lacy (2024) emphasised that while ChatGPT is still a work
+in progress, the European Union only approved the Artificial Intelligence Act in March 2024 (which seeks
+to foster the development of trustworthy AI) with clear requirements and obligations for specific uses.
+
+4.
+
+Discussion
+
+ChatGPT' is a transformative and complex tool that can be integrated as a flexible resource with various benefits
+across multiple industries. In higher education, its adaptability allows for personalised learning experiences,
+fostering student engagement and facilitating a shift toward more interactive and authentic pedagogical
+experiences. Educators can effectively incorporate technology to enhance learning outcomes by utilising
+frameworks such as Piaget's learning theory and the TPACK model. ChatGPT serves as an intelligent tutoring
+system, offering tailored support and real-time feedback, which can improve both academic performance and
+engagement.
+However, the use of ChatGPT is not without significant challenges and concerns. Ethical considerations regarding
+bias, privacy, and data security must be rigorously addressed. The potential for biased outputs underlines the
+need for critical engagement with this tool in educational contexts. Concerns about academic integrity and the
+implications of over-reliance on ChatGPT require higher educational institutions to establish clear ethical
+guidelines, such as the principles of E.T.H.I.C.A.L AI use, to underpin and steer the complexities of AI integration
+in academia. It further reveals a dichotomy between balancing ChatGPT’s capabilities and maintaining essential
+human interaction in education. While ChatGPT offers various supportive functions, it cannot replicate or
+replace the unique relationships between educators and students. This highlights the importance of a balanced
+approach that values both technological advancements and human interaction in pedagogical practices.
+
+5.
+
+The Future of ChatGPT in Higher Education
+
+ChatGPT's role in higher education is promising and will expand as it develops and improves. Future directions
+should focus on developing comprehensive ethical frameworks that address the critical issues of bias, reliability,
+academic integrity and data security. Higher education institutions must continuously redesign pedagogy that
+embraces ChatGPT's unique capabilities while preserving education's core values. Traditional and constructivist
+educational methods should not be abandoned; educators should strive to foster a holistic and authentic
+educational environment, promoting active learning and knowledge co-construction.
+
+6.
+
+Conclusion
+
+In conclusion, ChatGPT presents a transformative opportunity for higher education, enhancing pedagogical
+practices, enriching student engagement, and streamlining administrative processes. The integration of ChatGPT
+into academic settings must be considered with caution, ensuring that ethical standards and human connections
+remain fundamental to the educational experience. As educators pilot the advancements in technology, it is
+crucial to balance the benefits of ChatGPT while addressing the ethical, social, and pedagogical challenges it
+brings. The future of ChatGPT in higher education holds promise, but its successful integration depends on the
+educators’ ability to critically and continuously assess and adapt to the evolving educational landscape.
+
+7.
+
+References
+
+Alawida, M., Mejri, S., Mehmood, S., Chikhaoui, B. and Abiodun, O.I. (2023) “A Comprehensive Study of ChatGPT:
+Advancements, Limitations, and Ethical Considerations in Natural Language Processing and Cybersecurity”, Advances
+in Cybersecurity and Reliability, Vol. 14, No. 8, pp 1-23. <https://www.mdpi.com/2078-2489/14/8/462>.
+Barry, E.S., Merkebu, J. and Varpio, L. (2022) “How to Conduct a State-of-the-Art Literature Review”, Journal of Graduate
+Medical Education, Vol 14, No. 6, pp 663 -665.
+Basilio, M.B. (2023) “Teachers' Perspectives on the Integration of Chat GPT”, Classroom Teaching and Learning, August
+2023.
+
+Henriette van Rensburg and Natasha Reedy
+Deci, E.L. and Ryan, R.M. (2012) Self-determination Theory, Handbook of Theories of Social Psychology, Vol. 1, No. 20, pp
+416-436.
+Deng, L. and Smith, A. (2020) ”Neural Language Models in Teaching and Learning: A Review”, Educational Research Review,
+Vol 29.
+Dianati, S. and Laudari, S. (2023) ChatGPT and Generative AI: 25 Applications to Support Administrative Tasks, viewed 28
+August 2024, <https://www.timeshighereducation.com/campus/chatgpt-and-generative-ai-25-applications-supportadministrative-tasks>.
+Eacersall, D. (2024) AI literacy: Principles for Ethical Generative Artificial Intelligence. Human-AI Collaborative
+Knowledgebase for Education and Research (HACKER), viewed 19 June 2024, add url
+Elfert, M. (2019) ”Lifelong learning in Sustainable Development Goal 4: What does it mean for UNESCO’s rights-based
+approach to adult learning and education?” International Review of Education, Vol 65, pp 537–556,
+<https://doi.org/10.1007/s11159-019-09788-z>.
+Freina, L. and Ott, M. (2015) ”A Literature Review on Immersive Virtual Reality in Education: State of the Art and
+Perspectives”, eLearning and Software for Education Conference (eLSE), Bucharest, Romania, April 2015.
+Green, P. (2022) No, ChatGPT Is Not The End Of High School English. But Here’s The Useful Tool It Offers Teachers, viewed
+10 July 2024, <https://www.forbes.com/sites/petergreene/2022/12/11/no-chatgpt-is-not-the-end-of-high-schoolenglish-but-heres-the-useful-tool-it-offers-teachers/>.
+Hasanein, A.M. (2023) ”Drivers and Consequences of ChatGPT Use in Higher Education: Key Stakeholder Perspectives”,
+European Journal of Investigating Health, Psychology and Education, Vol 13, No. 11, pp 2599–2614.
+Kaushik, K., Khan, A., Kumari, A., Sharma, I. and Dubey, R. (2024), ”Ethical Considerations in AI-based Cybersecurity”,
+Blockchain Technologies Next-generation Cybersecurity, pp 437-470.
+<https://link.springer.com/chapter/10.1007/978-3-031-15030-2_9>
+Kohnke, L., Moorhouse, B.L. and Zou, D. (2023) ”ChatGPT for Language Teaching and Learning”, RELC Journal, pp 1-14.
+Lacy, L. (2024) Hallucinations: Why AI Makes Stuff Up, and What's Being Done About It, viewed 24 July 2024,
+<https://www.cnet.com/tech/hallucinations-why-ai-makes-stuff-up-and-whats-being-done-about-it/>
+Lazarides, R. (2024) Pepper, ChatGPT and Co. - How intelligent tutoring systems are changing teaching, Portal Wissen - Eins
+2024. Bildung: digital, viewed 22 August 2024, <https://www.uni-potsdam.de/en/headlines-and-featuredstories/detail/2024-07-04-pepper-chatgpt-co-how-intelligent-tutoring-systems-are-changing-teaching>.
+Leva, B. (2014) ‘The Piaget Theory of Cognitive Development: An Educational Implications’, Educational Psychology, Vol 1,
+No. 1, pp 1-8.
+Martin, R. and Thompson, D. (2022) “Maintaining a Balance: Technology Integration and Human Interaction with Chat
+GPT’, Journal of Educational Practice, Vol 31, No. 3, pp 109-126.
+Mishra, P., and Koehler, M.J. (2006) “Technological Pedagogical Content Knowledge: A Framework for Teacher
+Knowledge”, Teachers College Record, Vol 108, No. 6, pp 1017-1054.
+Parker, J.L. and Chao, J.T. (2007) ”Wiki as a Teaching Tool”. Interdisciplinary Journal of Knowledge and Learning Objects, Vol
+3, pp. 57-72.
+Pinto, G., Cardoso-Pereira, I., Ribeiro, D.M., Lucena, D., de Souza, A. and Gama, K. (2023) ”Large Language Models for
+Education: Grading Open-ended Questions Using ChatGPT”, Conference SBES: Brazilian Symposium on Software,
+September 25–29, 2023, Campo Grande, Brazil, pp 293-302.
+Rahman, M., Terano, H.J.R., Rahman, M., Salamzadeh, A. and Rahaman, S. (2023) ‘ChatGPT and Academic Research: A
+Review and Recommendations Based on Practical Examples’, Journal of Education, Management and Development
+Studies, Vol 3, No. 1, pp 1-12.
+Ropek, L. (2022) How to Talk to ChatGPT, the Uncanny New AI-Fueled Chatbot That Makes a Lot of Stuff Up. Gizmodo,
+viewed 15 August 2024, <https://gizmodo.com/chatgpt-how-to-use-openai-ai-elon-musk-1849855605>
+Singh, M. (2023) “Maintaining the integrity of the South African university: The impact of ChatGPT on plagiarism and
+scholarly writing’. South African Journal of Higher Education, Vol 37, No. 5, pp 203-220.
+Snyder, H. (2019) “Literature review as a research methodology: An overview and guidelines”, Journal of Business
+Research, Vol 104, November 2019, pp 333-339.
+Sundar, S. and Mok, A. (2023) What is ChatGPT? Here's Everything you need to know about ChatGPT, the Chatbot
+Everyone's still Talking About. Business Insider, viewed 27 August 2024,
+<https://www.businessinsider.com/everything-you-need-to-know-about-chat-gpt-2023-1>.
+University of Southern Queensland (UniSQ). (2024a) What is Artificial Intelligence? Learning and Teaching Futures
+Portfolio, Toowoomba, Queensland, viewed 24 August 2024,
+University of Southern Queensland (UniSQ). (2024b) Staff Guidelines. Learning and Teaching Futures Portfolio,
+Toowoomba, Queensland, viewed 25 August 2024,
+<https://www.unisq.edu.au/study?gad_source=1&gclid=CjwKCAjwlbu2BhA3EiwA3yXyuzxhpQIaxXxpF9ikaDXi16FxTp6
+YICxUniversity of Southern Queensland (UniSQ). (2024c) AI and Assessment Professional Learning Series, Academic Division
+News Digest, viewed 26 August 2024,
+<https://www.unisq.edu.au/study?gad_source=1&gclid=CjwKCAjwlbu2BhA3EiwA3yXyuzxhpQIaxXxpF9ikaDXi16FxTp6
+YICx-ucxGqHlPTTilm9ZxGvQsdhoCeMIQAvD_BwE>.
+Vujinović, A., Luburić, N., Slivka, J. and Kovačević, A. (2024) “Using ChatGPT to Annotate a Dataset: A Case Study in
+Intelligent Tutoring Systems”, Machine Learning with Applications Vol. 16, pp 1-12.
+
+Reproduced with permission of copyright owner. Further reproduction
+prohibited without permission.
+
+

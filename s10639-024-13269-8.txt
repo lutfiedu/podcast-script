@@ -1,0 +1,1535 @@
+Education and Information Technologies
+https://doi.org/10.1007/s10639-024-13269-8
+
+ChatGPT in self‑directed learning: Exploring acceptance
+and utilization among undergraduates of state universities
+in Sri Lanka
+E. W. Biyiri1 · S. N. S. Dahanayake1 · D. M. C. Dassanayake1 ·
+Anand Nayyar2 · K. T. L. U. S. Dayangana1 · J. A. P. M. Jayasinghe1
+Received: 21 June 2024 / Accepted: 9 December 2024
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature
+2024
+
+Abstract
+Technology plays a pivotal role in shaping education through transformative
+enhancements in learning experiences at various levels. ChatGPT has emerged as a
+promising educational tool amid evolving technological landscapes. Although prior
+scholars have explored ChatGPT’s educational use, emphasizing its potential, challenges, and perspectives from students and educators, there remains a notable gap in
+understanding its utilization among undergraduates for self-directed learning. Thus,
+this study aimed to investigate undergraduates’ acceptance and utilization of ChatGPT for self-directed learning based on the Unified Theory of Acceptance and Use
+of Technology (UTAUT) and self-directed learning with technology scale (SDLTS).
+The study provides new insights for reforming educational strategies and policies,
+emphasizing the UTAUT model’s efficacy in considering ChatGPT adoption. Data
+collected from undergraduates at state universities in Sri Lanka via an online survey yielded 627 valid responses, analyzed using Smart PLS. The results revealed
+that performance expectancy and social influence significantly impact the behavioral
+intention of undergraduates to use ChatGPT, with no significant impact on effort
+expectancy. Moreover, behavioral intention and facilitating conditions significantly
+influenced ChatGPT use for self-directed learning among undergraduates.
+Keywords Artificial intelligence · ChatGPT · Higher education · Self-directed
+learning · SDLTS · UTAUT​
+
+1 Introduction
+ChatGPT is an advanced natural language processing chatbot developed by an artificial intelligence (AI) research and deployment company named OpenAI. The tool
+was released in November 2022, free of charge, to collect user feedback (OpenAI,
+Extended author information available on the last page of the article
+Vol.:(0123456789)
+
+Education and Information Technologies
+
+2023). ChatGPT has become a popular tool reaching about one million subscriptions shortly after its introduction (De Angelis et al., 2023; Strzelecki et al., 2024).
+It has revolutionized natural language processing and enabled widespread public
+interaction with generative artificial intelligence. The technology behind ChatGPT
+allows it to mimic human interaction, challenge assumptions, and provide valuable
+insights (Kohnke et al., 2023; Sifat & Bhattacharya, 2023). ChatGPT is capable of
+producing interactive human-like conversations and is a useful digital assistant that
+uses basic and accessible language to help people grasp a wide range of complex
+topics (Bhullar et al., 2024).
+The emergence of ChatGPT attracted both the general public and scientific communities’ attention to the opportunities and challenges posed by the application of
+artificial intelligence across various domains, including work, business, academia,
+and science (Strzelecki et al., 2024). In the field of education, there exists a significant debate on using ChatGPT in education (Rana, 2023), and ChatGPT has
+emerged as a prominent topic in academic discourse (Shahsavar & Choudhury,
+2023).
+The existing studies on ChatGPT have primarily examined the challenges and
+opportunities associated with utilizing ChatGPT in the field of education (AlAfnan
+et al., 2023; Lim et al., 2023); academic integrity issues of using ChatGPT (Perkins,
+2023; Cotton et al., 2023); its’ implications of ChatGPT in education (Farrokhnia
+et al., 2023; Gilson et al., 2023; Fergus et al., 2023); the application of ChatGPT in
+research work (Burger et al., 2023; Ivanov & Soliman, 2023); students perspective
+towards using ChatGPT (Shoufan, 2023; Strzelecki, 2023); and educators’ perspective towards using ChatGPT (Hays et al., 2023; Strzelecki et al., 2024). However,
+there remains a gap in the literature related to the ChatGPT use for self-directed
+learning in higher education.
+The use of ChatGPT has a huge impact on education, and some scholars believe
+that ChatGPT could potentially disrupt multiple industries, including education
+(Rana, 2023). However, some argue that ChatGPT could potentially enhance students’ independent learning (Firat, 2023; Zhai, 2022) and facilitate adult learners’
+self-directed learning, as it provides students with dynamic and interactive tools to
+enhance their self-directed learning experiences (Lin, 2023).
+According to Firat (2023), ChatGPT is a potential open education technology
+as it may promote the independence and autonomy of self-directed learners while
+still being efficient and adaptive. Furthermore, research reveals that ChatGPT can
+enhance enthusiasm and involvement in self-directed learners by providing personalized assistance, guidance, and feedback (Haglund, 2023; Firat, 2023).
+On the other hand, self-directed learning is an imperative educational strategy,
+especially for higher education, that encourages independent learning, critical thinking, and deeper engagement with subjects by facilitating students to take on obligations in their learning path (Garrison, 1997).
+Since the educational paradigm has expanded, incorporating modern technology
+with self-directed learning has become a compelling investigation path. Despite the
+expanding relevance of technology in education, there remains a substantial gap in
+the literature and empirical evidence pertinent to the association between ChatGPT
+and self-directed learning (Haglund, 2023; Strzelecki, 2023), particularly given the
+
+Education and Information Technologies
+
+distinctive setting of state universities in Sri Lanka. Moreover, prior studies had
+suggested further investigations to explore the potential of ChatGPT in promoting autonomy in the education field, particularly in students’ self-directed learning
+(Agustini, 2023; Firat, 2023). Hence, this study aimed to examine the acceptance
+and utilization of ChatGPT in the context of self-directed learning among the undergraduates of state universities in Sri Lanka by employing the UTAUT (Venkatesh
+et al., 2003).
+The outcomes of this study are expected to contribute not merely to understanding ChatGPT’s role in self-directed learning but also to a more extensive discussion
+on integrating technological advances in educational settings.
+Examining undergraduates’ acceptance and utilization of ChatGPT for selfdirected learning yields significant benefits for educational settings in Sri Lanka.
+Research shows that the didactic approach predominates in classrooms within developing countries, considerably affecting the quality of education, where resources are
+one of the barriers to learner-centered education (Schweisfurth, 2011). Thus, this
+study provides insights for creating a learning environment that encourages students
+to manage their own learning process using ChatGPT as a resource.
+Moreover, this study informs broader educational technology integration efforts
+by assessing the effectiveness of digital tools such as ChatGPT in promoting selfdirected learning among undergraduates in Sri Lanka. By leveraging the capabilities
+of ChatGPT, it can support undergraduates in establishing learning goals, identifying available resources, creating tailored learning plans, tracking their progress, and
+reflecting on their educational experiences, ultimately facilitating the achievement
+of self-directed learning.
+Overall, understanding how undergraduates engage with ChatGPT not only provides insights into the integration of technology in education but also how undergraduates in Sri Lanka develop essential skills for improving learning outcomes in
+modern educational contexts.
+In light of the current educational landscape, the main objective of this study is to
+explore the acceptance and utilization of ChatGPT as a tool for self-directed learning among undergraduates in Sri Lanka. The study seeks to understand how students
+accept and use ChatGPT for their independent learning needs.
+In addition to analyzing how students use ChatGPT, the study includes a comprehensive background analysis and a literature review, which examines existing academic studies on the role of ChatGPT in education. It synthesizes previous findings
+on how ChatGPT has been used in different educational settings, offering a broader
+context for the current study.
+By focusing on the acceptance and utilization of ChatGPT for self-directed
+learning, this study also aims to offer insights that can improve the integration of
+AI in higher education. The findings will be beneficial to educators, policymakers,
+and researchers who are interested in enhancing self-directed learning through AI
+technologies.
+
+Education and Information Technologies
+
+1.1 Organization of paper
+The rest of the paper is organized as: Literature review in Section 2 examines and
+synthesizes the role of ChatGPT in education and self-directed learning, laying the
+groundwork for the current study. Section 3 outlines the research design and methodology used in the study. Section 4 presents the findings, including data analysis
+procedures and results. In Section 5, the discussion interprets these findings in relation to the research objectives and existing literature. Section 6 explores the theoretical and practical implications of the study, and, finally, Section 7 concludes the
+paper with future scope.
+
+2 Literature review
+2.1 Role of ChatGPT in education
+ChatGPT has become a useful tool in various domains (Kothgassner & Felnhofer,
+2023; Magruder et al., 2023; Villarino & Villarino, 2023). In the field of education,
+ChatGPT, as an AI-based chatbot, has attracted significant attention for its potential
+to enrich learning experiences. However, the use of ChatGPT in education has generated a significant debate, with some academics accepting its development while
+others criticizing it for its potential to encourage misconduct (Strzelecki, 2023). This
+rapid expansion and adoption of ChatGPT have turned it into a prominent topic of
+discussion, and several scholars have investigated the role of ChatGPT in education
+from different perspectives.
+Various opportunities and challenges associated with utilizing ChatGPT in
+the educational context are investigated. For example, Lim et al. (2023) discussed
+the four-fold paradoxes of ChatGPT in education from management educators’ perspective and concluded that in the future of education, embracing generative AI is
+preferable to rejecting it. AlAfnan et al. (2023) also examined the opportunities and
+challenges of ChatGPT for students and instructors by conducting theory and application-based ChatGPT tests, and the study revealed that ChatGPT could potentially
+replace search engines, and that it helps students find answers to both theory- and
+application-based inquiries. Regarding challenges, the study indicated that unethical
+use of ChatGPT by students could result in decreased human intelligence and hinder
+learning. Consuegra-Fernández et al. (2024) explained that the use of AI in education brings faculty members numerous challenges in maintaining academic standards, while Cebrián Cifuentes et al. (2024) showed the possibility of accomplishing
+the positive impact of AI tools in education when faculty members are trained in
+those tools properly.
+Chiu (2023) presented the effects of ChatGPT in areas of learning, teaching, assessment, and administration; the discussion showed that ChatGPT can
+positively influence learning through adaptive feedback and human–computer
+dialogues. However, it is crucial to focus on the issues connected to academic
+dishonesty and the necessity to refresh the policy. Similarly, Lee et al. (2024)
+explored the educators’ views and found that although many educators admitted
+
+Education and Information Technologies
+
+to starting to adapt the assessments due to AI, they reported a lack of organizational support and unclear guidelines.
+From the students’ perspective, Strzelecki (2023) identified habit, performance
+expectancy, and hedonic motivation as the most significant factors influencing the
+acceptance of ChatGPT but which have the potential of leading to overreliance on
+AI for academic tasks. Subsequent to these outcomes, Arthur et al. (2024) pointed
+out that age, gender, and experience influenced students’ behavioral intentions
+towards the use of ChatGPT in various ways, therefore implying that the use of
+ChatGPT ought to be guided by several individualizing principles. However, the
+ethical consequences focus on the fact that although the ChatGPT can enhance
+creativity and outcome achievement, it compromises integrity and critical thinking. They called for the proper use of AI with defined policies and making sure
+the faculties are trained (Malik et al., 2024). Some negative aspects of AI in relation to cheating in academic work were raised by Adeshola and Adepoju (2023),
+but a more positive attitude toward the use of AI in enhancing learning was also
+observed. Altogether, these works imply that though there are many advantages to
+using ChatGPT, it is necessary to establish effective strategies for its integration
+into educational systems, provide adequate support for educators, and develop the
+ethical code to avoid the undesirable consequences of AI use.
+The studies reviewed offer a comprehensive view of how ChatGPT is being
+integrated into higher education across different regions and disciplines. According to the studies by Rivadeneira et al. (2024) and Aristovnik (2024), the adoption
+and perception of ChatGPT is equally mixed among students and faculty globally
+and in Latin American institutions, specifically while the students are optimistic
+about the use of the tool to facilitate learning, there is a significant concern about
+the cheating that is likely to be facilitated by the tool. Moreover, Amarathunga
+(2024) gave a more general bibliometric review and discussed the trends and prospective research avenues, for instance, the lack of worldwide guidelines on AI
+application in learning. Altogether, these works support the need for the creation of ethical frameworks for the guidance of AI systems as well as curricular
+and policy frameworks that foster the use of systems like ChatGPT in ways that
+enrich, rather than reduce, the learning experience.
+Various researchers also discussed the academic integrity issues of utilizing
+ChatGPT in education, and concerns have been raised about the use of ChatGPT in university education because it may lead to violations of academic integrity (Bhullar et al., 2024). Cotton et al. (2023) explored the use of ChatGPT in
+higher education, highlighting its benefits like increased student engagement but
+also raising concerns about academic honesty and plagiarism. Authors suggested
+strategies that are necessary for using ChatGPT for education, such as ethical use,
+including developing policies, providing training, and detecting cheating. Moreover, Perkins (2023) conducted another study to examine the academic integrity
+of students using AI tools like ChatGPT in formal assessments. The findings
+highlighted the potential of large-language models in teaching digital writing, cocreation between humans and AI, and improving automated writing evaluations.
+The study suggested updating academic integrity policies to consider ChatGPT in
+future educational environments.
+
+Education and Information Technologies
+
+Several scholars also studied the implications of ChatGPT in the education field.
+For example, Farrokhnia et al. (2023) evaluated the implicational potential of ChatGPT in education by conducting a SWOT analysis. The findings indicated that
+ChatGPT has strengths such as using a natural language model, self-improvement
+capability, and personalized responses. However, it also faces weaknesses like lack
+of understanding, evaluation difficulty, bias risk, and cognitive decline. According
+to the study, threats include academic integrity threats, plagiarism, and declining
+cognitive skills. Fergus et al. (2023) also conducted a study to assess how ChatGPT
+could be used in education, specifically using chemistry assessment questions. The
+study found that ChatGPT generated responses for knowledge-focused questions but
+had limitations for nontext information-based questions. The study concluded that,
+despite these limitations, ChatGPT is not considered a high-risk technology tool
+pertaining to cheating.
+The application of ChatGPT in research has also received significant attention
+from scholars. For example, Ivanov and Soliman (2023) and Burger et al. (2023)
+explored the latest developments in artificial intelligence relevant to research and
+education. Additionally, the perspectives of students and educators on using ChatGPT have been investigated. Shoufan (2023) and Strzelecki (2023) examined students’ views, while Hays et al. (2023) and Strzelecki et al. (2024) focused on educators’ perspectives.
+Accordingly, the aforementioned literature indicates that prior studies have
+explored the significance of ChatGPT in education from various perspectives. While
+concerns have been raised regarding ChatGPT’s integration into educational settings, existing studies emphasize its usefulness as a tool for educators and learners
+(Assayed et al., 2022; Han et al., 2023). However, there remains a gap in the literature concerning the use of ChatGPT for self-directed learning, particularly in higher
+education.
+2.2 Self‑directed learning with technology
+Self-directed learning originated within the adult education context (Tough, 1971),
+and presently, it is gaining growing significance in the current educational environment since it has been acknowledged as an essential capability for adults and a crucial 21st-century skill (Morris, 2019). Self-directed learning refers to the process
+where individuals proactively take charge of their learning needs by independently
+identifying and diagnosing their learning needs, seeking out resources for learning,
+engaging in the learning process, and subsequently assessing and evaluating their
+learning outcomes (Knowles, 1975).
+There has been increasing interest in investigating the role of technology and
+digital learning tools in facilitating self-directed learning (Wang et al., 2024). The
+research studies showed that the utilization of information technology has contributed to enhancing the learners’ self-directed learning (Bartholomew, 2019; Lee
+et al., 2017). Prior studies investigated self-directed learning in online educational
+settings (Zhu et al., 2022), the role of smartphones and mobile learning apps in
+facilitating self-directed learning (Jeon, 2022), and using computer simulations for
+
+Education and Information Technologies
+
+self-directed learning (López‐Úbeda & García‐Vázquez, 2022). The application
+of generative AI, including ChatGPT, in the context of self-directed learning, is a
+rapidly evolving research area. However, empirical studies on this topic are scarce
+(Wang et al., 2024; Lin, 2023).
+Recognizing the importance of technology in facilitating self-directed learning,
+(Teo et al., 2010) developed the Self-Directed Learning with Technology Scale
+(SDLTS). This scale incorporated two factors, such as individuals’ self-management
+and their intentional learning using technology to assess their self-directed learning
+using technology.
+The SDLTS was selected for this study as it is highly appropriate for examining
+undergraduates’ acceptance and utilization of ChatGPT for self-directed learning
+due to its specific focus on how learners engage with technology to manage their
+own learning processes. Given ChatGPT’s role as an AI-driven tool that supports
+independent exploration, the SDLTS offers valuable insights into how students leverage it for self-management and intentional learning. Additionally, the SDLTS is
+designed with a strong emphasis on technology integration for self-directed learning,
+making it particularly relevant for evaluating the role of digital tools like ChatGPT
+in self-learning contexts. Furthermore, the SDLTS has been empirically validated
+(Teo et al., 2010; Demir & Yurdugül, 2013; Sumuer, 2017), ensuring its reliability
+and robustness in assessing students’ engagement with technology for self-directed
+learning, making it a suitable instrument for investigating the use of ChatGPT in
+self-directed learning.
+Considering ChatGPT’s nature as technology and SDLTS’ integration of technology as an element facilitating self-directed learning, SDLTS was deemed the
+most appropriate to align with the current research objectives. Thus, SDLTS was
+employed to investigate undergraduates’ acceptance and utilization of ChatGPT in
+their self-directed learning, along with the UTAUT.
+2.3 Theoretical background: The unified theory of acceptance and use
+of technology (UTAUT)
+The current study is based on the Unified Theory of Acceptance and Use of Technology (UTAUT) developed by Venkatesh et al. (2003), which provides the theoretical foundation for this research to examine the acceptance and utilization of
+ChatGPT for Self-Directed Learning (SDL) among undergraduates in Sri Lanka.
+The UTAUT is developed by integrating various factors from existing technology
+acceptance models and it explains the user’s intention to utilize information systems
+and ultimately their use behavior.
+The UTAUT comprises four fundamental predictors of intention to use information systems. (performance expectancy, effort expectancy, social influence, and
+facilitating conditions) Accordingly, performance expectancy is the extent to which
+an individual holds the belief that utilizing the system will facilitate him or her to
+attain gains in job performance; effort expectancy involves the extent of ease attributed to operating the system; social influence refers to the extent to which a person believes that the people important to him or her believe he or she should utilize
+
+Education and Information Technologies
+
+the new system; and facilitating conditions refers to the extent to which a person
+believes that an organizational and technical infrastructure is in place to facilitate the
+use of the systems (Venkatesh et al., 2003).
+The UTAUT has been widely employed in research studies across diverse contexts to understand and predict users’ acceptance of new technologies. Some common contexts where UTAUT has been applied include information technology adoption (VanDerSchaaf et al., 2023), e-learning and educational technology (Abbad,
+2021), healthcare technology adoption (Ahmed et al., 2020; Strzelecki, 2023),
+mobile applications and services (Thomas et al., 2020; Samartha et al., 2022), social
+media and online platforms (Al-Rahmi et al., 2022; Puriwat & Tripopsakul, 2021),
+e-government services (Zeebaree et al., 2022), e-commerce (Misra et al., 2022), and
+emerging technologies (Venkatesh, 2021; Wu et al., 2022).
+In the field of education, UTAUT has been utilized to understand and predict how
+individuals accept and use ChatGPT (Haglund, 2023; Sallam et al., 2023). Nevertheless, there is a dearth of literature pertinent to the acceptance and use of ChatGPT in relation to self-directed learning in higher education.
+UTAUT was selected for this study because it offers a highly effective framework
+for explaining students’ acceptance and utilization of ChatGPT for self-directed
+learning. UTAUT is a comprehensive model that integrates and extends key aspects
+of multiple earlier theories, including the Theory of Reasoned Action, Technology
+Acceptance Model, Motivational Model, Theory of Planned Behavior, Combined
+Theory of Planned Behavior/Technology Acceptance Model, Model of Personal
+Computer Use, Diffusion of Innovations Theory, and Social Cognitive Theory. This
+combination makes UTAUT more versatile and insightful than any single model,
+especially in complex educational environments. As discussed previously, UTAUT
+has been validated across diverse settings and has been demonstrated as an effective tool for analyzing technology adoption across diverse educational contexts. This
+empirical validation across various fields further strengthens its applicability, making it a robust framework for understanding the various factors that influence students’ adoption of ChatGPT as a tool for self-directed learning. Therefore, UTAUT
+was employed for this study to examine undergraduates’ acceptance and utilization
+of ChatGPT in self-directed learning.
+2.4 Hypotheses development
+According to the UTAUT (Venkatesh et al., 2003), the key factors, such as performance expectancy, effort expectancy, social influence, and facilitating conditions,
+are examined in this study to investigate the impact of ChatGPT utilization and
+adoption on undergraduates’ self-directed learning. Hence, this study tested the following hypotheses.
+Performance expectancy, which pertains to individuals’ perceptions of a technology’s effectiveness and usefulness (Venkatesh et al., 2003), is one such aspect
+that often emerges as a crucial determinant. In this study, performance expectancy
+denotes the degree to which undergraduates perceive ChatGPT as a useful tool for
+self-directed learning. According to Menon and Shilpa (2023), when applying the
+
+Education and Information Technologies
+
+UTAUT model to ChatGPT, performance expectancy encompasses individuals’ presumptions on the degree to which using the technology would improve their abilities
+to accomplish tasks with greater effectiveness and efficiency. Previous research on
+technology adoption has demonstrated that performance expectancy has a substantial predictive ability to reveal behavioral intention (Zhou et al., 2019; Ahmed et al.,
+2020).
+Moreover, the studies conducted by Almahri et al. (2020), Al-Emran et al.
+(2023), and Rahim et al. (2022) affirmed a positive association between students’
+performance expectancy and their intention to use chatbots for learning purposes.
+According to Foroughi et al. (2023), ChatGPT’s automated generation of appropriate content reduces the search time for learning materials while enhancing reading
+and writing abilities. Moreover, authors revealed that students who value its efficacy,
+improved performance, and facilitation of easy learning are more inclined to utilize
+ChatGPT for education. Their findings also proved that performance expectancy significantly influences the intention to use ChatGPT. Corroborating this, Shahsavar
+and Choudhury (2023) revealed that ChatGPT positively impacted users’ intentions
+to use the technology in their study examining user inclinations towards using ChatGPT for self-diagnosis and health-related applications.
+Within the limited research available, Strzelecki (2023) developed a model that
+examined the factors impacting the students’ adoption and utilization of ChatGPT
+in higher education. The results revealed that performance expectancy is the second most important predictor of behavioral intention. Moreover, Strzelecki (2023)
+asserted that as ChatGPT in higher education remains an evolving area of investigation, subsequent studies could enhance and refine the scale employed in this research
+for future research endeavors. Accordingly, it is proposed that:
+H1. Performance expectancy has a significant impact on the intention to use
+ChatGPT.
+As Venkatesh et al. (2003) outlined, effort expectancy is another decisive
+factor in the acceptance and utilization of technology, demonstrating the ease
+of using the system. Foroughi et al. (2023) contend that students’ effort expectancy indicates their opinion of the ease of using ChatGPT for learning. Despite
+the potential advantages of inventiveness, some may believe that using it entails
+greater effort than the benefits it offers. As a result, Chatterjee and Bhattacharjee (2020) found that the adoption of new technology is significantly influenced by the efforts of individuals to utilize it. Prior studies have established that
+effort expectancy is vital in determining individuals’ intention to use technology (Moorthy et al., 2019; Hooda et al., 2022). According to Huang and Chueh
+(2022), when individuals perceive a system as effortless, easy, and user-friendly,
+they are more likely to adopt and utilize it. Notably, research by Almahri et al.
+(2020) and Al-Emran et al. (2023) revealed a substantial impact of effort expectancy on students’ intention to use chatbots for learning. Specifically, Al-Emran
+et al. (2023) discovered that effort expectancy plays a pivotal role in persuading students’ intention to use chatbots for both learning and knowledge sharing.
+According to Foroughi et al. (2023), in the context of ChatGPT, learners are not
+
+Education and Information Technologies
+
+required to exert extra effort to grasp its usage, as it resembles the familiar process of searching for information on the Internet. These findings were further
+affirmed by Menon and Shilpa (2023), disclosing that effort expectancy predominantly influences the acceptance and usage intention of ChatGPT.
+Consequently, when ChatGPT’s usage is simple, transparent, and uncomplicated, this user-friendly experience promotes undergraduates’ intention to utilize
+ChatGPT for educational purposes in the future. Within the limited existing studies, Strzelecki’s (2023) exploration of ChatGPT adoption and usage among higher
+education students reveals a significant positive influence of effort expectancy on
+behavioral intention. Moreover, his study findings indicated that effort expectancy
+had the highest mean values in student responses among other variables, demonstrating widespread use of ChatGPT with minimal issues. This implies low effort in
+using ChatGPT in higher education, with no impact on behavioral intention. Thus,
+prioritizing an understanding of effort expectancy is crucial for individuals aiming
+to encourage the adoption and utilization of ChatGPT. Accordingly, it is proposed
+that:
+H2. Effort expectancy has a significant impact on the intention to use ChatGPT.
+The perceived expectations and acceptance of influential people in one’s social
+surroundings significantly affect an individual’s intention to accept and use emerging technologies. According to Venkatesh et al. (2003), social influence refers to
+the effect of important others’ opinions and attitudes on an individual’s decision to
+utilize a new system or technology. This had been affirmed by Leow et al. (2021)
+and Hooda et al. (2022), stating that social influence is an integral component that
+shapes individuals’ willingness to embrace and make use of new technology. Social
+influence in education assesses the effect of an individual’s close social setting,
+including peers, instructors, and parents (Foroughi et al., 2023). Numerous prior
+study findings confirmed that social influence plays an imperative role in shaping the inclination to utilize chatbots (Melián-González et al., 2021; Terblanche &
+Kidd, 2022; Sing et al., 2022; Al-Emran et al., 2023). In light of the study outcomes,
+Melián-González et al. (2021) emphasized the importance of taking special consideration for social influence in forthcoming research if the obligatory utilization
+of chatbots is introduced in particular scenarios in the future. According to Menon
+and Shilpa (2023), the widespread acceptance and increased utilization of ChatGPT
+worldwide shortly after its official launch suggest that social influence is considered
+a positive factor influencing its adoption. As per Strzelecki (2023), the relevance
+of social influence may increase as some universities worldwide formulate policies
+on AI tool usage, such as ChatGPT. This suggests that the impact of social factors
+could become more significant in shaping the adoption and use of AI tools in educational settings. Therefore, this study assesses the extent to which students are convinced that individuals whose opinions they approve endorse the use of ChatGPT
+in their academic pursuits. Drawing from the preceding discourse, the current study
+suggests that social influence will significantly contribute to fostering the intention
+among undergraduates to utilize ChatGPT for their learning purposes. Accordingly,
+it is proposed that:
+
+Education and Information Technologies
+
+H3. Social influence has a significant impact on the intention to use ChatGPT.
+As stated by Foroughi et al. (2023), many educators view ChatGPT as a potential
+opportunity to revolutionize and advance future learning and research in the education sector, reshaping the way students acquire knowledge and information. According to Rudolph et al. (2023), ChatGPT stands out as the most advanced chatbot to
+date, possessing the capability to interact with and comprehend human language
+conversationally and generate content based on user input. On the other hand, Firat
+(2023) emphasized the significance of studying ChatGPT’s impact on self-directed
+learning, as it can uncover best practices for integrating chatbots and AI tools in
+education, offering guidance for the future of technology-driven learning and aiding
+educators and students in optimizing their use for enhanced independent learning
+and development. Self-directed learning pertains to the independent learning process without the guidance or support of a teacher or instructor (Garrison, 1997).
+The existence of various AI-based writing tools before the introduction of ChatGPT
+emphasizes their role in facilitating self-directed learning, especially in higher education, highlighting the significance of AI tools in students’ self-directed learning
+(Rudolph et al., 2023). Accordingly, this study investigates whether the undergraduates’ ChatGPT usage intention influences their self-directed learning behavior. In
+this study, behavioral intention refers to the extent to which students plan to accept
+and utilize ChatGPT, while use behavior encompasses the frequency of use, seeking additional information, engagement with ChatGPT, improving specific skills,
+exploring different perspectives for deeper learning, and actual use of ChatGPT in
+self-directed learning. Jayaseelan et al. (2020) contended that behavioral intention
+directly influences individuals’ technology utilization. Prior studies, particularly in
+education, have also revealed a substantial direct impact of behavioral intention on
+use behavior (Leow et al., 2021; Haglund, 2023; Strzelecki, 2023). However, there
+is limited research examining the influence of ChatGPT’s behavioral intention on
+actual use behavior, specifically in the context of self-directed learning within higher
+education. Thus, this underexplored area of study requires more investigations to
+understand how ChatGPT’s behavioral intention impacts users’ actions in the fields
+of higher education and self-directed learning. Accordingly, it is proposed that:
+H4. Behavioral intention has a significant impact on self-directed learning Using
+ChatGPT
+According to the UTAUT, performance expectancy, effort expectancy, and social
+influence are theorized and empirically supported as critical factors that influence
+the behavioral intention to adopt technology, with actual technology utilization
+determined by the behavioral intention and facilitating conditions (Venkatesh et al.,
+2016). As stated by Venkatesh et al. (2016), facilitating conditions influence both
+behavioral intention and the actual utilization of technology. The study findings of
+Hunde et al. (2023) demonstrated a clear and direct impact of facilitating conditions
+on the utilization of e-learning by health science students. The empirical findings of
+Venkatesh et al. (2003) suggested that facilitating conditions demonstrate a direct
+influence on usage beyond the explanatory power of behavioral intentions alone.
+
+Education and Information Technologies
+
+This finding aligns with the Theory of Planned Behavior and the Decomposed Theory of Planned Behavior, where facilitating conditions are regarded as a direct antecedent of usage, not fully mediated by intention. Supporting the preceding findings,
+Jayaseelan et al. (2020) also revealed a direct association between facilitating conditions and user behavior. According to them, facilitating conditions are the variables
+that directly impact system utilization. According to Haglund (2023), more experienced users place higher demands on facilitating conditions due to their reliance on
+its usage. Consequently, their behavioral intention is less affected because they can
+depend on their experience. This implies that facilitating conditions directly influence the ultimate use behavior, especially for users with more experience. Moreover, the author recommended a more in-depth investigation to uncover the influence
+of facilitating conditions on ChatGPT in academic settings, given the ambiguity
+observed in the findings of his study.
+ChatGPT, according to Firat (2023), has the potential to be a significant asset
+for open education by enhancing self-directed learning and developing adaptation
+among self-taught students while also upholding efficiency and flexibility. Through
+personalized guidance, mentorship, and assessment, ChatGPT has the potential to
+boost motivation and engagement in self-directed learners, offering access to highquality, affordable, and accessible educational resources (Haglund, 2023). Strzelecki’s (2023) study on ChatGPT adoption in higher education also highlighted
+those facilitating conditions, aligning with the UTAUT model, that strongly influences usage behavior. Moreover, it was revealed that students perceive ChatGPT as
+user-friendly, available in multiple languages, requiring only prompts for operation,
+and operating independently without additional resources. In light of the discoveries
+mentioned above, exploring the potential direct impact of facilitating conditions on
+the utilization of ChatGPT for the self-directed learning of undergraduates is crucial,
+an aspect that has been overlooked in previous research. Thus, the study explores the
+direct impact of facilitating conditions on ChatGPT usage for self-directed learning
+by undergraduates in state universities. Accordingly, it is proposed that:
+H5. Facilitating conditions have a significant impact on self-directed learning
+Using ChatGPT
+
+3 Methodology
+3.1 Research approach, population, and sample
+The higher education sector in Sri Lanka is predominantly characterized by state
+universities, which form the core of the sector. These universities are supplemented
+by several international affiliated universities, offering a diverse range of educational
+programs. This research specifically targets internal undergraduates enrolled in Sri
+Lanka’s state university system, which comprises 17 universities distributed across
+the country, admitting an average of around 43,000 internal students annually in
+total. This results in an estimated active internal student population of approximately
+175,000 at any given time. Additionally, the university system is robust, featuring
+
+Education and Information Technologies
+
+111 faculties and 729 departments that span a wide array of disciplines in contemporary education, as per the data from the University Grants Commission (2022).
+Adopting a post-positivist epistemological stance, the research utilized quantitative data and employed a deductive design. This methodology, characterized by
+its explanatory nature, involved developing hypotheses based on existing theories,
+which were then empirically tested using the collected data, aligning with post-positivism principles that emphasize systematic observation and empirical testing. The
+unit of analysis in the study was individual internal undergraduates enrolled in state
+universities. The study’s population encompassed all such internal undergraduates
+who had experience using ChatGPT.
+3.2 Questionnaire development
+The questionnaire encompasses demographic information and questions to assess
+the study variables. To operationalize the research constructs, multi-item reflective
+indicators were employed, using a 5-point Likert scale from 1 ("strongly disagree")
+to 5 ("strongly agree"). The measures for these constructs were initially developed
+from existing literature and then tailored to fit the specific requirements of this
+research. When modifying the questionnaire items to align with the research needs,
+the original items were carefully adjusted to meet the current study’s objectives. The
+construct measuring the use of ChatGPT for self-directed learning was based on the
+self-directed learning with technology scale by Teo et al. (2010). Other variables
+such as performance expectancy, effort expectancy, social pressure, facilitating conditions, and behavioral intention were developed using the UTAUT by Venkatesh
+et al. (2003), integrating similar items from Tiwari et al. (2023) that assessed students’ use of ChatGPT. The development of the questionnaire was supported by
+strong theoretical foundations to evaluate and ensure its content and construct validity. For face validity, the questionnaire first underwent a review by academic members. This was followed by practical testing with a group of students to determine
+its relevance and user-friendliness, thus establishing its face validity. This two-step
+validation process, involving both expert evaluation and practical testing, was implemented to guarantee the questionnaire’s appropriateness and accessibility for the
+intended respondents.
+3.3 Data collection
+Data collection was conducted online using a Google Form, which included initial
+filtering questions to identify suitable respondents for the survey. These questions
+were: "Are you currently an internal undergraduate student at a Sri Lankan state
+university?" and "Have you ever used ChatGPT?" The questionnaire was developed with a reasonable number of questions to prevent respondent fatigue (Podsakoff et al., 2003). The survey link was shared through the academic members of the
+respective universities to reach the potential respondents. The data collection process spanned two weeks, during which several reminders and encouragements were
+issued intermittently to increase participation. Ultimately, 627 usable responses
+
+Education and Information Technologies
+
+were obtained and utilized for the analysis. Further, the sample distribution fairly
+represented the population, as over 600 out of the 627 responses were drawn from
+10 prominent universities across the Western, Central, Southern, North Central, and
+North Western provinces of Sri Lanka.
+3.4 Data analysis
+SPSS version 21 was utilized for preliminary analysis, including sample descriptions on frequencies and an Exploratory Factor Analysis (EFA) to assess the degree
+of common method bias. Partial Least Squares Structural Equation Modeling
+(PLS-SEM) was conducted using Smart-PLS software version 4.0.9.9 to test the
+hypotheses.
+The measurement model was examined for reliability and validity by adopting
+the prescribed steps for reflective measurement model evaluation of PLS-SEM. The
+structural model was assessed by evaluating path coefficients and respective p-values
+calculated through the PLS-SEM algorithm along with a bootstrapping procedure as
+prescribed in structural model evaluation. Path coefficients for the entire model were
+examined, while the coefficient of determination (R2), predictive relevance (Q2),
+and effect size (f2) were specifically evaluated for the endogenous variables.
+
+4 Findings of the study
+The sample for this study consisted of 627 individuals, where females constituted
+71.8% (450) and males 28.2% (177). The respondents were diverse in terms of their
+academic year, with the largest groups being 3rd-year students 32.5% (204), 4thyear students 29.8% (187), 2nd-year students 23.6% (148), 1st-year students 12.8%
+(80), and 5th-year students 1.3% (8), indicating a broad representation across different stages of their academic journey. The sample distribution further highlights this
+diversity, as over 600 of the 627 valid responses were collected from 10 prominent
+universities located across main regions in Sri Lanka. This broad coverage assures
+that the findings can be generalized, as around 60 respondents were drawn from each
+of these major universities, ensuring a well-distributed and representative sample.
+In addressing the potential for common method bias (CMB) inherent in selfadministered online surveys, the approach recommended by Podsakoff et al. (2003)
+was adopted. The respondents were notified in the invitation text that there were no
+’correct’ or ’incorrect’ answers, ensuring participant objectivity. Additionally, Harman’s single-factor test was applied to evaluate CMB. The exploratory factor analysis (EFA) conducted on the survey items indicated that the first factor explained only
+20.2% of the total variance, significantly below the 50% threshold suggested by Podsakoff et al. (2003), indicating a reduced impact of CMB.
+This study utilized Partial Least Squares Structural Equation Modelling (PLSSEM) as the principal analytical technique, utilizing SmartPLS software for data
+analysis. Table 1 comprehensively details the questionnaire items designed to measure the primary constructs of research. This table not only enumerates the items but
+
+4.20
+
+4.05
+
+My interaction with ChatGPT is clear and understandable
+
+3.91
+
+3.41
+
+People who influence my behavior think that I should use ChatGPT
+
+3.74
+
+4.14
+
+I have the resources necessary to use ChatGPT
+
+1.09
+1.08
+
+3.98
+3.49
+
+3.83
+3.38
+3.45
+3.68
+
+I consider myself a regular user of ChatGPT
+
+I expect to use ChatGPT near future
+
+I always try to use ChatGPT
+
+I see myself using ChatGPT frequently
+
+I see myself continuing to use ChatGPT in the future
+
+3.57
+
+I can get help from others when I have difficulties using ChatGPT
+
+Behavioral Intention
+
+0.74
+
+0.99
+
+0.85
+
+1.07
+
+0.97
+
+0.76
+
+4.07
+4.13
+
+I have the knowledge necessary to use ChatGPT
+
+0.75
+
+1.09
+
+1.11
+
+1.15
+
+1.14
+
+1.04
+
+0.76
+
+0.74
+
+0.84
+
+0.84
+
+1.04
+
+0.79
+
+0.73
+
+SD
+
+ChatGPT is compatible with technologies I use
+
+4.08
+
+My peers have influenced me to use ChatGPT
+
+Facilitating Conditions
+
+3.42
+3.46
+
+People who are important to me think I should use ChatGPT
+
+People whose opinions I value prefer me to use ChatGPT
+
+3.51
+
+It is easy for me to become skillful at using ChatGPT
+
+Social Influence
+
+4.28
+4.30
+
+Learning how to use ChatGPT is easy for me
+
+I find ChatGPT easy to use
+
+4.12
+
+Using ChatGPT has enabled me to acquire knowledge
+
+Effort Expectancy
+
+4.33
+4.00
+
+Using ChatGPT enables me to accomplish tasks more quickly
+
+Using ChatGPT increases my productivity
+
+4.42
+
+4.24
+
+Mean
+
+I would find ChatGPT as a useful tool
+
+Performance Expectancy
+
+Description of Items
+
+Table 1  Descriptives, Factor Loadings, and Reliability Statistics
+
+0.876
+
+0.870
+
+0.902
+
+0.777
+
+0.902
+
+0.713
+
+0.904
+
+0.889
+
+0.900
+
+0.832
+
+0.887
+
+0.933
+
+0.941
+
+0.845
+
+0.838
+
+0.882
+
+0.825
+
+0.800
+
+0.835
+
+0.856
+
+0.857
+
+Loadings
+
+0.916
+
+0.876
+
+0.920
+
+0.87
+
+0.858
+
+Cronbach alpha
+
+0.938
+
+0.905
+
+0.930
+
+0.876
+
+0.862
+
+Rho_A
+
+0.751
+
+0.732
+
+0.808
+
+0.719
+
+0.701
+
+AVE
+
+0.918
+
+0.915
+
+0.944
+
+0.911
+
+0.903
+
+CR
+
+Education and Information Technologies
+
+3.91
+
+I explore ChatGPT to gather diverse perspectives and ideas for deeper learning on various topics
+
+Source: survey data, 2023
+
+3.93
+3.81
+
+I engage with ChatGPT to organize and analyze information for my learning purposes
+
+I use ChatGPT to improve specific skills I am interested in, such as language learning
+
+3.79
+3.92
+
+I utilize ChatGPT to express and refine my thoughts and ideas related to my university education
+
+3.87
+
+3.87
+
+Mean
+
+I actively seek additional information via ChatGPT to enhance my understanding of various topics
+
+I frequently use ChatGPT to ask questions and clarify doubts about my lessons outside of the
+classroom
+
+Self-directed Learning
+
+Description of Items
+
+Table 1  (continued)
+
+0.97
+
+1.03
+
+0.87
+
+0.94
+
+0.99
+
+0.98
+
+SD
+
+0.906
+
+0.882
+
+0.860
+
+0.891
+
+0.842
+
+0.913
+
+Loadings
+0.943
+
+Cronbach alpha
+0.947
+
+Rho_A
+0.779
+
+AVE
+
+0.955
+
+CR
+
+Education and Information Technologies
+
+Education and Information Technologies
+Table 2  Heterotrait-Monotrait Ratio
+Construct
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Behavioral Intention (1)
+ChatGPT for Self-directed Learning (2)
+
+0.735
+
+Effort Expectancy (3)
+
+0.566
+
+Facilitating Conditions (4)
+
+0.563
+
+0.515
+
+0.791
+
+Performance Expectancy (5)
+
+0.647
+
+0.619
+
+0.799
+
+0.781
+
+Social Influence (6)
+
+0.638
+
+0.473
+
+0.679
+
+0.698
+
+Construct
+
+1
+
+2
+
+Behavioral Intention to use ChatgPT (1)
+
+0.867
+
+0.556
+
+0.674
+
+Source: survey data, 2023
+Table 3  Fornell-Larcker Criterion
+3
+
+4
+
+5
+
+ChatGPT for Self-directed Learning (2)
+
+0.687
+
+0.883
+
+Effort Expectancy (3)
+
+0.512
+
+0.509
+
+0.848
+
+Facilitating Conditions (4)
+
+0.514
+
+0.479
+
+0.748
+
+0.855
+
+Performance Expectancy (5)
+
+0.578
+
+0.559
+
+0.825
+
+0.684
+
+0.837
+
+Social Influence (6)
+
+0.591
+
+0.446
+
+0.616
+
+0.613
+
+0.601
+
+6
+
+0.899
+
+Source: survey data, 2023
+
+also provides a descriptive statistical overview, including the mean value and standard deviation for each item. Additionally, Table 1 systematically presents the relevant criteria to test the reliability of each construct. These metrics consist of factor
+loadings, Cronbach’s alpha, Rho_A, Average Variance Extracted (AVE), and Composite Reliability (CR), providing a robust evaluation of the internal consistency,
+reliability, and construct validity of the measurement model.
+
+4.1 Measurement model evaluation
+The assessment of a reflective measurement model in PLS-SEM encompasses several key steps, primarily focused on evaluating reliability and validity. The reliability
+of the constructs was determined through Cronbach’s alpha, Rho_A, composite reliability, and factor loadings. According to Table 1, all criteria for these four parameters consistently exceed the threshold value of 0.7, as established by Hair et al.
+(2021), indicating robust reliability across the constructs. The convergent validity
+was confirmed in the study, as indicated by the Average Variance Extracted (AVE)
+values exceeding 0.5 (Table 1). Additionally, discriminant validity was confirmed
+through the Heterotrait-Monotrait (HTMT) ratio (Table 2) and the Fornell-Larcker
+criterion (Table 3).
+The HTMT ratios for all construct combinations were found to be less than 0.9.
+Moreover, the diagonal values in the Fornell-Larcker criterion were higher than
+
+Education and Information Technologies
+
+their respective off-diagonal values, thereby validating the discriminant validity of
+the construct measures in the measurement model, as outlined by Hair et al. (2021).
+4.2 Structural model evaluation and hypotheses testing
+Figure 1 presents the structural and measurement model generated by SmartPLS,
+depicting both the structural relationships and the measures of the constructs. After
+assessing the measurement model, the structural model evaluation was performed,
+applying various criteria to determine their thresholds and levels of sufficiency.
+The ­R2 values (Fig. 1) of 0.427 for ’behavioral intention’ and 0.494 for ’use of
+ChatGPT for self-directed learning’ indicate a moderate explanatory power for
+their respective exogenous constructs, aligning with the thresholds outlined by Chin
+(1998) and further supported by Hair et al. (2013). The higher ­R2 value for the latter suggests a more robust explanatory model. Furthermore, the ­Q2 values for the
+endogenous variables ’behavioral intention’ and ’use of ChatGPT for self-directed
+learning’ are 0.417 and 0.315, respectively. These values indicate substantial predictive relevance, as they are greater than zero, in line with the criteria suggested by
+Hair et al. (2021).
+In Table 4, the path coefficients for each hypothesis are presented. The significance of these coefficients, with the notable exception of ­H2, is established by the
+p-values obtained through a comprehensive 10,000-sample bootstrapping procedure
+using SmartPLS. Among these paths, the one linking ’behavioral intention’ to ’use
+of ChatGPT for self-directed learning’ exhibits the highest value (β = 0.600). Additionally, the other two paths (β = 0.385 and β = 0.374) with significant coefficients
+also demonstrate considerable predictive power for their respective endogenous variables. Finally, analyzing the effect sizes (­ f2 values), H
+­ 1 and ­H5 show small effects at
+
+Fig. 1  Structural model. Source: survey data, 2023
+
+Education and Information Technologies
+Table 4  Path coefficients and hypotheses testing
+Hypothesis
+
+Path Coefficient
+
+p-value
+
+f2
+
+Decision
+
+H1 Performance Expectancy—>
+Behavioral Intention
+
+0.374
+
+0.000
+
+0.075
+
+Accepted
+
+H2 Effort Expectancy—>
+Behavioral Intention
+
+−0.034
+
+0.561
+
+0.001
+
+Rejected
+
+H3 Social Influence—>
+Behavioral Intention
+
+0.385
+
+0.000
+
+0.154
+
+Accepted
+
+H4 Behavioral Intention—>
+ChatGPT for Self-directed Learning
+
+0.600
+
+0.000
+
+0.523
+
+Accepted
+
+H5 Facilitating Conditions—> ChatGPT
+for Self-directed Learning
+
+0.171
+
+0.000
+
+0.042
+
+Accepted
+
+Source: survey data, 2023
+
+0.075 and 0.042, respectively. H
+­ 3 displays a medium effect with 0.154. In contrast,
+­H4 demonstrates a large effect at 0.523, indicating a significant impact. H
+­ 2, with an
+­f2 value of 0.001, falls below the threshold for a small effect, confirming its negligible impact (Hair et al., 2021). After careful examination and consideration of all the
+assessment results, the decisions regarding the hypotheses were made, as depicted in
+the last column of Table 4.
+
+5 Discussion
+The investigation into ChatGPT’s role in self-directed learning among undergraduates uncovers insights with profound theoretical and managerial implications.
+Descriptive statistics show a broad consensus among respondents on the relevance
+of selected factors in analyzing ChatGPT’s use in self-directed learning. The analysis
+notably highlights marked variances in the ratings of different variables. Variables
+like performance expectancy (4.24), effort expectancy (4.12), and facilitating conditions (4.08) receive comparatively higher ratings. In contrast, social influence (3.51),
+behavioral intention (3.57), and the actual use of ChatGPT for self-directed learning
+(3.87) generate lower, yet substantial, ratings. This pattern suggests that undergraduates in Sri Lanka rate the usability factors and facilities of ChatGPT highly, yet their
+intention to use it is not as strong. Interestingly, the actual use of ChatGPT for selfdirected learning is higher compared to their initial usage intention, indicating that
+while initial intentions may be moderate, actual usage increases with self-learning
+needs. This finding aligns with research indicating a growing dependence among
+students on technology-based tools for self-directed learning (Rascón-Hernán et al.,
+2019).
+The robustness of the multivariate analysis substantiates the effectiveness of the
+UTAUT in evaluating self-directed learning via ChatGPT. The measurement models
+corroborate the suitability and precision of the metrics used (Venkatesh et al., 2003;
+Timothy et al., 2010; Tiwari et al., 2023;). The structural model unveils intriguing
+insights regarding the application of ChatGPT, particularly in self-directed learning.
+
+Education and Information Technologies
+
+Notably, the first endogenous variable, behavioral intention to use ChatGPT, exhibits moderate explanatory power influenced by its exogenous variables: performance
+expectancy, effort expectancy, and social influence. While performance expectancy
+and social influence have a significant impact on the intention to use, effort expectancy shows an insignificant association. This finding highlights that undergraduates are inclined to continue using ChatGPT due to its anticipated performance and
+social endorsement, aligning with UTAUT’s initial propositions, as reflected in subsequent studies (Rudolph et al., 2023; Foroughi et al., 2023).
+Accordingly, the study findings confirmed that performance expectancy significantly influences the intention to use ChatGPT for self-directed learning, aligning
+with the UTAUT framework, which identifies it as a key determinant of behavioral
+intention (Venkatesh et al., 2003). Existing literature consistently supports this relationship, showing that individuals are more likely to adopt technologies they perceive as enhancing task performance (Zhou et al., 2019; Ahmed et al., 2020). In the
+case of ChatGPT, studies by Almahri et al. (2020) and Al-Emran et al. (2023) indicated that students’ perceptions of its usefulness directly influence their adoption.
+Foroughi et al. (2023) further emphasized its role in improving learning efficiency,
+while Shahsavar and Choudhury (2023) and Strzelecki (2023) confirmed performance expectancy as a central factor in shaping behavioral intention toward using
+ChatGPT in educational contexts.
+Moreover, social influence, which includes the opinions of peers, educators, and
+family members, is another vital factor in technology adoption within educational
+contexts (Leow et al., 2021; Hooda et al., 2022). Research has consistently shown
+that social factors drive behavioral intention toward AI tools like ChatGPT, as students often seek validation from their social networks when adopting new technologies (Melián-González et al., 2021; Terblanche & Kidd, 2022; Al-Emran et al.,
+2023). The swift global acceptance of ChatGPT underscores the positive impact
+of social influence on its usage (Menon & Shilpa, 2023). Furthermore, Strzelecki
+(2023) posits that as universities implement formal policies regarding AI tools, the
+importance of social influence in shaping students’ intentions to adopt ChatGPT
+is likely to increase. These findings collectively reinforce the assertion that social
+influence is a significant predictor of behavioral intention in educational technology
+adoption.
+In contrast, while the hypothesis theorizing that effort expectancy significantly
+impacts the intention to use ChatGPT was initially supported by the literature, the
+results reveal it to be rejected. Venkatesh et al. (2003) emphasized effort expectancy
+as a critical determinant of technology acceptance, with studies indicating that students perceive effort expectancy as essential for using ChatGPT (Foroughi et al.,
+2023; Almahri et al., 2020). However, recent findings suggest that this factor is less
+significant among younger generations (Lajuni et al., 2022; Lakhal & Khechine,
+2021; Zhang et al. 2023), particularly undergraduates, who are generally adept at
+using technology and may prioritize performance expectancy instead (Lajuni et al.,
+2022).
+Accordingly, In the context of ChatGPT’s acceptance, the traditionally significant
+factor of effort expectancy is observed to be less essential among younger generations, particularly undergraduates. This suggests two conclusions. Firstly, younger
+
+Education and Information Technologies
+
+students may not prioritize ease of use, as they are adept with technology and can
+easily adapt to technology-based applications. Secondly, ChatGPT’s user-friendly
+design might lead users to overlook the effort needed to use it. This indicates that
+the effort needed to use a system is no longer a dominant concern for this demographic, which can be attributed to their inherent technological adaptability from
+an early age, leading to less concern about the ease of use of technological systems.
+Recent studies support this observation. Lajuni et al. (2022) revealed that performance expectancy is more influential than effort expectancy in financial technology acceptance for Millennials, and Gen Z. Lakhal and Khechine (2021) noted that
+effort expectancy’s impact varies across demographics in online course persistence.
+In contrast, Zhang et al. (2023) discovered that effort expectancy is significant for
+older adults, highlighting a generational divide in technology acceptance. These
+findings collectively suggest a generational shift in the factors influencing technology acceptance, particularly with a reduced emphasis on effort expectancy among
+younger users.
+Additionally, the study findings indicated that behavioral intention significantly
+impacts self-directed learning through ChatGPT. Foroughi et al. (2023) highlighted
+ChatGPT’s potential to transform education by enhancing knowledge acquisition,
+while Rudolph et al. (2023) emphasize its advanced capabilities in generating relevant content. Garrison (1997) defined self-directed learning as an independent
+process, which aligns with the facilitative role of AI tools in education. Research
+consistently shows that a strong behavioral intention to use technology correlates
+with increased engagement in self-directed learning activities, such as seeking information and skill enhancement (Jayaseelan et al., 2020; Leow et al., 2021; Haglund,
+2023; Strzelecki, 2023). Additionally, studies by Almahri et al. (2020) and Huang
+and Chueh (2022) reinforce that positive behavioral intentions towards educational
+technologies can enhance learning outcomes. Therefore, this research underscores
+the importance of examining the impact of behavioral intention on the actual use of
+ChatGPT to facilitate self-directed learning in higher education.
+The utilization of ChatGPT for self-directed learning is identified as a significant endogenous variable, demonstrating considerable explanatory power in terms
+of technology adoption. This prominence is notably greater when compared to the
+intention to use ChatGPT alone. Such a trend aligns with the foundational elements
+of the UTAUT. According to UTAUT principles, use intention and facilitating conditions are pivotal determinants of technology adoption (Alowayr & Al-Azawei,
+2021). In the specific context of ChatGPT for educational purposes, it is observed
+that the intention to utilize the tool carries more weight than the facilitating conditions. This suggests that the initial intent to engage with ChatGPT is a more crucial
+factor in determining user engagement for self-directed learning, underscoring the
+importance of intrinsic motivation in the adoption process. The findings are consistent with research on mobile learning and self-directed learning, where intrinsic
+motivation and intent to use technology are crucial drivers, often surpassing external
+factors like facilitating conditions (Kankok et al., 2020). This trend indicates a shift
+in the factors influencing technology acceptance, particularly highlighting a reduced
+emphasis on effort expectancy among younger users.
+
+Education and Information Technologies
+
+6 Theoretical and practical implications
+The theoretical implications of this study could contribute to a broader comprehension of the factors influencing the acceptance and utilization of ChatGPT in
+the context of self-directed learning. Thereby, researchers, educators, and policymakers could use these valuable insights to enhance the integration of ChatGPT into self-directed learning environments. Moreover, the study insights lay a
+solid foundation for future researchers to widen their study scopes while contributing to current discussions on the ethical and effecrive utilization of ChatGPT
+in educational settings. The findings imply that constructs such as performance
+expectancy and social influence, previously applied to generalize technology
+adoption, could be adapted to better comprehend the acceptance and utilization of
+AI-based applications such as ChatGPT in educational settings. Moreover, technology adoption theories require facilitating conditions as an integral component
+for effective implementation, recognizing the relationship between intention and
+practical concerns necessary for optimal technology utilization.
+The educators should emphasize ChatGPT’s perceived benefits in enhancing
+academic performance, acquiring knowledge, and developing skills, promoting
+its application in self-directed learning, while programmers should consider the
+self-directed learning requirements for further improvement and development of
+the application. Moreover, community engagement could be improved through
+collaborative usage and positive experience sharing. The student’s awareness of
+and familiarity with technology could be increased while encouraging ChatGPT
+adoption through focused training, educational campaigns, and curricular integration strategies. The educational institutions could invest in infrastructure development, training programs, and continuous support systems to offer a conducive
+environment for students to incorporate ChatGPT into their self-directed learning.
+Countries such as China, Japan, the Republic of Korea, and Singapore are already
+incorporating AI-focused curricula in schools and promoting the incorporation
+of AI elements in teacher education programs (UNESCO, 2023). It also emphasized the need for guidance on the effective and ethical use of these tools. For
+example, the Australian Computer Society (ACS) in Australia develops standards
+and guidelines for the ethical use of technology, including AI. Linking digital
+competency frameworks with ACS standards assures that educational programs
+impart technical skills, ethical reasoning, and problem-solving abilities necessary
+for navigating AI-driven changes (Sandu et al., 2024).
+
+7 Conclusion and future scope
+The current study examined the acceptance and utilization of ChatGPT for selfdirected learning among undergraduates, utilizing the Unified Theory of Acceptance and Use of Technology (UTAUT) and the Self-Directed Learning with
+Technology Scale (SDLTS). The results indicate that performance expectancy
+
+Education and Information Technologies
+
+and social influence significantly impact undergraduates’ behavioral intention to
+use ChatGPT. Effort expectancy, however, did not show a significant impact on
+behavioral intention. Moreover, behavioral intention to use ChatGPT and facilitating conditions were shown to have a significant influence on the actual use
+of ChatGPT for self-directed learning among undergraduates. These findings
+emphasize the importance of perceived usefulness, the influence of social factors, and facilitating conditions in driving the acceptance and use of ChatGPT in
+educational settings. While this study provides valuable insights into the factors
+influencing the acceptance and use of ChatGPT for self-directed learning among
+undergraduates, there are several avenues for further investigation. This study
+employed a quantitative approach to investigate the acceptance and utilization of
+ChatGPT for self-directed learning among undergraduates.
+In the near future, it is planned to integrate qualitative methods, which could provide comprehensive insights into students’ experiences and perceptions regarding
+ChatGPT in self-directed learning. While this study examined the undergraduates’
+perspective, future research could also look into educators’ perceptions towards the
+use of ChatGPT to promote self-directed learning. Exploring how educators interpret and use ChatGPT in their teaching practices may provide a more comprehensive understanding of its role in education. Moreover, the research could further
+explore ChatGPT’s impact on undergraduates’ self-directed learning across diverse
+academic disciplines, long-term educational outcomes, and comparisons with traditional learning approaches. Additionally, the ethical considerations and privacy concerns pertinent to the use of ChatGPT in educational contexts could be explored in
+order to develop guidelines for responsible implementation.
+Funding The authors received no specific funding for this study.
+Data availability Authors declare that all the data being used in the design and production cum layout of
+the manuscript is declared in the manuscript.
+
+Declarations
+Ethics approval No Human Subject or animals are involved in the research.
+Consent to participate All authors have mutually consented to participate.
+Consent to publish All the authors have consented the Journal to publish this paper.
+Conflicts of interest The authors declare that they have no conflicts of interest to report regarding the
+present study.
+
+References
+Abbad, M. M. M. (2021). Using the UTAUT model to understand students’ usage of e-learning systems
+in developing countries. Education and Information Technologies, 26(6), 7205–7224. https://​doi.​
+org/​10.​1007/​s10639-​021-​10573-5
+
+Education and Information Technologies
+Adeshola, I., & Adepoju, A. P. (2023). The opportunities and challenges of ChatGPT in education. Interactive Learning Environments, 1–14. https://​doi.​org/​10.​1080/​10494​820.​2023.​22538​58
+Agustini, N. P. O. (2023). Examining the role of ChatGPT as a learning tool in promoting students’ english language learning autonomy relevant to Kurikulum Merdeka Belajar. Edukasia: Jurnal Pendidikan Dan Pembelajaran, 4(2), 921–934.
+Ahmed, M. H., Bogale, A. D., Tilahun, B., Kalayou, M. H., Klein, J., Mengiste, S. A., & Endehabtu, B. F.
+(2020). Intention to use electronic medical record and its predictors among health care providers at
+referral hospitals, north-West Ethiopia, 2019: using unified theory of acceptance and use technology 2(UTAUT2) model. BMC Medical Informatics and Decision Making, 20(1). https://​doi.​org/​10.​
+1186/​s12911-​020-​01222-x
+AlAfnan, M. A., Dishari, N. S., Jovic, N. M., & Lomidze, N. K. (2023). ChatGPT as an educational
+tool: Opportunities, challenges, and recommendations for communication, business writing, and
+composition courses. Journal of Artificial Intelligence and Technology. https://​doi.​org/​10.​37965/​
+jait.​2023.​0184
+Al-Emran, M., AlQudah, A. A., Abbasi, G. A., Al-Sharafi, M. A., & Iranmanesh, M. (2023). Determinants of using AI-Based chatbots for knowledge sharing: evidence from PLS-SEM and Fuzzy Sets
+(FSQCA). IEEE Transactions on Engineering Management, 1–15. https://​doi.​org/​10.​1109/​tem.​
+2023.​32377​89
+Almahri, F. A. J., Bell, D., & Merhi, M. (2020). Understanding student acceptance and use of chatbots
+in the United Kingdom universities: A structural equation modelling approach. In 2020 6th International Conference on Information Management (ICIM), 284–288.https://​doi.​org/​10.​1109/​ICIM4​
+9319.​2020.​244712
+Alowayr, A., & Al-Azawei, A. (2021). Predicting mobile learning acceptance: An integrated model and
+empirical study based on higher education students’ perceptions. Australasian Journal of Educational Technology, 38–55. https://​doi.​org/​10.​14742/​ajet.​6154
+Al-Rahmi, A. M., Shamsuddin, A., Wahab, E., Al-Rahmi, W. M., Alturki, U., Aldraiweesh, A., &
+Almutairy, S. (2022). Integrating the role of UTAUT and TTF model to evaluate social media use
+for teaching and learning in higher education. Frontiers in Public Health, 10. https://​doi.​org/​10.​
+3389/​fpubh.​2022.​905968
+Amarathunga, B. (2024). ChatGPT in education: unveiling frontiers and future directions through systematic literature review and bibliometric analysis, Asian Education and Development Studies, Vol.
+ahead-of-print No. ahead-of-print. https://​doi.​org/​10.​1108/​AEDS-​05-​2024-​0101
+Aristovnik, A. (2024). Exploring the Global Impact of ChatGpt in Higher Education from Students Perspective. PEOPLE: International Journal of Social Sciences, 335–336. https://​doi.​org/​10.​20319/​
+icssh.​2024.​335336
+Arthur, F., Salifu, I., & Nortey, S. A. (2024). Predictors of higher education students’ behavioural intention and usage of ChatGPT: the moderating roles of age, gender and experience. Interactive Learning Environments, 1–27. https://​doi.​org/​10.​1080/​10494​820.​2024.​23628​05
+Assayed, S., Shaalan, K., & Alkhatib, M. (2022). A chatbot intent classifier for supporting high school
+students. Icst Transactions on Scalable Information Systems, e1. https://​doi.​org/​10.​4108/​eetsis.​
+v10i2.​2948
+Bartholomew, S. R. (2019). The impact of mobile devices on Self-Directed Learning and Achievement.
+In Contemporary issues in technology education (pp. 261–275). https://​doi.​org/​10.​1007/​978-​981-​
+13-​3010-0_​17
+Bhullar, P. S., Joshi, M., & Chugh, R. (2024). ChatGPT in higher education - a synthesis of the literature
+and a future research agenda. Education and Information Technologies. https://​doi.​org/​10.​1007/​
+s10639-​024-​12723-x
+Burger, B., Kanbach, D. K., Kraus, S., Breier, M., & Corvello, V. (2023). On the use of AI-based tools
+like ChatGPT to support management research. European Journal of Innovation Management,
+26(7), 233–241. https://​doi.​org/​10.​1108/​ejim-​02-​2023-​0156
+Cebrián Cifuentes, S., Guerrero Valverde, E., & Checa Caballero, S. (2024). The vision of University
+students from the educational field in the integration of ChatGPT. Digital, 4(3), 648–659. https://​
+doi.​org/​10.​3390/​digit​al403​0032
+Chatterjee, S., & Bhattacharjee, K. K. (2020). Adoption of artificial intelligence in higher education: A
+quantitative analysis using structural equation modelling. Education and Information Technologies,
+25(5), 3443–3463. https://​doi.​org/​10.​1007/​s10639-​020-​10159-7
+Chin, W. W. (1998). The partial least squares approach to structural equation modeling. In G. A. Marcoulides (Ed.), Modern methods for business research (pp. 295–336). Lawrence Erlbaum Associates.
+
+Education and Information Technologies
+Chiu, T. K. F. (2023). The impact of Generative AI (GenAI) on practices, policies and research direction in education: a case of ChatGPT and Midjourney. Interactive Learning Environments,
+1–17. https://​doi.​org/​10.​1080/​10494​820.​2023.​22538​61
+Consuegra-Fernández, M., Sanz-Aznar, J., Burguera-Serra, J. G., & Caballero Molina, J. J. (2024).
+ChatGPT: The Dilemma of the Authorship of Graded Assignments in Higher-Education.
+Revista de Investigacion Educativa, 42(2). https://​doi.​org/​10.​6018/​r ie.​565391
+Cotton, D. R. E., Cotton, P. A., & Shipway, J. R. (2023). Chatting and cheating: Ensuring academic
+integrity in the era of ChatGPT. Innovations in Education and Teaching International, 1–12.
+https://​doi.​org/​10.​1080/​14703​297.​2023.​21901​48
+De Angelis, L., Baglivo, F., Arzilli, G., Privitera, G. P., Ferragina, P., Tozzi, A. E., & Rizzo, C.
+(2023). ChatGPT and the rise of large language models: the new AI-driven infodemic threat in
+public health. Frontiers in Public Health, 11. https://​doi.​org/​10.​3389/​fpubh.​2023.​11661​20
+Demir, A., & Yurdugül, D. (2013). Self-directed learning with technology scale for young students: A
+validation study. E-Uluslararası Eğitim Araştırmaları Dergisi, 4(3), 58–73.
+Farrokhnia, M., Banihashem, S. K., Noroozi, O., & Wals, A. (2023). A SWOT analysis of ChatGPT:
+Implications for educational practice and research. Innovations in Education and Teaching
+International, 1–15. https://​doi.​org/​10.​1080/​14703​297.​2023.​21958​46
+Fergus, S., Botha, M., & Ostovar, M. (2023). Evaluating academic answers generated using ChatGPT.
+Journal of Chemical Education, 100(4), 1672–1675. https://​doi.​org/​10.​1021/​acs.​jchem​ed.​3c000​
+87
+Firat, M. (2023). How ChatGPT Can Transform Autodidactic Experiences and Open Education?
+https://​doi.​org/​10.​31219/​osf.​io/​9ge8m
+Foroughi, B., Senali, M. G., Iranmanesh, M., Khanfar, A. A., Ghobakhloo, M., Annamalai, N., &
+Naghmeh-Abbaspour, B. (2023). Determinants of Intention to Use ChatGPT for Educational
+Purposes: Findings from PLS-SEM and fsQCA. International Journal of Human-Computer
+Interaction, 1–20. https://​doi.​org/​10.​1080/​10447​318.​2023.​22264​95
+Garrison, D. R. (1997). Self-directed learning: Toward a comprehensive model. Adult Education
+Quarterly, 48(1), 18–33. https://​doi.​org/​10.​1177/​07417​13697​04800​103
+Gilson, A., Safranek, C. W., Huang, T., Socrates, V., Chi, L., Taylor, R. A., & Chartash, D. (2023).
+How does ChatGPT perform on the United States medical Licensing examination? The implications of large language Models for Medical Education and knowledge Assessment. JMIR Medical Education, 9, e45312. https://​doi.​org/​10.​2196/​45312
+Haglund, J. H. (2023). Students acceptance and use of ChatGPT in academic settings [MA Thesis].
+Uppsala University.
+Hair, J. F., Ringle, C. M., & Sarstedt, M. (2013). Partial least squares structural equation modeling:
+Rigorous applications, better results and higher acceptance. Long Range Planning, 46(1–2),
+1–12. https://​doi.​org/​10.​1016/j.​lrp.​2013.​01.​001
+Hair, J. J., Hair, J. J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2021). A primer on partial least
+squares structural equation modeling (PLS-SEM) (3rd ed.). Sage publications.
+Han, Z., Battaglia, F., Udaiyar, A., Fooks, A., & Terlecky, S. R. (2023). An Explorative Assessment
+of ChatGPT as an Aid in Medical Education: Use it with Caution. medRxiv (Cold Spring Harbor Laboratory). https://​doi.​org/​10.​1101/​2023.​02.​13.​23285​879
+Hays, L., Jurkowski, O., & Sims, S. K. (2023). ChatGPT in K-12 education. TechTrends, 68(2), 281–
+294. https://​doi.​org/​10.​1007/​s11528-​023-​00924-z
+Hooda, A., Gupta, P., Jeyaraj, A., Giannakis, M., & Dwivedi, Y. K. (2022). The effects of trust on
+behavioral intention and use behavior within e-government contexts. International Journal of
+Information Management, 67, 102553. https://​doi.​org/​10.​1016/j.​ijinf​omgt.​2022.​102553
+Huang, D., & Chueh, H. (2022). Behavioral intention to continuously use learning apps: A comparative study from Taiwan universities. Technological Forecasting and Social Change, 177,
+121531. https://​doi.​org/​10.​1016/j.​techf​ore.​2022.​121531
+Hunde, M. K., Demsash, A. W., & Walle, A. D. (2023). Behavioral intention to use e-learning and
+its associated factors among health science students in Mettu University, Southwest Ethiopia:
+Using modified UTAUT model. Informatics in Medicine Unlocked, 36, 101154. https://​doi.​org/​
+10.​1016/j.​imu.​2022.​101154
+Ivanov, S., & Soliman, M. (2023). Game of algorithms: ChatGPT implications for the future of tourism education and research. Journal of Tourism Futures, 9(2), 214–221. https://​doi.​org/​10.​1108/​
+jtf-​02-​2023-​0038
+
+Education and Information Technologies
+Jayaseelan, R., Prasanth, K., & Pichandy, C. (2020). Technology acceptance by medical doctors in India:
+An analysis with UTAUT model. International Journal of Scientific & Technology Research, 9(1),
+3854–3857.
+Jeon, J. (2022). Exploring a self-directed interactive app for informal EFL learning: A self- determination
+theory perspective. Education and Information Technologies, 27(4), 5767–5787. https://​doi.​org/​10.​
+1007/​s10639-​021-​10839-y
+Kankok, J., Ambotang, A. S., & Kariming, N. F. A. (2020). Mobile Learning Adoption: A perspective
+from a Form Six Students in Sabah, Malaysia. Malaysian Journal of Social Sciences and Humanities, 5(12), 314–332. https://​doi.​org/​10.​47405/​mjssh.​v5i12.​563
+Knowles, M. (1975). Self-directed learning: A guide for learners and teachers. Cambridge
+Kohnke, L., Moorhouse, B., & Zou, D. (2023). Chatgpt for language teaching and learning. Relc Journal,
+54(2), 537–550. https://​doi.​org/​10.​1177/​00336​88223​11628​68
+Kothgassner, O. D., & Felnhofer, A. (2023). ChatGPT, who? Digital Psychology, 4(1), 1. https://​doi.​org/​
+10.​24989/​dp.​v4i1.​2268
+Lajuni, N., Wellfren, A. C., Abdullah, N. B., & Nain, S. B. (2022). Financial Technology as a future
+Game-Changer. In Advances in finance, accounting, and Economics book series (pp. 14–30).
+https://​doi.​org/​10.​4018/​978-1-​7998-​8447-7.​ch002
+Lakhal, S., & Khechine, H. (2021). Technological factors of students’ persistence in online courses in
+higher education: The moderating role of gender, age and prior online course experience. Education
+and Information Technologies, 26(3), 3347–3373. https://​doi.​org/​10.​1007/​s10639-​020-​10407-w
+Lee, C. S., Osop, H., Goh, D. H., & Kelni, G. (2017). Making sense of comments on YouTube educational videos: A self-directed learning perspective. Online Information Review, 41(5), 611–625.
+https://​doi.​org/​10.​1108/​oir-​09-​2016-​0274
+Lee, D., Arnold, M., Srivastava, A., Plastow, K., Strelan, P., Ploeckl, F., Lekkas, D., & Palmer, E. (2024).
+The impact of generative ai on higher education learning and teaching: A study of educators’ perspectives. Computers and Education Artificial Intelligence, 6, 100221. https://​doi.​org/​10.​1016/j.​
+caeai.​2024.​100221
+Leow, L. P., Phua, L. K., & Teh, S. Y. (2021). Extending the social influence factor: Behavioural intention to increase the usage of information and communication technology-enhanced student-centred
+teaching methods. Educational Technology Research and Development, 69(3), 1853–1879. https://​
+doi.​org/​10.​1007/​s11423-​021-​10017-4
+Lim, W. M., Gunasekara, A., Pallant, J. L., Pallant, J. I., & Pechenkina, E. (2023). Generative AI and the
+future of education: Ragnarök or reformation? A paradoxical perspective from management educators. International Journal of Management Education, 21(2), 100790. https://​doi.​org/​10.​1016/j.​
+ijme.​2023.​100790
+Lin, X. (2023). Exploring the role of ChatGPT as a facilitator for motivating Self-Directed Learning
+among adult learners. Adult Learning. https://​doi.​org/​10.​1177/​10451​59523​11849​28
+López‐Úbeda, R., & García‐Vázquez, F. A. (2022). Self‐directed learning using computer simulations
+to study veterinary physiology: comparing individual and collaborative learning approaches. The
+Veterinary Record, 191(8). https://​doi.​org/​10.​1002/​vetr.​1732
+Magruder, M., Delanois, R. E., Nace, J., & Mont, M. A. (2023). ChatGPT and other natural Language
+Processing artificial intelligence models in adult reconstruction. The Journal of Arthroplasty,
+38(11), 2191–2192. https://​doi.​org/​10.​1016/j.​arth.​2023.​06.​030
+Malik, A., Khan, M. L., Hussain, K., Qadir, J., & Tarhini, A. (2024). AI in higher education: unveiling
+academicians’ perspectives on teaching, research, and ethics in the age of ChatGPT. Interactive
+Learning Environments, 1–17. https://​doi.​org/​10.​1080/​10494​820.​2024.​24094​07
+Melián-González, S., Gutiérrez-Taño, D., & Bulchand-Gidumal, J. (2021). Predicting the intentions to
+use chatbots for travel and tourism. Current Issues in Tourism, 24(2), 192–210.
+Menon, D., & Shilpa, K. (2023). “Chatting with ChatGPT”: Analyzing the factors influencing users’
+intention to Use the Open AI’s ChatGPT using the UTAUT model. Heliyon, 9(11), e20962. https://​
+doi.​org/​10.​1016/j.​heliy​on.​2023.​e20962
+Misra, R., Mahajan, R., Singh, N., Khorana, S., & Rana, N. P. (2022). Factors impacting behavioural
+intentions to adopt the electronic marketplace: Findings from small businesses in India. EM, 32(3),
+1639–1660. https://​doi.​org/​10.​1007/​s12525-​022-​00578-4
+Moorthy, K., Chun T’ing, L., Ming, K. S., Ping, C. C., Ping, L. Y., Joe, L. Q., & Jie, W. Y. (2019). Behavioral intention to adopt digital library by the undergraduates. International Information & Library
+Review, 51(2), 128–144. https://​doi.​org/​10.​1080/​10572​317.​2018.​14630​49
+
+Education and Information Technologies
+Morris, T. H. (2019). Self-directed learning: A fundamental competence in a rapidly changing world. International Review of Education, 65(4), 633–653. https://​doi.​org/​10.​1007/​
+s11159-​019-​09793-2
+OpenAI. (2023). ChatGPT: Optimizing language models for dialogue. Retrieved January 13, 2024,
+from https://​openai.​com/​blog/​chatg​pt/
+Perkins, M. (2023). Academic integrity considerations of AI Large Language Models in the post-pandemic era: ChatGPT and beyond. Journal of University Teaching & Learning Practice, 20(2).
+https://​doi.​org/​10.​53761/1.​20.​02.​07
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common method biases in
+behavioral research: A critical review of the literature and recommended remedies. Journal of
+Applied Psychology, 88(5), 879–903.
+Puriwat, W., & Tripopsakul, S. (2021). Explaining Social media adoption for a business purpose:
+An application of the UTAUT model. Sustainability, 13(4), 2082. https://​doi.​org/​10.​3390/​su130​
+42082
+Rahim, N. I. M., Iahad, N. A., Yusof, A. L., & Al-Sharafi, M. A. (2022). AI-Based chatbots adoption model for higher-education institutions: A hybrid PLS-SEM-Neural network modelling
+approach. Sustainability, 14(19), 12726. https://​doi.​org/​10.​3390/​su141​912726
+Rana, S. (2023). AI and GPT for management scholars and practitioners: Guidelines and implications.
+FIIB Business Review, 12(1), 7–9. https://​doi.​org/​10.​1177/​23197​14523​11614​08
+Rascón-Hernán, C., Fullana-Noell, J., Fuentes-Pumarola, C., Romero-Collado, A., Vila-Vidal, D.,
+& Ballester-Ferrando, D. (2019). Measuring self-directed learning readiness in health science
+undergraduates: A cross-sectional study. Nurse Education Today, 83, 104201. https://​doi.​org/​
+10.​1016/j.​nedt.​2019.​08.​019
+Rivadeneira, L., De Luna, D. B., & Fernandez, C. (2024). Exploring the role of ChatGPT in higher
+education institutions: Where does Latin America stand? Digital Government Research and
+Practice. https://​doi.​org/​10.​1145/​36893​70
+Rudolph, J., Tan, S., & Tan, S. (2023). ChatGPT: Bullshit spewer or the end of traditional assessments
+in higher education? Journal of Applied Learning & Teaching, 6(1), 1–22. https://​doi.​org/​10.​
+37074/​jalt.​2023.6.​1.9
+Sallam, M., Salim, N. A., Barakat, M., Al-Mahzoum, K., Al-Tammemi, A. B., Malaeb, D., Hallit,
+R., & Hallit, S. (2023). Assessing health students’ attitudes and usage of CHATGPT in Jordan:
+Validation STUDY. JMIR Medical Education, 9, e48254. https://​doi.​org/​10.​2196/​48254
+Samartha, V., Basthikar, S. S., Hawaldar, I. T., Spulbăr, C., Birău, R., & Filip, R. D. (2022). A Study
+on the Acceptance of Mobile-Banking Applications in India—Unified Theory of Acceptance
+and Sustainable Use of Technology Model (UTAUT). Sustainability, 14(21), 14506. https://​doi.​
+org/​10.​3390/​su142​114506
+Sandu, R., Gide, E., & Elkhodr, M. (2024). The role and impact of ChatGPT in educational practices:
+insights from an Australian higher education case study. Discover Education, 3(1). https://​doi.​
+org/​10.​1007/​s44217-​024-​00126-6
+Schweisfurth, M. (2011). Learner-centred education in developing country contexts: From solution to
+problem? International Journal of Educational Development, 31(5), 425–432. https://​doi.​org/​
+10.​1016/j.​ijedu​dev.​2011.​03.​005
+Shahsavar, Y., & Choudhury, A. (2023). User intentions to use ChatGPT for Self-Diagnosis and
+Health-Related purposes: Cross-sectional survey study. JMIR Human Factors, 10, e47564.
+https://​doi.​org/​10.​2196/​47564
+Shoufan, A. (2023). Exploring students’ perceptions of CHATGPT: Thematic analysis and follow-up
+survey. IEEE Access, 11, 38805–38818. https://​doi.​org/​10.​1109/​access.​2023.​32682​24
+Sifat, R. I., & Bhattacharya, U. (2023). Transformative potential of artificial intelligence in global
+health policy. Journal of Market Access & Health Policy, 11(1). https://​doi.​org/​10.​1080/​20016​
+689.​2023.​22306​60
+Sing, C. C., Teo, T., Huang, F., Chiu, T. K. F., & Xing Wei, W. (2022). Secondary school students’
+intentions to learn AI: Testing moderation effects of readiness, social good and optimism.
+Educational Technology Research and Development, 70(3), 765–782. https://​doi.​org/​10.​1007/​
+s11423-​022-​10111-1
+Strzelecki, A. (2023). To use or not to use ChatGPT in higher education? A study of students’ acceptance and use of technology. Interactive Learning Environments, 1–14. https://​doi.​org/​10.​1080/​
+10494​820.​2023.​22098​81
+
+Education and Information Technologies
+Strzelecki, A., Cicha, K., Rizun, M., & Rutecka, P. (2024). Acceptance and use of ChatGPT in the
+academic community. Education and Information Technologies. https://​doi.​org/​10.​1007/​
+s10639-​024-​12765-1
+Sumuer, E. (2017). Factors related to college students’ self-directed learning with technology. Australasian Journal of Educational Technology, 34(4). https://​doi.​org/​10.​14742/​ajet.​3142
+Teo, T., Chee, T. S., Beng, L. C., Chai, C. S., Ling, K. J. H., Chen, W., & Mun, C. H. (2010). The selfdirected learning with technology scale (SDLTS) for young students: An initial development
+and validation. Computers & Education, 55(4), 1764–1771. https://​doi.​org/​10.​1016/j.​compe​du.​
+2010.​08.​001
+Terblanche, N., & Kidd, M. (2022). Adoption factors and moderating effects of age and gender that
+influence the intention to use a Non-Directive Reflective coaching chatbot. SAGE Open, 12(2),
+215824402210961. https://​doi.​org/​10.​1177/​21582​44022​10961​36
+Thomas, T., Singh, L., & Renville, D. (2020). The utility of the UTAUT: An application to mobile
+learning adoption in the Caribbean. International Journal of Education and Development
+Using Information and Communication Technology, 16(2), 122–143. Retrieved May 15, 2024,
+from https://​files.​eric.​ed.​gov/​fullt​ext/​EJ126​8812.​pdf
+Timothy, T., Chee, T. S., Beng, L. C., Sing, C. C., Ling, K. J. H., Li, C. W., & Mun, C. H. (2010). The
+self-directed learning with technology scale (SDLTS) for young students: An initial development and validation. Computers & Education, 55(4), 1764–1771.
+Tiwari, C. K., Bhat, M. A., Khan, S. T., Subramaniam, R., & Khan, M. A. I. (2023). What drives
+students toward ChatGPT? An investigation of the factors influencing adoption and usage of
+ChatGPT. Interactive Technology and Smart Education, 21(3), 333–355. https://​doi.​org/​10.​
+1108/​itse-​04-​2023-​0061
+Tough, A. (1971). The adult’s learning projects: A fresh approach to theory and practice in adult
+learning. Ontario Institute for Studies in Education.
+UNESCO. (2023). How generative AI is reshaping education in Asia-Pacific. Retrieved January 20,
+2024, from https://​unes.​co/​80dex0
+University Grants Commission. (2022). Sri Lanka University Statistics 2022. University Grant
+Commission.
+VanDerSchaaf, H., Daim, T. U., & Başoğlu, N. (2023). Factors influencing student information technology adoption. IEEE Transactions on Engineering Management, 70(2), 631–643. https://​doi.​
+org/​10.​1109/​tem.​2021.​30539​66
+Venkatesh, V. (2021). Adoption and use of AI tools: A research agenda grounded in UTAUT. Annals
+of Operations Research, 308(1–2), 641–652. https://​doi.​org/​10.​1007/​s10479-​020-​03918-9
+Venkatesh, V., Morris, M., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. Management Information Systems Quarterly, 27(3), 425. https://​
+doi.​org/​10.​2307/​30036​540
+Venkatesh, V., Thong, J. Y., & Xu, X. (2016). Unified theory of acceptance and use of technology: A
+synthesis and the road ahead. Journal of the Association for Information Systems, 17(5), 328–
+376. https://​doi.​org/​10.​17705/​1jais.​00428
+Villarino, R. T. H., & Villarino, M. L. F. (2023). ChatGPT (Generated Pre-Trained Transformer) as
+an Adjunct to Mental Health Interventions: A commentary. International Journal of Psychology
+and Psychoanalysis, 9(1). https://​doi.​org/​10.​23937/​2572-​4037.​15100​62
+Wang, C., Zixi Li, Z., & Bonk, C. (2024). Understanding Self-directed Learning in AI-Assisted Writing: A Mixed methods study of postsecondary learners. Computers and Education: Artificial
+Intelligence, 6, 100247.
+Wu, W., Zhang, B., Li, S., & Liu, H. (2022). Exploring factors of the willingness to accept AIAssisted learning environments: an empirical investigation based on the UTAUT model and
+perceived risk theory. Frontiers in Psychology, 13. https://​doi.​org/​10.​3389/​fpsyg.​2022.​870777
+Zeebaree, M., Agoyi, M., & Aqel, M. (2022). Sustainable adoption of E-Government from the
+UTAUT perspective. Sustainability, 14(9), 5370. https://​doi.​org/​10.​3390/​su140​95370
+Zhai, X. (2022). ChatGPT user experience: Implications for education. Social Science Research Network. https://​doi.​org/​10.​2139/​ssrn.​43124​18
+Zhang, B., Ying, L., Khan, M. A., Ali, M., Barykin, S., & Jahanzeb, A. (2023). Sustainable digital
+marketing: Factors of adoption of M-technologies by older adults in the chinese market. Sustainability, 15(3), 1972. https://​doi.​org/​10.​3390/​su150​31972
+Zhou, L., Owusu-Marfo, J., Antwi, H. A., Antwi, M. O., Kachie, A. D. T., & Ampon-Wireko, S.
+(2019). "Assessment of the social influence and facilitating conditions that support nurses’
+
+Education and Information Technologies
+adoption of hospital electronic information management systems (HEIMS) in Ghana using the
+unified theory of acceptance and use of technology (UTAUT) model". BMC Medical Informatics and Decision Making, 19(1). https://​doi.​org/​10.​1186/​s12911-​019-​0956-z
+Zhu, M., Bonk, C. J., & Berri, S. (2022). Fostering self-directed learning in MOOCs: Motivation,
+learning strategies, and instruction. Online Learning, 26(1). https://​doi.​org/​10.​24059/​olj.​v26i1.​
+2629
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under
+a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of such publishing agreement and
+applicable law.
+
+Authors and Affiliations
+E. W. Biyiri1 · S. N. S. Dahanayake1 · D. M. C. Dassanayake1 ·
+Anand Nayyar2 · K. T. L. U. S. Dayangana1 · J. A. P. M. Jayasinghe1
+* Anand Nayyar
+anandnayyar@duytan.edu.vn
+E. W. Biyiri
+edinab@mgt.rjt.ac.lk
+S. N. S. Dahanayake
+snsdahanayake@mgt.rjt.ac.lk
+D. M. C. Dassanayake
+chamindad@mgt.rjt.ac.lk
+K. T. L. U. S. Dayangana
+udaya@mgt.rjt.ac.lk
+J. A. P. M. Jayasinghe
+prabath@mgt.rjt.ac.lk
+1
+
+Department of Tourism and Hospitality Management, Faculty of Management Studies, Rajarata
+University of Sri Lanka, Mihintale 50300, Sri Lanka
+
+2
+
+Graduate School, Faculty of Information Technology, Duy Tan University, Da Nang 550000,
+Vietnam
+
+

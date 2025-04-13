@@ -1,0 +1,960 @@
+education
+sciences
+Article
+
+Artificial Intelligence Supporting Independent Student Learning:
+An Evaluative Case Study of ChatGPT and Learning to Code
+Kendall Hartley 1, * , Merav Hayak 2
+1
+
+2
+
+*
+
+and Un Hyeok Ko 1
+
+Department of Teaching and Learning, University of Nevada, Las Vegas, NV 89154-3005, USA;
+kou1@unlv.nevada.edu
+Department of Education, Ben-Gurion University of the Negev, Beersheba 84105, Israel;
+meravper22@gmail.com
+Correspondence: kendall.hartley@unlv.edu
+
+Abstract: Artificial intelligence (AI) tools like ChatGPT demonstrate the potential to support personalized and adaptive learning experiences. This study explores how ChatGPT can facilitate self-regulated
+learning processes and learning computer programming. An evaluative case study design guided
+the investigation of ChatGPT’s capabilities to aid independent learning. Prompts mapped to selfregulated learning processes elicited ChatGPT’s support across learning tools: instructional materials,
+content tools, assessments, and planning. Overall, ChatGPT provided comprehensive, tailored guidance on programming concepts and practices. It consolidated multimodal information sources into
+integrated explanations with examples. ChatGPT also effectively assisted planning by generating detailed schedules. However, its interactivity and assessment functionality demonstrated shortcomings.
+ChatGPT’s effectiveness relies on learners’ metacognitive skills to seek help and assess its limitations.
+The implications include ChatGPT’s potential to provide Bloom’s two-sigma tutoring benefit at scale.
+Keywords: artificial intelligence; self-regulated learning; tutoring; artificial intelligence in education;
+personalized learning; intelligent tutoring systems
+
+Citation: Hartley, K.; Hayak, M.; Ko,
+U.H. Artificial Intelligence Supporting
+Independent Student Learning: An
+Evaluative Case Study of ChatGPT
+and Learning to Code. Educ. Sci. 2024,
+14, 120. https://doi.org/10.3390/
+educsci14020120
+Academic Editor: Maiga Chang
+Received: 9 November 2023
+Revised: 9 January 2024
+Accepted: 18 January 2024
+Published: 24 January 2024
+
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+1. Introduction
+Artificial intelligence in education (AIEd) has interested researchers for decades [1–3].
+In recent years, journals and organizations focusing on artificial intelligence have proliferated. However, the growth and interest appear to be in the midst of a substantial increase.
+Year-by-year comparisons of worldwide Google searches for “AI Education” indicate a
+quintupling of interest from October 2022 to October 2023 [4].
+This dramatic increase is likely due to the introduction of a free version of ChatGPT
+by the company OpenAI in November of 2022. ChatGPT became the fastest-growing web
+application, reaching 100 million users by January 2023 [5]. This quick, open introduction
+of a powerful AI application has greatly expanded recognition of the importance of AIEd,
+as evidenced by the large number of educational researcher publications in recent years [6].
+A recent report indicates that 38% of students in the US are already utilizing generative
+AI tools [7]. Another report suggests that 20% of undergraduate students worldwide are
+using generative AI at least daily [8].
+Artificial intelligence applications broadly impact education [9,10], and there is a
+history of its utilization that precedes ChatGPT and other generative AI tools. These applications include advanced data analytics work that is used to anticipate student needs [11]
+and more systematic investigations of enrollment and course achievement [12]. AI has also
+influenced the curricular side of the equation through intelligent tutoring systems [13].
+Generative AI applications offer new pedagogical opportunities for learning and teaching purposes, for example, in the ability to help teachers evaluate and upgrade the teaching
+and learning processes in the classroom and facilitate the planning and implementation
+of lessons [3]. As these tools become ubiquitous, it is essential to understand better the
+
+Educ. Sci. 2024, 14, 120. https://doi.org/10.3390/educsci14020120
+
+https://www.mdpi.com/journal/education
+
+Educ. Sci. 2024, 14, 120
+
+2 of 12
+
+capabilities and limitations of these systems [14]. As such, researchers are now advocating
+that AI systems be studied as experimental participants [15].
+One potentially revolutionary role of AI is to serve as a personal tutor. AI could
+address Benjamin Bloom’s famous “two-sigma” problem [16]. The problem emerged from
+research that indicated students learning via a tutor outperformed students learning in a
+conventional classroom by two standard deviations. The two-sigma problem has helped to
+anchor educators’ expectations regarding the effects of learning interventions [17]. It has
+also presented a proverbial goalpost for educators and researchers. Subsequent research
+has called into question the two-standard deviation difference between one-on-one tutoring
+and classroom-only learning [18]. One standard deviation is more accurate. It is worth
+noting that the advantages of interventions such as human tutoring and intelligent tutoring
+are related to the granularity or specificity of the support [18]. While one-on-one tutoring
+is effective, it is not necessarily practical. Scaling tutoring up presents a human resource
+problem many technology advocates have long hoped to solve. Generative AI systems may
+address resource and specificity problems by offering adaptive experiences that mimic the
+responsiveness and adaptability of a human tutor.
+The purpose of this study is to improve our understanding of how generative AI can
+support an independent learning process. For example, how could an adolescent interested
+in programming use ChatGPT to accomplish their goal?
+2. Self-Regulated Learning in Computer Programming
+To understand the manner in which a student might utilize generative AI tools to learn
+computer programming, it is essential to take into account established practices. Computing
+education researchers have long focused on the students’ computer coding processes and
+performance [19]. This approach is considered a process-based analysis as opposed to
+an outcome-based analysis [20]. Self-regulated learning can guide the investigation of
+learning to program as relevant processes via planning, setting goals, organizing, selfmonitoring, and self-evaluating are evident at various points [21]. Computer education
+researchers have found that these processes are fundamental in supporting programming
+problem solving [22].
+Self-regulated learning (SRL) theory will guide this study [23]. SRL processes such
+as goal setting, monitoring for understanding, strategies, and the phases (forethought,
+performance, and reflection) [21] are used as heuristics to describe AI–student interactions. Although the concept of ‘monitoring for understanding’ in computer programming
+behavior has a long history [20], only a few studies have addressed self-regulated learning in relation to computer programming behavior in general, and none have addressed
+AI–student interactions in particular.
+Research has indicated that computer assistance, in general, shows great promise [24].
+“Computer-Assisted Learning Systems” can not only support instruction but also the development of self-regulated learning skills. A historical review of these systems demonstrates
+a clear progression of capabilities and impact that mirror advances in computing in general
+and AI in particular. The integration of technology and self-regulated learning has been
+studied extensively in online learning environments with encouraging results [25]. With
+the dramatic uptick in generative AI tools, researchers have recently begun to consider
+design principles to support self-regulated learning broadly [26].
+A recent meta-analysis of AI research concluded that there is a need to identify the
+pedagogical affordances of AI [6]. This work focuses on the capabilities of the most recent
+and widely used general AI tools, ChatGPT and Google’s Bard, to support student learning.
+In particular, we delineate how these new AI tools can centralize many devices, systems,
+and processes in one place. Much like how the smartphone has eliminated the need
+for separate cameras, scanners, and GPS systems, ChatGPT and Bard have effectively
+consolidated the tools necessary for learning.
+
+Educ. Sci. 2024, 14, 120
+
+3 of 12
+
+3. Tools for Student Learning and the Potential Role of Generative AI
+A rise in the availability of instructional materials has provided students with multiple
+avenues for independent learning. This necessitates a more active role for students in the
+learning process consistent with SRL [21]. Students currently depend upon various supports in a typical study session. Supports include instructional materials (e.g., the textbook),
+content area tools (e.g., calculators), feedback and assessments (e.g., Quizlet), and planning
+tools (e.g., calendar, goal setting). In traditional settings, teachers or instructional systems
+almost exclusively provide the instructional materials and content area tools. The instructor
+commonly offers feedback and assessment tools, but highly self-regulated students will
+also self-evaluate and monitor. Planning and goal setting are also shared responsibilities.
+3.1. Instructional Materials
+Students utilize an array of instructional materials in the typical study session. No
+longer restricted to the textbook, their resources include online papers, lecture notes,
+and multimedia content. When well-designed, these resources are foundational to student learning [27]. This shift towards a multimodal approach to learning is reflective of
+the rapidly changing landscape of education and the need to consider student cognitive
+strategies. Students must manage multiple sources of information to best reflect their
+individual needs [28].
+By using AI, it is possible to reconceptualize instructional content that suits all students, albeit in a different manner. A high-quality algorithm model can consider students’
+diverse characteristics, such as knowledge levels, preferences, and interests, and create instructional materials customized to individual needs [29]. For example, Benhamdi et al. [30]
+proposed a new recommendation approach based on collaborative, content-based filtering
+to provide students with the best learning materials according to their preferences, interests,
+background knowledge, and memory capacity.
+3.2. Content Area Tools
+Each discipline incorporates specialized tools to support learning and development.
+One example from mathematics is the calculator. The National Council of Teachers of Mathematics suggests that relevant tools can enhance understanding and problem-solving [31].
+Writers may utilize grammar support and concept map generators. In K12 education,
+researchers classify programming tools as textual, block, tangible, and unplugged [32].
+High school students utilize textual tools incorporated into the Integrated Development
+Environment (IDE). A widely used and easily accessible online IDE used in introductory
+programming experiences is Codepen. The integrated environment can provide concurrent
+feedback as students are coding. This will substantially reduce extraneous cognitive load
+introduced by asking learners to toggle between interfaces [33].
+3.3. Feedback and Assessment
+Effective and immediate feedback is a vital component of learning [34]. In the typical
+study environment, the self-regulated learner will engage in self-monitoring [35]. That is,
+they will gauge the degree to which they understand the material. When reading, this is an
+ongoing activity. In tasks such as applying a velocity formula to solve speed and distance
+problems, the learner might try to solve a series of instructor or textbook-supplied problems.
+The self-regulated learner will know to engage in these tasks without prompting [21].
+Learning to program often includes similar approaches that include solving increasingly complex problems. At the micro level (e.g., small chunks of code), designers generally
+incorporate programming task feedback into the IDE. Codepen, for example, will display a
+red exclamation point when a line of code includes an error. The feedback is less direct at
+the macro level (e.g., the learner understands inheritance).
+Bugs in computer code can cause significant problems such as software crashes, security vulnerabilities, and data loss. Debugging code, the process of finding and fixing bugs,
+is a critical aspect of software development and can be time-consuming and complex [36].
+
+Educ. Sci. 2024, 14, 120
+
+4 of 12
+
+ChatGPT can be used to discuss, make suggestions, and correct source code better than
+tools designed explicitly for code development [37]. We can ask AI for bug fixes for the
+selected source code and manually check whether the suggested solution is for fixing or
+improving the code. This can help to automate the debugging process and reduce the time
+and effort required to find and fix bugs.
+Assessment plays a crucial role in education, enabling teachers to understand learners’
+progress and challenges. One commonly used method for evaluation involves employing
+multiple-choice items generated by ChatGPT.
+In the rubric development process, the initial step is to prompt ChatGPT to ask
+targeted questions, gradually gathering the information required to create a suitable rubric
+for evaluation. The key is to guide ChatGPT to inquire about specific aspects one at a time
+until all necessary data are obtained [38].
+3.4. Planning
+A substantive component of accepted self-regulated learning models is planning and
+goal setting [23]. Successful adolescent learners will commit time and energy to planning.
+Students who regularly use a planner (physical or digital) demonstrate higher academic
+achievement than those who do not [39]. Planning involves identifying goals and breaking
+the goals down into sub-goals and tasks. Each study session ideally is guided by the goals
+and tasks. This presents a substantial challenge for students that must be encouraged either
+from within (i.e., self-regulated) or externally. Instructors scaffold this to some degree with
+assignments and scheduled assessments.
+4. Research Questions
+This study explores how artificial intelligence, specifically ChatGPT, can facilitate
+independent learning processes. We use SRL as a guiding framework for classifying
+the learning activities. The focus is on the practical application of ChatGPT in aiding
+adolescents with an interest in programming, examining how the technology can assist
+them in achieving their learning objectives. Outcomes of this investigation include direction
+toward strategies and best practices for leveraging AI-driven platforms in individualized
+educational pursuits.
+Specifically, this study will explore the following questions:
+How does ChatGPT provide the learning support necessary for self-regulated learning?
+How does ChatGPT provide the support necessary to learn the Python programming
+language?
+5. Methods
+5.1. Design
+We used an evaluative case study design to address the research questions [40,41]. In
+education, research “seeks to understand specific issues and problems of practice” [42]. An
+evaluative case study is instrumental in supporting in-depth inquiries into the effectiveness
+of interventions [41]. The usefulness of the case study is increased “when the object of
+study is a specific, unique, bounded system. . .” [43]. We defined the case in this inquiry
+as the AI system’s capabilities to support the independent student learning of the Python
+programming language. The specific system we are investigating is OpenAI’s ChatGPT,
+version 4, with CoPilot enabled.
+The supports are specific to the literature reviewed above and include instructional
+materials, content area tools, feedback, and planning. The prompts are summarized in
+Table 1. The instructional materials prompts are designed to elicit requisite content that
+one might gain from a textbook. The content area tools prompts seek support for tools
+specific to programming, such as coding and debugging tools. Feedback prompts look to
+elicit real-time feedback on student understanding. Finally, planning prompts are designed
+to support the student’s goal setting and time management.
+
+Educ. Sci. 2024, 14, 120
+
+5 of 12
+
+Table 1. Prompts.
+Category
+
+Prompts
+
+Instructional materials
+
+How do I use if–then statements to control the flow of a program?
+Describe how this is achieved in the Python language.
+
+Content area tools
+
+How can I test my Python code as I learn?
+What can I use to debug my code while learning?
+
+Feedback and assessment
+
+Give me a problem to solve that requires the use of an if–then statement.
+Evaluate the accuracy of my response.
+For this topic, please provide me with a sample question from the Python Institute PCAP exam.
+
+Planning
+
+I want to pass the Python Institute PCAP exam three months from now. Provide me with a list of
+topics to master and a weekly schedule.
+Provide a detailed schedule for each weekday of the first two weeks.
+Evaluate and monitor my progress each weekday.
+
+5.2. Procedures
+This study follows earlier explorations of AI systems that use a vignette-based investigative approach [15,44]. We guide the AI system to provide learner support in computer
+programming. In particular, we ask ChatGPT to provide guidance in learning the Python
+programming language.
+The questions of the system align with the student support tools.
+5.3. Data Sources
+The data collection will consist of system inputs (prompts) and outputs.
+6. Results
+Below, we provide the responses of the system to the prompts within each of the
+instructional categories. This section is intended to be a summary description of the output
+and will be followed by a deeper analysis.
+Instructional Materials
+Educ. Sci. 2024, 14, x FOR PEER REVIEW ChatGPT
+
+6 of 13
+
+Prompt: How do I use if–then statements to control the flow of a program? (see Figure 1)
+
+Figure1.1.ChatGPT
+ChatGPTresponse
+responsesnippet
+snippet1.1.
+Figure
+
+The second prompt, “Describe how this is achieved in the Python language,” was
+anticipated by ChatGPT and was thus unnecessary (see Figure 2).
+
+Educ. Sci. 2024, 14, 120
+
+6 of 12
+
+Figure 1. ChatGPT response snippet 1.
+
+The
+the
+Python
+language,”
+was
+Thesecond
+secondprompt,
+prompt,“Describe
+“Describehow
+howthis
+thisisisachieved
+achievedinin
+the
+Python
+language,”
+was
+anticipated
+by
+ChatGPT
+and
+was
+thus
+unnecessary
+(see
+Figure
+2).
+anticipated by ChatGPT and was thus unnecessary (see Figure 2).
+
+Figure2.2.ChatGPT
+ChatGPTresponse
+responsesnippet
+snippet2.2.
+Figure
+
+Content
+ContentArea
+AreaTools
+Tools
+Prompt:
+Prompt:How
+Howcan
+canI Itest
+testmy
+myPython
+Pythoncode
+codeasasI learn?
+I learn?
+ChatGPT
+provided
+a
+detailed
+response
+that
+included
+sixsix
+approaches.
+The
+suggested
+ChatGPT provided a detailed response that included
+approaches.
+The
+suggested
+approaches
+included
+(a)
+an
+Integrated
+Development
+Environment
+(IDE,
+e.g.,
+Visual
+Studio);
+approaches included (a) an Integrated Development Environment (IDE, e.g., Visual
+Stu(b)
+an (b)
+online
+Python
+interpreter
+(e.g., Google
+Colab);Colab);
+and (c)and
+an educational
+environment
+dio);
+an online
+Python
+interpreter
+(e.g., Google
+(c) an educational
+environ(e.g.,
+It alsoItsuggested
+that a that
+beginner
+use anuse
+online
+interpreter
+or an or
+mentCodeAcademy).
+(e.g., CodeAcademy).
+also suggested
+a beginner
+an online
+interpreter
+educational
+environment.
+an educational environment.
+Prompt:
+learning?
+Prompt:What
+Whatcan
+canI Iuse
+usetotodebug
+debugmy
+mycode
+codewhile
+while
+learning?
+Assessment
+Assessment
+Give
+me a problem to solve that requires the use of an if–then statement.
+Educ. Sci. 2024,Prompt:
+14, x FOR PEER
+REVIEW
+7 of 13
+Prompt:
+Give
+me a problem to solve that requires the use of an if–then statement. (see
+(see Figure 3)
+Figure 3)
+
+Figure 3. Problem response snippet.
+
+Figure 3. Problem response snippet.
+
+ChatGPT also provided a list of four steps to complete the problem. However, the
+
+ChatGPT also provided
+a list of
+steps
+to complete
+theknowledge
+problem.ofHowever,
+problem presented
+byfour
+ChatGPT
+assumed
+some prior
+the user thatthe
+should
+problem presented by
+ChatGPT
+assumed
+prior
+knowledge
+the
+that
+be obvious.
+In particular,
+thesome
+problem
+presented
+assumesof
+that
+theuser
+learner
+canshould
+solicit input
+from the
+user.
+be obvious. In particular,
+the
+problem presented assumes that the learner can solicit input
+Prompt: Evaluate the accuracy of my response. [Plus code from the example profrom the user.
+vided by ChatGPT in the earlier response].
+Prompt: Evaluate the accuracy of my response. [Plus code from the example provided
+Response:
+by ChatGPT in the earlier
+response].
+ChatGPT
+responded that the code would work as expected. It did not consider that
+Response:
+the code did not address the question it had posed (which included user input and the
+use of if–else).
+It also
+didwould
+not recognize
+this was taken
+the example
+ChatGPT responded
+that the
+code
+workthat
+as expected.
+It directly
+did notfrom
+consider
+that provided.the question it had posed (which included user input and the use
+the code did not address
+For this topic, please provide me with a sample question from the PCAP
+of if–else). It also did notPrompt:
+recognize
+that this was taken directly from the example provided.
+exam.
+Prompt: For this topic,
+please
+provide
+me with a sample question from the PCAP exam.
+Planning
+Planning
+Prompt: I want to pass the Python Institute PCAP exam three months from now. Provide
+withthe
+a list
+of topicsInstitute
+to master and
+a weekly
+schedule.
+Prompt: I want
+to me
+pass
+Python
+PCAP
+exam
+three months from now.
+Response:
+Provide me with a list of topics to master and a weekly schedule.
+ChatGPT provided a detailed list of ten topics covered by the PCAP exam. It also
+oﬀered a 12-week plan of study to address all ten topics, with a week for review and a
+week for a mock exam.
+Prompt: Provide a detailed schedule for each weekday of the first two weeks (see
+Figure 4).
+
+Educ. Sci. 2024, 14, 120
+
+vided.
+Prompt: For this topic, please provide me with a sample question from the PCAP
+exam.
+Planning
+Prompt: I want to pass the Python Institute PCAP exam three months from7now.
+of 12 Provide me with a list of topics to master and a weekly schedule.
+Response:
+Response:
+ChatGPT provided a detailed list of ten topics covered by the PCAP exam. It also
+ChatGPT
+provided
+detailed
+listaddress
+of ten topics
+covered
+the aPCAP
+It alsoand a
+oﬀered
+a 12-week
+planaof
+study to
+all ten
+topics,by
+with
+weekexam.
+for review
+offered
+a
+12-week
+plan
+of
+study
+to
+address
+all
+ten
+topics,
+with
+a
+week
+for
+review
+and a
+week for a mock exam.
+week Prompt:
+for a mock
+exam.
+Provide a detailed schedule for each weekday of the first two weeks (see
+Prompt:
+Figure
+4). Provide a detailed schedule for each weekday of the first two weeks (see Figure 4).
+
+Figure4.4.Response
+Responsesnippet
+snippet
+daily
+scheduling.
+Figure
+forfor
+daily
+scheduling.
+
+7.
+7. Discussion
+Discussion
+Generative
+have
+thethe
+potential
+to positively
+support
+learning
+in general
+and and
+GenerativeAI
+AItools
+tools
+have
+potential
+to positively
+support
+learning
+in general
+learning to program in particular. The results of this systematic analysis of ChatGPT’s
+learning to program in particular. The results of this systematic analysis of ChatGPT’s
+responses to the learning prompts indicate that this promise is more than just hype. The
+responses to the learning prompts indicate that this promise is more than just hype. The
+following narrative will address how the system performed in each area of interest.
+following narrative will address how the system performed in each area of interest.
+The research questions for this study included the following:
+1.
+2.
+
+The research questions for this study included the following:
+
+How does ChatGPT provide the learning support necessary for self-regulated learning?
+How does ChatGPT provide the support necessary to learn the Python programming
+language?
+
+Overall, the responses provided by ChatGPT were valuable and appropriate. In each
+area of investigation (instructional materials, content area tools, feedback, and planning),
+the system seems capable of fulfilling the necessary request. Next, we will explore each
+area in more detail.
+7.1. Instructional Materials
+ChatGPT provided on-target and clear guidance regarding Python programming. The
+response to the prompts was comprehensive and offered suitable examples. As noted
+earlier, students must utilize multiple sources of information in the current learning environment [28]. However, it appears that ChatGPT can consolidate these sources to reduce or
+eliminate the time spent on task switching and information searching.
+While the current study did not investigate the individualization capability, the limited
+prompts showed that this is well within the system’s capabilities. This is consistent with the
+predictions and observations made in prior research [29] that AI can provide personalized
+learning experiences.
+From a self-regulated learning perspective, ChatGPT is a suitable augment to the
+learner’s capacity to monitor for understanding. The learner’s self-monitoring ability is
+critical to the utilization of AI tools. Without the will and skill to determine how well one is
+learning the material, the utility of AI tools is limited. The tools will only provide support
+upon request.
+
+Educ. Sci. 2024, 14, 120
+
+8 of 12
+
+7.2. Content Area Tools
+It is not surprising that this computer-based tool is capable of providing disciplinespecific guidance in the area of programming. The critical roles an IDE and debugging
+functions play in programming are good examples of the need for content area tools.
+ChatGPT proved to be up to the task by again providing valuable and appropriate guidance.
+The suggested tools (e.g., Visual Studio and CodePen) are similar to advice from experts
+and the programming community, as reflected in communities such as Stack Overflow. We
+should expect this consistency given that the contributions to online communities appear
+to significantly contribute to the major LLMs (per the inclusion of the Common Crawl Data
+Set reported by AI researchers) [45].
+For this particular exercise, ChatGPT performed well due to the ease with which it
+could incorporate code snippets into responses. However, it is not particularly interactive
+as an actual IDE might be. This activity points to the natural progression of AI adoption
+in that the most significant value will likely result from the integration into existing tools.
+GitHub’s Copilot is one such example of the power of integrating AI into existing systems.
+This tool has been available within the Visual Studio IDE since 2022 and has become a
+valuable tool for programmers [46].
+One of the main functions of an effective IDE is to assist programmers with debugging
+as they code. From a learning perspective, immediate and precise feedback is invaluable.
+While there is a tendency to think of assessment in terms of outcomes and examinations,
+real-time formative feedback is one of the most consequential contributions a tutor can
+provide. For this reason, the integrated real-time debugging found in IDEs [36] (p. 1) will
+provide a more efficient learning model than a chat-based tool such as ChatGPT. Notably,
+ChatGPT anticipated this conclusion when prompted in the first section to suggest ways to
+test code while learning.
+Integrating programming into mainstream learning environments (e.g., K-12 classrooms) presents significant challenges to educators (expertise, time, resources, and guidance) [32]. The results suggest that AI can address these challenges in the context of content
+area tools for programming.
+7.3. Feedback and Assessment
+While short-term, immediate, micro-level feedback was noted as a strength, more
+summative or macro-level assessments may present challenges to AI tutoring. One significant misstep of ChatGPT was in the assessment. It assumed too much in terms of
+user knowledge. In the assessment, ChatGPT expected that the learner already knew how
+to solicit user input. An additional misstep occurred in the evaluation of the submitted
+assessment response. The problem presented by ChatGPT required user input, but the response submitted simply set the variable in the initial code (e.g., temperature = 20 degrees).
+It also did not acknowledge that the response was merely a copy of the example in the
+previous exchange.
+It is noteworthy that the user can avoid each of these missteps by modifying the
+prompts. The modified prompt below resulted in a problem requiring user input but
+provided a skeleton code that included instructions for obtaining the input.
+Give me a problem to solve that requires the use of an if–then statement. The problem
+should consider my limited programming knowledge.
+As indicated in the previous section, self-monitoring becomes a critical skill. Adjusting
+prompts to guide the system toward problem exercises that are at the correct difficulty level
+requires substantial self-awareness in terms of knowledge and understanding. The learner
+must recognize the need to challenge themselves by finding the extent of their ability.
+7.4. Planning
+Lesson planning for independent learning presents tremendous challenges. Lesson
+planning for experienced teachers can be time-consuming and challenging. Researchers
+and designers have developed numerous tools to assist educators in aggregating existing
+
+Educ. Sci. 2024, 14, 120
+
+9 of 12
+
+resources to support lesson plan development [47]. Now, current AI tools perform much
+the same function, as evidenced by the responses generated by ChatGPT. Even if the learner
+is oblivious to the components of a lesson plan, AI tools can efficiently generate them,
+provided the user can identify the relevant standards or exams. In the scenario presented
+here, the learner would like to pass an industry exam demonstrating proficiency in the
+Python programming language. Based upon this knowledge alone, ChatGPT can ascertain
+the relevant topics and provide a timeline for reasonable completion.
+As the introduction indicates, the primary attributes of self-regulated learning models
+include planning and goal setting [23]. Planning involves identifying goals and breaking
+the goals down into sub-goals and tasks. This activity is typically scaffolded by instructors
+with assignments and scheduled assessments. AI tools appear well suited to performing
+this scaffolding but lack the leverage that instructors often hold in the form of grades.
+8. Conclusions
+This study investigated the potential of ChatGPT to support self-regulated learning
+and learning a programming language. We examined four areas of support: instructional
+materials, content area tools, planning, and assessment. ChatGPT performed admirably
+in the areas of instructional materials and planning. There were notable challenges in
+providing appropriate assessments and the requisite content area tools.
+ChatGPT demonstrated its usefulness and appropriateness in providing easy access to
+instructional materials to support learning Python. As anticipated many years ago, AI can
+give comprehensive responses with suitable examples and consolidate information sources
+to offer personally responsive learning experiences [1]. However, ChatGPT’s effectiveness
+depends on the learner’s SRL capacity, as it primarily supports learners upon request.
+Regarding content area tools, ChatGPT effectively provided specific guidance in
+programming, showcasing its capability to offer expert-level advice. Nevertheless, it fell
+short of providing the interactive experience offered by proper IDEs, which may hinder its
+effectiveness in delivering hands-on programming guidance. Real-time formative feedback,
+a crucial aspect of effective learning, is more efficiently provided by IDEs with integrated
+real-time debugging features [32]. Integrating AI into existing IDE tools illustrates the
+potential for AI to enhance programming learning further [46].
+ChatGPT excelled in providing short-term, immediate feedback in the domain of
+feedback and assessment but faced challenges in delivering summative or macro-level
+assessments. It assumed a certain level of user knowledge, leading to limitations in
+accurately assessing learners’ abilities and knowledge levels. However, users could address
+these challenges by refining the prompts to guide ChatGPT’s responses. Additionally, the
+learners’ metacognitive skills play pivotal roles in adjusting prompts to align with their
+difficulty level and understanding.
+Regarding planning, ChatGPT exhibited its ability to assist learners in creating lesson
+plans for independent learning. It efficiently generated plans based on learner goals and objectives, showcasing its potential to support learners’ planning processes. However, it lacks
+the ability to incentivize learners with grades, a form of leverage often held by instructors.
+Individualization is a hallmark of human tutoring and has implications for each area
+explored. The anticipation is that this can be a strength of AI systems. However, at this
+juncture, it is a challenge. While ChatGPT can follow the thread of the conversation, it is
+not consistent or robust. This is likely due to the probabilistic nature of the existing system’s dependence upon large language models and predictive algorithms. This approach
+emphasizes the probability of a plausible response over the likelihood of a helpful answer.
+There is an interesting interplay between AI and the learner concerning self-regulated
+learning. While AI can support many of the capacities associated with SRL, such as
+planning and goal setting, it is less well suited to others, such as motivation and monitoring
+for understanding. The value of the AI system is dependent upon the SRL skills of the
+learner. For example, any support provided in planning depends on a motivated learner
+requesting help from the system.
+
+Educ. Sci. 2024, 14, 120
+
+10 of 12
+
+9. Limitations
+The current study is a point-in-time exploration that reflects the current state of a
+rapidly evolving system. Given the rapidly changing nature of these systems, any deficits
+noted here, with the proper guidance, can be ameliorated. It will be interesting to see if
+the tools develop in directions that promote learning. The companies behind these tools
+will guide them in directions that produce financial gains, not necessarily individual or
+learning gains.
+10. Further Research
+A comparison with similar tools, such as Anthropic’s Claude 2.0 and Google’s Bard,
+will be necessary. Standardizing prompts for similar studies could provide a valuable
+mechanism for conducting learning research. Standardization could assist in developing
+benchmarks to enable reasonable comparisons across tools [14].
+Observational studies of student interactions with AI systems could also provide
+valuable insights into using these tools for learning. Observations could include chat
+transcripts as well as think-aloud protocols.
+11. Implications
+This work contributes to our emerging understanding of how AI systems can support
+student learning by following prior work that treats the system as a subject in a psychological experiment [15]. In its current form, ChatGPT can serve as a valuable tutor in support of
+independent learning for topics such as computer programming. While controlled studies
+will need to verify this, achievement gains produced by AI tutors can rival Bloom’s human
+tutor findings from 40 years ago [16]. However, the problem, as articulated by Bloom, was
+that the two-sigma benefit of a human tutor was not a scalable option. It is now.
+Author Contributions: Conceptualization, K.H., M.H. and U.H.K.; Methodology, K.H.; Formal
+analysis, K.H.; Data curation, K.H.; Writing—original draft, K.H.; Writing—review and editing, K.H.,
+M.H. and U.H.K. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Chat transcripts are available from the corresponding author.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+3.
+4.
+5.
+
+6.
+7.
+8.
+
+Hwang, G.-H.; Chen, B.; Huang, C.-W. Development and Effectiveness Analysis of a Personalized Ubiquitous Multi-Device
+Certification Tutoring System Based on Bloom’s Taxonomy of Educational Objectives. Educ. Technol. Soc. 2016, 19, 223–236.
+Hwang, G.-J.; Xie, H.; Wah, B.W.; Gašević, D. Vision, challenges, roles and research issues of Artificial Intelligence in Education.
+Comput. Educ. Artif. Intell. 2020, 1, 100001. [CrossRef]
+Zawacki-Richter, O.; Marín, V.I.; Bond, M.; Gouverneur, F. Systematic review of research on artificial intelligence applications in
+higher education—Where are the educators? Int. J. Educ. Technol. High. Educ. 2019, 16, 39. [CrossRef]
+Google Trends. AI Education WorldWide Search Activity. Google Trends. Available online: https://trends.google.com/trends/
+explore?date=2022-08-02%202023-11-02&q=AI%20Education&hl=en (accessed on 2 November 2023).
+Bartz, D. As ChatGPT’s Popularity Explodes, U.S. Lawmakers Take an Interest|Reuters. Reuters. Available online:
+https://www.reuters.com/technology/chatgpts-popularity-explodes-us-lawmakers-take-an-interest-2023-02-13/ (accessed
+on 13 February 2023).
+Crompton, H.; Burke, D. Artificial intelligence in higher education: The state of the field. Int. J. Educ. Technol. High. Educ. 2023, 20,
+22. [CrossRef]
+Anthology. AI in Higher Ed: Hype, Harm, or Help. 2023. Available online: https://www.anthology.com/sites/default/files/2023
+-11/White%20Paper-USA-AI%20in%20Higher%20Ed-Hype%20Harm%20or%20Help-v1_11-23.pdf (accessed on 1 January 2024).
+Porter, H. Global Student Survey 2023. 2023. Available online: https://www.chegg.org/global-student-survey-2023 (accessed on
+1 January 2024).
+
+Educ. Sci. 2024, 14, 120
+
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+
+23.
+24.
+
+25.
+
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+
+11 of 12
+
+Celik, I. Towards Intelligent-TPACK: An empirical study on teachers’ professional knowledge to ethically integrate artificial
+intelligence (AI)-based tools into education. Comput. Hum. Behav. 2023, 138, 107468. [CrossRef]
+Seufert, S.; Guggemos, J.; Sailer, M. Technology-related knowledge, skills, and attitudes of pre- and in-service teachers: The
+current situation and emerging trends. Comput. Hum. Behav. 2021, 115, 106552. [CrossRef]
+Cogliano, M.; Bernacki, M.L.; Hilpert, J.C.; Strong, C.L. A self-regulated learning analytics prediction-and-intervention design:
+Detecting and supporting struggling biology students. J. Educ. Psychol. 2022, 114, 1801–1816. [CrossRef]
+Sghir, N.; Adadi, A.; Lahmer, M. Recent advances in Predictive Learning Analytics: A decade systematic review (2012–2022).
+Educ. Inf. Technol. 2023, 28, 8299–8333. [CrossRef]
+Chen, X.; Xie, H.; Zou, D.; Hwang, G.-J. Application and theory gaps during the rise of Artificial Intelligence in Education.
+Comput. Educ. Artif. Intell. 2020, 1, 100002. [CrossRef]
+Shiffrin, R.; Mitchell, M. Probing the psychology of AI models. Proc. Natl. Acad. Sci. USA 2023, 120, e2300963120. [CrossRef]
+Binz, M.; Schulz, E. Using cognitive psychology to understand GPT-3. Proc. Natl. Acad. Sci. USA 2023, 120, e2218523120.
+[CrossRef]
+Bloom, B.S. The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring. Educ. Res.
+1984, 13, 4–16. [CrossRef]
+Kraft, M.A. Interpreting Effect Sizes of Education Interventions. Educ. Res. 2020, 49, 241–253. [CrossRef]
+VanLehn, K. The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems. Educ.
+Psychol. 2011, 46, 197–221. [CrossRef]
+Blikstein, P.; Worsley, M.; Piech, C.; Sahami, M.; Cooper, S.; Koller, D. Programming Pluralism: Using Learning Analytics to
+Detect Patterns in the Learning of Computer Programming. J. Learn. Sci. 2014, 23, 561–599. [CrossRef]
+Song, D.; Hong, H.; Oh, E.Y. Applying computational analysis of novice learners’ computer programming patterns to reveal
+self-regulated learning, computational thinking, and learning performance. Comput. Hum. Behav. 2021, 120, 106746. [CrossRef]
+Zimmerman, B.J. Becoming a Self-Regulated Learner: An Overview. Theory Into Pract. 2002, 41, 64–70. [CrossRef]
+Loksa, D.; Ko, A.J. The Role of Self-Regulation in Programming Problem Solving Process and Success. In Proceedings of the
+2016 ACM Conference on International Computing Education Research, Melbourne, Australia, 8–12 September 2016; pp. 83–91.
+[CrossRef]
+Pintrich, P.R.; De Groot, E.V. Motivational and self-regulated learning components of classroom academic performance. J. Educ.
+Psychol. 1990, 82, 33–40. [CrossRef]
+Azevedo, R.; Mudrick, N.V.; Taub, M.; Bradbury, A.E. Self-Regulation in Computer-Assisted Learning Systems. In The Cambridge
+Handbook of Cognition and Education; Dunlosky, J., Rawson, K.A., Eds.; Cambridge University Press: Cambridge, UK, 2019; pp.
+587–618. [CrossRef]
+Broadbent, J.; Panadero, E.; Lodge, J.M.; de Barba, P. Technologies to Enhance Self-Regulated Learning in Online and ComputerMediated Learning Environments. In Handbook of Research in Educational Communications and Technology: Learning Design; Bishop,
+M.J., Boling, E., Elen, J., Svihla, V., Eds.; Springer International Publishing: Cham, Switzerland, 2020; pp. 37–52. [CrossRef]
+Chang, D.H.; Lin, M.P.-C.; Hajian, S.; Wang, Q.Q. Educational Design Principles of Using AI Chatbot That Supports Self-Regulated
+Learning in Education: Goal Setting, Feedback, and Personalization. Sustainability 2023, 15, 12921. [CrossRef]
+Ambrose, S.A.; Bridges, M.W.; DiPietro, M.; Lovett, M.C.; Norman, M.K. How Learning Works: Seven Research-Based Principles for
+Smart Teaching; John Wiley & Sons: Hoboken, NJ, USA, 2010.
+Head, A.; Eisenberg, M. How today’s college students use Wikipedia for course-related research. First Monday 2010, 15. [CrossRef]
+Ouyang, F.; Zheng, L.; Jiao, P. Artificial intelligence in online higher education: A systematic review of empirical research from
+2011 to 2020. Educ. Inf. Technol. 2022, 27, 7893–7925. [CrossRef]
+Benhamdi, S.; Babouri, A.; Chiky, R. Personalized recommender system for e-Learning environment. Educ. Inf. Technol. 2017, 22,
+1455–1477. [CrossRef]
+Keller, B.A.; Hart, E.W.; Martin, W.G. Illuminating NCTM’s Principles and Standards for School Mathematics. Sch. Sci. Math.
+2001, 101, 292–304. [CrossRef]
+Humble, N. The use of programming tools in teaching and learning material by k-12 teachers. In Proceedings of the European
+Conference on E-Learning (ECEL 2021), [DIGITAL], Berlin, Germany, 28–29 October 2021; pp. 574–582.
+Van Merriënboer, J.J.G.; Sweller, J. Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions.
+Educ. Psychol. Rev. 2005, 17, 147–177. [CrossRef]
+Hattie, J.; Timperley, H. The Power of Feedback. Rev. Educ. Res. 2007, 77, 81–112. [CrossRef]
+Schraw, G.; Crippen, K.J.; Hartley, K. Promoting self-regulation in science education: Metacognition as part of a broader
+perspective on learning. Res. Sci. Educ. 2006, 36, 111–139. [CrossRef]
+Surameery, N.M.S.; Shakor, M.Y. Use ChatGPT to solve programming bugs. Int. J. Inf. Technol. Comput. Eng. IJITC 2023, 3, 17–22.
+Sobania, D.; Briesch, M.; Hanna, C.; Petke, J. An analysis of the automatic bug fixing performance of ChatGPT. arXiv 2023,
+arXiv:2301.08653.
+Hwang, G.-J.; Chen, N.-S. Editorial Position Paper: Exploring the Potential of Generative Artificial Intelligence in Education:
+Applications, Challenges, and Future Research Directions. Educ. Technol. Soc. 2023, 26. Available online: https://www.jstor.org/
+stable/48720991 (accessed on 2 November 2023).
+
+Educ. Sci. 2024, 14, 120
+
+39.
+40.
+41.
+42.
+43.
+44.
+
+45.
+46.
+
+47.
+
+12 of 12
+
+Hartley, K.; Shreve, E.; Gianoutsos, D.; Bendixen, L.D. The smartphone as a self-regulatory planning tool: Promise or peril. Int. J.
+Interact. Mob. Technol. 2022, 16, 14. [CrossRef]
+Hamilton, L.; Corbett-Whittier, C. Using Case Study in Education Research; SAGE Publications Ltd.: Thousand Oaks, CA, USA,
+2013. [CrossRef]
+Merriam, S.B. Qualitative Research and Case Study Applications in Education, 2nd ed.; Jossey-Bass Publishers: Hoboken, NJ, USA,
+1998.
+Merriam, S.B. Case Study Research in Education: A Qualitative Approach; Jossey-Bass: Hoboken, NJ, USA, 1988.
+Stake, R.E. Case studies. In Strategies of Qualitative Inquiry; Denzin, N.K., Lincoln, Y.S., Eds.; SAGE Publications: Thousand Oaks,
+CA, USA, 1998.
+Srivastava, A.; Rastogi, A.; Rao, A.; Shoeb, A.A.M.; Abid, A.; Fisch, A.; Brown, A.R.; Santoro, A.; Gupta, A.; Garriga-Alonso, A.;
+et al. Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. arXiv 2023, arXiv:2206.04615.
+[CrossRef]
+Brown, T.; Mann, B.; Ryder, N.; Subbiah, M.; Kaplan, J.D.; Dhariwal, P.; Neelakantan, A.; Shyam, P.; Sastry, G.; Askell, A. Language
+models are few-shot learners. Adv. Neural Inf. Process. Syst. 2020, 33, 1877–1901.
+Kalliamvakou, E. Research: Quantifying GitHub Copilot’s Impact on Developer Productivity and Happiness. The GitHub Blog.
+Available online: https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-andhappiness/ (accessed on 7 September 2022).
+He, W.; Hartley, K. A supporting framework of online technology resources for lesson planning. J. Educ. Multimed. Hypermedia
+2010, 19, 23–37.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+

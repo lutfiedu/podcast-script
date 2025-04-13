@@ -1,0 +1,2188 @@
+systems
+Article
+
+Unlocking Potential: Key Factors Shaping Undergraduate
+Self-Directed Learning in AI-Enhanced
+Educational Environments
+Di Wu 1 , Shuling Zhang 1 , Zhiyuan Ma 2, *, Xiao-Guang Yue 3 and Rebecca Kechen Dong 4
+1
+
+2
+3
+
+4
+
+*
+
+Citation: Wu, D.; Zhang, S.; Ma, Z.;
+Yue, X.-G.; Dong, R.K. Unlocking
+Potential: Key Factors Shaping
+Undergraduate Self-Directed
+Learning in AI-Enhanced Educational
+Environments. Systems 2024, 12, 332.
+
+Education College, Hubei University, Wuhan 430062, China; wudi@hubu.edu.cn (D.W.);
+202221124010817@stu.hubu.edu.cn (S.Z.)
+China-Korea Institute of New Media, Zhongnan University of Economics and Law, Wuhan 430073, China
+Department of Computer Science and Engineering, European University Cyprus, Nicosia 2404, Cyprus;
+x.yue@external.euc.ac.cy
+Management Discipline, UTS Business School, University of Technology Sydney,
+Sydney, NSW 2007, Australia; rebecca.dong@uts.edu.au
+Correspondence: z0004877@zuel.edu.cn
+
+Abstract: This study investigates the factors influencing undergraduate students’ self-directed learning (SDL) abilities in generative Artificial Intelligence (AI)-driven interactive learning environments.
+The advent of generative AI has revolutionized interactive learning environments, offering unprecedented opportunities for personalized and adaptive education. Generative AI supports teachers
+in delivering smart education, enhancing students’ acceptance of technology, and providing personalized, adaptive learning experiences. Nevertheless, the application of generative AI in higher
+education is underexplored. This study explores how these AI-driven platforms impact undergraduate students’ self-directed learning (SDL) abilities, focusing on the key factors of teacher support,
+learning strategies, and technology acceptance. Through a quantitative approach involving surveys
+of 306 undergraduates, we identified the key factors of motivation, technological familiarity, and the
+quality of AI interaction. The findings reveal the mediating roles of self-efficacy and learning motivation. Also, the findings confirmed that improvements in teacher support and learning strategies
+within generative AI-enhanced learning environments contribute to increasing students’ self-efficacy,
+technology acceptance, and learning motivation. This study contributes to uncovering the influencing
+factors that can inform the design of more effective educational technologies and strategies to enhance
+student autonomy and learning outcomes. Our theoretical model and research findings deepen the
+understanding of applying generative AI in higher education while offering important research
+contributions and managerial implications.
+
+https://doi.org/10.3390/
+systems12090332
+Academic Editor: Timothy Ferris
+
+Keywords: generative AI; self-directed learning; teacher support; learning strategies; technology
+acceptance; self-efficacy
+
+Received: 22 July 2024
+Revised: 12 August 2024
+Accepted: 24 August 2024
+Published: 29 August 2024
+
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+1. Introduction
+Artificial Intelligence (AI) has been around for a considerable time, offering significant potential for personalized education to cater to learners’ differences and needs [1].
+Generative AI, a field based on machine learning, particularly deep learning, has recently
+gained substantial attention. The advent of generative AI has revolutionized interactive
+learning environments, offering unprecedented opportunities for personalized and adaptive education. Generative AI refers to machine learning models that can create new
+content, including text, images, and even personalized learning pathways [2]. Generative
+AI possesses powerful capabilities to autonomously create novel and meaningful content,
+employing various methods to produce high-quality text, images, audio, and other media
+formats [3]. These technologies have shown the potential to adapt to individual learner
+
+Systems 2024, 12, 332. https://doi.org/10.3390/systems12090332
+
+https://www.mdpi.com/journal/systems
+
+Systems 2024, 12, 332
+
+2 of 19
+
+needs, providing immediate feedback and facilitating interactive learning experiences.
+They have profoundly impacted educational research and practice, driving educational
+innovations and transforming traditional teaching methods and learning strategies.
+Generative AI and AI–human collaboration have facilitated the development of conversational AI based on natural language processing, achieving breakthroughs in information
+retrieval, knowledge representation, content creation, and knowledge reasoning [4].
+Recent studies have shown that students benefit significantly from the prompts provided by generative AI tools like ChatGPT and Bing Chat, demonstrating a degree of
+critical thinking when utilizing this technology [5,6]. Diwan et al. found that AI-based
+learning content generation and learning pathway augmentation contribute to improving
+learner engagement. The research by Li et al. highlighted the tremendous potential of
+ChatGPT in promoting self-directed language learning (SDLL), offering new insights into
+learning technology innovation and AI-assisted self-directed learning (SDL) research [7,8].
+Additionally, experimental studies have indicated that students exhibit higher intrinsic
+motivation, improved learning performance, and positive attitudes in GenAI-supported
+scenarios [9]. Lu et al. found that pre-service teachers who used generative AI scored
+higher in teacher self-efficacy and higher-order thinking in both the experimental and
+control groups [10]. These findings imply that generative AI, such as ChatGPT, offers numerous advantages in educational settings. It provides students with personalized learning
+experiences, enhances learning efficiency, and supports teachers’ professional development [10]. Despite generative AI’s novel capabilities in improving education quality, the
+human element remains irreplaceable. Nevertheless, existing studies ignore the mechanism
+of self-directed learning (SDL) when students apply generative AI. SDL is a process in
+which individuals take the initiative to diagnose their learning needs, formulate goals,
+identify resources, and evaluate outcomes [11]. Previous SDL research has highlighted
+the importance of motivation, resource availability, and institutional support in fostering
+SDL [12], but it remained unclear in classrooms augmented by AI. While this theoretical
+puzzle is of great interest for academic research, it is also of great educational value and
+managerial relevance, because quality education is recognized as important United Nation
+sustainable development goals [13].
+To address this knowledge gap, this study embraces the Generative Learning Theory
+as the theoretical lens to explore the mechanisms and interactions underlying self-directed
+learning in generative AI-supported interactive environments [14]. It seeks to measure
+changes in students’ self-directed learning abilities and investigate future pathways for
+smart education practice. This research could facilitate the effective integration of generative
+AI in teaching, helping educators provide personalized instruction to students. Based on
+the above, we propose two research questions below:
+
+•
+•
+
+RQ1: How does generative Artificial Intelligence (GenAI) support self-directed learning?
+RQ2: What factors influence students’ self-directed learning abilities in generative
+AI-driven interactive environments?
+
+We meticulously developed a questionnaire grounded in established self-regulated
+learning scales pertinent to AI–human interaction, incorporating critical dimensions such
+as goal setting and time management [15,16]. To ensure its suitability for a generative AI
+learning environment, we carefully refined the dimension descriptions and introduced
+additional items. Following a rigorous expert evaluation and a comprehensive pilot study,
+the questionnaire demonstrated robust reliability. A subsequent survey of 306 undergraduate students revealed that technological familiarity and learning motivation significantly
+impact self-directed learning capabilities, with self-efficacy, learning strategies, and teacher
+support functioning as mediating variables.
+Venturing into the research insights of future education generative AI, this study made
+three contributions. As a theoretical contribution, this study presents a conceptual model
+that encompasses critical factors explaining generative AI and self-directed learning. We
+uncovered the human elements of self-efficacy, autonomous learning ability, and learning
+
+Systems 2024, 12, 332
+
+3 of 19
+
+motivation in this mechanism. The theoretical insights from this study contribute to extending the Generative Learning Theory to thrive in a world of constant technological changes.
+Secondly, our study provided key implications to educators for tomorrow, where technological advancements and new pedagogical theories continually reshape the landscape.
+We argue that teacher support and technology acceptance are critical for adapting to the
+shifting demands of their profession and the diverse needs of their students. Thirdly, our
+research findings provide important managerial implications for policymakers in education.
+The future of education is not about choosing to use AI or abandon AI, but it is about
+fostering a catalyst for a lifelong passion for self-direct learning facilitated by AI.
+2. Literature Review
+2.1. Mechanisms of Generative AI Facilitating Generative Learning
+The Generative Learning Theory posits that learning is an active process [14]. The
+generative model theorizes research insights in educational psychology, viewing learning
+as a constructive cognitive process and considering human cognitive learning, abilities,
+and attitudes [14]. The Generative Learning Theory posits that learners actively engage
+in generating, organizing, and integrating information to construct knowledge. Learners
+must not solely rely on the passive reception of external information. They should generate
+representations such as diagrams, images, tables, or charts based on their existing cognitive
+structures and sensory information from the environment. They autonomously create
+learning activities to deepen their understanding, actively interpreting and making meaning
+of the information.
+Following this theoretical lens, Fiorella and Mayer further argued that generative
+learning activities involve learners’ active engagement to deepen their understanding of the
+course material. The key principles of this theory include encouraging active participation
+through creation, hypothesis, and experimentation; integrating new content with existing
+cognitive structures; and promoting diverse learning strategies such as summarizing,
+organizing, connecting, and drawing as generative learning strategies.
+Moser and Lewalter highlighted the alignment between the Generative Learning
+Theory and Constructivist Theory, asserting that learning involves comparison, adjustment,
+and reorganization to construct new concepts and knowledge [17]. For instance, learners
+need to adopt heuristic and exploratory approaches when solving problems and acquiring
+knowledge, positively impacting their ability to tackle mathematical challenges [18]. This
+involves observing and analyzing problem patterns, seeking regularities, and applying
+these patterns to new contexts [19]. Continuous reflection and metacognition are necessary
+for optimizing learning processes and strategies to improve performance [20]. In addition,
+ongoing sharing and interaction facilitate knowledge construction and sharing [21].
+Generative Artificial Intelligence (AI), with its generalization, transfer, and creative
+capabilities, can drive the reconstruction of existing concepts and the construction of new
+cognition. Additionally, it enhances heuristic and exploratory learning while promoting reflective learning. Through sustained interaction with learners, AI also transforms
+metacognitive approaches (Figure 1).
+2.2. Promoting Cognitive Construction and Conceptual Reconstruction
+The generative learning process aligns with the Cognitive Constructivist Theory,
+emphasizing learners’ active generation and reconstruction of knowledge to understand
+and solve problems. In this process, students actively explore, process, and integrate
+information, thereby fostering the construction and reconstruction of personal knowledge
+structures, leading to deeper learning and comprehension [22]. Generative Artificial Intelligence (AI) leverages generative models to accumulate parameters for sequential tasks
+and supports iterative learning and optimization. This enables the AI to adapt to new data
+through continuous learning, rapidly updating knowledge and integrating cross-domain
+information. By continually generating, comparing, and reconstructing, generative AI
+enhances its transferability and generalization capabilities, akin to knowledge integration
+
+Systems 2024, 12, 332
+
+4 of 19
+
+Systems 2024, 12, x FOR PEER REVIEW
+
+4 of 20
+
+and cognitive enhancement processes [23]. Generative AI, using models such as Generative Adversarial Networks (GANs), can generate text and images while revealing hidden
+structures in complex data distributions, offering new approaches to solving problems in
+cognitive science and potentially aiding cognitive science research [24].
+
+Figure
+Mechanismsof
+ofgenerative
+generativeAIAIfacilitating
+facilitating
+generative
+learning.
+Figure 1. Mechanisms
+generative
+learning.
+
+2.3.
+HeuristicConstruction
+and Exploratory
+Learning Reconstruction
+2.2. Enhancing
+Promoting Cognitive
+and Conceptual
+Combining
+generative
+AI withaligns
+heuristic
+andCognitive
+exploratory
+learning can
+provide
+The generative
+learning process
+with the
+Constructivist
+Theory,
+em- students
+with
+rich
+and
+dynamic
+learning
+environments,
+thereby
+enhancing
+their
+initiative,
+phasizing learners’ active generation and reconstruction of knowledge to understand and
+creativity,
+and critical
+Utilizing
+graphs,and
+vector
+databases,
+solve problems.
+In thisthinking
+process, skills.
+students
+activelyknowledge
+explore, process,
+integrate
+infor- and
+Retrieval-Augmented
+Generation
+(RAG), generative
+AI can design
+more flexible
+and effecmation, thereby fostering
+the construction
+and reconstruction
+of personal
+knowledge
+tive
+knowledge
+representation
+and generation
+mechanisms.
+example,Artificial
+it can design
+structures,
+leading
+to deeper learning
+and comprehension
+[22].For
+Generative
+Intel- and
+generate
+various
+questions,
+case models
+studies,toand
+challenges,
+encouraging
+learners to
+reflect
+ligence (AI)
+leverages
+generative
+accumulate
+parameters
+for sequential
+tasks
+and
+their
+knowledge,
+promotingThis
+the enables
+development
+of adapt
+critical
+and apply
+supports
+iterative
+learningthereby
+and optimization.
+the AI to
+to thinking
+new data and
+problem-solving
+skills
+[25]. Generative
+AI possesses
+generalization
+capabilities
+that allow
+through continuous
+learning,
+rapidly updating
+knowledge
+and integrating
+cross-domain
+knowledge
+skills learned
+in one task
+to be transferred
+to others.generative
+Additionally,
+it can
+information.and
+By continually
+generating,
+comparing,
+and reconstructing,
+AI enhances itscreative
+transferability
+and generalization
+akin to knowledge
+generate
+and imaginative
+content,capabilities,
+including innovative
+designsintegration
+and scientific
+and cognitive
+enhancement processes [23]. Generative AI, using models such as Generahypotheses
+[26].
+tive Adversarial Networks (GANs), can generate text and images while revealing hidden
+2.4.
+Facilitating
+Reflective
+Learning
+and Metacognition
+structures
+in complex
+data
+distributions,
+oﬀering new approaches to solving problems in
+cognitive
+scienceAI
+andcan
+potentially
+aiding cognitive
+science
+research
+[24]. learning plans, and
+Generative
+design learning
+activities
+and tasks,
+regulate
+monitor and evaluate the learning process, aiding students in self-reflection and self2.3. Enhancing
+Heuristic
+andthe
+Exploratory
+Learning
+regulation.
+This
+supports
+Generative
+Learning Theory’s view that learners should be
+Combining
+generative
+AI
+with
+heuristic
+learning
+can provide
+stu- the
+aware of and regulate their learning strategies.and
+Forexploratory
+instance, it can
+pose questions
+during
+dents
+with
+rich
+and
+dynamic
+learning
+environments,
+thereby
+enhancing
+their
+initiative,
+learning process, such as “How do I understand this concept?” and “What is the reason for
+creativity,
+and critical
+thinking skills.
+Utilizingdeepen
+knowledge
+vector databases,
+and
+my
+difficulty?”
+These questions
+help students
+theirgraphs,
+understanding
+of their cognitive
+Retrieval-Augmented
+Generation
+(RAG),
+generative
+AI
+can
+design
+more
+flexible
+and
+efprocesses, thus fostering reflective learning and metacognitive abilities [27]. Generative
+fective
+knowledge
+representation
+and
+generation
+mechanisms.
+For
+example,
+it
+can
+design
+AI can also simulate human cognitive processes. Through strategies like Reflexion and
+and generate
+variousitquestions,
+casethe
+studies,
+and
+encouraging
+learners
+to reSelf-Refine
+prompts,
+can evaluate
+quality
+ofchallenges,
+generated content
+and adjust
+it according
+flect
+and apply
+their knowledge,
+thereby
+promoting
+the development
+of critical
+thinking
+to
+preset
+standards.
+It can explore
+multiple
+problem-solving
+perspectives
+based
+on user
+and problem-solving
+skills [25].
+Generativeamong
+AI possesses
+generalizationand
+capabilities
+that and
+input,
+compare and analyze
+differences
+these perspectives,
+synthesize
+allow knowledge
+and skillsdiscrepancies,
+learned in one thereby
+task to be
+transferred
+to others. Additionally,
+reassess
+them to eliminate
+enhancing
+self-reflection
+and reasoning
+it
+can
+generate
+creative
+and
+imaginative
+content,
+including
+innovative
+designs and scienabilities [28].
+tific hypotheses [26].
+3. Hypothesis Development
+2.4. Facilitating Reflective Learning and Metacognition
+Generative Artificial Intelligence (AI) provides tools and environments that elevate
+Generative
+can design
+learningbyactivities
+and tasks,
+regulate
+learningengage
+plans, and
+the paradigm
+ofAI
+generative
+learning
+empowering
+students
+to actively
+in their
+monitor
+and
+evaluate
+the
+learning
+process,
+aiding
+students
+in
+self-reflection
+and
+self-reglearning processes. Generative AI encourages students to deepen their understanding of
+ulation. This supports the Generative Learning Theory’s view that learners should be
+knowledge through linking, organizing, integrating, and reflecting. With the support of
+
+Systems 2024, 12, 332
+
+5 of 19
+
+generative AI, students can take control of their learning, set personal learning goals, direct
+their learning paths, evaluate their progress, and reflect on their learning processes.
+Research shows that generative AI significantly enhances learning efficacy, motivation,
+and knowledge construction by providing personalized learning content and interactive experiences [29]. Additionally, it fosters changes in teaching models and strategies, effectively
+stimulating learning interest, increasing student engagement, and improving learning
+outcomes [30]. Teacher support is crucial, as it provides the emotional, cognitive, and
+behavioral support needed to stimulate students’ interest and motivation [31]. Therefore,
+generative learning within generative AI-driven interactive learning environments can be
+seen as a new learning system influenced by the key factors of teacher support, students’
+technological acceptance, and self-directed learning strategies.
+3.1. Enhancing Teacher Support Capabilities with Generative AI
+Teachers are pivotal in steering students to employ AI as an impetus for their learning
+capacities. Teacher support is a crucial factor influencing learning abilities, directly and significantly positively affecting students’ academic adaptation, engagement, and satisfaction.
+The integration of teacher support and Artificial Intelligence (AI) can be categorized into
+two approaches: AI-supported Teacher and Teacher-supported AI. The former focuses on
+how AI technologies can enhance teaching effectiveness, improve instructional efficiency,
+and offer better-differentiated instruction for teachers [32]. The latter concentrates on
+how students can utilize AI’s data retrieval capabilities under teacher guidance to obtain
+personalized learning experiences, precise learning resources, and effective instructional
+guidance [33]. In the context of smart classroom teaching, generative AI can assist teachers
+in optimizing instructional strategies and curriculum design [34]. In intelligent content
+generation, it helps tailor teaching materials to meet specific educational goals and student
+needs [35]. Furthermore, in intelligent educational data analysis, generative AI enables
+teachers to better understand student behavior patterns and provide tailored teaching
+methods [36].
+The integration of generative AI in enhancing teacher support capabilities is broadreaching. For example, within the dialogic learning model, AI-enabled intelligent inquiry
+fosters the development of higher-order thinking and questioning skills, thereby deepening
+knowledge mastery and enhancing cognitive abilities [37]. Additionally, generative AI
+assists teachers in discerning variations in students’ knowledge acquisition, interaction
+patterns, and depth in programming learning support, subsequently influencing learning
+outcomes. Teacher support encompasses not only the transmission of knowledge but also
+provides psychological, emotional, and behavioral support [38].
+Generative AI enables the real-time analysis of student learning, metacognition, and
+behavior, supporting teachers in guiding students. Leveraging large language models and
+multimodal technologies, AI can generate diverse learning resources such as text, images,
+audio, and video. It can also understand the mental health of individual students and
+groups, thereby providing comprehensive cognitive, emotional, and behavioral assessments and diagnostic support. Investing in teacher support not only refines their teaching
+practices but also embodies AI with effective learning strategies for their students. In
+summary, this study proposes the following hypotheses:
+H1. In generative AI-driven interactive learning environments, teacher support can directly
+influence students’ learning strategies.
+H2. In generative AI-driven interactive learning environments, teacher support can directly
+influence students’ learning motivation.
+3.2. Ensuring Adequate Technology Acceptance for Generative AI
+Generative AI requires users to possess specific competencies, as it provides information to support problem-solving and retrieves and generates multimodal data resources.
+
+Systems 2024, 12, 332
+
+6 of 19
+
+However, overreliance on technology without critical thinking can detrimentally affect
+students’ learning. Due to the inherent limitations of training on incomplete or biased
+data, generative AI can sometimes produce erroneous or nonsensical information, known
+as the hallucination effect, which necessitates discernment and judgment from users. For
+instance, while generative AI can propose adaptive instructional content and strategies,
+the effectiveness may fall short of standards [39]. It can offer suggestions for classroom
+management and learning assessment, but the content is often based on preset prompts
+and may not meet the specific needs of teachers [40]. Furthermore, while generative AI can
+analyze student assignments and provide dialogic feedback, these interactions may lack
+explanatory depth and occasionally exhibit flawed logical reasoning [41].
+The hallucination effect of generative AI can lead to misinterpretations among both
+teachers and students, prompting some schools and teachers to approach its integration
+into teaching environments cautiously. Studies using the Technology Acceptance Model
+(TAM) have examined the behavioral intentions of teachers and students regarding the
+adoption of AI technologies. The TAM consists of perceived usefulness (PU) and perceived
+ease of use (PEOU) [42]. PU refers to the recognition of AI technology’s benefits in learning,
+while PEOU focuses on the convenience of operating and interacting with the technology.
+Through the TAM, deeper insights into the levels of acceptance of AI technology in education can be gained, enabling the proposal of suitable training and support measures to
+enhance understanding and ensure correct application.
+Despite these challenges, the perceived ease of using generative AI remains a key factor
+driving its widespread adoption. Its natural language processing capabilities enhance userfriendliness and multifunctionality, making it a widely used educational tool, which few AI
+technologies have achieved before. However, accessibility and ease of use do not necessarily
+translate into effective and meaningful use, especially in learning and teaching contexts.
+The perceived usefulness of generative AI, like other digital tools, relies on proficient use,
+particularly the flexible application of Prompt Engineering. In the realm of large language
+models, prompts are articulated as natural language sentences or fragments, including
+descriptions, commands, inquiries, and requests, that trigger the generative AI’s responses
+based on patterns learned during training. The perceived usefulness of generative AI
+largely depends on the quality of the prompts it receives; when integrated with subject
+knowledge and critical thinking, it can potentially enhance learning engagement.
+Therefore, this study proposes the following hypothesis:
+H3. The level of acceptance of generative AI technology can directly influence students’ self-directed
+learning abilities.
+3.3. Adapting Self-Directed Learning Strategies through Generative AI
+Generative AI supports students in transitioning their cognitive processes to select
+learning information from AI-generated content and integrate it with existing knowledge.
+This aligns with generative learning strategies that emphasize selecting, organizing, and
+integrating learning content [43]. For instance, generative AI can facilitate self-paced learning, personalized learning paths, and immersive experiences, boosting learning motivation
+and engagement [44]. It can also increase willingness to communicate in specific languages
+through chat interactions, maintaining dialogue and generating personalized language
+learning materials [45]. Additionally, AI offers feedback and personalized learning support
+and assessment roles, either as a peer or mentor [46]. It can effectively enhance students’
+problem-solving abilities and learning satisfaction through online cooperative learning
+models [47].
+Generative AI supports learners by enabling goal-setting, retrieving and creating multimodal learning resources, generating adaptive learning plans, and providing continuous
+feedback and evaluation, driving adjustments to their existing learning strategies. Unlike
+traditional self-directed learning (SDL), which often lacks real-time support and interaction
+from teachers and peers, AI facilitates ongoing collaboration with teachers and peers. This
+
+Systems 2024, 12, 332
+
+7 of 19
+
+transformation enables learners to engage in higher levels of human–AI collaboration,
+transforming their self-management, problem-solving, and continuous learning methods
+by actively interacting with AI to generate personalized learning plans, resources, feedback,
+and assessments.
+As a new form of AI application, generative AI possesses uncertainties and developmental stages. The Technology Acceptance Model (TAM), based on the Theory of Reasoned
+Action, analyzes users’ attitudes and behavioral intentions toward technology, serving as
+a direct factor for teachers and students to determine the use of AI-assisted teaching and
+learning. Perceived usefulness gauges the likelihood of enhancing performance through
+generative AI in teaching and autonomous learning. Simultaneously, when perceived ease
+of use indicates simplicity and learnability, it fosters positive attitudes towards using AI as
+a teaching and learning tool, bolstering autonomous learning intentions among students.
+This underscores the direct positive impact of perceived ease of use on students’ willingness
+for autonomous learning. In line with this, we propose:
+H4. Learning strategies supported by generative AI can indirectly influence self-directed learning
+ability through the mediating effect of technology acceptance.
+3.4. Boosting Learning Motivation and Self-Efficacy with Generative AI
+In generative learning, self-efficacy pertains to individuals’ self-assessment of their
+learning capabilities and behaviors. It represents students’ self-perception and assessment
+of their capability to accomplish learning tasks [48]. Research underscores that learning
+motivation and self-efficacy remain critical factors within AI educational environments
+and interact with factors such as technology acceptance and learning strategies [49]. For
+instance, in AI programming learning, self-efficacy, AI literacy, and course satisfaction
+directly influence learning interest and willingness [50]. Generative AI teaching platforms
+enhance students’ perceived interaction with AI during writing skill training, demonstrating a strong connection between interaction strategies, self-efficacy, and learning
+experience [51]. AI-assisted foreign language teaching significantly boosts student engagement, promoting learning motivation and self-directed learning through personalized
+learning experiences [52].
+Generative AI offers timely feedback and adjusts problem difficulty, offering swift
+responses to help students gauge their learning status, recognize their strengths and weaknesses, and feel more confident in mastering knowledge. Simultaneously, the problems
+generated by generative AI maintain an appropriate level of difficulty, motivating students
+to sustain their interest in learning and progressively enhance their skills. The flexibility to
+arrange learning schedules according to an individual’s pace fosters the habit and ability
+of self-directed learning while reducing anxiety, allowing learners to study in a more relaxed state. Overall, generative AI aids in enhancing students’ learning motivation and
+self-efficacy by offering personalized learning experiences, timely feedback, challenging
+yet manageable tasks, and adaptive learning paths. Considering the above, we propose:
+H5. In generative AI-driven interactive learning environments, students’ learning motivation can
+directly influence their self-directed learning ability.
+H6. In generative AI-driven interactive learning environments, learning strategies can indirectly
+influence learning motivation through the mediation of self-efficacy.
+H7. In generative AI-driven interactive learning environments, self-efficacy can indirectly influence
+self-directed learning ability through the mediating impact of learning motivation.
+3.5. Research Model
+A research model is demonstrated in Figure 2 to guide our investigations on the
+proposed hypotheses.
+
+H7. In generative AI-driven interactive learning environments, self-eﬃcacy can indirectly influence self-directed learning ability through the mediating impact of learning motivation.
+3.5. Research Model
+Systems 2024, 12, 332
+
+of 19
+A research model is demonstrated in Figure 2 to guide our investigations on the 8proposed hypotheses.
+
+Learning
+Strategies
+
+H4
+
+Technology
+Acceptance
+
+H4
+H3
+
+Autonomous
+Learning
+Ability
+
+H6
+H1
+
+Self-Efficacy
+
+H5
+H7
+
+H7
+
+H6
+
+Teacher
+Support
+
+H2
+
+Learning
+Motivation
+
+Figure
+Figure2.2.The
+Theconceptual
+conceptualmodel
+modelof
+ofthe
+thestudy.
+study.
+
+Basedon
+onthe
+theanalysis
+analysisof
+of learning
+learning processes
+processes and
+and their
+their associated
+associated factors,
+factors, generative
+generative
+Based
+AI-driveninteractive
+interactivelearning
+learningenvironments
+environmentsrepresent
+representaacomprehensive
+comprehensivearray
+arrayof
+oflearning
+learning
+AI-driven
+resources
+that
+support
+learners
+in
+engaging
+with
+generative
+learning.
+These
+environments
+resources that support learners in engaging with generative learning. These environments
+encompass not
+not only
+underpin
+thethe
+learning
+process
+but but
+alsoalso
+nonencompass
+only the
+thematerial
+materialconditions
+conditionsthat
+that
+underpin
+learning
+process
+material
+elements
+such
+as
+learning
+strategies,
+the
+learning
+atmosphere,
+and
+interpersonal
+non-material elements such as learning strategies, the learning atmosphere, and interperrelationships.
+sonal
+relationships.
+Teachersupport
+supportand
+andlearning
+learningstrategies
+strategiesare
+arecrucial
+crucialcomponents
+componentsofofthe
+thelearning
+learningenvienviTeacher
+ronment.
+They
+assist
+learners
+in
+better
+processing
+information,
+enhancing
+understanding
+ronment. They assist learners in better processing information, enhancing understanding
+andmemory
+memoryand
+andincreasing
+increasinglearning
+learningeﬃciency
+efficiencyand
+andmotivation.
+motivation.Teacher
+Teachersupport
+supportcan
+canbe
+be
+and
+subdivided
+into
+emotional
+support,
+academic
+support,
+behavioral
+support,
+and
+organizasubdivided into emotional support, academic support, behavioral support, and organizationalsupport.
+support.Learning
+Learningstrategies
+strategiesinclude
+includecognitive
+cognitivestrategies,
+strategies,metacognitive
+metacognitivestrategies,
+strategies,
+tional
+resource
+management
+strategies,
+social
+strategies,
+and
+technical
+strategies.
+resource management strategies, social strategies, and technical strategies.
+The role
+role of
+strategies
+in promoting
+students’
+self-directed
+The
+of teacher
+teachersupport
+supportand
+andlearning
+learning
+strategies
+in promoting
+students’
+self-dilearning
+abilities
+is further
+amplified
+by thebycapabilities
+of generative
+AI, which
+can offer
+rected
+learning
+abilities
+is further
+amplified
+the capabilities
+of generative
+AI, which
+can
+creative
+content
+generation
+functions.
+This allows
+learners
+to express
+their ideas
+knowloﬀer
+creative
+content
+generation
+functions.
+This allows
+learners
+to express
+theirand
+ideas
+and
+edge in more creative and expressive ways, thereby enhancing their self-efficacy. Moreover,
+the technology provides real-time feedback and personalized learning experiences, helping
+users better understand their learning progress and needs and boosting their confidence
+and motivation in their learning capabilities.
+4. Methods
+4.1. Participants
+The sample group for this study consists of undergraduate students from diverse
+academic disciplines who used generative AI tools in their coursework. Throughout the
+instructional process, instructors proficiently employed generative AI to aid in instructional
+design, adapt and generate assessment content according to disciplinary differences, and
+intelligently evaluate learning outcomes. Students actively engaged with the generative
+learning content. The data for this study were collected through an online survey, ensuring scientific rigor in the data collection process. Before the commencement of the
+study, the purpose was clearly explained to the participants, emphasizing their right to
+withdraw at any time during the study. We assured participants that all collected data
+would remain confidential and used exclusively for research purposes. The two waves of
+surveys were conducted in December 2023. We distributed the questionnaire links via the
+WeChat and QQ platforms to ensure convenient and efficient data collection. A total of
+315 questionnaires were distributed, and after excluding 9 invalid responses, we obtained
+306 valid samples, resulting in an effective sample rate of approximately 97%. This study
+employed a stratified random sampling method to select undergraduate students aged
+18 to 23, encompassing all academic years from freshman to senior. Participants were
+
+Systems 2024, 12, 332
+
+9 of 19
+
+sourced from a wide array of academic disciplines and utilized generative AI tools in their
+coursework, ensuring the sample’s balance and representativeness.
+Among the 306 valid samples, the distribution was as follows: 25% freshmen (77 students),
+24% sophomores (73 students), 26% juniors (80 students), and 25% seniors (76 students).
+Participants spanned various academic fields, including humanities (e.g., linguistics and history), sciences (e.g., physics and chemistry), and arts (e.g., visual arts and music). The gender distribution was balanced, with 48% male (147 students) and 52% female (159 students).
+In terms of technological background, 39% (120 students) were from technology-related
+majors such as computer science, educational technology, and information technology,
+while 61% (186 students) were from non-technology majors, including literature, arts,
+and education. This diverse sample composition ensured comprehensive applicability
+and representativeness of the research findings, aligning with the characteristics of the
+contemporary undergraduate demographic. Of the 306 participants, 39% were enrolled
+in technology-related majors, and the gender distribution was nearly equal, accurately
+reflecting the characteristics of the contemporary undergraduate demographic.
+4.2. Instrument
+This study utilized a 37-item survey questionnaire, focusing on assessing factors such
+as students’ technology acceptance, self-efficacy, learning strategies, learning motivation,
+and teacher support concerning students’ self-regulated learning abilities, particularly
+within generative AI-driven interactive learning environments. The survey was divided
+into two parts. The first part collected demographic information about the participants,
+such as gender, age, and academic background. The second part comprised the main
+questionnaire, which included six key constructs: self-efficacy, learning strategies, learning
+motivation, technology acceptance, teacher support, and self-regulated learning ability. The
+questionnaire’s dimensions and items were adapted from existing self-regulated learning
+scales relevant to AI–human interaction [15,16]. These scales were appropriately modified
+to fit the characteristics of generative AI-driven interactive learning environments.
+4.3. Data Analysis
+In this study, we employed Structural Equation Modeling (SEM) as a comprehensive
+analytical approach to thoroughly evaluate and validate the theoretical model. SEM
+integrates the principles of factor analysis and regression analysis, excelling in uncovering
+complex causal relationships and interactions among multiple variables. Adhering strictly
+to the classical two-step procedure proposed by Bagozzi and Yi [53], we utilized AMOS
+26 for data processing and analysis.
+At the outset of the research, we conducted rigorous reliability and validity tests
+using SPSS 26.0 to ensure the robustness and accuracy of our findings. To perform a
+reliability analysis, we calculated Cronbach’s α coefficients for each variable. As shown
+in Table 1, all six latent variables exhibited Cronbach’s α values exceeding the commonly
+accepted threshold of 0.7 [54], with values ranging from 0.714 to 0.891, indicating high
+measurement reliability. The calculation of Composite Reliability (CR) also supported the
+internal consistency of the model, with each latent variable showing CR values above the
+0.7 standard, demonstrating excellent convergent validity [55]. Additionally, the Average
+Variance Extracted (AVE) values were all above the 0.5 threshold, indicating good scale
+validity [55]. As illustrated in Table 1, each construct’s CR exceeded 0.7, and each construct’s
+AVE was greater than 0.5. The results of this study reveal the outstanding convergent
+validity of the scale, further corroborating the strong and substantial intrinsic correlations
+among the latent variables.
+Subsequently, we conducted a thorough assessment of the measurement model to
+ensure data reliability, convergent validity, and discriminant validity, laying a solid foundation for the subsequent in-depth analysis. Descriptive statistics and correlation analyses
+were performed using SPSS 26.0 software(Version: 28.0.0.0 (190)) to examine the relationships among the variables. The results indicated that the mean scores of all constructs on a
+
+Systems 2024, 12, 332
+
+10 of 19
+
+1 to 5 rating scale were above 1.9. Additionally, significant positive correlations were found
+between self-regulated learning ability and learning motivation, self-efficacy, learning
+strategies, teacher support, and technology acceptance. These findings laid the foundation
+for the further exploration of mediating effects.
+Table 1. Reliability test and validity test.
+Potential Variables
+
+Number of Items
+
+Cronbach’s Alpha
+
+Composite
+Reliability (CR)
+
+Average Variance
+Extracted (AVE)
+
+Autonomous Learning Ability
+Technology Acceptance
+Learning Motivation
+Learning Strategies
+Self-efficacy
+Teacher Support
+
+7
+6
+5
+6
+6
+4
+
+0.804
+0.723
+0.714
+0.891
+0.832
+0.783
+
+0.800
+0.719
+0.718
+0.888
+0.835
+0.778
+
+0.667
+0.562
+0.561
+0.799
+0.717
+0.637
+
+Thereafter, we conducted linear regression analysis to test specific hypotheses and
+determine the direct impact of independent variables on the dependent variable. This
+analysis helped identify the factors influencing students’ self-regulated learning ability. To
+ensure the robustness of the model, we calculated multicollinearity statistics, including
+Tolerance and Variance Inflation Factor (VIF), to detect potential multicollinearity issues
+among the predictor variables. Following this, we rigorously tested the structural model to
+confirm the accuracy of model fit and structural validity.
+Finally, using AMOS 26 software (Version: 28.0.0.0 (190)) and the maximum likelihood
+estimation method, we systematically tested the seven core hypotheses of the study. We
+utilized Structural Equation Modeling (SEM) to analyze the complex relationships among
+the variables. SEM allows for the simultaneous estimation of direct and indirect effects.
+AMOS 26 was chosen for its exceptional reliability and robust analytical capabilities, making
+it the ideal tool for this complex analysis task. Through these rigorous procedures and
+scientific analyses, we provided strong empirical support for the evaluation and validation
+of the theoretical model.
+5. Results
+5.1. Descriptive Statistics and Correlation Analysis
+The means, standard deviations, and correlation coefficients between the variables are
+presented in Table 2. The results, calculated using SPSS, indicate that, within the 1 to 5 rating
+scale, the mean values for all the constructs are above 1.9, ranging from 1.922 (self-efficacy;
+SD = 0.9712) to 2.277 (learning strategies; SD = 1.1389). There are significant positive correlations between self-directed learning ability and learning motivation, self-efficacy, learning
+strategies, teacher support, and technology acceptance. These relationships provide a
+necessary foundation for the further exploration of mediating effects.
+Table 2. Descriptive statistics and correlation analysis table.
+
+Variables
+
+Mean
+
+Standard
+Deviation
+
+Autonomous Learning Ability
+Technology Acceptance
+Learning Motivation
+Learning Strategies
+Self-efficacy
+Teacher Support
+
+2.043
+2.116
+2.232
+2.277
+1.922
+2.232
+
+0.9576
+1.0415
+1.1112
+1.1389
+0.9712
+1.1934
+
+Note: ** p < 0.01.
+
+Autonomous
+Technology
+Learning
+Acceptance
+Ability
+1
+0.556 **
+0.502 **
+0.472 **
+0.480 **
+0.338 **
+
+1
+0.393 **
+0.486 **
+0.489 **
+0.444 **
+
+Learning
+Motivation
+
+Learning
+Strategies
+
+1
+0.445 **
+0.559 **
+0.492 **
+
+1
+0.571 **
+0.408 **
+
+Self-Efficacy
+
+1
+0.424 **
+
+Teacher
+Support
+
+1
+
+Systems 2024, 12, 332
+
+11 of 19
+
+5.2. Linear Regression Analysis
+A regression analysis was conducted to examine the factors influencing students’ selfregulated learning ability, as shown in Table 3. Controlling for related variables, significant
+positive relationships were found between self-regulated learning ability and learning
+motivation (b = 0.233, p < 0.001), learning strategies (b = 0.123, p < 0.01), and technology
+acceptance (b = 0.328, p < 0.001). Additionally, technology acceptance was significantly
+positively related to self-efficacy (b = 0.178, p < 0.01), learning strategies (b = 0.147, p < 0.01),
+and teacher support (b = 0.188, p < 0.001). Learning motivation also had significant
+positive relationships with self-efficacy (b = 0.355, p < 0.001) and teacher support (b = 0.253,
+p < 0.001). Similarly, both self-efficacy and teacher support were significantly positively
+related to learning strategies and learning motivation.
+Table 3. Linear regression analysis of the influencing factors on autonomous learning ability.
+Outcome
+Variable
+Autonomous
+Learning
+Ability
+Technology
+Acceptance
+Learning
+Motivation
+Learning
+Strategies
+
+Predictor Variable
+Technology Acceptance
+Learning Motivation
+Learning Strategies
+Learning Strategies
+Teacher Support
+Self-efficacy
+Teacher Support
+Self-efficacy
+Self-efficacy
+Teacher Support
+
+Unstandardized
+Coefficient
+
+Standardized
+Coefficient
+
+t-Value
+
+0.328
+0.233
+0.123
+0.147
+0.188
+0.178
+0.253
+0.355
+0.396
+0.105
+
+0.357
+0.271
+0.146
+0.160
+0.216
+0.166
+0.272
+0.311
+0.338
+0.110
+
+7.100 ***
+5.158 ***
+2.784 **
+3.059 **
+4.460 ***
+2.994 **
+5.796 ***
+5.878 ***
+6.278 ***
+2.206 *
+
+Multicollinearity Statistics
+Tolerance
+
+VIF
+
+0.652
+0.598
+0.597
+0.600
+0.703
+0.536
+0.730
+0.575
+0.582
+0.674
+
+1.534
+1.672
+1.675
+1.668
+1.422
+1.865
+1.370
+1.739
+1.717
+1.483
+
+Note: * p < 0.05; ** p < 0.01; *** p < 0.001.
+
+The tolerance values for the regression model of the factors influencing self-regulated
+learning ability ranged from 0.536 to 0.730, and all VIF values were below the criterion
+of 5, indicating that there was no multicollinearity issue among the predictor variables
+in the regression equation. Next, the PROCESS macro will be utilized to further examine
+the multiple mediation effects and explore the relationships between the variables. Linear
+regression analysis showed that learning motivation had a significant positive effect on
+self-regulated learning ability (b = 0.233, p < 0.001), supporting hypothesis H5. Technology
+acceptance had a significant positive effect on self-regulated learning ability (b = 0.328,
+p < 0.001), supporting hypothesis H3.
+5.3. Assessment of Direct, Indirect, and Total Effects
+Table 4 details the seven interaction pathways among factors such as technology acceptance, learning strategies, and self-regulated learning ability within generative AI-driven
+interactive learning environments. By analyzing the path coefficients and critical ratios,
+it is shown that, for instance, the path coefficient for teacher support to learning strategies is 0.594 and, for teacher support to learning motivation, is 0.36, with C.R. > 1.96 and
+p ≤ 0.001. This indicates that teacher support can significantly and positively influence
+both learning strategies and learning motivation directly, confirming hypotheses H1 and
+H2. Similarly, the same pattern applies to paths such as “technology acceptance → selfregulated learning ability” and “learning motivation → self-regulated learning ability”,
+confirming hypotheses H3 and H5. These results reveal the deep-seated intrinsic relationships between factors within generative AI-driven interactive learning environments,
+providing essential theoretical support for understanding and optimizing the application
+of generative AI.
+
+Systems 2024, 12, 332
+
+12 of 19
+
+Table 4. Results of hypotheses testing for direct relationships via SEM.
+Relationships
+
+Estimate
+
+S.E.
+
+C.R.
+
+p
+
+0.594
+0.360
+0.585
+0.460
+0.525
+0.583
+0.329
+
+0.074
+0.065
+0.045
+0.047
+0.068
+0.083
+0.062
+
+8.035
+5.501
+13.006
+9.824
+7.757
+7.022
+5.293
+
+***
+***
+***
+***
+***of 20
+13
+***
+***
+
+Teacher Support → Learning Strategies
+Teacher Support → Learning Motivation
+Learning Strategies → Self-efficacy
+Learning Strategies → Technology Acceptance
+→ Learning Strategies
+Systems 2024, 12, xSelf-efficacy
+FOR PEER REVIEW
+Technology Acceptance → Autonomous Learning Ability
+Learning Strategies → Autonomous Learning Ability
+Note: *** p < 0.001.
+
+To evaluate the model fit, a series of standardized criteria was employed. The Adjusted To
+Goodness
+Fitmodel
+Indexfit,
+(AGFI)
+was
+exceeding
+the threshold
+of 0.90,The
+indicating
+evaluateofthe
+a series
+of0.917,
+standardized
+criteria
+was employed.
+Adjusted
+a Goodness
+well-adjusted
+model.
+The
+Goodness
+of
+Fit
+Index
+(GFI)
+was
+0.959,
+suggesting
+a good a
+of Fit Index (AGFI) was 0.917, exceeding the threshold of 0.90, indicating
+model
+fit.
+Both
+the
+Tucker–Lewis
+Index
+(TLI)
+at
+0.964
+and
+the
+Normed
+Fit
+Index
+(NFI)
+at
+well-adjusted model. The Goodness of Fit Index (GFI) was 0.959, suggesting a good
+0.961
+surpassed
+their
+respective
+acceptance
+thresholds,
+further
+indicating
+a
+good
+model
+model fit. Both the Tucker–Lewis Index (TLI) at 0.964 and the Normed Fit Index (NFI) at
+fit.0.961
+The surpassed
+Root Meantheir
+Square
+Error of
+Approximation
+(RMSEA)
+was
+0.058, below
+themodel
+stand-fit.
+respective
+acceptance
+thresholds,
+further
+indicating
+a good
+ard
+threshold
+of
+0.08,
+showing
+that
+the
+model’s
+approximate
+error
+was
+within
+an
+acceptaThe Root Mean Square Error of Approximation (RMSEA) was 0.058, below the standard
+ble
+range. The
+Critical
+N (CN)that
+wasthe
+260,
+exceeding
+the required
+minimum
+of 200,
+demonthreshold
+of 0.08,
+showing
+model’s
+approximate
+error
+was within
+an acceptable
+strating
+suﬃcient
+sample
+stability.
+The
+Chi-Square
+to
+Degrees
+of
+Freedom
+ratio
+(X²/df)
+range. The Critical N (CN) was 260, exceeding the required minimum of 200, demonstrating
+2
+was
+2.166,
+falling
+within
+the
+ideal
+range
+of
+1
+to
+3,
+further
+supporting
+the
+model’s
+acceptasufficient sample stability. The Chi-Square to Degrees of Freedom ratio (X /df) was 2.166,
+ble
+fit. Based
+onthe
+these
+comprehensive
+the model
+an overall
+fit
+falling
+within
+ideal
+range of 1 to 3,evaluations,
+further supporting
+the demonstrates
+model’s acceptable
+fit. Based
+that
+ranges
+from
+acceptable
+to
+good.
+on these comprehensive evaluations, the model demonstrates an overall fit that ranges
+Using
+a chained
+mediation model helps to understand how self-regulated learning
+from
+acceptable
+to good.
+ability Using
+is influenced
+by
+factors.
+model
+quantifies how
+the indirect
+eﬀects of
+ina chained multiple
+mediation
+modelThis
+helps
+to understand
+self-regulated
+learning
+dependent
+onby
+themultiple
+dependent
+variable
+andmodel
+their 95%
+confidence
+intervals,
+ability is variables
+influenced
+factors.
+This
+quantifies
+the indirect
+effects of
+providing
+a more
+comprehensive
+explanation.
+By understanding
+the role
+of mediating
+independent
+variables
+on the dependent
+variable
+and their 95%
+confidence
+intervals,
+variables,
+weacan
+more
+accurately predict
+changesBy
+in the
+dependent variable,
+in
+providing
+more
+comprehensive
+explanation.
+understanding
+the role aiding
+of mediating
+the
+development
+ofmore
+eﬀective
+generative
+teaching
+practices,
+as illustrated
+in Figure
+3. Tavariables,
+we can
+accurately
+predict
+changes
+in the dependent
+variable,
+aiding
+in the
+ble
+5
+presents
+a
+continuous
+multiple
+mediation
+model
+where
+self-eﬃcacy,
+learning
+stratdevelopment of effective generative teaching practices, as illustrated in Figure 3. Table 5
+egies,
+technology
+acceptance,
+learning
+motivation,
+teacher
+support influence
+selfpresents
+a continuous
+multiple
+mediation
+modeland
+where
+self-efficacy,
+learning strategies,
+regulated
+learning
+ability.learning motivation, and teacher support influence self-regulated
+technology
+acceptance,
+learning ability.
+
+Learning
+Strategies
+
+0.46***
+
+Technology
+Acceptance
+
+0.58*** Autonomous
+Learning
+Ability
+
+Self-Efficacy
+
+0.33***
+
+0.56***
+
+0.59***
+
+0.53***
+Teacher
+Support
+
+0.36***
+
+Learning
+Motivation
+*** p < 0.001
+
+Figure 3. Path diagram of factors influencing self-regulated learning ability in generative AI-driven
+Figure 3. Path diagram of factors influencing self-regulated learning ability in generative AI-driven
+interactive learning environments.
+interactive learning environments.
+
+Table 5. The results of multiple mediation eﬀect testing.
+
+Indirect Path
+Path 1: Learning Strategies → Technology
+Acceptance → Autonomous Learning Abil-
+
+Indirect Eﬀect 95% Confidence Interval Corresponding Hy(b)
+(CI) for Indirect Eﬀect
+pothesis
+0.175 ***
+
+[0.120, 0.234]
+
+H3
+
+Result
+Supported
+
+Systems 2024, 12, 332
+
+13 of 19
+
+Table 5. The results of multiple mediation effect testing.
+
+Indirect Path
+Path 1: Learning Strategies → Technology
+Acceptance → Autonomous Learning Ability
+Path 2: Learning Strategies → Self-efficacy →
+Learning Motivation
+Path 3: Self-efficacy → Learning Motivation
+→ Autonomous Learning Ability
+
+Indirect Effect (b)
+
+95% Confidence
+Interval (CI) for
+Indirect Effect
+
+Corresponding
+Hypothesis
+
+Result
+
+0.175 ***
+
+[0.120, 0.234]
+
+H3
+
+Supported
+
+0.025 ***
+
+[0.005, 0.048]
+
+H5
+
+Supported
+
+0.188 ***
+
+[0.123, 0.262]
+
+H6
+
+Supported
+
+Note: *** p < 0.001.
+
+Path 1 demonstrates that learning strategies in generative AI-driven interactive learning environments are within the 95% CI (the 95% confidence interval) for the indirect effect,
+indicating the range within which the true indirect effect is expected to fall 95% of the time.
+Learning environments can significantly positively influence self-regulated learning
+ability through the mediating effect of technology acceptance, supporting hypothesis
+H4. Path 2 shows that learning strategies in generative AI-driven interactive learning
+environments can significantly positively influence self-regulated learning ability through
+the mediating effect of self-efficacy, supporting hypothesis H6. Path 3 indicates that
+self-efficacy in generative AI-driven interactive learning environments can significantly
+positively influence self-regulated learning ability through the mediating effect of learning
+motivation, supporting hypothesis H7.
+Based on the integration of numerous pathways and data analyses, we have found
+that teacher support not only directly facilitates the improvement of learning strategies and
+learning motivation but also indirectly enhances students’ self-efficacy and self-regulated
+learning ability. Learning strategies directly influence technology acceptance and selfefficacy and indirectly affect self-regulated learning ability and learning motivation. The
+extent of students’ acceptance of technology and the strength of their learning motivation
+can directly influence their self-regulated learning ability. The interaction among factors
+such as learning motivation, self-regulated learning ability, and learning strategies collectively constructs a complex network that influences students’ self-regulated learning ability.
+In the application of educational technology and classroom teaching practices, a profound
+understanding of these interrelationships is crucial for establishing effective educational
+interventions and optimizing learning environments.
+6. Discussion
+The findings highlight the critical role of motivation, technological familiarity, and the
+quality of AI interactions in fostering SDL among undergraduate students. These insights
+suggest that educational institutions should focus on enhancing these factors to optimize
+the effectiveness of AI-driven learning environments. Building upon our research model
+(Figure 3), this study extends the exploration of factors influencing students’ self-directed
+learning ability within generative AI-driven interactive learning environments. The findings validate the expanded model’s efficacy in explaining the determinants of university
+students’ self-directed learning capabilities in such environments. Among the various factors examined, hypothesis H3 (technology acceptance) demonstrated the most significant
+direct effect on self-directed learning ability (β = 0.58, p < 0.001). The literature consistently
+identified technology acceptance as a pivotal factor in enhancing self-regulated and selfdirected learning capacities [56]. Schiavo et al. and Chiu et al. further illustrated that AI
+literacy and acceptance significantly bolster learning outcomes and self-efficacy [57,58]. In
+contrast, hypothesis H5 (learning motivation) also showed a positive influence, albeit with
+a smaller path coefficient (β = 0.33, p < 0.001). The enhancement of motivation not only
+cultivates a positive disposition towards technology among students, prompting them to
+engage more proactively with AI tools for learning, but also strengthens their self-directed
+
+Systems 2024, 12, 332
+
+14 of 19
+
+learning capabilities through active participation and interaction [59]. The personalized
+and dynamically adaptive learning experiences facilitated by generative AI allow highly
+motivated students to more effectively harness these resources for autonomous learning.
+Moreover, motivation functions as a mediating factor between technology acceptance
+and learning outcomes, thereby indirectly augmenting students’ self-directed learning
+abilities [60]. These results indicate that technology acceptance has a greater impact on
+self-directed learning ability than learning motivation. This suggests that, in generative
+AI-driven interactive learning environments, the degree of technology acceptance is the
+primary factor affecting students’ self-directed learning ability.
+Additionally, H4 indicates that learning strategies indirectly influence self-directed
+learning ability through the mediating role of technology acceptance. This implies that
+effective learning strategies can enhance students’ acceptance of technology, making them
+perceive the use of technology in generative AI-driven interactive learning environments
+as beneficial for improving their learning efficiency and outcomes [61]. When students
+recognize that learning strategies facilitate technology acceptance, they are more likely
+to proactively explore and apply various technological resources to support their learning, ultimately fostering their self-directed learning ability and lifelong learning mindset.
+Enhancing technology acceptance through learning strategies is relatively complex and
+requires collaborative efforts from both educators and students. Setting clear learning goals,
+cultivating learning interest, adopting effective learning methods, actively promoting and
+demonstrating technology applications, and providing personalized technical support and
+guidance can help students better understand and utilize technological tools. This, in turn,
+improves their technology acceptance and enhances their self-directed learning ability.
+H7 posits that self-efficacy indirectly influences self-directed learning ability through
+the mediating role of learning motivation. Individuals with high self-efficacy are more
+likely to believe in their capability to complete learning tasks, thereby exhibiting stronger
+learning motivation [62]. Learning motivation serves as the intrinsic drive that propels
+students to engage in learning activities. Highly motivated students are more inclined
+to explore learning methods and strategies actively, manage their learning process, and
+evaluate and adjust their learning outcomes, as suggested by Lo et al. [63]. These behaviors
+are critical components of self-directed learning ability.
+In the Structural Equation Model of this study, H1 reveals that teacher support has
+the most significant and substantial impact on learning strategies among all the constructs
+(β = 0.59, p < 0.001). This finding indicates that, with teacher support, students are more
+likely to develop and effectively apply learning strategies. Generally, with encouragement
+and guidance from teachers, students feel more confident in facing learning challenges,
+which leads them to experiment with new learning methods and strategies. This aligns
+with the perspective of Hoferichter et al. [64]. H2 shows that teacher support significantly
+affects learning motivation (β = 0.36, p < 0.001), suggesting that students feel valued and
+recognized under teacher support, providing the drive for continuous improvement and
+greatly enhancing learning motivation. This finding is consistent with previous conclusions
+by scholars [65]. These hypotheses indicate that, when students receive teacher support,
+their learning environment and psychological state significantly improve, promoting the
+use of learning strategies and enhancing learning motivation. Furthermore, H6 posits that
+learning strategies indirectly influence learning motivation through the mediating role of
+self-efficacy. The research substantiates this hypothesis by demonstrating that the proficient
+deployment of self-regulated learning strategies is pivotal for attaining educational objectives. Furthermore, self-efficacy is identified as a fundamental prerequisite for the successful
+implementation of these strategies [66]. Improved learning strategies enhance students’
+learning efficiency and performance, subsequently boosting their self-efficacy. Through
+cognitive and affective effects, this indirectly increases students’ learning motivation.
+
+Systems 2024, 12, 332
+
+15 of 19
+
+7. Conclusions, Limitations, and Future Research
+This study underscores the potential of generative AI to support SDL in higher education. We endeavor to make three contributions to the literature. As a theoretical contribution,
+we apply the Generative Learning Theory to AI, and education involves leveraging AI
+technologies to enhance active learning processes and foster deeper understanding among
+students. This study sheds new light on generative AI in education studies by presenting a
+conceptual model. This study, through the Structural Equation Modeling method, elucidates the interplay among different factors within generative AI-driven interactive learning
+environments and how generative AI directly or indirectly influences self-regulated learning ability through self-efficacy, learning motivation, and technology acceptance models.
+Our findings argue to use AI technologies to empower students as active participants in
+their self-learning processes, promoting deeper understanding, personalization, reflection,
+and collaboration in educational settings. Firstly, teacher support, as a significant external
+factor, can transform students’ learning strategies and enhance their learning motivation.
+Therefore, there is a need to promptly revise the existing teaching concepts and methods to
+keep pace with the era of AI education. Secondly, the capacity for technology acceptance is
+a critical factor in enhancing self-regulated learning ability within generative AI-driven
+interactive learning environments, posing new requirements and challenges for students’
+technological awareness and digital literacy. Additionally, the enhancement of learning
+strategy levels by generative AI warrants in-depth analysis, especially as AI has altered
+the existing methods of information processing, selective focus, learning assistance, and
+self-testing. Finally, this Structural Equation Model reaffirms the validity of self-efficacy
+theory, self-determination theory, and achievement motivation theory, underscoring the
+ongoing need to strengthen students’ intrinsic motivation to enhance self-regulated learning ability, regardless of technological advancements. By addressing the key influencing
+factors, educators and technologists can design more effective learning environments that
+empower students to take charge of their learning journeys.
+As a practical contribution, this paper proposes the following practical pathways for
+relevant generative learning models:
+(1)
+
+Cultivating Artificial Intelligence digital literacy: strengthening intrinsic motivation
+
+The current wave of digitization and automation is driving educational transformation,
+where understanding and applying AI have become integral components of digital literacy,
+reflected across various levels, including digital awareness, digital skills, digital thinking,
+and digital ethics. Both teachers and students should grasp the basic concepts, history, major
+technologies, and application areas of Artificial Intelligence. This involves understanding
+the processes of data collection, cleansing, analysis, and interpretation related to generative
+AI, as well as mastering the fundamental concepts of AI algorithms and their problemsolving capabilities. Effective interactions with generative AI systems, including usage
+methods, command formats, and scripting tools, should be learned to enhance human–
+machine communication skills. Simultaneously, understanding the technical limitations
+of generative AI, including potential fairness, transparency, interpretability, bias, and
+reasoning errors of large language models, is essential. Continuous learning and knowledge
+updates are necessary to adapt to the changes brought about by the AI era.
+Enhancing digital literacy and understanding the capabilities and limitations of AI
+systems is crucial for knowing where they can assist and when human intervention is
+required. When individuals have sufficient understanding and mastery of generative AI
+and digital resources, they may develop a greater interest in generative learning, driving
+them to explore and delve deeper. By integrating digital literacy with intrinsic motivation,
+a more engaging learning environment can be created, stimulating individuals’ enthusiasm
+for learning and fostering innovation.
+(2)
+
+Exploring human integration with generative Artificial Intelligence: transforming
+teacher perspectives
+
+Systems 2024, 12, 332
+
+16 of 19
+
+In generative AI-driven interactive learning environments, the fusion of humans
+and machines necessitates a shift for teachers from traditional knowledge transmitters to
+learning facilitators. In traditional teaching models, teachers primarily engage in knowledge impartation tasks, whereas the application of generative AI enables students to
+autonomously acquire knowledge and information. Therefore, teachers need to redefine
+their roles, emphasizing igniting students’ learning interests and nurturing their innovation
+abilities and problem-solving skills. Simultaneously, teachers must also address potential
+issues and challenges brought about by generative AI. When utilizing generative teaching
+resources, critical thinking is essential. Teachers should meticulously select and utilize
+instructional materials to ensure their correctness in terms of values and objectives.
+The shift in teachers’ perspectives also requires a profound consideration of educational objectives. Future education should prioritize the cultivation of students’ comprehensive qualities and innovation capabilities rather than solely pursue knowledge mastery.
+Consequently, teachers need to re-examine their educational philosophies, adapt to complex intelligent teaching environments, and make students’ holistic development the core
+objective of teaching. This entails transitioning from an emphasis on theoretical knowledge
+to prioritizing the cultivation of students’ practical skills, critical thinking, and creativity.
+(3)
+
+Constructing generative learning strategies: facilitating deep understanding
+
+The generative learning process requires learners to construct perceptions of problems,
+scenarios, and experiences, facilitating a deeper comprehension of knowledge rather than
+passively receiving information. Integrating generative learning into generative AI-driven
+interactive learning environments and learning strategies entails encouraging students to
+focus on reasoning and reflection, mastering the analysis, decomposition, and evaluation of
+each step of complex problems. Generative AI can enhance reasoning and reflection abilities
+through techniques like prompting through thought chains and guiding large language
+models to generate explicit intermediate reasoning steps before producing final answers.
+This technique has been proven to significantly enhance the performance of generative
+AI across various reasoning tasks. Generative AI can be pre-trained or fine-tuned using
+datasets containing explicit reasoning to strengthen its ability to handle complex reasoning
+problems, including deductive, inductive, and abductive reasoning forms.
+The reasoning process of generative AI for problem-solving can promote students’
+reflection on the learning process rather than simply generating answers. Referring to the
+analytical process of generative AI based on deep learning algorithms as “inference” rather
+than mere “computation” is because this process emulates human reasoning or decisionmaking processes. The primary function of deep learning algorithms is to learn from
+complex, high-dimensional data and extract patterns, resembling the process of concluding
+observations—a form of reasoning. It is also effective in applications such as prediction,
+decision-making, handling uncertainty, and dealing with fuzzy problems. Additionally, it
+can adapt to new data patterns through fine-tuning, similar to human cognitive learning
+processes.
+(4)
+
+Enhancing generative learning experiences: boosting self-efficacy
+
+Based on multimodal large-scale models, generative AI can generate various data
+types such as text, images, audio, and 3D models, providing personalized learning experiences for students. Moreover, multimodal large-scale models can utilize techniques like
+Multimodal Instruction Fine-Tuning (M-IT), Multimodal Implicit Context Learning (MICL), Multimodal Chains of Thought (M-CoT), and Large-scale Assisted Visual Reasoning
+(LAVR) to mimic human perception of the world. This enables interactive instruction–
+response pairs, including multimodal dialogues, factual knowledge reasoning dialogues,
+image and 3D scene descriptions, visual feature generalization, and even the conversion
+of visual and linguistic inputs into concrete reasoning, facilitating context-aware human–
+machine interaction.
+With support from multimodal generative AI, multimedia educational content no
+longer requires manual editing. Teachers can better utilize text, audio, video, animations,
+
+Systems 2024, 12, 332
+
+17 of 19
+
+and interactive elements to enhance learning experiences. By combining various forms
+such as instructional videos, virtual laboratories, and interactive courseware, teachers
+can generate customized learning content, enhancing student interaction with the instructional materials, meeting their learning needs and preferences, and fostering interest
+and participation.
+This study, through profound consideration of the transformation of generative learning models, constructs and validates a conceptual model that examines the relationships
+among self-efficacy, learning motivation, strategies, technological acceptance, and teacher
+support, illustrating how generative AI fosters emergent learning models. Empirically, it
+explores how to promote educational intelligence and digital transformation. However,
+this study has limitations, primarily concerning the subjective perceptions of the survey
+respondents, leading to uncertainties. Future research should corroborate these findings
+with additional data and account for external objective factors. Collecting more qualitative
+data through various channels such as interviews, observations, and classroom recordings
+can provide richer information. Longitudinal studies can observe changes in students’
+self-directed learning abilities over time in generative AI-driven interactive learning environments. Additionally, considering other factors that may affect self-directed learning,
+such as learning styles, personality traits, and emotional factors, and incorporating them
+into the analysis is crucial. Amidst this, the teacher’s role in imparting ethical guidance
+for AI usage becomes critical. Future research is called upon to explore how teachers
+ensure students’ ethical application of AI, including, but not limited to, data privacy and
+social impacts.
+Author Contributions: Conceptualization, D.W. and S.Z.; methodology, D.W., S.Z. and Z.M.; validation, D.W. and Z.M.; formal analysis, D.W. and S.Z.; investigation, D.W., S.Z. and Z.M.; resources,
+D.W. and Z.M.; data curation, D.W. and S.Z.; writing—original draft preparation, D.W. and S.Z.;
+writing—review, revisions and editing, X.-G.Y. and K.D.; supervision, D.W. and Z.M. All authors
+have read and agreed to the published version of the manuscript.
+Funding: This work was financially supported by the Humanities and Social Sciences Youth Foundation of Ministry of Education of China “Research on Online Learning Ability Assessment and Personalized Recommendation Mechanism Based on Cognitive Diagnosis” (grant number: 19YJC880093)
+and the Fundamental Research Funds for the Central Universities, Zhongnan University of Economics
+and Law (grant number: 2722024BQ063).
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author.
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+References
+1.
+2.
+3.
+4.
+5.
+
+6.
+7.
+8.
+
+Yilmaz, R.; Yurdugül, H.; Karaoğlan, Y.F.G. Smart MOOC integrated with intelligent tutoring: A system architecture and
+framework model proposal. Comput. Educ. Artif. Intell. 2022, 3, 100092. [CrossRef]
+Feuerriegel, S.; Hartmann, J.; Janiesch, C.; Zschech, P. Generative AI. Bus. Inf. Syst. Eng. 2024, 66, 111–126. [CrossRef]
+Lim, W.M.; Gunasekara, A.; Pallant, J.L.; Pallant, J.I.; Pechenkina, E. Generative AI and the future of education: Ragnarök or
+reformation? A paradoxical perspective from management educators. Int. J. Manag. Educ. 2023, 2, 100790. [CrossRef]
+Fui-Hoon Nah, F.; Zheng, R.; Cai, J.; Siau, K.; Chen, L. Generative AI and ChatGPT: Applications, challenges, and AI-human
+collaboration. Taylor Fr. 2023, 25, 277–304. [CrossRef]
+Bozkurt, A.; Junhong, X.; Lambert, S.; Pazurek, A.; Crompton, H.; Koseoglu, S.; Farrow, R.; Bond, M.; Nerantzi, C.; Honeychurch,
+S. Speculative futures on ChatGPT and generative artificial intelligence (AI): A collective reflection from the educational landscape.
+Asian J. Distance Educ. 2023, 18, 53–130.
+Liu, P.; Yuan, W.; Fu, J.; Jiang, Z.; Hayashi, H.; Neubig, G. Pre-train, prompt, and predict: A systematic survey of prompting
+methods in natural language processing. ACM Comput. Surv. 2023, 55, 1–35. [CrossRef]
+Diwan, C.; Srinivasa, S.; Suri, G.; Agarwal, S.; Ram, P. AI-based learning content generation and learning pathway augmentation
+to increase learner engagement. Comput. Educ. Artif. Intell. 2023, 4, 100110. [CrossRef]
+Li, B.; Bonk, C.J.; Wang, C.; Kou, X. Reconceptualizing self-directed learning in the era of generative AI: An exploratory analysis
+of language learning. IEEE Trans. Learn. Technol. 2024, 17, 1515–1529. [CrossRef]
+
+Systems 2024, 12, 332
+
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+
+39.
+
+18 of 19
+
+Bai, S.; Gonda, D.E.; Hew, K.F. Write-Curate-Verify: A Case Study of Leveraging Generative AI for Scenario Writing in ScenarioBased Learning. IEEE Trans. Learn. Technol. 2024, 17, 1313–1324. [CrossRef]
+Lu, J.; Zheng, R.; Gong, Z.; Xu, H. Supporting Teachers’ Professional Development with Generative AI: The Effects on Higher
+Order Thinking and Self-Efficacy. IEEE Trans. Learn. Technol. 2024, 17, 1279–1289. [CrossRef]
+Taylor, T.A.; Kemp, K.; Mi, M.; Lerchenfeldt, S. Self-directed learning assessment practices in undergraduate health professions
+education: A systematic review. Med. Educ. Online 2023, 28, 2189553. [CrossRef]
+Loeng, S. Self-directed learning: A core concept in adult education. Educ. Res. Int. 2020, 2020, 3816132. [CrossRef]
+UnitedNations. SDG 4 Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.
+2024. Available online: https://sdgs.un.org/goals/goal4 (accessed on 25 March 2024).
+Ng, D.T.K.; Tan, C.W.; Leung, J.K.L. Empowering student self-regulated learning and science education through ChatGPT: A
+pioneering pilot study. Br. J. Educ. Technol. 2024, 55, 1328–1353. [CrossRef]
+Saif, N.; Khan, S.U.; Shaheen, I.; ALotaibi, F.A.; Alnfiai, M.M.; Arif, M. Chat-GPT; validating Technology Acceptance Model
+(TAM) in education sector via ubiquitous learning mechanism. Comput. Hum. Behav. 2024, 154, 108097. [CrossRef]
+Esiyok, E.; Gokcearslan, S.; Kucukergin, K.G. Acceptance of Educational Use of AI Chatbots in the Context of Self-Directed
+Learning with Technology and ICT Self-Efficacy of Undergraduate Students. Int. J. Hum. Comput. Interact. 2024, 40, 1–10.
+[CrossRef]
+Moser, S.; Lewalter, D. The impact of instructional support via generative learning strategies on the perception of visual
+authenticity, learning outcomes, and satisfaction in AR-based learning. Eur. J. Psychol. Educ. 2024, 39, 1–26. [CrossRef]
+Wakhata, R.; Mutarutinya, V.; Balimuttajjo, S. Relationship between active learning heuristic problem-solving approach and
+students’ attitude towards mathematics. Eurasia J. Math. Sci. Technol. Educ. 2023, 19, 2231. [CrossRef]
+Han, F.; Ellis, R.A. Patterns of student collaborative learning in blended course designs based on their learning orientations: A
+student approaches to learning perspective. Int. J. Educ. Technol. High. Educ. 2021, 18, 66. [CrossRef]
+Stanton, J.D.; Sebesta, A.J.; Dunlosky, J. Fostering metacognition to support student learning and performance. CBE Life Sci. Educ.
+2021, 20, 3. [CrossRef] [PubMed]
+Fiorella, L. Making sense of generative learning. Educ. Psychol. Rev. 2023, 35, 50. [CrossRef]
+Brod, G. Generative learning: Which strategies for what age? Educ. Psychol. Rev. 2021, 33, 1295–1318. [CrossRef]
+Su, X.; Guo, S.; Tan, T.; Chen, F. Generative memory for lifelong learning. IEEE Trans. Neural Netw. Learn. Syst. 2019, 31, 1884–1898.
+[CrossRef] [PubMed]
+Goetschalckx, L.; Andonian, A.; Wagemans, J. Generative adversarial networks unlock new methods for cognitive science. Trends
+Cogn. Sci. 2021, 25, 788–801. [CrossRef]
+Lodge, J.M.; de Barba, P.; Broadbent, J. Learning with generative artificial intelligence within a network of co-regulation. J. Univ.
+Teach. Learn. Pract. 2023, 20, 1–10.
+Epstein, Z.; Hertzmann, A. Art and the science of generative AI. Science 2023, 380, 1110–1111. [CrossRef]
+O’Dea, X. Generative AI: Is it a paradigm shift for higher education? Stud. High. Educ. 2024, 49, 811–816. [CrossRef]
+Abdel-Karim, B.M.; Pfeuffer, N.; Carl, K.V.; Hinz, O. How Ai-Based Systems Can Induce Reflections: The Case of AI-Augmented
+Diagnostic Work. MIS Q. 2023, 47, 1395–1424. [CrossRef]
+Ng, D.T.K.; Leung, J.K.L.; Su, J.; Ng, R.C.W.; Chu, S.K.W. Teachers’ AI digital competencies and twenty-first century skills in the
+post-pandemic world. Educ. Technol. Res. Dev. 2023, 71, 137–161. [CrossRef]
+Huang, A.Y.; Lu, O.H.; Yang, S.J. Effects of artificial Intelligence–Enabled personalized recommendations on learners’ learning
+engagement, motivation, and outcomes in a flipped classroom. Comput. Educ. 2023, 194, 104684. [CrossRef]
+Chiu, T.K.; Moorhouse, B.L.; Chai, C.S.; Ismailov, M. Teacher support and student motivation to learn with Artificial Intelligence
+(AI) based chatbot. Interact. Learn. Environ. 2023, 31, 1–17. [CrossRef]
+Chiu, T.K.; Meng, H.; Chai, C.S.; King, I.; Wong, S.; Yam, Y. Creation and evaluation of a pretertiary artificial intelligence (AI)
+curriculum. IEEE Trans. Educ. 2021, 65, 30–39. [CrossRef]
+Dhananjaya, G.M.; Goudar, R.H.; Kulkarni, A.; Rathod, V.N.; Hukkeri, G.S. A Digital Recommendation System for Personalized
+Learning to Enhance Online Education: A Review. IEEE Access 2024, 12, 34019–34041.
+Huang, K.L.; Liu, Y.C.; Dong, M.Q. Incorporating AIGC into design ideation: A study on self-efficacy and learning experience
+acceptance under higher-order thinking. Think. Ski. Creat. 2024, 52, 101508. [CrossRef]
+Chen, X.; Hu, Z.; Wang, C. Empowering education development through AIGC: A systematic literature review. Educ. Inf. Technol.
+2024, 29, 1–53. [CrossRef]
+Jaboob, M.; Hazaimeh, M.; Al-Ansi, A.M. Integration of Generative AI Techniques and Applications in Student Behavior and
+Cognitive Achievement in Arab Higher Education. Int. J. Hum. Comput. Interact. 2024, 40, 1–14. [CrossRef]
+Michel-Villarreal, R.; Vilalta-Perdomo, E.; Salinas-Navarro, D.E.; Thierry-Aguilera, R.; Gerardou, F.S. Challenges and opportunities
+of generative AI for higher education as explained by ChatGPT. Educ. Sci. 2023, 13, 856. [CrossRef]
+Shen, S.; Tang, T.; Pu, L.; Mao, Y.; Wang, Z.; Wang, S. Teacher Emotional Support Facilitates Academic Engagement Through
+Positive Academic Emotions and Mastery-Approach Goals Among College Students. SAGE Open 2024, 14, 21582440241245369.
+[CrossRef]
+Gunjal, A.; Yin, J.; Bas, E. Detecting and preventing hallucinations in large vision language models. In Proceedings of the AAAI
+Conference on Artificial Intelligence, Stanford, CA, USA, 25–27 March 2024.
+
+Systems 2024, 12, 332
+
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+
+19 of 19
+
+Cain, W. Prompting Change: Exploring Prompt Engineering in Large Language Model AI and Its Potential to Transform
+Education. TechTrends 2024, 68, 47–57. [CrossRef]
+Cooper, G. Examining science education in ChatGPT: An exploratory study of generative artificial intelligence. J. Sci. Educ.
+Technol. 2023, 32, 444–452. [CrossRef]
+Ma, S.; Lei, L. The factors influencing teacher education students’ willingness to adopt artificial intelligence technology for
+information-based teaching. Asia Pac. J. Educ. 2024, 44, 94–111. [CrossRef]
+Klingenberg, S.; Fischer, R.; Zettler, I.; Makransky, G. Facilitating learning in immersive virtual reality: Segmentation, summarizing,
+both or none? J. Comput. Assist. Learn. 2023, 39, 218–230. [CrossRef]
+Marougkas, A.; Troussas, C.; Krouska, A.; Sgouropoulou, C. How personalized and effective is immersive virtual reality in
+education? A systematic literature review for the last decade. Multimed. Tools Appl. 2024, 83, 18185–18233. [CrossRef]
+Zhang, Z.; Huang, X. The impact of chatbots based on large language models on second language vocabulary acquisition. Heliyon
+2024, 10, E25370. [CrossRef] [PubMed]
+Liu, M.; Zhang, L.J.; Biebricher, C. Investigating students’ cognitive processes in generative AI-assisted digital multimodal
+composing and traditional writing. Comput. Educ. 2024, 211, 104977. [CrossRef]
+Wang, Y.P.; Wu, T.J. Effects of online cooperative learning on students’ problem-solving ability and learning satisfaction. Front.
+Psychol. 2022, 13, 817968. [CrossRef]
+Naidoo, K.; Naidoo, L.J. Designing teaching and reflection experiences to develop candidates’ science teaching self-efficacy. Res.
+Sci. Technol. Educ. 2023, 41, 211–231. [CrossRef]
+Shao, C.; Nah, S.; Makady, H.; McNealy, J. Understanding User Attitudes Towards AI-Enabled Technologies: An Integrated
+Model of Self-Efficacy, TAM, and AI Ethics. Int. J. Hum. Comput. Interact. 2024, 40, 1–13. [CrossRef]
+Chen, S.; Su, Y.; Ku, Y.; Lai, C.; Hsiao, K. Exploring the factors of students’ intention to participate in AI software development.
+Libr. Hi Tech 2022, 42, 392–408. [CrossRef]
+Pellas, N. The Effects of Generative AI Platforms on Undergraduates’ Narrative Intelligence and Writing Self-Efficacy. Educ. Sci.
+2023, 13, 1155. [CrossRef]
+Wei, L. Artificial intelligence in language instruction: Impact on English learning achievement, L2 motivation, and self-regulated
+learning. Front. Psychol. 2023, 14, 1261955. [CrossRef]
+Bagozzi, R.P.; Yi, Y. Specification, evaluation, and interpretation of structural equation models. J. Acad. Mark. Sci. 2012, 40, 8–34.
+[CrossRef]
+Nunnally, J.C.; Bernstein, I.H. Psychometric Theory, 3rd ed.; McGraw-Hill: New York, NY, USA, 1994.
+Fornell, C.; Larcker, D.F. Evaluating structural equation models with unobservable variables and measurement error. J. Mark. Res.
+1981, 18, 39–50. [CrossRef]
+An, F.; Xi, L.; Yu, J. The relationship between technology acceptance and self-regulated learning: The mediation roles of intrinsic
+motivation and learning engagement. Educ. Inf. Technol. 2024, 29, 2605–2623. [CrossRef] [PubMed]
+Schiavo, G.; Businaro, S.; Zancanaro, M. Comprehension, apprehension, and acceptance: Understanding the influence of literacy
+and anxiety on acceptance of artificial Intelligence. Technol. Soc. 2024, 77, 102537. [CrossRef]
+Chiu, M.C.; Hwang, G.J.; Hsia, L.H.; Shyu, F.M. Artificial intelligence-supported art education: A deep learning-based system
+for promoting university students’ artwork appreciation and painting outcomes. Interact. Learn. Environ. 2024, 32, 824–842.
+[CrossRef]
+Geng, S.; Law KM, Y.; Niu, B. Investigating self-directed learning and technology readiness in blending learning environment.
+Int. J. Educ. Technol. High. Educ. 2019, 16, 17. [CrossRef]
+Pan, X. Technology acceptance, technological self-efficacy, and attitude toward technology-based self-directed learning: Learning
+motivation as a mediator. Front. Psychol. 2020, 11, 564294. [CrossRef]
+An, F.; Xi, L.; Yu, J.; Zhang, M. Relationship between technology acceptance and self-directed learning: Mediation role of positive
+emotions and technological self-efficacy. Sustainability 2022, 14, 10390. [CrossRef]
+Tao, Y.; Yu, J. Cultural threads in writing mastery: A structural analysis of perfectionism, learning self-efficacy, and motivation as
+mediated by self-reflection in Chinese EFL learners. BMC Psychol. 2024, 12, 80. [CrossRef]
+Lo, K.W.; Ngai, G.; Chan, S.C.; Kwan, K.P. How students’ motivation and learning experience affect their service-learning
+outcomes: A structural equation modeling analysis. Front. Psychol. 2022, 13, 825902. [CrossRef]
+Hoferichter, F.; Kulakow, S.; Raufelder, D. How teacher and classmate support relate to students’ stress and academic achievement.
+Front. Psychol. 2022, 13, 992497. [CrossRef] [PubMed]
+Huang, L.; Wang, D. Teacher Support, Academic Self-Efficacy, Student Engagement, and Academic Achievement in Emergency
+Online Learning. Behav. Sci. 2023, 13, 704. [CrossRef] [PubMed]
+Chen, J.; Zhang, L.J.; Chen, X. L2 learners’ self-regulated learning strategies and self-efficacy for writing achievement: A latent
+profile analysis. Lang. Teach. Res. 2022, 26, 13621688221134967. [CrossRef]
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
