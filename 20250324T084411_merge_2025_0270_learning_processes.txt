@@ -1,0 +1,1092 @@
+SUSTAINABLE
+LEARNING
+Inclusive practices for 21st century classrooms
+
+Lorraine Graham
+Jeanette Berman
+Anne Bellert
+
+Chapter 2
+
+Intended learning outcomes
+Engagement with the text in this chapter will enable
+readers to do the following:
+• articulate an understanding of what learning is in the
+context of school
+• describe how the ATRiUM capabilities relate to the
+cultural, interpersonal, intrapersonal, physical and
+cognitive dimensions of learning
+• explain some key learning theories and principles
+and identify how they are evident in effective teaching practice
+• develop an understanding of learning as a developmental process that results in individual differences
+• describe cognitive processes of learning from an
+information processing perspective
+
+Big ideas
+• Leaming is a thinking process. It is developmental and cumulative. Understandings
+of what learning is are often culturally determined.
+• Despite diverse perceptions of what constitutes knowledge and learning and the
+myriad factors that impact on how individuals and societies value and transmit
+knowledge, there are common cognitive processes that constitute the mechanisms
+of learning. Inclusive, effective pedagogy addresses these cognitive processes of
+learning.
+• Teaching and learning are enhanced when teachers have evolving understandings
+of the cognitive processes oflearning and when they develop knowledge about their
+students' strengths and needs in terms of these.
+
+Introduction
+Learning processes vary with each student, teacher and learning environment.
+Factors such as values and attitudes, prior experiences and skills and the context and
+content of the intended learning task determine how individual students engage in
+learning activities and what they learn. Also, social, emotional and cultural factors
+impact on student learning and the learning environment. The cultural, interpersonal, intrapersonal, physical and cognitive dimensions of human functioning work
+together to underpin development and learning. Consequently, learning is complex
+and diverse, and unique to each individual student.
+While it is essential that teachers develop an awareness of the various factors
+that impact on learning and reflect upon them as they develop and refine programs
+for their students, they must also know about how students learn. Effective teachers
+develop and apply understandings of how thinking and learning actually take place the cognitive processes of learning and how these play out in everyday classroom contexts. Such knowledge is particularly relevant for teachers seeking to understand how
+best to teach and support students who are low achieving, disengaged or have a disability, because this leads to deeper understanding of strategies and approaches for scaffolding and supporting learning. For example, a teacher who has
+informed knowledge about the processes and functions of working memory will be well positioned to understand why breaking a task down into
+smaller steps will make it much more achievable for some students, and
+that teacher will have insights into which students would particularly
+benefit from such an approach.
+This chapter is about learning for all and learning that lasts. In this
+book we interpret the phrase 'learning for all' as an allegory of inclusion. To provide learning for all students, educational systems and individual teachers need to ensure they facilitate learning for students who
+are low achieving, disengaged, have a disability or are educationally
+
+Sustainable Learning
+
+v
+
+disadvantaged, as well as for students who are attaining expected educational
+standards. Fullan (2011, 2) describes this obligation as 'the moral imperative of
+raising the bar (for all students) and closing the gap (for lower performing groups)
+relative to higher order skills and competencies required to be successful world
+citizens' Implicit in this stance is the necessity of ensuring that all students, to the
+extent of their potential, access teaching and learning that guarantee they not only
+attain mastery of basic academic skills but also learn how to think critically and
+solve problems.
+Learning for all requires that teachers have high expectations for all their students and that they do not accept low achievement and competency with mundane
+tasks as adequate for any student who has the potential to accomplish more. Accordingly, sustainable learning is about knowledge transformation, not just knowledge
+transmission. It relates to the purpose and value of the learning process - it provides
+students with the ability to maintain, connect and use learning to enable further
+development, to think creatively, to innovate and to apply knowledge of problemsolving in many different contexts. To facilitate learning that lasts for students,
+teachers need to teach not only content but also how to apply and develop knowledge
+and skills. Teachers have a professional mandate to ensure they prepare students
+to become successful for life, not just successful in meeting minimum curriculum
+standards.
+Learning is multifaceted; it is not a unitary concept but a diverse and nuanced
+topic that draws on knowledge from a wide range of disciplines. Learning can
+be described, among many other ways, as a behavioural process, a psychosocial
+concept or a function of reward and motivation. If a range of people were asked,
+'What is learning?' there would be many different answers: gaining knowledge
+in the '3Rs' problem-solving, developing self-knowledge, knowing about human
+endeavours or developing moral values. Clearly, in this chapter we cannot discuss
+the many different facets of learning. Instead, we review selected aspects of learning processes based on what we perceive to be most relevant to the sustainablelearning metaphor and to what pre-service and beginning-career teachers need to
+know about learning in a contemporary school context. Underpinning this is our
+commitment to the ideas that inclusive education is best served, in the first instance, by effective teaching in everyday classroom contexts and that to be effective,
+teachers need to know about how students think and learn and how to promote
+ways of thinking and learning that will support them to be successful at school and
+throughout their lives.
+Accordingly, this chapter begins with an examination of learning in relation to
+each capability identified by ATRiUM (introduced in chapter 1). Learning processes are
+then discussed in relation to traditional western psychology's learning and development theories and to established learning principles. Next, learning is considered as
+a developmental process and as a function of self-regulation. The remainder of the
+chapter focuses more specifically on learning as cognition, identifying and discussing
+
+cognitive processes of learning common to all humans. Since the early 1990s, technological advances in neuroscience and its associated fields have enabled the development
+of new and refined knowledge about human brain functions in relation to thinking and
+learning, and some of the key findings are discussed below. The information and the
+perspectives on learning presented in this chapter frame discussions in later chapters
+about teaching and assessment.
+
+ATRiUM capabilities
+In formal learning environments, different kinds of learning are required,
+ATRiUM Active
+including learning academic skills and other curriculum content, social
+learning; Thinking;
+learning. learning skills to perform or to make products, and developing
+Relating to others;
+a sense of inquiry by learning to question, solve problems and reflect. UnUsing langua~Je.
+symbols and ICT; and
+derstanding learning processes by viewing learning as a set of capabilities
+Manag ing self.
+is an inclusive approach. It recognises the individuality of each learner yet
+acknowledges the commonalities in the learning processes of all humans.
+ATRiUM is used within the notion of sustainable learning to describe
+a holistic perspective on the broad capabilities of all learners. It is based on the key
+competencies and general capabilities that are described in the Australian and the
+~ew Zealand curricula (see ACARA, n.d.; Ministry of Education 2009). The ATRiUM
+capabilities encompass the physical, cognitive, interpersonal, intrapersonal and
+cultural dimensions of learning, as represented in figure 1.3. Teachers need to be
+acutely aware of the i..nteq1lay of these capabilities for each learner in the classroom. Although it is not possible to visibly observe what is going on inside any of
+the learners' heads, it is vital to focus on the learning processes that underlie all
+teaching and learning activities.
+
+Active learning
+Learning is a transformative process. It is not the passive receipt of knowledge.
+Knowledge is socially and culturally defined as well as personally constructed, so
+learners need to be actively engaged in the construction of their own knowledge
+bases. Learning begins outside learners; it exists within the sociocultural domain
+before it becomes individual learning that is internalised and personal. As learners
+transform knowledge, they also become transformed - they develop.
+Teachers can struggle with the concept of active learners. since
+passive learners are so much easier to organise and manage as a group!
+This tension has grown as knowledge has become increasingly fluid and
+dynamic and not so easily captured in a curriculum and printed texts. Ideally,
+active learning begins with acts of curiosity and evolves into sophisticated
+self-regulated learning. Teachers also need to be prepared to act as partners in learning and not founts of knowledge; they should continue to be
+active learners themselves.
+
+Sustainable Learning
+
+Thinking
+Learning uses thinking as the primary tool of transformation. Humans think and
+share that thinking, and that sharing can also alter thinking. Individuals have the
+cognitive capacity to perceive and make sense of what they experience through their
+senses. Capacity for thinking is developmental, with young children thinking about
+things quite differently from adults. Schools take developmental thinking into account
+through curriculum expectations and in the organisation and management of educational settings. For learning to be sustainable, thinking about everyday matters
+and experiences needs to be integrated with thinking about intellectual ideas and
+scientific concepts. When there are gaps between these focus points of thinking, there
+will be incoherence in learners' attempts to make meaning and to understand more
+abstract notions.
+Cognitive processes, including perceiving, reasoning, comprehending, analysing,
+linking with prior knowledge, memorising and recalling, are integral to making sense
+of culture and developing understandings about society and the wider world. Prior
+knowledge, for instance, 'acts as a lens through which we view and absorb new information. It is a composite of who we are, based on what we have learnt from both our
+academic and our everyday experiences' (Kujawa and Huske 1995, 3). Further, humans
+seek input about learning from other humans in ways that influence their attention to
+learning and provide motivation and opportunities to learn more. Within each classroom there will always be variability in the range of student thinking capabilities. Some
+students will come into the classroom with ways of processing very different from
+typir::i l ni:>vi:>lnpmAnt Such learners can find classroom engagement and learning
+challenging unless teachers are able to create learning opportunities that match their
+learning needs.
+
+Relating to others
+Active learning depends on interpersonal engagement. Classrooms and schools are
+complex social systems within which learners need to relate to each other and to
+those charged with facilitating their learning. Establishing a classroom climate that
+supports appropriate social interactions and rel~tionships is an important task for
+teachers. This process depends on teachers' understandings of what they bring to
+the classroom, what their students bring and how these perspectives match or mismatch. Students bring their world, their lived experiences and their families' and
+communities' values to their learning and interactions. This means they bring their
+cultures, which will play out through observable interpersonal interactions in relation to the classroom environment, their teachers and other students.
+
+Using language, symbols and ICT
+Social engagement and information communication are carried out through elaborate and complex systems of symbols - that is, language. Sustainable learning is
+dependent on facility with the key communication systems, as well as on processes
+
+that support adaptation to new forms of communication. In any educational setting,
+literacy and numeracy are the tools of active learning, often enabling participation,
+thinking, relating to others and managing the self. Language, in itself a tool, is supported by cultural nuances that may or may not resonate for learners. Language is
+used in many forms, from the essential face-to-face spoken language to written language and to electronic forms of language and communication.
+We are increasingly dependent on ICT for engagement in learning, pursuit of
+careers and everyday living. The rapidly changing demands of technology are influencing both learners and languages; not only do sustainable learners need to be able
+to adapt as technology changes, but language is being altered by the use of technology. The most obvious language change is seen in text talk, in which words are altered
+in order to increase fluency, thereby cre8ing new symbol systems @ .
+Written language, encompassing both literacy and numeracy, is of course foundational to academic learning. Proficiency with written language is the focus of early
+learning in schools, and it is used as a tool for all subsequent learning. 'Learn to read
+in order to read to learn' is an adage that highlights the power of written language as
+a tool for literacy and learning. Literacy is embedded in all school learning as well as
+in activities used for demonstrating learning - that is, assessment activities; likewise,
+numeracy has broad applications well beyond the subject of mathematics.
+
+Managing self
+An aim of the school journey is for students to become self-managing, self-sustaining
+
+lifelong learners. As students grow and develop, they learn how to regulate their
+physical body, becoming more adept with self-care, ensuring their physical needs
+are met or managed and adjusting their physical actions and interactions with
+regard to their effects on other people and the environment. School, family (whiinau)
+and societal expectations about managing the physical self are often quite explicitly
+expressed, and they generally increase with the age of the child.
+Managing thinking and learning is also developmental, but expectations and
+attributes around this important dimension are more often implicit, with less attention given to articulating and demonstrating how and what students can do to manage their thinking. Managing thinking involves a wide range of mental processes,
+including organising and evaluating ideas, connecting new knowledge to past learning
+and experiences, sustaining attention, curbing impulses and persisting with a task or
+train of thought. Managing thinking is influenced by 'self factors' such as self-esteem,
+self-concept and self-efficacy.
+Managing self also relates to interpersonal and intrapersonal functioning and can
+become a substitute term for 'behaviour' Students bring to the classroom their intrapersonal development, including self-awareness, which cannot be separated from their
+culture or their previous school experience because these factors continue to shape
+them. As .they develop, students become increasingly capable of self-managing their
+emotions and how they think about them. However, this is never a linear development
+
+Sustainable Learning
+pathway, and it is affected profoundly by experience and by the values expressed in
+families, communities and society.
+
+Think and do 2.1: ATRiUM capabilities
+1 Using ATRiUM as a framework for classroom practice, consider what
+ea.ch capability looks like, feels like and sounds like for learners of
+different ages.
+2
+
+Using ATRiUM as a framework for reflection, describe what learning looks like,
+feels like and sounds like for you as a learner.
+
+Learning theories
+As thinking is largely a mental process that cannot be readily observed, much investigation and theorising, particularly within the behavioural sciences and especially in
+the field of psychology, have been devoted to the quest to understand what learning
+is and how it takes place. Within the paradigm of traditional western psychology, a
+range of learning theories, or models, have been developed over the last century.
+Teachers benefit from understanding these theoretical perspectives, because such
+knowledge provides a framework for making informed, consistent decisions about
+approaches to teaching and learning. Figure 2.1 provides a brief overview of some
+key learning theories.
+The theories involve contrasting ideas about the purpose and process of learning and education (Rice 2006), but there are also commonalities between them, and
+sometimes the work of one theorist contributes to several different theories. Learning
+theories give teachers ways of thinking about learning so that they can make moreinformed, well-considered decisions about teaching practice. For example, some of
+the long-established principles of behaviourist learning theories are still relied on in
+contemporary classrooms and schools, but they are now often used within a much
+more inclusive framework that recognises the complexity of human learning - which
+the original behaviourist theories did not. Most recent theories acknowledge not only
+the dynamic nature of learning and development but also the ecological context of
+learning. When reviewing the traditional western learning theories, it is important
+for teachers to be aware that they carry assumptions and perspectives that may not
+reflect or include values from other, less dominant cultures. Accordingly, teachers
+will need to inquire about and consider in their practice local cultural values related
+to learning.
+
+Principles of learning
+Educators and psychologists working to develop knowledge about effective pedagogy have identified key principles of learning said to underpin successful teaching
+
+Key theorists Include Watson, Pavlov, Skinner and Thorndike
+• Learning results from a change in behaviour.
+• The environment can be changed or arranged to elicit desired responses.
+• Learning is competency based, requiring skill, development and training.
+• Learning proceeds according to rules, with rewards and consequences.
+• Direct instruction provides stimulus for learning; task analysis determines components
+of the content to be learned.
+
+Key theorists Include Bruner, Gagne, Briggs and Wagner
+• Learning involves making associations with stimuli.
+• The external environment is reality; students need to learn about it, and their learning can
+be measured and compared.
+• Teachers are the agents of learning; education is about improving students' knowledge
+and learning.
+• Learning is an active process directed by the content and the teacher.
+• The scope of learning is determined by goals and objectives.
+• Effective pedagogy includes explicit instruction, drill, practice, precision teaching, mastery
+learning and standardised assessment.
+
+Key theorists Include Tolman, Piaget, Ausubel and Sweller
+• Learning requires internal (cognitive) structuring using processes of perception, information
+processing, memory and insight.
+• The learner, as an active participant, is an 'information processor', and their cognitive
+processes develop sequentially.
+• Learners need support to develop prior knowledge and to use knowledge of patterns to
+develop new knowledge.
+• Effective teachers focus on what learners know and how they acquire knowledge.
+• The context for learning needs to be authentic to students' lived experiences, and
+students require structures and models to lead their learning towards standard knowledge.
+
+Key theorists Include Rogers, Maslow and Steiner
+• Learning is an individual process, based on curiosity, that enables a person to fulfil their
+potential.
+• Learning should be student centred, with content determined by the learner and outcomes
+measured by self-evaluation.
+• Motivation to learn Is innate, fuelled by conscious aspiration for higher-order learning and
+self-actualisation.
+• The teacher's role is as facilitator, to encourage and enable the learner as they grow and
+develop throughout their life.
+• Discovery learning is achieved by providing access to appropriate resources without
+obtrusive interference.
+
+Key theorists Include Piaget, Vygotsky, Dewey and Bruner
+• Knowledge is subjective and unique to the individual.
+• Learners interact with their environment and construct new knowledge based on
+prior experiences.
+• Meaningful learning requires inquiry, reflection and refinement. It cannot be rushed
+or Imposed.
+• Education is student centred, active and contextual, and assessment of learning is based
+on authentic student work.
+• Teachers act as facilitators, negotiating goals for student learning and providing feedback
+· about strategies used to solve real-world problems.
+
+Figure 2.1: Learning theories and perspectives on learning
+
+Sustainable Learning
+and to be present when students learn best. These principles are generic and no:
+specifically related to one learning theory or another but instead provide fn(ormation about what supports effective learning. It is important for teachers to develop
+awareness of these principles of learning so as to better support all students to learn
+more effectively. Some of the principles are listed below:
+Prior knowledge: Students' prior knowledge and experiences, including their cultur-
+
+al contexts. can support or challenge new ideas. What students learn is influenced
+by their existing ideas. knowledge and lived experiences. New learning needs to be
+linked to prior knowledge.
+Organisation of conceptual knowledge: How teachers present informa-
+
+Conceptual
+
+knowledge is
+unrlcrstzindi11q of an
+abstract idea. what it is
+
+and how it works.
+
+tion and how students organise ideas influence learning. Development in
+learning typically moves from concrete (materials and senses) to abstract
+(application of concepts). The organisation of conceptual knowledge can be
+scaffolded by modelling and by using aids such as graphic organisers.
+
+Developmental progression: A student's current development level interacts with new learning. There are situations in which readiness to learn cannot
+be contrived, whereas in other contexts of learning the teaching can actively lead
+development. Skills improve in an orderly and sequential fashion from simple
+to complex.
+Masterz1: To develop mastery, students need to acquire component skills,
+
+Component
+skills are tlw
+c;1pabilitics that
+111 u st be co1111Ji11cd
+a1,cl 111teqrdt1!d to
+
+practise them singularly and then practise integrating them. Mastery is
+demonstrated not just when students can perform a task or skill but when
+they recognise the need to apply their knowledge automatically in a novel
+context.
+
+;1ccomplish a task.
+
+Motivation and engagement: Students' motivation is a key determinant of
+what they will learn and how they will participate in learning experiences.
+
+Students who perceive positive value in the content and context of learning and
+anticipate the likelihood of success are more likely to be motivated to engage and
+persist with learning activities.
+Feedback: Feedback about learning is essential. Effective feedback provides
+
+students with meaningful information about achievement and the effectiveness
+of strategies and learning behaviours. To improve performance and learning
+efficiency, feedback should also correct misunderstandings and provide information about how students can improve.
+
+Think and do 2. 2: Reflecting on learning
+Discuss the weys in which you access, acquire, retain, make sense of and use
+knowledge in your learning and everydey liVing. What supports learning most
+effectively for you?
+
+Learning as development and
+self-regulation
+The foundations for learning begin while a child is in utero. The first few years of life
+are flooded with learning as the developing brain and nervous system process sensory
+information, begin to recognise and manage emotions and develop language and motor
+skills. The years prior to school are critical for learning, with much of this occurring
+in informal learning environments.
+The ongoing development of neurological systems in the early years of life supports sensory, motor and perceptual development in domains such as gross motor
+skills, manipulation skills, body awareness and posture, which in turn provide the
+foundations for higher-level and more complex learning development. The developmental systems that need to be in place for learning academic skills and the formal
+curriculum include language, visual and auditory perception, memory, self-regulation
+and many other interrelated affective, motor, sensory and perceptual factors.
+Learning is a developmental process, and the rate and profile of development, the
+trajectory for learning, is unique to each individual. Just as a child cannot walk before
+appropriate balance, motor coordination and muscle-tone are in place, students need
+to have developed underlying systems and skills in order to access academic learning
+and the formal curriculum. An individual's readiness to learn is mediated by a range
+of internal and external factors. Internal factors include heritable traits such as intelligence, physical characteristics and personality. External factors are related to the
+c u vi1v111m:::11t in vvl1id1 d child is immersed and include family (whdnauJ and commtinity, culture and education. A complex interaction between internal and external factors determines each individual student's developmental profile. The relative impact
+of these factors, commonly referred to as 'nature versus nurture' is the subject of
+much research and debate in psychology and other related fields.
+Importantly, readiness to learn cannot be standardised and, in an individual context, should not be expected based on criteria like age or grade. A young student
+who can read some words but has relatively underdeveloped conceptual knowledge
+and vocabulary may struggle even to see the need to extract meaning from text and
+will thus not yet be able to do a simple comprehension task such as retell a story. In
+contrast, classmates of the same age may have relatively well developed language,
+sequencing and memory skills, leading to comprehension of the text to a high level,
+yet if they experience slower development in the domain of auditory perception, this
+\\ill lead to less facility in reading words. Throughout the years of formal education,
+each individual's developmental profile is different, and each student requires tailored support and experiences in order to progress.
+This notion has wide-ranging implications for learning. Many learners progress
+through developmental stages in sequence, yet many others do not follow a typical
+trajectory. The acquisition of a new skill or concept depends on whether prerequisite
+
+Sustainable Learning
+competencies are in place. Development in learning improves with maturation and
+experience. It can be supported by experiences that consolidate existing knowledge
+or skills and by exposure to the kinds of novel stimuli and targeted feedback that lead
+to new applications or understandings. Clearly, the learning environment, including
+learning experiences and instructional input provided by teachers (and peers), has a
+significant role to play in determining growth and development in learning.
+Another key condition of development in learning is self-regulation. Broadly
+defined, self-regulation is our awareness of the ways in which we think and learn
+and the gradual development of internalised systems that assist us to manage our
+cognitive processes. The development of self-regulated learning is a major
+Metacognition is
+schooling goal. As will be explored later in this text, facilitating selftile dllllity to 'step
+regulation does not consist simply of teaching students a series of cognitive
+back' from thinkinn
+strategies; affective and metacognitive learning dimensions must also be
+and become aware of
+considered. The main functions which combine to result in self-regulated
+orw's own processl!S
+of tlii11ki11u.
+learning are metacognition, motivation and self-efficacy (Graham and
+Berman 2012):
+
+Metacognition is the awareness of one's own thinking processes, including knowledge about how to best perform a task or develop understanding of a concept. It
+frequently involves activating prior knowledge, setting goals and implementing
+selected strategies. Metacognition can be thought of as 'thinking about thinking
+about the task' It has two components: thinking about thinking, and regulating this
+thinking and, with it, learning behaviours.
+
+Motivation is the desire to learn and to achieve; it can be extrinsic, based on rewards,
+or, more sustainably, intrinsic, based on enjoyment, interest and selfsatisfaction. Importantly, motivation can increase based on a student's perceived
+likelihood of success and can decrease in the face of failure and poor achievement.
+
+Self-efficacy is the range of self-beliefs students hold about their capacity and effective
+participation as learners. A key determinant of self-efficacy is the learner's perception
+of control over learning and achievement, referred to as attributions for sucAttribution is tlw
+cess or failure. Attribution theory posits that learners can, rightly or wrongly,
+iJIOC(!SS uf 111f1!rri11q
+attribute their success or otherwise to ability, effort, task difficulty or luck, with
+till' causes of t!vcnts or
+the veracity of their attributions connected to their motivation, participation
+behaviour,;.
+level and achievement in learning (Weiner 1972).
+Learning processes are unique to individuals, shaped by their genetics, culture and
+experiences in formal and informal learning environments. Students learn at a level
+determined by their maturational readiness, prior knowledge and experiences. Teachers can support the developmental processes underlying learning by knowing the usual
+sequences and providing an environment for learning that 'meets learners where they
+are at' facilitates ·the growth of student thinking and provides direction for learning
+activities towards new knowledge, skills and understandings. Teachers also need to be
+
+aware of the 'self' factors that impact on learning and participation and to take steps to
+empower students to manage themselves and their learning behaviours to attain positive outcomes that they, their families and their communities will value.
+
+Cognitive processes of learning
+Teachers with knowledge about cognitive processes of learning better understand the
+learning needs of their students and make more-informed instructional decisions,
+including effective differentiation and provision of appropriate adjustments, to maximise the engagement, motivation and achievement of all their students. Such knowledge
+is of particular importance in contemporary educational contexts; a vast amount of
+information about learning is available, and teachers need to draw on a solid knowledge
+base in order to discern reliable and evidence-based information from that which is
+skewed or misrepresented to promote a particular agenda or commercial product.
+
+Information processing
+The information processing model has been developed, since its inception in the
+1960s, to explain the cognitive processes of learning. It focuses on the structure and
+function of mental processing within specific contexts, environments or ecologies
+(Huitt 1997). The model often uses the 'mind as a computer' metaphor to aid descriptions of cognitive development and learning.
+The information processing model of cognition identifies stages, or component
+parts, within complex thought processes. Swanson (1987) described three general
+components of the model as structural, within which information can be processed
+at a particular stage; strategic, which controls the operations at various stages;
+and executive, by which learners' cognitive activities are overseen and monitored
+1Swanson and Stomel 2012). The information processing model recognises that the
+flow of information inherent to these components occurs in a sequence of stages, and
+information is transformed in each stage. The output information from one stage or
+subsequent stages informs the input into the next stage.
+
+Limited central capacity theory
+An important premise for understanding the information processing model is the idea that
+cognitive resources are limited. Kahneman's (1973) limited central capacity theory implies that
+there are constraints on how much information humans can think about at one time, for how
+long they can hold information and how quickly they can process information. When a system
+operates with limited resources, the distribution and efficient use of those resources are key
+performance determinants. When considering effective learning, the focus is very much on
+the efficient use of resources in cognitive processing rather than on the amount of cognitive
+resources used.
+
+Sustainable Learning
+Memory
+In seeking to describe what happens when learners encounter new information, the
+
+information processing model commonly refers to memory. If learning is to be sustained, memory is required to retain information 'in mind' for future use, to recall
+information previously experienced, to recognise previously encountered stimuli and
+to draw together retained information. Memory is not a unitary cognitive process; rather, it is the result of complex cognitive operations and is impacted upon by the experiences of the individual within the context of family (wh<inau), community and culture.
+The stage, or multi-store, memory theory (Atkinson and Shiffrin 1968) defines
+three stages of information storage. These are sensory memory, short-term memory
+and long-term memory. Information processing begins with sensory perception (for
+example, sound, sight and smell), which may be influenced by prior knowledge or
+expectations. The sensory impulses are registered in sensory, or immediate, memory.
+When attention resources are devoted to sensory perceptions, memory codes are created in short-term memory, which holds about seven pieces of unrehearsed information for about 20 to 30 seconds (Miller 1956). Information then needs to be rehearsed
+or acted upon to pass into long-term memory; otherwise it is lost. Attention has a significant role in the selection of perceptions that will enter memory stores. Information
+is stored in long-term memory in a range of forms - for example, as visual, semantic
+or verbal data - and can be held there for a lengthy period of time but is subject to distortion and decay (Payne and Blackwell 1998). Long-term memory has been classified
+into different types of memories, most commonly declarative (knowledge of concepts,
+urnc1.1w1g c:1.11t.1 i::vta1t:,) c:1.m.l p1 Ul;t:uw c:1.1 ('how to' knowledge).
+
+Although the multi-store theory has been criticised as being too simplistic, particularly in relation to short-term memory, it remains an informative and useful framework
+for developing understanding about the different stages of memory. Baddeley and colleagues (for example, Baddeley 1996; Baddeley and Hitch 1974; Baddeley and Logie
+1999) proposed a more complex construct called 'working memory' which has become
+increasingly influential. Some cognitive psychologists consider working memory to be a
+reconceptualised version of short-term memory, while others view it as a separate
+model. Still others think short-term memory is an activated portion of long-term memory (Cantor and Engle 1993). The debate about whether there are actually separate
+memory stores is yet to be resolved (Weiten 2004).
+
+Working memory
+Working memory is modelled as a temporary, simultaneous storage mechanism for
+incoming information required in the performance of a complex task (Baddeley 1992;
+Swanson and Keogh 1990). Simply stated, working memory is memory at work, using
+and making sense of incoming information. Everyday activities that involve working
+memory include holding an address in mind while listening to directions about how
+to get there or remembering an item's price while calculating the correct amount of
+change due (Swanson 2009).
+
+Chapter a Lea.ming processes
+An essential characteristic of working memory is that it functions by simulta-
+
+neously storing and processing information (Ashbaker and Swanson 1996). In this
+way, it acts as a mental workspace where information can be held 'in mind' while
+performing another relevant task. Working memory is limited to a 10- to 20-second
+duration and to a capacity of between seven and nine units of information (Hulme
+n~..i .UoJt.:on.a~o 1 PP.2). Th.ic inoans that onJy a defined amount Of
+
+information CiJ.Il b~
+
+held temporarily in working memory before it must be attended to, through rehearsal or connection to prior knowledge, or else it is lost and not transferred to long-term
+memory.
+Baddeley and Hitch's (197 4) model presented working memory as consisting of
+a central executive with two subsystems, the phonological loop and the visuo-spatial
+sketchpad. Later, the model was modified to include a third subsystem, the episodic
+buffer (Baddeley 2000). Each subsystem is responsible for different cognitive activities (Baddeley and Logie 1999; Swanson and Sachse-Lee 2001). The phonological
+loop and visuo-spatial sketchpad process and maintain either verbal or visual information, while the episodic buffer integrates information from a range of sources into
+a single episode which is time sequenced.
+The central executive, which has a limited capacity, is regarded as the most
+important component of working memory with regard to its general effect on cognition
+(Baddeley 1996). Its function is to coordinate the manipulation and flow of information
+between parts of the cognitive system, including the subsystems and long-term memory.
+It is essentially responsible for attention and the control of behaviour. Executive functions include selecting what stimulus or task to attend to, switching attention, ignoring
+distractions. sequencing activities and evaluating performance.
+Working memory improves throughout childhood, adolescence and early
+adulthood and then declines in older adults (Wilson and Swanson 2001). Many
+classroom activities require students to use working-memory processes to perform learning tasks or solve problems that have demands more complex than
+simply recalling knowledge. Working memory requires attention control and
+mental effort. Its capacity varies between people, with each individual having
+a relatively fixed capacity (Gathercole and Alloway 2007}. However, it is not so
+much the working memory's capacity that affects learning but the use and coordination of resources between working memory components, short-term memory
+and long-term memory.
+
+Think and do 2.3: Working memory
+Work with a partner. Sey aloud a sequence of randomly selected numbers and ask
+your partner to repeat the numbers aloud in reverse order. Start with two numbers
+(for example, 17 and 56, repeated as 56 and 17), then increase to numbers you say
+aloud by one at a time. How many numbers in sequence can your partner correctly
+say in reverse order? Swap roles so that your partner gives you a sequence to repeat.
+
+Sustainable Learning
+
+Levels and types of thinking
+The ways in which the brain processes information differ according to each learner's developmental profile, the purpose of the task and the kind of information
+encountered. Reproducing a rhyme or a formula may be a simple recall task for
+an experienced learner or a difficult problem to be solved for a novice. Reading a
+•or6. 60 a.cquii-o infurma.tion requi1 e:, uifferent thinking processes from ihose used
+to analyse a data set. Studies of the cognitive processes of learning have resulted
+in models that describe thinking processes, and categorisations that help to order
+and relate the various cognition processes. These frameworks are the focus of this
+section.
+
+Controlled and automatic processing
+An influential and informative model developed by Shiffrin and Schneider (1977; see
+
+also Schneider and Shiffrin 1977) argues that information processing can be divided
+into two fundamental modes. controlled and automatic, each entailing different kinds
+of processing. Controlled processing, as the name implies. is exercised by the individual. It is relatively slow, requires active attention and is serial, permitting only one
+sequence to be performed at a time. In contrast, automatic processing is fast; and as
+it is triggered by appropriate inputs, it does not require active attention (although it
+can temporarily utilise cognitive capacity). Automatic processing is parallel in nature,
+with potential to process a series of stimuli simultaneously, and it is generally impervious to other inputs.
+All learnirnt bemns as the by-product of controlled processes, with some gf
+these becoming automatic. For example. learning to move in different ways initially
+involves mental and physical effort for a toddler who will later automatically run at
+speed as required for a game. Similarly, recognising marks on a page or screen will
+be a problem-solving activity for a preschool student who will later automatically
+read and comprehend complex text, never again needing to think about what letters
+the marks make. Importantly, automatic processing 'uses up' very little of our limited
+cognitive capacity, while controlled processing often requires all available cognitive
+resources to engage in the task at hand.
+Controlled processing involves thinking and reasoning in an intentional manner
+and is inherently attention demanding - it is thinking that takes effort. Processes
+commonly considered as higher-order thinking, including comprehension, analysis,
+application and evaluation of newly encountered knowledge or experiences, require
+controlled processing and do not become automatic with practice. Self-regulation
+activities related to executive functioning, such as switching attention and resisting
+distractions to maintain focus, delaying gratification and applying persistence, are
+also controlled processes. So too are metacognitive thinking skills such as setting
+goals, making plans and selecting effective strategies. Controlled processing takes
+time. As it is performed it consumes almost all available cognitive resources, with
+
+Chapter B Learning processes
+the consequence that we cannot perform more than one higher-order
+Automaticity,
+task at a time.
+usually the result of
+Automatic processes are characteristically mandatory, or unstoppaleurning, repetition
+ble, with automaticity related to increased accuracy. It should not reduce
+.:incl practice, is the
+ability to respond
+the capacity for doing another simultaneous task (Shiffrin and Dumais
+automatically without
+1981). Thus, automaticity enables us to do several things at once. Despite
+occupying the mind
+the apparently instantaneous and effort-free process of automaticity, it
+w ith low-level details.
+actually requires a complex, fast and efficient interaction of cognitive
+processes (Perfetti 1985; Samuels 1987). Automaticity develops after
+learning, repetition and effective practice.
+In reality, performing almost any task requires both automatic and controlled
+processing, although components of word identification during reading can be considered a purely automatic process, as can effortlessly recalling basic mathematics
+facts. Anderson (1990) proposes that it may be more correct to think of automaticity
+as a matter of degree rather than a well-defined category.
+
+Think and do 2.4: Control and automaticity
+-:=-hink about the different tasks and activities you did yesterday. Identify five tasks or
+activities that required controlled processing and 10 or more tasks or activities that
+,:.-ou performed automatically. Would some of the automatic tasks you identified be
+80ntrolled tasks for a younger person or child? Do you foresee that eventually you
+-:.ill become automatic in any of the controlled tasks?
+
+Bloom's revised taxonomy
+An approach to distinguishing types of thinking is to describe and catBloom's taxonomy is
+egorise the cognitive processes required to participate in learning. A
+a framework
+\\idely referenced framework for this approach is Bloom's taxonomy,
+for cate~iorisin~J
+educational
+goals. It
+which describes the cognitive learning behaviours in a hierarchical
+was revised in 2001 to
+sequence: knowledge, comprehension, application, analysis, synthesis
+become a taxonomy
+and evaluation (Bloom 1956). The taxonomy was revised in 2001, with
+for teachin~J. learnin~J
+reordering of the two highest categories and revision of the words used
+and assessment.
+to describe the categories, with all categories now expressed as verbs:
+remembering, understanding, applying, analysing, evaluating and creating (Anderson and Krathwohl 2001). Despite the popularity of this framework and its
+widespread use in teacher education courses, limitations have been identified, including the simplicity of categorising thinking in a hierarchical manner when cognition
+is known to be a complex process involving variable and interactive progressions,
+and the fact that the taxonomy has not been subject to research or evaluation
+Hattie 2011).
+
+Sustainable Learning
+The Structure of the Observed Learning Outcome taxonomy
+Another taxonomy of learning, the Structure of the Observed Learning Outcome
+(SOLO) taxonomy, focuses on the quality of a student's learning and how learning grows in complexity as the student engages in a task or series of tasks (Biggs
+and Collis 1982). The SOLO taxonomy suggests that learning proceeds thnmgh fiyg
+stages:
+Pre-structural: The student doesn't understand the task and attempts
+to use strategies that are ineffective.
+Uni-structural: One aspect of the task is attended to in a relatively naive and
+isolated manner.
+Multi-structural: Several aspects of the task are attended to but with no
+connections between them.
+Relational: The learner connects together several aspects of the task in an
+integrated whole.
+
+Extended abstract: The previous integrated whole is conceptualised at
+a higher level, and this knowledge is generalised to contexts beyond the
+task.
+
+The SOLO taxonomy is potentially more useful for teachers than Bloom's
+taxonomy, because it goes beyond simply categorising knowledge and
+focuses on student learning. It can also be used as a diagnostic assessment tool, providing feedback to teachers and learners about students'
+understandings and the effectiveness of instruction. The SOLO taxonomy may be
+utilised as a summative assessment tool for comparing understandings of complex
+concepts and as a planning tool for teachers in determining objectives and success
+criteria. (SOLO is further discussed in chapter 4.)
+
+Cognitive processes of learning in the classroom
+While teachers and schools are often prolific in their descriptions of appropriate
+behaviours and the learning outcomes that students are required to demonstrate
+for successful participation in school life, much less attention has been devoted to
+describing how students can think and learn at school or to instilling such cognitive behaviours in students for lifelong learning. Costa and Kallick (2000) developed
+a curriculum called 'Habits of mind· which represents - in language accessible to
+students - ways to think about how people learn. Explicitly teaching students about
+how to think and what to do when they are 'stuck' can provide them with skills and
+strategies, and tools to use for problem-solving that they can intentionally select and
+use in academic and real-life learning contexts. Many of the habits of mind relate to
+the cognitive processes of learning already mentioned. The 16 habits of mind are
+listed below:
+
+•
+
+Persisting
+
+•
+
+Thinking and communicating with clarity and precision
+
+•
+
+Managing impulsivity
+
+•
+
+Gathering data through all senses
+
+•
+
+Listening with understanding and empathy
+
+•
+•
+
+CrP.atina. imaainina. innovatina
+Thinking flexibly
+
+•
+
+Responding with wonderment and awe
+
+•
+
+Thinking about thinking (metacognition)
+
+•
+
+Taking responsible risks
+
+•
+
+Striving for accuracy
+
+•
+
+Finding humor
+
+•
+
+Questioning and posing problems
+
+•
+
+Thinking interdependently
+
+•
+
+Applying past knowledge to new situations
+
+•
+
+Remaining open to continuous learning (Costa and Kallick 2000)
+
+Cognitive neuroscience
+While information from psychology and its associated fields has provided founda~
+tional insights into learning processes, more recent advances in technology and
+cross-disciplinary collaboration are set to significantly advance knowledge about
+how humans learn and how teachers can more effectively support and facilitate
+learning. Since the 1990s, cognitive neuroscience has emerged as a field of inquiry
+with great potential to further develop knowledge about learning processes, shape
+technologically sophisticated research agendas and inform practice in
+education. Hence, findings from cognitive neuroscience are very relCognitive
+evant for teachers, adding to and sometimes questioning established
+neuroscience
+knowledge in the field of education. Despite some considered sceptiexplo res the
+interactions
+cism and criticism of the links that can validly be made between neurobetween b1ologiczi l
+science and classroom practice (Bruer 1997), there are indications that
+processes and m en tal
+neuroscience may deliver findings relevant to how students learn and
+phenomena, with a
+how teachers teach (OECD 2007; PMSEIC 2009).
+particular focus 011
+lcarni no.
+The relatively recent convergence of neuroscience, psychology and
+education into a cohesive field of inquiry has been largely enabled by the
+development of non-invasive brain scanning and functional neuroimaging technologies capable of identifying which parts of the brain are implicated
+during which types of cognitive tasks (Mi.iller 2011). A common element in descriptions of cognitive neuroscience is that research in this field requires collaboration
+between scientists from different disciplines, including neuroscience, psychology
+and educatfon, and other associated fields, such as biology, physiology, behavioural science and computational modelling (OECD 2007). Further, descriptions positioning cognitive neuroscience in education imply that the aim is to gain improved
+
+Sustainable Learnin g
+understanding of how learning takes place using a more 'scientific' approach,
+with a view to examining how such information can underpin more effective teaching methods, curricula and educational policy (Cadle 2013), and can ultimately
+contribute to a more skilled workforce.
+FY:imnl~i;: of mnrlr in l'Ognitivo neuroscience rele\i·ant to education include Hs
+~owing understanding of the neural bases of reading, writing and arithmetic, along
+with knowledge about how to optimise learning in these domains (Goswami 2006).
+Further, the exploration and increasing understanding of developmental disorders
+such as dyslexia, dyscalculia, attention deficit hyperactivity disorder (ADHD) and
+autism are providing insights into possible causes and effective educational responses (Price, Mazzocco and Ansari 2013; Howard-Jones 2007; Baron-Cohen, Golan
+and Ashwin 2012). Other factors relevant to learning and educational practice, such
+as the importance of sleep, motivation, memory and self-regulation, are also being
+investigated by cognitive neuroscientists. Such applications are likely to provide further impetus for evidence-based approaches to education (Geake 2009) and to offer
+new knowledge, as well as important confirmation or questioning of existing knowledge, about learning and teaching processes.
+There is a need for caution in assessing claims about learning and teaching and
+in applying findings from cognitive neuroscience directly to educational practice.
+Coltheart (2013, 9) has warned against the 'hijacking' of cognitive neuroscience by
+some advocates of brain-based approaches to education. These approaches, which
+advocate, for example, coloured overlays, learning styles, educational kinaesthetics,
+neurolmgmstic programming and multiple intelligences, commonly involve a profitseeking marketing component. Some brain-based ideas seem to have an inherent
+appeal to educators despite the fact that they lack an evidence base from either neuroscience or educational research (Dekker et al. 2012; Geake 2008). The unsubstantiated yet widespread influence of such educational approaches forms the basis for
+the argument that educators need to develop greater knowledge about secure ways
+to interact with research findings emerging from cognitive neuroscience. Otherwise,
+the profession is vulnerable to 'the allure of everything neuro' (Anderson and Della
+Sala 2012, 6), at the cost ofimplementing effective, evidence-based instructional approaches to enhance learning in the key educational domains of literacy and numeracy.
+However, reliable neuroscientific information is becoming increasingly available in
+accessible formats for educators (see, for example, Geake 2009; HowardJones 2007; Howard-Jones et al. 2010; OECD 2007).
+N e uropla stic ity is
+change that occu rs
+Useful information for teachers from recent findings in cognitive
+in neural pathways
+neuroscience includes the notion of neuroplasticity (also referred
+and synapses cl ue to
+to as synaptic plasticity or neural plasticity). Until relatively recently
+changes i n behaviour,
+it was thought that cognitive functions were determined by processes
+environment and
+in a particular location in the brain, that critical periods for brain deneu ra l processes.
+as well as changes
+velopment and function occurred mainly in childhood and that damage
+resul t ing from inju ry.
+in such specific locations would be permanent. A corollary assumption
+
+was that students' intelligence and potential to learn were capped by an immutable intelligence quotient level determined by genetics. However, findings in the
+field of neuroscience have led to new knowledge that the brain has the capacity
+to change by creating and strengthening some neuronal connections and weakenina n.. olim,n!:ltina othpr~ in rc;.sponse to environmental demands, Ngw }ggrnin~
+occurs at a neuronal level as complex neural networks are created through connections that form between neurons. This process of neuroplasticity is available
+throughout each person's life. Neuroplasticity underpins the brain's capability to
+acquire, store and retrieve information (PMSEIC 2009).
+Other information discovered through research into neuroplasticity is that
+although there are sensitive periods when specific types of learning are most effective, learning is a lifelong activity, and the more it continues, the more effective it
+is - 'use it or lose it' The repetition and interconnectedness of background knowledge have key roles in supporting the long-term development of new knowledge,
+as described by another neuroscience aphorism: 'neurons that fire together, wire
+together' (Hebb 1949).
+The discovery of mirror neurons is perhaps one of the most significant recent
+findings in neuroscience (Geake 2009), with great potential to create further nuances
+in our understanding of how learning occurs through imitation and interpretation
+of the actions and intentions of other people. Mirror neurons are brain cells that
+respond similarly when a person performs an action or when the person witnesses
+someone else performing the action (Winerman 2005). It is thought that a variation
+m !his system may uuuerlie autism spectrum disorders (ASD) and, importantly, may
+be a central mechanism that facilitates information transfer in educational and noneducational settings (PMSEIC 2009). Further research from cognitive neuroscience
+about mirror neuron systems may enhance understandings of how learning occurs
+through imaginative play and social imitation. It may also illuminate the role of demonstration and explicit instruction in skill acquisition.
+Opportunities for cognitive neuroscience findings to impact on educational practice are just beginning to emerge. The advent of new understandings about learning
+and teaching is an exciting prospect for educational practitioners seeking to provide
+relevant contemporary educational experiences for young people. Fresh
+Evidence-based
+scientific understanding of the complex interactions between social, cogpractices are used
+nitive and neural processes that can facilitate learning needs to be conbecause they 'work';
+sidered alongside other established educational perspectives in order to
+their sclc!ction
+is 1nfomwd by
+develop evidence-based practices that improve educational outcomes
+rest!arch. profession al
+(Howard-Jones 2011 ; Oliver 2011). Importantly, findings from cognitive
+experience! and
+neuroscience have the potential to enrich rather than diminish curricuindividual exarnpl!!S of
+la, as research supports the view that creative arts such as music, drama
+effectiverwss.
+and visual arts can act as meaningful contexts for problem-solving, motivation and collaboration and can improve listening and concentration
+(Carew and Magsamen 2010).
+
+Sustainable Learn ing
+Neuroscientific research into the cognitive reorganisation that takes place in
+adolescence (see Blakemore and Choudhury 2006}, a key phase in an individual's
+educational career, may also influence the design of curricula and learning environments for young people, with approaches tailored to meet adolescents' social and
+omntinnl'.11 noo,k: moro ~pQcifically. Educational practices need to be informed by
+perspectives on teenage behaviour and to address motivation and engagement issues
+so that greater proportions of young people participate in secondary and tertiary
+education during this important period of cognitive development.
+In its role as a more scientific approach to understanding learning mechanisms,
+cognitive neuroscience is set to make a significant contribution to future teaching
+and learning. Multiple bridges need to be built, however, connecting the science to
+educational practices (Ansari and Coch 2006}. To begin breaking ground for such
+bridges from an educational perspective, teacher professional learning about the
+brain, the cognitive processes of learning and basic facts from neuroscience need to
+be available at pre-service, in-service and postgraduate levels. The education community can perhaps look forward to the time when educators work in partnership
+with cognitive neuroscientists in directing joint scientific investigations into essential
+questions, leading to more effective teaching and improved educational experiences
+for all students.
+
+Summary
+To truly understand the physiological complexity of cognitive processing, oftfifnk-
+
+ing itself, is beyond many of us. However, it is possible to understand the range and
+nature of the capabilities that facilitate classroom learning. The ATRiUM capabilities
+described in this chapter provide a concise and memorable approach for thinking about students' learning functions and making sense of what is going on for
+each learner in the classroom. Using frameworks that support the development of
+higher-order thinking, both to direct teaching and to assess learning quality, is a
+sign of a clever practitioner. (Further strategies for using these tools are discussed
+in chapter 6.)
+Research into the process of how learning takes place is ongoing. This development of knowledge about learning is currently fuelled by the explosion in technology
+that has allowed monitoring of brain function as the brain is in use, and this has led
+to many theories that represent different ways of understanding learning. With such
+a rich base of understanding at their disposal, teachers must develop robust conceptualisation of what happens for students as they learn, so that instruction can support
+optimal levels of student engagement and learning. Teachers, as learners themselves,
+can draw from traditional ways of understanding, as well as from more recent theories and relevant cultural perspectives, in order to make sense of learning and teaching. Well-grounded teacher conceptualisations about learning processes can increase
+the likelihood of successful learning for all students.
+
+Further reading
+Australian Curriculum, Assessment and Reporting Authority. n.d. 'General capabilities in the
+Australian Curriculum'. ACARA. www.australiancurriculum.edu.au/GeneralCapabilities/Over
+view/general-capabilities-in-the-australian-curriculum.
+Australian Science of Learning Research Centre website: http://slrc.org.au/.
+Centre for Educational Neuroscience website: www.educationalneuroscience.org.uk/.
+·
+Cunningham, T, J. Gannon, M. Kavanagh, J. Greene, L. Reddy and L. Whitson 2007 'Th
+·
+.
+.
+.
+eones
+fI
+o earn,.n~ and curriculum design: key positionalities and their relationships.' Level 3. http://
+level3 .d1t.1e/html/issue5/tony_cunningham/cunningham. pdf.
+Educator Network website: http://theeducatornetwork.ning.com/.
+Gathe~cole.. S. E. and T P. Alloway. 2007. 'Understanding working memory: a classroom guide.'
+University of York. www.york.ac.uk/res/wml/Classroom%20guide.pdf.
+The Institute for Habits of Mind website: www.habitsofmindinstitute.org.
+
+Minister for Education. 2008. 'Official version of Te aho matua o nga kura kaupapa Maori
+and an explanation in English: pursuant to Section 155A of the Education Act 1989:
+Supplement to New Zealand Gazette, no. 32. 22 February. http://nzccs.wikispaces.com/
+file/view/Supplement_TeAho32 Feb08. pdf.
+Ministry of Education. 2009. 'What are key competencies?' New Zealand Government. http://
+keycompetencies. tki .org. nz/What-are-key-competencies.
+Westwell, M. n.d. 'Creating_caRacity. (to esca~e from the moment).' Australian Youth Mentoring_
+Network. www.youthmentoring.org.au/assets/pages/westwell_webinar%20slides.pdf.
+'What are habits of mind?' 2007. Green River Regional Educational Cooperative. www.grrec.
+ky.gov/Thoughtfuled_files/Cadre2/Habits_of_Mind1.pdf.
+
+References
+ACARA (Australian Curriculum, Assessment and Reporting Authority). n.d. 'General capabilities in the Australian Curriculum' ACARA. www.australiancurriculum.edu.au/General
+Capabilities/Overview/general-capabilities-in-the-australian-curriculum.
+Anderson, J. R. 1990. Cognitive psychology and its implications. New York: Freeman.
+Anderson, L. W. and D. R. Krathwohl, eds. 2001. A taxonomy for learning, teaching, and
+assessing: a revision of Bloom's taxonomy of educational objectives, complete edn. With
+P. W. Airasian, K. A. Cruikshank, R. E. Mayer, P. R. Pintrich, J. Raths and M . C. Wittrock.
+New York: Longman.
+Anderson, M. and S. Della Sala. 2012. 'Neuroscience in education: an (opinionated) introduction.'
+In S. Della Sala and M. Anderson, eds. Neuroscience in education: the good, the bad and
+the ugly, 4-12. Oxford: Oxford University Press.
+
+Sustainable Learning
+Ansari, D. and D. Coch. 2006. 'Bridges over troubled waters: education and cognitive
+neuroscience: Trends in Cognitive Sciences 10 (4): 146-51.
+Ashbaker, M. H. and H. L. Swanson. 1996. 'Short-term memory and working memory
+operations and their contribution to reading in adolescents with and without learning
+rlic!:lhil itioc,' I ot1m.;,.,S' D.ic~.Wtio:7 Rcsaarch e,nd Pract;ce 11 (4): 206-13.
+Atkinson, R. C. and R. M. Shiffrin. 1968. 'Human memory: a proposed system and its control
+processes.' In K. W. Spence and J. T. Spence. The psychology of learning and motivation,
+vol. 2, 89-195. NewYork: Academic Press.
+Baddeley, A. D. 1992. 'Working memory: Science 255 (5044): 556-9.
+- - . 1996. 'The fractionation of working memory.' Proceedings of the National Academy of
+Sciences 93 (24): 13468-72.
+- - . 2000. 'The episodic buffer: a new component of working memory?' Trends in Cognitive
+Sciences 4 (11 ): 417-23.
+Baddeley, A. D. and G. J. Hitch. 1974. 'Working memory.' In G. H. Bower, ed. The psychology
+of learning an~ t - 8-:-47-- 89. New York: Academic Press.
+Baddeley, A. D. and R. H. Logie. 1999. 'Working memory: the multiple-component model: In
+A. M iyake and P. Shah. Models of working memory: mechanisms of active maintenance
+and executive control, 28-61. New York: Cambridge University Press.
+II
+
+•
+
+Baron-Cohen, S., 0. Golan and E. Ashwin. 2012. 'Educational cognitive neuroscience: designing
+autism-friendly methods to teach emotion recognition.' In S. Della Sala and M. Anderson,
+ou~. 1Yc;u1v.:,1.,1c::111.,·c:: 1i1 i::u·uc:aclon: rne good, the bad and the ugly, 299-311. Oxford: Oxford
+University Press .
+Biggs, J. B. and K. F. Collis. 1982. Evaluating the quality of learning. New York: Academic
+Press.
+Blakemore. S. J. and S. Choudhury. 2006. 'Development of the adolescent brain: implications
+for executive function and social cognition: Journal of Child Psychology and Psychiatry
+47 (3-4): 296-312.
+Bloom, B. S. 1956. Taxonomy of educational objectives, handbook I: the cognitive domain.
+New York: David McKay.
+Bruer, J. 1997. 'Education and the brain: a bridge too far: Educational Researcher 26 (8): 4-16.
+Cadle, C. R. 2013. 'Effects of using a neuroeducational intervention to enhance perseverance
+for online EDD and EDS students.' EdD thesis, Liberty University.
+Cantor, J. and R. W. Engle. 1993. 'Working-memory capacity as long-term memory activation:
+an individual-differences approach.' Journal of Experimental Psychology: Learning, Memory,
+and Cognition 19 (5): 1101.
+Carew, T. and S. Magsamen. 2010. 'Neuroscience and education: an ideal partnership for
+producing evidence-based solutions to guide 21st century learning .' Neuron 67 (September):
+685-8.
+
+Coltheart, M. 2013. 'Weird neuroscience: how education hijacked brain research.' Learning
+Difficulties Australia Bulletin 45 (1 ): 9.
+Costa, A. and B. Kallick, eds. 2000. Habits of mind: a developmental series. Alexandria, VA:
+Association for Supervision and Curriculum Development.
+ueKKer, ~-. I\J. Lee, ~ Howard-Jones and J. Jolles. 2012. 'Neuromyths in education: prevalence
+and predictors of misconceptions among teachers.' Frontiers in Psychology3 (October): 1-8.
+Fullan, M. 2011. 'Learning is the work.' Michael Fullan. www.michaelfullan.ca/media/
+13396087260.pdf.
+Gathe~cole,_ S. E. and T. P. Alloway. 2007. 'Understanding working memory: a classroom guide.'
+University of York. www.york.ac.uk/res/wml/Classroom %20guide.pdf.
+Geake, J. 2008. 'Neuromythologies in education.' Educational Research 50 (2): 123-33.
+- - . 2009. The brain at school: educational neuroscience in the classroom. Maidenhead:
+McGraw-Hill Intern"...,...,.·.u.u....,__
+Goswami, U. 2006. 'Neuroscience and e u ation: from research to practice?'Nature Reviews
+Neuroscience 7 (5): 406-13.
+Graham, L. and J. Berman. 2012. 'Self-regulation and learning disabilities.' Special Education
+Perspectives 21 (2): 41-52.
+Hattie, J. 2011. 'National education standards for New Zealand: a research agenda.' In M. Hodis
+and S. Kaiser, Proceedings of the Symposium on Assessment and Learner Outcomes,
+285-96. Wellington: Victoria University.
+Hebb, D. 0. 1949. The organization of behavior. New York: Wiley.
+Howard-Jones, P. 2007. 'Neuroscience and education: issues and opportunities; a commentary
+by the Teacher and Learning Research Programme.' Teacher and Learning Research
+Programme. www.tlrp.org/pub/documents/Neuroscience%20Commentary%20FINAL.pdf.
+- - . 2011. 'From brain scan to lesson plan.'The Psychologist24 (2): 110-13.
+Howard-Jones, P., M. Ott, T. Van Leeuwen and B. De Smedt. 2010. 'Neuroscience and
+technology enhanced learning.' Futurelab. www.futurelab.org.uk/sites/default/files/NTEL_
+online_AW.pdf.
+Huitt, W. 1997. 'The SCANS report revisited.' Paper presented at the Fifth Annual Gulf South
+Business and Vocational Education Conference. Valdosta, GA. 18 April. Text available at
+Educational Psychology Interactive. www.edpsycinteractive.org/papers/scanspap.html.
+Hulme, C. and S. McKenzie. 1992. Working memory and severe learning difficulties. Hove:
+Lawrence Erlbaum.
+Kahneman, D.' 1973. Attention and effort. Englewood Cliffs, NJ: Prentice Hall.
+Kujawa, S. and L. Huske. 1995. The strategic teaching and reading project guide book. Oak
+Brook, IL: North Central Regional Educat ional Laboratory.
+
+Sustainable Learning
+'
+
+Miller. G. A. 1956. 'The magical number seven, plus or minus two: some limits on our capacity
+for processing information.' Psychological Review 63 (2): 81.
+Ministry of Education. 2009. 'What are key competencies?' New Zealand Government. http://
+keycompetencies.tki.org.nz/What-are-key-competencies.
+Muller, E. 2011. 'Neuroscience and special education.' inForum. July. www.nasdse.org/
+LinkClick.aspx?fileticket=MleZ4KBTlnU%3d&tabid=36.
+OECD (Organisation for Economic Co-operation and Development). 2007. 'Understanding the
+brain: the birth of a learning science; new insights on learning through cognitive and brain
+science.' OECD. www.oecd.org/site/educeri21 st/40554190.pdf.
+Oliver, M. 2011. 'Towards an understanding of neuroscience for science educators.' Studies in
+Science Education 47 (2): 211-35.
+Payne, D. G. and J. M. Blackwell. 1998. 'Truth in memory: caveat emptor.' In S. J. Lynn and
+K. M. Mcconkey, eds. Truth in memory, 32-61. NewYork: Guilford.
+Perfetti, C. A.1985. Reading ability. Oxford: Oxford University Press.
+PMSEIC (Prime Minister's Science, Engineering and Innovation Council). 2009. 'Transforming
+learning and the transmission of knowledge: preparing a learning society for the future.'
+Australian Government. www.chiefscientist.gov.au/wp-content/uploads/Transforming-LearningEWG-report-FI NAL.pdf.
+Price, G. R., M. M. Mazzocco and D. Ansari. 2013. 'Why mental arithmetic counts: brain
+....... ,....... ,,v11 u'Ulllll::f .)llll::fl't; u'i\,li( dli((1111t:HI~ µrt:lo'r'cts ni'gn scnoo( math scores:The Journal of
+Neuroscience 33 (1): 156-63.
+Rice, R. 2006. 'The theory and practice of mentoring in initial teacher training: is there a
+dichotomy in the role of learning theories?' Paper presented at the British Educational
+Research Association Annual Conference. Warwick. 6-9 September.
+Samuels, R. J. 1987. 'Information processing abilities and reading.' Journal of Learning
+Disabilities 20 (1): 18-22.
+Schneider, W. and R. M. Shiffrin. 1977. 'Controlled and automatic human information processing: I. Detection, search and attention.' Psychological Review 84 (1 ): 1-66.
+Shiffrin, R. and S. Dumais. 1981. 'The development of automatism.' In J. R. Anderson, ed.
+Cognitive skills and their acquisition, 111-40. Hillsdale, NJ: Lawrence Erlbaum.
+Shiffrin, R. M. and W. Schneider. 1977. 'Controlled and automatic human information
+processing: II. Perceptual learning, automatic attending and a general theory.' Psychological
+Review 84 (2): 127.
+Swanson, H. L. 1987. 'Information processing theory and learning disabilities: an overview.'
+Journal of Learning Disabilities 20 (1 ): 3-7.
+- - . 2009. 'Working memory, short-term memory, and reading disabilities: a selective metaanalysis of the literature.' Journal of Learning Disabilities 42 (3): 26Q-87.
+
+Swanson, H. L. and B. K. Keogh, eds. 1990. Learning disabilities: theoretical and research
+issues. Malwah, NJ: Law rence Erlbaum.
+:::;wanson, H. L. and C. Sachse-Lee. 2001. 'Mathematical problem solving and working memory
+in children with learning disabilities: both executive and phonological processes are
+important.' Journal of Experimental Child Psychology 79 (3): 294-321.
+Swanson, H. L. and D. Stomel. 2012. 'Learning disabilities and memory.' In B. Y. L. Wong, ed.
+Learning about learning disabilities, 4th edn., 27-58. San Diego, CA: Academic Press.
+Weiner, B. 1972. Theories of motivation: from mechanism to cognition. Chicago: Markham.
+Weiten, W. 2004. Psychology: themes and variations, 7th edn. Belmont, CA: Wadsworth.
+Wilson, K. M. and H. L. Swanson. 2001. :A.re mathematics disabilities due to a domain-general
+or a domain-specific working memory deficit?'Journal of Learning Disabilities 34 (3):
+237-48.
+Winerman, L. 2005. 'The mind's mirror.' Monitor on Psychology 36 (9): 48-9.
+
+
